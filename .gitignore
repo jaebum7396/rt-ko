@@ -1,6 +1,7 @@
-# 게임 원본·참고 패치 (저장소에 넣지 않음)
-src/
+# 게임 원본·참고 패치 (src → /data2/rt-ko, 저장소에 넣지 않음)
+src
 work/chunks/
+work/run/
 build/
 *.zip
 # 아스트라 실행 로그
