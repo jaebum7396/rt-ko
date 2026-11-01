@@ -1,0 +1,75 @@
+d001	NARRATOR	The bridge of the voidship hums with the low prayer of a thousand servitors. Candles gutter beside cogitator banks, and the air tastes of incense and burnt oil.
+d002	SENESCHAL	Lord Captain, the vox-choir has finished its litany. The ship awaits your word, as it awaited the word of every Rogue Trader before you.
+d003	PLAYER	{mf|Lord|Lady} Captain. I am still getting used to that title.
+d004	SENESCHAL	Titles are like armour, my lord. They chafe at first, but in time they will save your life more often than any blade.
+d005	PLAYER	Report, Seneschal. What is the state of the ship?
+d006	SENESCHAL	The plasma drives answer, the Geller field holds, and the crew is fed. Morale, however, is another matter. Rumours spread faster than fire in the lower decks.
+d007	PLAYER	What kind of rumours?
+d008	SENESCHAL	That the previous Rogue Trader did not die by accident. That someone aboard this very ship wished {mf|him|her} gone. I would not repeat such things, were they not already on every lip.
+d009	PLAYER	[Lie] I have heard nothing of the sort.
+d010	SENESCHAL	Then you are fortunate, my lord. Or very careful about whom you listen to.
+d011	PLAYER	Who do you suspect?
+d012	SENESCHAL	Everyone, my lord, and no one. A seneschal who names suspects without proof does not remain a seneschal for long. Give me time, and I will give you certainty.
+t001	TECHPRIEST	Greetings, Lord Captain. My designation is irrelevant; my function is not. I maintain the sacred engines of this vessel, and they are... displeased.
+t002	PLAYER	Displeased? Machines do not have feelings.
+t003	TECHPRIEST	A common heresy among the unaugmented. The machine spirit of the third reactor has refused four consecutive rites of appeasement. Statistically, this precedes catastrophic failure by eleven to fourteen days.
+t004	PLAYER	What do you need to fix it?
+t005	TECHPRIEST	Blessed unguents, a replacement coolant valve of Mars pattern, and three hours of uninterrupted chanting. The valve is the problem. The chanting I can provide myself.
+t006	PLAYER	[Persuade] Surely an adept of your skill can improvise a valve.
+t007	TECHPRIEST	Improvisation is innovation, and innovation is the first step toward the abominable intelligence. I will... consider a sanctioned workaround. Do not mention this to the Fabricator.
+s001	SISTER	The Emperor protects, Lord Captain, but He does not excuse sloth. I have inspected the chapel on the fourth deck. It is a disgrace.
+s002	PLAYER	What is wrong with it?
+s003	SISTER	The aquila is cracked, the votive candles are cheap tallow, and someone has scratched a xenos glyph beneath the altar. Do you know what that means?
+s004	PLAYER	Tell me.
+s005	SISTER	It means there is rot in your crew. Give me a squad and a list of names, and I will cut it out before it spreads.
+s006	PLAYER	[Restrain] No purges. We find the culprit first, then we judge.
+s007	SISTER	Judgement delayed is mercy for the heretic, my lord. But I obey. For now.
+n001	NAVIGATOR	You summoned me, Captain? How quaint. Most of my House would have sent a servant to answer and kept the summons as a curiosity.
+n002	PLAYER	I need a course through the Expanse. Can you plot it?
+n003	NAVIGATOR	Plot it? The warp is not a map, Captain. It is a storm that remembers. I will find you a path, but do not ask me how, and do not look into my third eye while I search.
+n004	PLAYER	How long will the journey take?
+n005	NAVIGATOR	Three weeks, by the reckoning of your chronometers. Perhaps three hours. Perhaps three years. The tides are restless, and something large is moving beneath them.
+n006	PLAYER	Something large? Be specific.
+n007	NAVIGATOR	If I could be specific about the warp, Captain, I would be a god, not a Navigator. Pay me in patience; it is the only currency I accept tonight.
+m001	SMUGGLER	Well, look at you, all gold braid and stern jaw. Relax, boss. I'm here to help. For a modest fee.
+m002	PLAYER	Who are you, and how did you get on my ship?
+m003	SMUGGLER	Name's not important. As for how, your cargo inspectors are cheaper than your recaff. Don't worry, I only bribed the honest ones.
+m004	PLAYER	Give me one reason not to throw you out of the airlock.
+m005	SMUGGLER	Because I know where the previous captain hid the good stuff. Archeotech, boss. The kind of toys that make Inquisitors nervous and Mechanicus priests drool.
+m006	PLAYER	[Intimidate] Talk, or the airlock is still an option.
+m007	SMUGGLER	Okay, okay! No need to get dramatic. There's a sealed vault on the aft deck. I can open it. You keep the treasure, I keep my head. Fair?
+b001	SISTER	Burn, heretic!
+b002	TECHPRIEST	Target acquired. Commencing purification protocol.
+b003	SMUGGLER	Duck! No, the other way!
+b004	NAVIGATOR	Look upon me, and despair.
+b005	SENESCHAL	For the Lord Captain!
+i001	ITEM_NAME	Blessed Lasgun of Saint Vardeth
+i002	ITEM_DESC	A standard-pattern lasgun, anointed with sacred oils by a confessor of the Ecclesiarchy. While wielding this weapon, the bearer gains +10 to {g|Encyclopedia:BallisticSkill}Ballistic Skill{/g} and is immune to {g|Encyclopedia:Fear}Fear{/g}.
+i003	ITEM_NAME	Void-Hardened Carapace
+i004	ITEM_DESC	Armour forged in the cold of the void. Reduces incoming {g|Encyclopedia:Damage}damage{/g} by 4. If the wearer is at less than half {g|Encyclopedia:Wounds}Wounds{/g}, they also gain 2 points of {g|Encyclopedia:Deflection}Deflection{/g}.
+a001	ABILITY_NAME	Voice of Command
+a002	ABILITY_DESC	The Lord Captain issues a sharp order. An ally of your choice immediately gains 1 {g|Encyclopedia:ActionPoints}Action Point{/g} and +15% to {g|Encyclopedia:Momentum}Momentum{/g} until the start of {mf|his|her} next turn.
+a003	ABILITY_NAME	Purifying Flame
+a004	ABILITY_DESC	Engulfs a cone of 5 cells in holy promethium. Enemies in the area take 6-10 fire {g|Encyclopedia:Damage}damage{/g} and gain 2 stacks of {g|Encyclopedia:Burning}Burning{/g}. Heretics and daemons take double damage.
+a005	ABILITY_NAME	Machine Communion
+a006	ABILITY_DESC	The tech-priest speaks directly to the machine spirit of a nearby device. Hacking attempts against this device automatically succeed, but the user suffers 1d3 {g|Encyclopedia:Psychic}psychic{/g} damage from the spirit's resentment.
+e001	GLOSSARY	Momentum is a measure of the squad's fighting spirit. It rises when your characters land critical hits or defeat enemies, and falls when they are wounded. At high Momentum, characters can unleash heroic acts.
+e002	GLOSSARY	The Geller field is a bubble of reality that protects a voidship travelling through the warp. Should it fail, the horrors of the immaterium will pour into the ship within moments.
+u001	UI	Save Game
+u002	UI	Are you sure you want to exit to the main menu? Unsaved progress will be lost.
+u003	UI	Not enough Profit Factor.
+u004	UI	Colony unrest has increased.
+u005	UI	Requires 3 {g|Encyclopedia:Navigation}Navigation{/g} points.
+q001	QUEST_NAME	A Crack in the Aquila
+q002	QUEST_DESC	Someone has defiled the chapel on the fourth deck. The Sister wants blood; the Seneschal wants discretion. Find the culprit before the crew takes matters into its own hands.
+q003	QUEST_UPDATE	The xenos glyph matches markings found in the smuggler's quarters. Coincidence, or a trail deliberately laid?
+x001	NARRATOR	You descend into the lower decks, where the light of the Emperor reaches only as a rumour. Families of ratings sleep in shifts beside the pipes, wrapped in rags that were once uniforms. A child watches you with eyes too old for her face.
+x002	NARRATOR	The vault door is older than the ship around it. Its surface is covered in script that slides away from your gaze, as if the letters were ashamed to be read.
+x003	PLAYER	[Investigate] Examine the script more closely.
+x004	NARRATOR	The letters resolve into a single repeated phrase in High Gothic: "What is sealed is sealed for a reason." Beneath it, someone has added in crude Low Gothic: "Open anyway."
+x005	PLAYER	[Leave] We are not ready for this. Seal the corridor.
+x006	NARRATOR	As you turn away, the vault door groans, as if something on the other side had leaned against it to listen.
+x007	SMUGGLER	You felt that too, right? Tell me you felt that. Because if it's just me, I'm going to need a very large drink.
+x008	SENESCHAL	My lord, I strongly advise that we post a guard here. Two guards. Preferably ones who cannot hear.
+x009	TECHPRIEST	The lock mechanism predates the Imperium. I would give a great deal to study it. I would give a great deal more not to be in the room when it opens.
+x010	SISTER	Whatever lies within, the Emperor's light will find it. Let it come. My bolter is blessed and my faith is unbroken.
