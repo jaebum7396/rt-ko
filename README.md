@@ -23,6 +23,8 @@
 | **검사** | — | 모든 줄의 게임 태그·변수·줄바꿈 자동 검사 |
 | **옵션** | — | 해병문학체판 |
 
+무작위 60줄 블라인드 비교, AI 평가: 대사 30줄 중 이 패치 23승 · 번역기 패치 1승 · 무승부 6, 기술 설명 30줄 중 이 패치 25승 · 번역기 패치 2승 · 무승부 3
+
 ---
 
 ## 예문 비교
@@ -72,8 +74,9 @@
 
 | 원문 | 일반판 | 해병문학체판 |
 |---|---|---|
-| "I respect you enough, Rogue Trader, to speak frankly. I would rather fight shoulder to shoulder with you than stand against you." | "자네를 존중하기에 솔직히 말하는 걸세, 로그 트레이더. 자네와 맞서기보다는 어깨를 나란히 하고 싸우고 싶네." | "자네를 존중하기에 솔직히 말하는 걸세, 로그 트레이더 아쎄이. 이 울파르 해병은 자네와 맞서기보다는 어깨를 나란히 하고 싸우고 싶네." |
-| He gives you a long, pensive look before he says, "You do not even know what it is you speak of, mortal." | 그가 오랫동안 생각에 잠긴 눈으로 당신을 바라보다 말한다. "필멸자여, 너는 네가 무슨 말을 하는지도 모른다." | 울파르 해병님께서 오랫동안 생각에 잠긴 눈으로 당신을 바라보다 말씀하시는 것이 아닌가! "아쎄이, 너는 네가 무슨 말을 하는지도 모른다." |
+| "I respect you enough, Rogue Trader, to speak frankly. I would rather fight shoulder to shoulder with you than stand against you." | "자네를 존중하기에 솔직히 말하는 걸세, 로그 트레이더. 자네와 맞서기보다는 어깨를 나란히 하고 싸우고 싶네." | "악! 로그 트레이더님을 존중하니 솔직히 보고드려도 되겠습니까?! 총구를 마주하기보다 어깨를 붙이고 함께 돌격하고 싶은 것 아니겠습니까!" |
+| "Baring your fangs at me is unwise, Rogue Trader." A sinister glint of bloodlust flares in the giant's darkened eyes. | "내게 송곳니를 드러내는 건 현명하지 못하네, 로그 트레이더." 어두워진 거인의 눈에 불길한 살의가 번뜩인다. | "악! 로그 트레이더님, 제게 송곳니를 까시는 건 기열 찐빠 아닙니까?!" 거인의 어두워진 두 눈에 불길한 살의가 번쩍 솟는 것이 아닌가! |
+| He gives you a long, pensive look before he says, "You do not even know what it is you speak of, mortal." | 그가 오랫동안 생각에 잠긴 눈으로 당신을 바라보다 말한다. "필멸자여, 너는 네가 무슨 말을 하는지도 모른다." | 장고에 잠긴 시선으로 당신을 한참 살피신 해병님께서 입을 여시었다! "아쎄이, 제 입에서 무슨 소리가 나오는지도 모르나!" |
 
 전체 말투표: [glossary/voices.tsv](glossary/voices.tsv) · 번역 원칙: [STYLE.md](STYLE.md)
 
