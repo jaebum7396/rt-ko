@@ -65,6 +65,12 @@ def main():
             if len(r) >= 2 and r[0].strip():
                 voices[r[0].strip()] = r[1].strip()
                 vex.append((os.path.basename(d), r[0].strip(), r[1].strip(), r[2].strip() if len(r) > 2 else '', r[3].strip() if len(r) > 3 else ''))
+    ov = os.path.join(GL, 'voices.override.tsv')  # hand decisions (e.g. Astartes never use honorifics to mortals)
+    if os.path.exists(ov):
+        for r in rows(ov):
+            if len(r) >= 2 and r[0].strip():
+                voices[r[0].strip()] = r[1].strip()
+                vex = [v if v[1] != r[0].strip() else (v[0], v[1], r[1].strip(), v[3], '') for v in vex]
     with open(os.path.join(GL, 'voices.tsv'), 'w', encoding='utf-8') as f:
         f.write('speaker\tvoice\n')
         for s, v in voices.items():
