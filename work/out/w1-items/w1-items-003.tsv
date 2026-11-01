@@ -5,7 +5,7 @@
 5	위장 망토
 6	착용자가 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}에 인접해 있으면 적의 {g|Encyclopedia:WarhammerPerception}지각{/g} 수치를 무시하고 {g|Encyclopedia:DodgeGlossary}회피{/g} 확률을 계산한다.
 7	착용자의 {g|f:e8164ac219f44e69b95de4853569da3b}눈꺼풀 없는 응시{/g} 능력이 영향을 받는 아군에게 더 이상 피해를 주지 않는다. 대신 해당 아군은 임시 체력을 {unit_stat|WarhammerFellowship|bonus} 얻는다.
-8	머시의 망토
+8	자비의 망토
 9	착용자는 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 0인 {g|f:e8e9fbe8696e4820b84c733ceba629af}다시 전장으로!{/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.
 10	커미사르의 망토
 11	착용자가 적의 원거리 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 장비한 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 무작위 인접 적을 즉시 1회 공격한다. 이 공격은 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}과 {g|Encyclopedia:ParryReduction}막기 감소{/g}가 +35% 증가하며, 한 {g|Encyclopedia:Round}라운드{/g}에 3회까지만 발동한다.

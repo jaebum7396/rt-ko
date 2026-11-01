@@ -1,4 +1,15 @@
 {"errors": [],
 "warnings": [
- {"n": 218, "code": "length", "detail": "ratio 0.23 (ko 11 / en 48 chars, allowed 0.25-1.60)"}
+ {"n": 73, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 84, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 125, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 130, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 155, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 159, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 166, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 199, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 211, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 218, "code": "length", "detail": "ratio 0.23 (ko 11 / en 48 chars, allowed 0.25-1.60)"},
+ {"n": 224, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 254, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

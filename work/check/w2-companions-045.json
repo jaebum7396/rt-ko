@@ -1,8 +1,15 @@
 {"errors": [],
 "warnings": [
  {"n": 9, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 38, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 52, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 53, "code": "glossary", "detail": "Commanding Voice -> 우렁찬 지휘 not found"},
+ {"n": 57, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 64, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 109, "code": "glossary", "detail": "Full Attention -> 이목 집중 not found"},
+ {"n": 116, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 139, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
- {"n": 196, "code": "glossary", "detail": "Only the Best -> 최정예 not found"}
+ {"n": 174, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 196, "code": "glossary", "detail": "Only the Best -> 최정예 not found"},
+ {"n": 203, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"}
 ]}

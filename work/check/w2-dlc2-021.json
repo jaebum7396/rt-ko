@@ -1,12 +1,17 @@
 {"errors": [],
 "warnings": [
  {"n": 50, "code": "glossary", "detail": "Mob Justice -> 군중의 심판 not found"},
+ {"n": 57, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 62, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
  {"n": 74, "code": "glossary", "detail": "Flesh! -> 살점이다! not found"},
  {"n": 80, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
  {"n": 81, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
+ {"n": 82, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 82, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 83, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 88, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
  {"n": 96, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
+ {"n": 106, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 110, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
  {"n": 111, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
  {"n": 113, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
@@ -16,7 +21,12 @@
  {"n": 125, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
  {"n": 144, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 145, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 146, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 151, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 151, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 155, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
  {"n": 157, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
- {"n": 171, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"}
+ {"n": 160, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 171, "code": "glossary", "detail": "Lady Molles-Secundas -> 몰레스 세쿤다스 님 not found"},
+ {"n": 171, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

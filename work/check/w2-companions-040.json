@@ -1,5 +1,12 @@
 {"errors": [],
 "warnings": [
  {"n": 6, "code": "glossary", "detail": "Does it Hurt? -> 아프냐? not found"},
- {"n": 75, "code": "glossary", "detail": "Expanse -> 공역 not found"}
+ {"n": 6, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 75, "code": "glossary", "detail": "Expanse -> 공역 not found"},
+ {"n": 77, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 90, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 92, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 104, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 110, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 145, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

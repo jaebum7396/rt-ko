@@ -1,5 +1,7 @@
 {"errors": [],
 "warnings": [
+ {"n": 5, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 7, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 17, "code": "glossary", "detail": "Death Grip -> 죽음의 손아귀 not found"},
  {"n": 26, "code": "glossary", "detail": "The Roar -> 포효 not found"},
  {"n": 32, "code": "glossary", "detail": "Get out -> 나가기 not found"},
@@ -8,9 +10,15 @@
  {"n": 75, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 76, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
  {"n": 77, "code": "glossary", "detail": "Survive! -> 살아남아라! not found"},
+ {"n": 82, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 88, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 99, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 102, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 116, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 118, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"},
  {"n": 130, "code": "glossary", "detail": "The Undying -> 불사 not found"},
- {"n": 209, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"}
+ {"n": 209, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 246, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 278, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 288, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

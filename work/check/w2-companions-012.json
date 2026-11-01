@@ -1,9 +1,20 @@
 {"errors": [],
 "warnings": [
  {"n": 4, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"},
+ {"n": 18, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 29, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 36, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 55, "code": "glossary", "detail": "Explorators -> 탐험가들 not found"},
+ {"n": 56, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 79, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
  {"n": 86, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},
+ {"n": 106, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 109, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 175, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 180, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 239, "code": "glossary", "detail": "Discontinuing the Cycle -> 순환의 단절 not found"}
+ {"n": 202, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 239, "code": "glossary", "detail": "Discontinuing the Cycle -> 순환의 단절 not found"},
+ {"n": 258, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 270, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 278, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

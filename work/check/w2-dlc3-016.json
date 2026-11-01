@@ -1,4 +1,8 @@
 {"errors": [],
 "warnings": [
- {"n": 72, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"}
+ {"n": 72, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"},
+ {"n": 123, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 137, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 150, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 192, "code": "glossary", "detail": "Master -> 주인/마스터 not found"}
 ]}

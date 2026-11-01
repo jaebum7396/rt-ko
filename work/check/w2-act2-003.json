@@ -1,4 +1,10 @@
 {"errors": [],
 "warnings": [
+ {"n": 8, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 22, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 60, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 72, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 81, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 100, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 126, "code": "glossary", "detail": "Get out -> 나가기 not found"}
 ]}

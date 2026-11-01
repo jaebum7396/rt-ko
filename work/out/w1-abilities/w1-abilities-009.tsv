@@ -219,7 +219,7 @@
 219	전투당 1회, 로그 트레이더가 자신을 포함한 아군 하나를 선택할 수 있다. 1{g|Encyclopedia:Round}라운드{/g} 동안 대상의 모든 무기 공격이 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시한다.{br}\n///{g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도 -//
 220	꿰뚫는 결의
 221	다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 로그 트레이더는 데몬과 제노스의 모든 공격에 면역이 되며, 반경 5칸 이내의 모든 데몬과 제노스는 로그 트레이더를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼는다.\n전투당 1회만 사용할 수 있다.{br}\n///{g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신자 -//
-222	그분의 뜻을 행하는 도구
+222	황제의 뜻을 행하는 도구
 223	로그 트레이더와 무작위 아군 둘이 <u>(자신의 {g|Encyclopedia:Resolve}결의{/g})</u>만큼 임시 {g|Encyclopedia:HitPoints}체력{/g}을 얻은 상태로 전투를 시작한다.{br}\n///{g|Encyclopedia:SoulMarkHope}인습타파{/g} — 신도 -//
 224	포성 너머로
 225	모든 전투의 첫 {g|Encyclopedia:Round}라운드{/g}에 로그 트레이더와 아군이 +<u>(2 + 로그 트레이더의 {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>의 추가 {g|Encyclopedia:MovementPoints}이동력{/g}을 얻는다.{br}\n///인습타파 — 추종자 -//
@@ -364,8 +364,8 @@
 364	<u>(25 × {g|f:0835dbc012334dd49f849fcc92e9f708}플라스마 셀 과열{/g} 중첩 수)</u>
 365	플라스마 폭발
 366	공격자 양옆의 추가 대상에게도 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하는 넓은 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이다.
-367	역장 휘두르기
-368	역장 타격
+367	파워 휘두르기
+368	파워 타격
 369	범위 내 모두에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 파워 마울 공격이다. 6 이상의 피해를 받은 대상은 기절한다.
 370	파워 마울 내려치기
 371	관통 타격

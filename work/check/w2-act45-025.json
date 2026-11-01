@@ -1,9 +1,27 @@
 {"errors": [],
 "warnings": [
  {"n": 10, "code": "glossary", "detail": "Janris Danrok -> 잔리스 단로크 not found"},
+ {"n": 10, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 10, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 11, "code": "glossary", "detail": "High Factotum -> 하이 팩토텀 not found"},
  {"n": 16, "code": "glossary", "detail": "Bounty Hunters -> 바운티 헌터 not found"},
+ {"n": 20, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 21, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 21, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 25, "code": "glossary", "detail": "Against All Odds -> 역경을 딛고 not found"},
+ {"n": 37, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 39, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 40, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 46, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 50, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 51, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
- {"n": 77, "code": "glossary", "detail": "Spirit Stones -> 영혼석 not found"}
+ {"n": 52, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 64, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 69, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 70, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 72, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 77, "code": "glossary", "detail": "Spirit Stones -> 영혼석 not found"},
+ {"n": 79, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 86, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 98, "code": "glossary", "detail": "Body -> 몸/시체 not found"}
 ]}

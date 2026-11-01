@@ -1,6 +1,13 @@
 {"errors": [],
 "warnings": [
+ {"n": 49, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 53, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 64, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 87, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 99, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 113, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 114, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
- {"n": 115, "code": "glossary", "detail": "Imperial -> 제국의 not found"}
+ {"n": 115, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 115, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 128, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

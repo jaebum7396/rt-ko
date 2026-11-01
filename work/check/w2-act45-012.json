@@ -1,8 +1,21 @@
 {"errors": [],
 "warnings": [
+ {"n": 4, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 15, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 19, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 40, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 44, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 46, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 57, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
  {"n": 69, "code": "glossary", "detail": "Falling Apart -> 붕괴 not found"},
+ {"n": 84, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 101, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 108, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 112, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 136, "code": "glossary", "detail": "Under My Protection -> 나의 보호 아래 not found"},
+ {"n": 150, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 156, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 157, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 177, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 181, "code": "glossary", "detail": "Open the door -> 문 열기 not found"}
 ]}

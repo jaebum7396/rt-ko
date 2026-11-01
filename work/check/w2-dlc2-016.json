@@ -1,8 +1,13 @@
 {"errors": [],
 "warnings": [
+ {"n": 7, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 10, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 21, "code": "glossary", "detail": "Death Sentence -> 사형 선고 not found"},
  {"n": 51, "code": "glossary", "detail": "Master Anthar -> 안타르 경 not found"},
  {"n": 55, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
- {"n": 123, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 82, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 123, "code": "glossary", "detail": "Warrant -> 무역 영장/무역 영장 not found"},
+ {"n": 136, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 152, "code": "glossary", "detail": "Warrants -> 무역 영장 not found"},
  {"n": 200, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"}
 ]}

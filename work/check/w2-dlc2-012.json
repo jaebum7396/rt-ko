@@ -1,7 +1,14 @@
 {"errors": [],
 "warnings": [
+ {"n": 2, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 19, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 42, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 89, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 143, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 148, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 167, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 168, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 201, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 213, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 232, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"}
 ]}

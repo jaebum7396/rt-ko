@@ -1,9 +1,22 @@
 {"errors": [],
 "warnings": [
+ {"n": 4, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 41, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 73, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 120, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 121, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 149, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 153, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 162, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 169, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 201, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 205, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 207, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 226, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 246, "code": "glossary", "detail": "Attention! -> 차렷! not found"},
  {"n": 265, "code": "glossary", "detail": "Old Man -> 노인 not found"},
  {"n": 281, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 281, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 283, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 287, "code": "glossary", "detail": "Attention! -> 차렷! not found"}
 ]}

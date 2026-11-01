@@ -186,7 +186,7 @@
 186	검투사의 치료 도구
 187	{g|Encyclopedia:Traumas}중상{/g}을 1개 제거한다.
 188	피부 패치
-189	-<indent=5%>{g|Encyclopedia:HitPoints}체력{/g}을 {uip|Heal|3fc0d8bf60bb4781837d5539ed33ddbc} 회복한다.</indent>\n-<indent=5%>{g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:MeltingEffect}융해{/g}를 제거한다.</indent>\n-<indent=5%>기량 {g|Encyclopedia:Test}판정{/g} 없이 중상 1개와 모든 부상을 치료한다.</indent>
+189	-<indent=5%>{g|Encyclopedia:HitPoints}체력{/g}을 {uip|Heal|3fc0d8bf60bb4781837d5539ed33ddbc} 회복한다.</indent>\n-<indent=5%>{g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:MeltingEffect}융해{/g}를 제거한다.</indent>\n-<indent=5%>기술 {g|Encyclopedia:Test}판정{/g} 없이 중상 1개와 모든 부상을 치료한다.</indent>
 190	해몬쿨루스의 주사기
 191	-<indent=5%>{g|Encyclopedia:HitPoints}체력{/g}을 {uip|Heal|d722bfac662c40f9b2a47dc6ea70d00a} 회복한다.</indent>\n-<indent=5%>{g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}을 제거한다.</indent>\n-<indent=5%>의술 {g|Encyclopedia:Test}판정{/g}에 성공하면 새 부상 1개를 치료하며, 새 부상이 없으면 오래된 부상 1개를 치료한다.</indent>\n-<indent=5%>캐릭터가 {g|f:91932ac8a5794d5cb9ed539bf7d528a2}전투 의술{/g} 또는 {g|f:9aefa8d7db3349358e23b2106578353b}야전 의무병{/g} 재능을 보유했다면 해당 재능의 보너스만큼 체력 회복량이 증가한다.</indent>
 192	대형 구급상자

@@ -2,10 +2,20 @@
 "warnings": [
  {"n": 1, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"},
  {"n": 3, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"},
+ {"n": 8, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 36, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 65, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 68, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 72, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 88, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 92, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 93, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 139, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 139, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 155, "code": "glossary", "detail": "Old Man -> 노인 not found"},
  {"n": 167, "code": "glossary", "detail": "Old Man -> 노인 not found"},
- {"n": 175, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+ {"n": 170, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 175, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 189, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 190, "code": "glossary", "detail": "Master -> 주인/마스터 not found"}
 ]}

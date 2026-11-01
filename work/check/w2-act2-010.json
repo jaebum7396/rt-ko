@@ -1,5 +1,8 @@
 {"errors": [],
 "warnings": [
- {"n": 122, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 155, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+ {"n": 11, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 61, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 122, "code": "glossary", "detail": "Warrant -> 무역 영장/무역 영장 not found"},
+ {"n": 129, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 137, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"}
 ]}

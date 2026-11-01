@@ -46,7 +46,6 @@
 | Genetor | 제네토르 | setting | translit | low | 186 |
 | Nemesite | 네메사이트 | setting | translit | low | 184 |
 | Achilleas | 아킬레아스 | setting | community | mid | 169 |
-| Mercy | 머시 | setting | translit | mid | 154 |
 | Maive | 메이브 | setting | translit | mid | 151 |
 | Thassera | 타세라 | setting | translit | low | 149 |
 | psy rating | 사이 등급 | system | translated | mid | 148 |
@@ -238,6 +237,7 @@
 | Cubis Delphim | 큐비스 델핌 | setting | translit | low | 14 |
 | Heriokh's Rim | 헤리오크의 변방 | setting | translit | low | 14 |
 | Lady Chorda | 초르다 여공 | setting | namu:Warhammer 40,000: Rogue Trader/등장인물 | mid | 14 |
+| augment | 신체 보강물 | item | translated | mid | 14 |
 
 ## 3. 가장 자주 나오는 용어 120개
 
@@ -296,7 +296,7 @@
 | Prey | 사냥감 | system | translated | 164 |
 | Medicae | 의술 | system | translated | 156 |
 | armour penetration | 방어 관통 | system | translated | 155 |
-| Mercy | 머시 | setting | translit | 154 |
+| Mercy | 자비/머시 | setting | style | 154 |
 | Maive | 메이브 | setting | translit | 151 |
 | Thassera | 타세라 | setting | translit | 149 |
 | psy rating | 사이 등급 | system | translated | 148 |

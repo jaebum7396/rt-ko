@@ -1,7 +1,13 @@
 {"errors": [],
 "warnings": [
+ {"n": 3, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 5, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
  {"n": 58, "code": "length", "detail": "ratio 0.23 (ko 5 / en 22 chars, allowed 0.25-1.60)"},
  {"n": 101, "code": "glossary", "detail": "Bloodstained -> 피투성이 not found"},
- {"n": 132, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"}
+ {"n": 132, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"},
+ {"n": 150, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 157, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 199, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 242, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 263, "code": "glossary", "detail": "Body -> 몸/시체 not found"}
 ]}

@@ -57,7 +57,7 @@
 57	종료 단계
 58	폭발 공격에는 {g|Encyclopedia:LanceWeaponSpace}랜스 무기{/g}, 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}, 어뢰 기폭으로 하는 공격이 포함된다. 어뢰 기폭에는 빗나갔을 때 {g|Encyclopedia:DirectHitSpace}근접 신관{/g}으로 폭발하는 경우와 수동 기폭이 모두 포함된다.
 59	폭발 공격
-60	에너지 {g|Encyclopedia:DamageGlossary}피해{/g}는 주로 각종 화학 물질, 불, 전기, 에너지 광선으로 발생한다. 유형은 다음과 같다.\n-<indent=5%>화염: 대상에 불을 붙이는 모든 수단.</indent>\n-<indent=5%>감전: 대상을 감전시키는 모든 수단.</indent>\n-<indent=5%>독성: 독, 부식성 산 등으로 피해를 주는 모든 수단.</indent>\n-<indent=5%>열: 에너지 광선이나 플라스마를 사용하거나 대상을 분해하는 모든 수단.</indent>
+60	에너지 {g|Encyclopedia:DamageGlossary}피해{/g}는 주로 각종 화학 물질, 불, 전기, 에너지 광선으로 가한다. 유형은 다음과 같다:\n-<indent=5%>화염: 대상에 불을 붙이는 모든 수단으로 가한다.</indent>\n-<indent=5%>감전: 대상을 감전시키는 모든 수단으로 가한다.</indent>\n-<indent=5%>독성: 독, 부식성 산 등으로 피해를 가하는 모든 수단으로 가한다.</indent>\n-<indent=5%>열: 에너지 광선이나 플라스마를 사용하거나 대상을 분해하는 모든 수단으로 가한다.</indent>
 61	에너지 피해
 62	우주전에서 대상을 명중시키기 얼마나 어려운지 나타내는 수치다. 명중 확률을 계산할 때 공격자의 명중률에서 대상의 회피 확률을 차감한다.
 63	회피
@@ -141,7 +141,7 @@
 141	불이익
 142	페릴 오브 더 워프
 143	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 15에 이른 상태에서 상위 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면 이 위험한 현상이 발생할 수 있다. 발생 확률은 <b><u>(10 + {g|Encyclopedia:PsyRating}사이 등급{/g} + 베일 손상)</u>%</b>다. <b>페릴 오브 더 워프</b>는 사이커 주변의 모두에게 위험하다. 캐릭터를 {g|Encyclopedia:PushGlossary}밀치기{/g}로 날려 보내거나 {g|Encyclopedia:DamageGlossary}피해{/g}를 주고, 데몬을 소환하거나 주변을 동력 전하로 가득 채우는 등 다양한 현상을 일으킨다.\n<b>페릴 오브 더 워프</b>는 예측할 수 없으며 극도로 위험하다.
-144	물리 {g|Encyclopedia:DamageGlossary}피해{/g}는 주로 발사체나 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 발생한다. 유형은 다음과 같다.\n-<indent=5%>{g|Encyclopedia:ImpactDamage}충격{/g}: 둔기, 맨손 타격, 볼트 탄, 폭발 등 둔탁한 힘으로 {g|Encyclopedia:Traumas}중상{/g}을 입히는 모든 수단.</indent>\n-<indent=5%>{g|Encyclopedia:RendingDamage}절단{/g}: 날붙이 무기나 슈리켄 같은 날카로운 발사체 등 날이 선 모든 수단.</indent>\n-<indent=5%>{g|Encyclopedia:PiercingDamage}관통{/g}: 탄환이나 니들 탄약 등 관통하는 모든 발사체.</indent>\n-<indent=5%>{g|Encyclopedia:PowerDamage}역장{/g}: 모든 파워 웨폰.</indent>
+144	물리 {g|Encyclopedia:DamageGlossary}피해{/g}는 주로 투사체나 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 가한다. 유형은 다음과 같다:\n-<indent=5%>{g|Encyclopedia:ImpactDamage}충격{/g}: 둔기, 맨손 타격, 볼트탄, 폭발 등 둔탁한 힘으로 {g|Encyclopedia:Traumas}중상{/g}을 입힐 수 있는 모든 수단으로 가한다.</indent>\n-<indent=5%>{g|Encyclopedia:RendingDamage}절단{/g}: 날붙이 무기나 수리검처럼 날카로운 투사체 등 날이 선 모든 수단으로 가한다.</indent>\n-<indent=5%>{g|Encyclopedia:PiercingDamage}관통{/g}: 총알이나 바늘탄 등 대상을 꿰뚫는 모든 투사체로 가한다.</indent>\n-<indent=5%>{g|Encyclopedia:PowerDamage}파워{/g}: 모든 파워 무기로 가한다.</indent>
 145	물리 피해
 146	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 종류다. 탄환이나 니들 탄약 등 관통하는 모든 발사체로 발생한다.
 147	관통 피해

@@ -22,7 +22,7 @@ Child	아이	other|translated|high
 Achilleas	아킬레아스	setting|community|mid
 Prey	사냥감	system|translated|high
 Medicae	의술	system|translated|high
-Mercy	머시	setting|translit|mid
+Mercy	자비/머시	setting|style|high
 Maive	메이브	setting|translit|mid
 Strike	타격	ability|translated|high
 abilities	능력	ability|translated|high
@@ -45,7 +45,7 @@ Emelina	에멜리나	setting|translit|mid
 hits	명중	system|translated|high
 flagship	기함	setting|translated|high
 PER	지각	system|style|high
-People	인구	system|translated|high
+People	사람들/인구	system|style|high
 Charge	돌진	ability|translated|high
 immobilised	이동 불가	system|translated|high
 Executioner	처형자	ability|translated|high
@@ -180,7 +180,7 @@ augurs	오거 탐지기	item|community|mid
 implants	이식물	item|translated|high
 hull	선체	system|translated|high
 Augur	오거	setting|community|mid
-Body	시체	other|translated|high
+Body	몸/시체	other|style|high
 Augments	신체 개조물	setting|translated|high
 Pirates	해적	setting|translated|high
 Melting	융해	system|translated|high
@@ -394,11 +394,11 @@ doctrine	교리	ability|translated|mid
 lances	랜스	item|style|high
 servitorised	서비터로 개조된	setting|style|high
 vulnerable	취약	system|translated|high
-Master	주인	setting|translated|mid
+Master	주인/마스터	setting|style|high
 Overseers	오버시어	ability|community|high
 Warrants	무역 영장	setting|style|high
 cards	카드	item|translated|high
-fire	화염	system|translated|high
+fire	사격/불/화염	system|style|high
 followers	추종자	setting|translated|high
 groxes	그록스	setting|community|high
 heretechnical	이단 기술의	setting|translated|mid
@@ -415,7 +415,7 @@ vox-synth	복스 음성 합성기	item|translated|mid
 witches	마녀	setting|community|high
 xenodevice	제노스 장치	item|translated|high
 Materium	마테리움	setting|community|high
-Power	역장	system|translated|mid
+Power	파워/위력	system|style|high
 Sisterhood	수녀회	setting|translated|high
 Thee	당신	other|translated|mid
 Waystones	영혼석	item|community|mid
@@ -451,7 +451,7 @@ giant	거인	other|translated|high
 heretech	헤레테크	setting|community|high
 immobilise	이동 불가	system|translated|high
 micro-cogitator	소형 코기테이터	item|style|high
-order	수녀회	setting|translated|high
+order	명령/교단	setting|style|high
 servitorisation	서비터 개조	setting|style|high
 sorcerer	소서러	setting|community|high
 vox-cast	복스 방송	setting|community|mid

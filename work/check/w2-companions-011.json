@@ -1,5 +1,13 @@
 {"errors": [],
 "warnings": [
- {"n": 108, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 111, "code": "glossary", "detail": "The Path -> 길 not found"}
+ {"n": 4, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 16, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 41, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 90, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 93, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 96, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 97, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 99, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 111, "code": "glossary", "detail": "The Path -> 길 not found"},
+ {"n": 126, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

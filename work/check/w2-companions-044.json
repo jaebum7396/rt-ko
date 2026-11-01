@@ -1,11 +1,19 @@
 {"errors": [],
 "warnings": [
  {"n": 8, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 9, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 37, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 52, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 54, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 56, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 56, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 58, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 74, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 81, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
  {"n": 138, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
  {"n": 153, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 155, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 184, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 201, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 221, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
  {"n": 226, "code": "glossary", "detail": "To Me! -> 내게로! not found"}
 ]}

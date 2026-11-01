@@ -2,12 +2,22 @@
 "warnings": [
  {"n": 2, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
  {"n": 21, "code": "glossary", "detail": "Iron Grip -> 강철 손아귀 not found"},
+ {"n": 27, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 33, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 33, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 51, "code": "glossary", "detail": "Single Shot -> 단발 사격 not found"},
+ {"n": 63, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 67, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 73, "code": "glossary", "detail": "Worlds of the Expanse -> 공역의 행성들 not found"},
+ {"n": 74, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 74, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 77, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 84, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 85, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 86, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
  {"n": 94, "code": "glossary", "detail": "The Infinite -> 무한자 not found"},
  {"n": 111, "code": "glossary", "detail": "Into Pieces -> 갈기갈기 not found"},
  {"n": 113, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 115, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 119, "code": "glossary", "detail": "Imperial -> 제국의 not found"}
 ]}

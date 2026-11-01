@@ -1,7 +1,19 @@
 {"errors": [],
 "warnings": [
+ {"n": 23, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 27, "code": "glossary", "detail": "Infernus Guild -> 인페르누스 길드 not found"},
  {"n": 32, "code": "glossary", "detail": "Nerves of Steel -> 강철 신경 not found"},
+ {"n": 32, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 71, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 72, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 72, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 73, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 94, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 96, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 110, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 147, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 157, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 167, "code": "glossary", "detail": "At Gunpoint -> 총구 앞에서 not found"},
+ {"n": 189, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 199, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"}
 ]}

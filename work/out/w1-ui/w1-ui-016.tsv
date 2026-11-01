@@ -117,7 +117,7 @@
 117	정신 교란 수류탄이 폭발하면 {g|Encyclopedia:AreaOfEffect}효과 범위{/g} 내 모든 대상에게 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 +1중첩 부여한다.\n대상이 −{uip|DC|ad8833d6edf240dc9d1dd30fa2052497} {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:CantAttackEffect}공격 불가{/g} 상태도 부여한다.
 118	정신 교란 수류탄
 119	트랜소닉 블레이드
-120	역장 방패 생성기
+120	파워 방패 생성기
 121	이 구역 내에서 무기를 사용하거나 수류탄을 던질 때마다 25% 확률로 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
 122	기름 웅덩이
 123	트라진은 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:e2115f8202cc472796d48a6d42aad7c5}경질광 응축{/g} 구역을 {uip|HardlightZones|e98a70ec4c7f42cd80c814680218de3a}개 생성한다. 라운드 종료 시 이 구역 내 모든 적이 {g|f:be5ba3cf999341368aeb7dd2b82b541a}경질광 정지{/g} 상태가 된다.

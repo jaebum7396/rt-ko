@@ -2,12 +2,20 @@
 "warnings": [
  {"n": 41, "code": "glossary", "detail": "Old Man -> 노인 not found"},
  {"n": 75, "code": "length", "detail": "ratio 0.24 (ko 7 / en 29 chars, allowed 0.25-1.60)"},
- {"n": 79, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
  {"n": 116, "code": "length", "detail": "ratio 0.24 (ko 9 / en 37 chars, allowed 0.25-1.60)"},
- {"n": 210, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 213, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 216, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 222, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 143, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 157, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 158, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 163, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 164, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 184, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 215, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 242, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 252, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 264, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 274, "code": "glossary", "detail": "Flesh! -> 살점이다! not found"},
- {"n": 314, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"}
+ {"n": 305, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 314, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"},
+ {"n": 353, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 374, "code": "glossary", "detail": "Body -> 몸/시체 not found"}
 ]}

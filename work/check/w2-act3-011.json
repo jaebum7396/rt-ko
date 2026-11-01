@@ -1,9 +1,13 @@
 {"errors": [],
 "warnings": [
  {"n": 1, "code": "glossary", "detail": "Clenched Teeth -> 악문 이 not found"},
+ {"n": 22, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 26, "code": "glossary", "detail": "Second to None -> 견줄 자 없는 전사들 not found"},
  {"n": 26, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 32, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 102, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 109, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 144, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 162, "code": "glossary", "detail": "Unfinished Business -> 미완의 과업 not found"},
  {"n": 163, "code": "glossary", "detail": "Flesh! -> 살점이다! not found"}
 ]}

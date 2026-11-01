@@ -1,4 +1,10 @@
 {"errors": [],
 "warnings": [
- {"n": 147, "code": "glossary", "detail": "Blade in His Hand -> 그분의 손에 들린 칼날 not found"}
+ {"n": 10, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 13, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 22, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 147, "code": "glossary", "detail": "Blade in His Hand -> 그분의 손에 들린 칼날 not found"},
+ {"n": 149, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 196, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 197, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

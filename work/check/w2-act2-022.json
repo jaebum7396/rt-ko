@@ -1,7 +1,26 @@
 {"errors": [],
 "warnings": [
  {"n": 18, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 28, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 29, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 37, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 41, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 45, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 58, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 75, "code": "glossary", "detail": "Nothing to Lose -> 잃을 것이 없다 not found"},
+ {"n": 80, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 86, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 97, "code": "glossary", "detail": "Kasballican -> 카스발리카의 not found"},
- {"n": 194, "code": "glossary", "detail": "Spread the Disease -> 질병 전파 not found"}
+ {"n": 129, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 137, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 144, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 148, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 164, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 176, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 190, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 193, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 194, "code": "glossary", "detail": "Spread the Disease -> 질병 전파 not found"},
+ {"n": 210, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 215, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 219, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

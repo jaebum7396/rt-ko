@@ -1,7 +1,21 @@
 {"errors": [],
 "warnings": [
+ {"n": 2, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 22, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 82, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 86, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 123, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 127, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 132, "code": "glossary", "detail": "The Rings -> 고리 not found"},
+ {"n": 142, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 173, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 181, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 188, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 240, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 277, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 295, "code": "length", "detail": "ratio 0.24 (ko 9 / en 37 chars, allowed 0.25-1.60)"}
+ {"n": 282, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 282, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 295, "code": "length", "detail": "ratio 0.24 (ko 9 / en 37 chars, allowed 0.25-1.60)"},
+ {"n": 297, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 308, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

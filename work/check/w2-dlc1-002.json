@@ -1,5 +1,12 @@
 {"errors": [],
 "warnings": [
  {"n": 16, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},
- {"n": 37, "code": "glossary", "detail": "Sit down -> 앉기 not found"}
+ {"n": 37, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 46, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 127, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 154, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 154, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 157, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 166, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 169, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

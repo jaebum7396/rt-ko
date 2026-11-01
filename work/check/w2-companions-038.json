@@ -2,5 +2,9 @@
 "warnings": [
  {"n": 25, "code": "glossary", "detail": "Broken Spirit -> 꺾인 의지 not found"},
  {"n": 58, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},
- {"n": 146, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
+ {"n": 116, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 142, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 146, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 150, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 158, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

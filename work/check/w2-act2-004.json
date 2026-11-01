@@ -1,7 +1,20 @@
 {"errors": [],
 "warnings": [
+ {"n": 5, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 13, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 64, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 70, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 71, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 83, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 136, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 138, "code": "glossary", "detail": "Clenched Teeth -> 악문 이 not found"},
+ {"n": 150, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 160, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 167, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 172, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 176, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 184, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 197, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 208, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
  {"n": 212, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
 ]}

@@ -1,5 +1,11 @@
 {"errors": [],
 "warnings": [
+ {"n": 66, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 150, "code": "glossary", "detail": "Black Heart -> 블랙 하트 not found"},
- {"n": 162, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"}
+ {"n": 158, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 161, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 165, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 181, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 192, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 215, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

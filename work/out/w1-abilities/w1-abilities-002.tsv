@@ -343,7 +343,7 @@
 343	만취
 344	매 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:DamageGlossary}피해{/g}를 입는다. 어떤 수단으로든 치유받으면 효과가 제거된다.
 345	출혈
-346	매 {g|Encyclopedia:Turn}턴{/g} 대상에게 화염 {g|Encyclopedia:DamageGlossary}피해{/g}를 가한다.
+346	매 {g|Encyclopedia:Turn}턴{/g} 대상에게 화염 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
 347	화상
 348	전투 종료 시까지 이 개체의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +<u>N</u> 증가한다.
 349	기민한 방어

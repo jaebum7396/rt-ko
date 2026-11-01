@@ -20,9 +20,9 @@
  {"n": 130, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
  {"n": 131, "code": "glossary", "detail": "Advance -> 진격 not found"},
  {"n": 163, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 208, "code": "glossary", "detail": "order -> 수녀회 not found"},
- {"n": 232, "code": "glossary", "detail": "order -> 수녀회 not found"},
- {"n": 233, "code": "glossary", "detail": "order -> 수녀회 not found"},
+ {"n": 208, "code": "glossary", "detail": "order -> 명령/교단/명령/교단 not found"},
+ {"n": 232, "code": "glossary", "detail": "order -> 명령/교단/명령/교단 not found"},
+ {"n": 233, "code": "glossary", "detail": "order -> 명령/교단/명령/교단 not found"},
  {"n": 234, "code": "glossary", "detail": "critical -> 치명타 not found"},
  {"n": 234, "code": "glossary", "detail": "block -> 방패 막기 not found"},
  {"n": 237, "code": "glossary", "detail": "critical -> 치명타 not found"}

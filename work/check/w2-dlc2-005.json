@@ -1,10 +1,19 @@
 {"errors": [],
 "warnings": [
+ {"n": 3, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 6, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 100, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
- {"n": 181, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 105, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 108, "code": "glossary", "detail": "Warrants -> 무역 영장 not found"},
+ {"n": 127, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 162, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 197, "code": "glossary", "detail": "Second Wind -> 재기 not found"},
  {"n": 208, "code": "glossary", "detail": "No Respite -> 쉴 틈 없이 not found"},
  {"n": 209, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 219, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 221, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
- {"n": 221, "code": "glossary", "detail": "Go down -> 내려가기 not found"}
+ {"n": 221, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 228, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 242, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 248, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"}
 ]}

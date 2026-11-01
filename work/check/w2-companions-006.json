@@ -1,6 +1,10 @@
 {"errors": [],
 "warnings": [
  {"n": 15, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 31, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 47, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 55, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+ {"n": 50, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 54, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 55, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 136, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

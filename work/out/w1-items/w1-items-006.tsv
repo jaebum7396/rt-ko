@@ -187,7 +187,7 @@
 187	워프리치 용기
 188	각성제 팩
 189	전류가 흐르는 샤드넷
-190	사용자가 에너지, 화염, 역장 또는 워프 피해를 받을 때마다 이 검이 피해의 일부를 흡수하여 받는 피해가 −{uip|Damage|3ccf46b177184d7b886568fa5451c43b}% 감소한다. 사용자의 다음 공격은 방어 관통이 +{uip|Range|3ccf46b177184d7b886568fa5451c43b}% 증가한다. 중첩된다.
+190	착용자가 에너지, 화염, 파워 또는 워프 피해를 받을 때마다 이 검이 피해의 일부를 흡수하여 받는 피해가 −{uip|Damage|3ccf46b177184d7b886568fa5451c43b}% 감소한다. 착용자는 다음 공격의 방어 관통이 +{uip|Range|3ccf46b177184d7b886568fa5451c43b}% 증가한다. 중첩된다.
 191	고대 포스 소드
 192	사용자가 아크 라이플로 대상을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 주 대상 주위 반경 2칸 이내의 모든 개체에도 명중한다.\n아크 라이플의 사격은 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}이 불가능하다.\n아크 라이플의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g} 피해가 +{uip|CritDamage|23a11a94517345a6a7925e239cbc8ceb}% 증가한다.
 193	아크 라이플
@@ -497,7 +497,7 @@
 497	이 무기는 사용자에게 전투당 1회 사용할 수 있는 {g|f:8d47cfd429be43e2a4b02a400c3a716a}케인의 분노{/g} 능력을 부여한다.
 498	{g|Encyclopedia:HitSequenceGlossary}명중{/g} 시 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:MeltingEffect}융해{/g} 효과를 +3중첩 부여한다. 사용자는 이 무기로 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}을 할 수 있다. 저격소총으로 간주한다.
 499	퓨전 건 '불꽃'
-500	명중 시 전투 종료 시까지 대상이 받는 {g|Encyclopedia:FireDamage}화염{/g} 및 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}가 +30% 증가한다. 중첩되지 않는다.
+500	명중 시 전투가 끝날 때까지 대상이 받는 {g|Encyclopedia:FireDamage}화염 피해{/g}와 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}가 +30% 증가한다. 중첩되지 않는다.
 501	명중 시 화상을 유발한다. 이 무기에 명중당한 대상은 화상을 제거하는 판정에 항상 실패한다.
 502	사용자가 이 무기로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 때마다 전투 종료 시까지 무기의 기본 피해가 +{uip|Damage|9f76314d15a24116bf349701ecc396cc} 증가한다.
 503	샤에일의 자장가

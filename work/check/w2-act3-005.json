@@ -1,6 +1,17 @@
 {"errors": [],
 "warnings": [
+ {"n": 25, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 32, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 40, "code": "glossary", "detail": "Kill them! -> 놈들을 죽여라! not found"},
+ {"n": 65, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 65, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 65, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 76, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 89, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 98, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 109, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 151, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 195, "code": "glossary", "detail": "Attention! -> 차렷! not found"}
+ {"n": 185, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 195, "code": "glossary", "detail": "Attention! -> 차렷! not found"},
+ {"n": 196, "code": "glossary", "detail": "Body -> 몸/시체 not found"}
 ]}

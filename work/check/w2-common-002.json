@@ -2,10 +2,18 @@
 "warnings": [
  {"n": 8, "code": "glossary", "detail": "Old Man -> 노인 not found"},
  {"n": 10, "code": "glossary", "detail": "Sire -> 시조 not found"},
+ {"n": 14, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 63, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 70, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 91, "code": "glossary", "detail": "Old Man -> 노인 not found"},
  {"n": 114, "code": "glossary", "detail": "The Distortion -> 왜곡 not found"},
+ {"n": 127, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 139, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},
  {"n": 142, "code": "glossary", "detail": "Feel the Pain -> 고통을 느껴라 not found"},
- {"n": 186, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+ {"n": 164, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 179, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 186, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 198, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 211, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 241, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

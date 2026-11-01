@@ -1,7 +1,23 @@
 {"errors": [],
 "warnings": [
+ {"n": 2, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 6, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 11, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 30, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 34, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 37, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 55, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 66, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 97, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 98, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 104, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 111, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 131, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 132, "code": "glossary", "detail": "Old Man -> 노인 not found"},
  {"n": 144, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 147, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 149, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 154, "code": "glossary", "detail": "Old Man -> 노인 not found"},
- {"n": 216, "code": "glossary", "detail": "Open the door -> 문 열기 not found"}
+ {"n": 216, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
+ {"n": 248, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

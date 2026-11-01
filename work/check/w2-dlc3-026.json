@@ -1,8 +1,11 @@
 {"errors": [],
 "warnings": [
+ {"n": 27, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 39, "code": "glossary", "detail": "positive effect -> 이로운 효과 not found"},
  {"n": 62, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
  {"n": 96, "code": "glossary", "detail": "All Out -> 전력 투구 not found"},
+ {"n": 106, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 130, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 181, "code": "glossary", "detail": "Accusation of Heresy -> 이단 고발 not found"},
  {"n": 189, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"}
 ]}

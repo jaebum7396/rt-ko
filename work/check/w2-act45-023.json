@@ -1,7 +1,23 @@
 {"errors": [],
 "warnings": [
  {"n": 1, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 5, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 9, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 14, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 25, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 28, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 29, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 38, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 41, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 49, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 72, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 80, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 81, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},
+ {"n": 84, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 86, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 87, "code": "glossary", "detail": "The Yoke -> 족쇄 not found"},
- {"n": 88, "code": "glossary", "detail": "Imperial -> 제국의 not found"}
+ {"n": 88, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 103, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 106, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 108, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

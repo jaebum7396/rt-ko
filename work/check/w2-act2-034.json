@@ -1,13 +1,24 @@
 {"errors": [],
 "warnings": [
- {"n": 110, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 4, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 7, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 60, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 88, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 111, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 116, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 126, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
- {"n": 126, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
  {"n": 132, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 134, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 137, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 146, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 153, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 154, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 155, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 157, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 160, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 161, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 165, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
- {"n": 182, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
  {"n": 194, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
  {"n": 206, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
- {"n": 210, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+ {"n": 206, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

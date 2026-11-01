@@ -1,8 +1,26 @@
 {"errors": [],
 "warnings": [
+ {"n": 3, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 11, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 13, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 18, "code": "glossary", "detail": "critical damage -> 치명타 피해 not found"},
+ {"n": 24, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 30, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 82, "code": "glossary", "detail": "Old Man -> 노인 not found"},
  {"n": 96, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 96, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 117, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 118, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 121, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 131, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
- {"n": 188, "code": "glossary", "detail": "Imperial -> 제국의 not found"}
+ {"n": 134, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 147, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 166, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 182, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 183, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 184, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 185, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 188, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 198, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 209, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

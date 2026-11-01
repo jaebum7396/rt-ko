@@ -147,7 +147,7 @@
 147	착용자의 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}이 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}로 명중하면 해당 적에게 전투 종료 시까지 {g|f:197b8a8a12b0442db7ffee1067cf3d97}약점 노출{/g}을 유발한다.
 148	{g|Encyclopedia:BurningEffect}화상{/g}(4)을 부여한다.
 149	플레이머 사격: 화염 줄기
-150	전투당 1회 {g|f:0d179aa9276c4780a95e77801d6c77d5}플레이머 사격: 화염 줄기{/g}를 사용할 수 있는 반지 형태의 경이로운 소형 무기다.
+150	반지 형태의 경이로운 소형 무기. 착용자는 전투당 1회 {g|f:0d179aa9276c4780a95e77801d6c77d5}플레이머 사격: 분사{/g}를 사용할 수 있다.
 151	플레이머 디지 웨폰
 152	착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|8e23a4f43526479d85322b8ce69b1214} 증가한다.
 153	공세의 손

@@ -1,7 +1,18 @@
 {"errors": [],
 "warnings": [
  {"n": 4, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 15, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 45, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 54, "code": "glossary", "detail": "No Star -> 항성 없음 not found"},
+ {"n": 82, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 83, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 92, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 102, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 124, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 154, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 155, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 156, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 164, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 166, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
- {"n": 172, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"}
+ {"n": 177, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

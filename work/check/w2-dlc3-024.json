@@ -2,9 +2,13 @@
 "warnings": [
  {"n": 29, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
  {"n": 45, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 63, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 92, "code": "glossary", "detail": "Molten Metal -> 용융 금속 not found"},
- {"n": 110, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
- {"n": 116, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 102, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 103, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 121, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 144, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
- {"n": 144, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+ {"n": 144, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 150, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 153, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

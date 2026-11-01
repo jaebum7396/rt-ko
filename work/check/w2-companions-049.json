@@ -1,5 +1,6 @@
 {"errors": [],
 "warnings": [
+ {"n": 69, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 97, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
  {"n": 103, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
  {"n": 103, "code": "glossary", "detail": "Get out -> 나가기 not found"},

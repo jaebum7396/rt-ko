@@ -1,7 +1,9 @@
 {"errors": [],
 "warnings": [
+ {"n": 12, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 88, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 115, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 119, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 121, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 134, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 136, "code": "glossary", "detail": "Get out -> 나가기 not found"},

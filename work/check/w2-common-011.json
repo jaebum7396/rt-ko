@@ -2,12 +2,26 @@
 "warnings": [
  {"n": 14, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
  {"n": 16, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 22, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 25, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 34, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 40, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 43, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 59, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 74, "code": "glossary", "detail": "Lower Decks -> 하층 갑판 not found"},
+ {"n": 79, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 81, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 86, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 94, "code": "glossary", "detail": "Into Pieces -> 갈기갈기 not found"},
  {"n": 101, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 102, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
  {"n": 128, "code": "glossary", "detail": "INT -> 지능 not found"},
+ {"n": 158, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 163, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 165, "code": "glossary", "detail": "Single Shot -> 단발 사격 not found"},
+ {"n": 165, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 167, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
- {"n": 186, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"}
+ {"n": 186, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"},
+ {"n": 188, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 189, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"}
 ]}

@@ -1,10 +1,19 @@
 {"errors": [],
 "warnings": [
+ {"n": 1, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 3, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 13, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 44, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 49, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 96, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 98, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 118, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 121, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 133, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 140, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
  {"n": 153, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
- {"n": 160, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 154, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 177, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
- {"n": 183, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 188, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 190, "code": "glossary", "detail": "Kasballican -> 카스발리카의 not found"}
 ]}

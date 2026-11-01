@@ -1,11 +1,21 @@
 {"errors": [],
 "warnings": [
+ {"n": 39, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 70, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 71, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 80, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 100, "code": "length", "detail": "ratio 0.23 (ko 5 / en 22 chars, allowed 0.25-1.60)"},
+ {"n": 147, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 149, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
- {"n": 152, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 152, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 153, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 155, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 157, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 180, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 183, "code": "length", "detail": "ratio 0.18 (ko 3 / en 17 chars, allowed 0.25-1.60)"},
- {"n": 252, "code": "glossary", "detail": "The Path -> 길 not found"}
+ {"n": 239, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 252, "code": "glossary", "detail": "The Path -> 길 not found"},
+ {"n": 287, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 298, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 299, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

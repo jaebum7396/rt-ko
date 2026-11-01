@@ -1,6 +1,15 @@
 {"errors": [],
 "warnings": [
+ {"n": 7, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 42, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 53, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 69, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 74, "code": "glossary", "detail": "Orsellio Prophecy System -> 오셀리오 예언 체계 not found"},
+ {"n": 79, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 79, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 95, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 104, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 111, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 116, "code": "glossary", "detail": "Light of the Emperor -> 황제의 빛 not found"},
  {"n": 119, "code": "glossary", "detail": "Light of the Emperor -> 황제의 빛 not found"},
  {"n": 144, "code": "glossary", "detail": "Novator of House Orsellio -> 오셀리오 가문의 노베이터 not found"}

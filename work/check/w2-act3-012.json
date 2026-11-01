@@ -1,4 +1,7 @@
 {"errors": [],
 "warnings": [
+ {"n": 1, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 58, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 80, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 90, "code": "glossary", "detail": "Clenched Teeth -> 악문 이 not found"}
 ]}

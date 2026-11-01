@@ -1,9 +1,11 @@
 {"errors": [],
 "warnings": [
- {"n": 14, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
- {"n": 40, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 38, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 81, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 98, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 100, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 146, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 153, "code": "glossary", "detail": "Emperor Himself -> 황제 폐하 친히 not found"},
- {"n": 186, "code": "glossary", "detail": "Wrack -> 랙 not found"}
+ {"n": 186, "code": "glossary", "detail": "Wrack -> 랙 not found"},
+ {"n": 213, "code": "glossary", "detail": "Body -> 몸/시체 not found"}
 ]}

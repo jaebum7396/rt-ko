@@ -1,9 +1,20 @@
 {"errors": [],
 "warnings": [
+ {"n": 49, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 96, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
  {"n": 97, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 98, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 101, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 104, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
  {"n": 113, "code": "length", "detail": "ratio 0.19 (ko 5 / en 27 chars, allowed 0.25-1.60)"},
+ {"n": 130, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 138, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 140, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 140, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 147, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 174, "code": "glossary", "detail": "Genetor -> 제네토르 not found"}
+ {"n": 152, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 158, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 174, "code": "glossary", "detail": "Genetor -> 제네토르 not found"},
+ {"n": 178, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 183, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

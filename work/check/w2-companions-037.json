@@ -1,5 +1,15 @@
 {"errors": [],
 "warnings": [
+ {"n": 64, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 89, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 108, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 114, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 124, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 135, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 146, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 162, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 172, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 174, "code": "glossary", "detail": "Falling Apart -> 붕괴 not found"},
+ {"n": 177, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 208, "code": "glossary", "detail": "Get out -> 나가기 not found"}
 ]}

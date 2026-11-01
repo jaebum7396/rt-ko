@@ -1,6 +1,11 @@
 {"errors": [],
 "warnings": [
- {"n": 31, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 28, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 29, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 31, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 116, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 140, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 150, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 155, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 194, "code": "glossary", "detail": "Get out -> 나가기 not found"}
 ]}

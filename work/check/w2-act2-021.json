@@ -2,10 +2,18 @@
 "warnings": [
  {"n": 1, "code": "glossary", "detail": "Only the Best -> 최정예 not found"},
  {"n": 22, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 27, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 35, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 78, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
  {"n": 116, "code": "glossary", "detail": "Explorators -> 탐험가들 not found"},
+ {"n": 124, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 192, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 201, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 210, "code": "glossary", "detail": "Attention! -> 차렷! not found"},
- {"n": 210, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 216, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"}
+ {"n": 210, "code": "glossary", "detail": "Warrant -> 무역 영장/무역 영장 not found"},
+ {"n": 216, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 231, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 232, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 239, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 240, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

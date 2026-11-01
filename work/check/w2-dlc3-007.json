@@ -1,7 +1,14 @@
 {"errors": [],
 "warnings": [
+ {"n": 25, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 57, "code": "glossary", "detail": "Plasma Burst -> 플라스마 파열 not found"},
  {"n": 73, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},
+ {"n": 97, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 100, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 143, "code": "glossary", "detail": "Against All Odds -> 역경을 딛고 not found"},
- {"n": 173, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"}
+ {"n": 149, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 165, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 168, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 173, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},
+ {"n": 175, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

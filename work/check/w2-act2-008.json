@@ -2,11 +2,18 @@
 "warnings": [
  {"n": 3, "code": "glossary", "detail": "Under My Protection -> 나의 보호 아래 not found"},
  {"n": 8, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 8, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 11, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 14, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 19, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 34, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 47, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 65, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
- {"n": 75, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
  {"n": 111, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 116, "code": "glossary", "detail": "Keep Your Distance -> 거리 유지 not found"},
- {"n": 117, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 195, "code": "glossary", "detail": "Slice Through -> 돌파 베기 not found"}
+ {"n": 117, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 124, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 167, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 195, "code": "glossary", "detail": "Slice Through -> 돌파 베기 not found"},
+ {"n": 202, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

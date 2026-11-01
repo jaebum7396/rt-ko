@@ -1,10 +1,24 @@
 {"errors": [],
 "warnings": [
+ {"n": 27, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 32, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 78, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 79, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
+ {"n": 86, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 94, "code": "glossary", "detail": "Keeper of Eurac -> 유라크의 수호자 not found"},
+ {"n": 99, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 102, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 120, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 121, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 147, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 165, "code": "glossary", "detail": "Lady Navigator -> 내비게이터 아가씨 not found"},
  {"n": 181, "code": "glossary", "detail": "Keeper of Eurac -> 유라크의 수호자 not found"},
- {"n": 212, "code": "glossary", "detail": "Old Man -> 노인 not found"}
+ {"n": 183, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 184, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 187, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 187, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 190, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 203, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 205, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 212, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 219, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

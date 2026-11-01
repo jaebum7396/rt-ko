@@ -1,9 +1,21 @@
 {"errors": [],
 "warnings": [
+ {"n": 19, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 25, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 43, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 44, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 50, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 58, "code": "glossary", "detail": "Armour of Contempt -> 경멸의 갑옷 not found"},
  {"n": 75, "code": "glossary", "detail": "Emperor Protects! -> 황제께서 지켜주신다! not found"},
  {"n": 123, "code": "glossary", "detail": "For the Emperor! -> 황제를 위하여! not found"},
  {"n": 136, "code": "glossary", "detail": "Emperor Protects! -> 황제께서 지켜주신다! not found"},
+ {"n": 149, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 195, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 199, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 217, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 284, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 312, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 329, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 347, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 348, "code": "glossary", "detail": "At Gunpoint -> 총구 앞에서 not found"}
 ]}

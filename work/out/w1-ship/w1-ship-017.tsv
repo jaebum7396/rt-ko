@@ -178,14 +178,14 @@
 178	좌현(왼쪽)
 179	함수(앞쪽)
 180	우현(오른쪽)
-181	{g|Encyclopedia:FlagshipSpace}기함{/g}이 7회 공격한다. 각 공격은 8칸 이내의 무작위 적 하나를 대상으로 하며 <u>(8~14)</u>의 워프 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 준다.\n라운드당 1회만 사용할 수 있다.\n지속 시간: 워프 매개자의 지식(워프) 기량 10당 +1라운드.
+181	{g|Encyclopedia:FlagshipSpace}기함{/g}이 7회 공격한다. 각 공격은 8칸 이내의 무작위 적을 대상으로 하며, <u>(8~14)</u>의 워프 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 준다.\n라운드당 1회만 사용할 수 있다.\n지속 시간: 워프 매개자의 지식(워프) 기량 10점당 +1라운드.
 182	엠피리언 폭풍
-183	{g|Encyclopedia:FlagshipSpace}기함{/g}이 적 함선에 침투할 강습대를 파견해 {g|Encyclopedia:InternalFiresSpace}함내 화재{/g}를 일으킨다. 일정 확률로 엔진에도 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주어 1라운드 동안 함선을 무력화한다.\n라운드당 1회만 사용할 수 있다.\n지속 시간: 최고 지휘관의 설득 기량 10당 +1라운드.
+183	{g|Encyclopedia:FlagshipSpace}기함{/g}이 강습대를 보내 적 함선에 침투시켜 {g|Encyclopedia:InternalFiresSpace}함내 화재{/g}를 일으킨다. 또한 엔진에 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 입혀 1라운드 동안 함선을 무력화할 수 있다.\n라운드당 1회만 사용할 수 있다.\n지속 시간: 최고 지휘관의 설득 기량 10점당 +1라운드.
 184	강습대
-185	{g|Encyclopedia:FlagshipSpace}기함{/g}의 오거 탐지기가 주변을 스캔하여 전술적으로 유리한 위치를 찾는다. 기함이 해당 위치에 있는 동안 {g|Encyclopedia:EvasionSpace}회피{/g}가 +35% 증가한다.\n지속 시간: 2라운드에 에테릭스 마스터의 인지 기량 20당 +1라운드.
-186	{g|Encyclopedia:FlagshipSpace}기함{/g}의 {g|Encyclopedia:SpeedSpace}속도{/g}가 +2, {g|Encyclopedia:ManoeuvrabilitySpace}기동성{/g}이 +1 증가한다. {g|f:7b1ab2c9456a44febdc41b71f14d8df5}공허선 충각 돌격{/g}이 이동 거리에 따라 주는 보너스 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}가 +100% 증가한다.\n지속 시간: 2라운드에 기동의 달인의 운동 기량 20당 +1라운드.
+185	{g|Encyclopedia:FlagshipSpace}기함{/g}의 오거 탐지기가 주변을 탐색해 전술적으로 유리한 위치를 찾는다. 기함이 해당 위치에 있는 동안 {g|Encyclopedia:EvasionSpace}회피{/g}가 +35% 증가한다.\n지속 시간: 2라운드. 에테릭스 마스터의 인지 기량 20점당 +1라운드.
+186	{g|Encyclopedia:FlagshipSpace}기함{/g}의 {g|Encyclopedia:SpeedSpace}속도{/g}가 +2 증가하고 {g|Encyclopedia:ManoeuvrabilitySpace}기동성{/g}이 +1 증가한다. {g|f:7b1ab2c9456a44febdc41b71f14d8df5}공허선 충각 돌격{/g}이 이동 거리에 따라 주는 보너스 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}가 +100% 증가한다.\n지속 시간: 2라운드. 기동의 달인의 운동 기량 20점당 +1라운드.
 187	최대 출력
-188	{g|Encyclopedia:FlagshipSpace}기함{/g}의 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}에 어뢰 일제 발사 1회분 대신 3회분이 장전된다.\n지속 시간: 2라운드에 포술의 달인의 폭파 기량 20당 +1라운드.
+188	{g|Encyclopedia:FlagshipSpace}기함{/g}의 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}에 어뢰 일제 발사 1회분 대신 3회분을 장전한다.\n지속 시간: 2라운드. 포술의 달인의 폭파 기량 20점당 +1라운드.
 189	전원 갑판 집합
-190	매 턴 종료 시, {g|Encyclopedia:FlagshipSpace}기함{/g}의 {g|Encyclopedia:VoidshipShieldsGlossary}보이드 실드{/g} 중 {g|Encyclopedia:SpaceBattleDamageGlossary}피해를 가장 많이 입은{/g} 구역의 내구도가 최대 50% 회복된다.\n지속 시간: 2라운드에 방어막의 달인의 기술 활용 기량 20당 +1라운드.
+190	매 턴 종료 시, {g|Encyclopedia:FlagshipSpace}기함{/g}의 {g|Encyclopedia:VoidshipShieldsGlossary}보이드 실드{/g} 중 가장 큰 {g|Encyclopedia:SpaceBattleDamageGlossary}피해를 입은{/g} 구역의 강도가 최대 50% 회복된다.\n지속 시간: 2라운드. 방어막의 달인의 기술 활용 기량 20점당 +1라운드.
 191	코르푸스카리 찬가

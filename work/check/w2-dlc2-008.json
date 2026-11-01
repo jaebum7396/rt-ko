@@ -1,6 +1,14 @@
 {"errors": [],
 "warnings": [
- {"n": 41, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 18, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 41, "code": "glossary", "detail": "Warrant -> 무역 영장/무역 영장 not found"},
  {"n": 98, "code": "glossary", "detail": "It Takes Two -> 둘만의 춤 not found"},
- {"n": 230, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+ {"n": 109, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 115, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 180, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 190, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 205, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 220, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 230, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 233, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

@@ -1,9 +1,26 @@
 {"errors": [],
 "warnings": [
+ {"n": 5, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 23, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 55, "code": "glossary", "detail": "The Path -> 길 not found"},
+ {"n": 57, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 67, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 70, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 73, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 80, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 96, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 101, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 103, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 110, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
  {"n": 110, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 111, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 112, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 114, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 134, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 162, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 173, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 179, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
- {"n": 181, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+ {"n": 181, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 182, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 189, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

@@ -1,7 +1,25 @@
 {"errors": [],
 "warnings": [
+ {"n": 2, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 29, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 39, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 42, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 107, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 119, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 134, "code": "glossary", "detail": "Promise of Death -> 죽음의 예고 not found"},
- {"n": 150, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 165, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"}
+ {"n": 144, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 145, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 155, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 156, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 165, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 176, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 181, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 192, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 197, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 209, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 211, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 220, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 228, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 242, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 242, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

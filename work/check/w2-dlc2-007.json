@@ -2,9 +2,25 @@
 "warnings": [
  {"n": 9, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
  {"n": 13, "code": "glossary", "detail": "Righteous Anger -> 정의로운 노여움 not found"},
+ {"n": 35, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 36, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 40, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 45, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 48, "code": "glossary", "detail": "Breaking Point -> 한계점 not found"},
+ {"n": 48, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 59, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 94, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 95, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 99, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 114, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 125, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 129, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 138, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
- {"n": 207, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
+ {"n": 157, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 172, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 175, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 207, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 227, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 237, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 247, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

@@ -16,7 +16,7 @@
  {"n": 209, "code": "glossary", "detail": "damaged -> 피해를 입음 not found"},
  {"n": 211, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 232, "code": "glossary", "detail": "direct -> 직접 not found"},
- {"n": 248, "code": "glossary", "detail": "fire -> 화염 not found"},
+ {"n": 248, "code": "glossary", "detail": "fire -> 사격/불/화염/사격/불/화염 not found"},
  {"n": 257, "code": "glossary", "detail": "pushed -> 밀려남 not found"},
  {"n": 260, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 280, "code": "glossary", "detail": "block -> 방패 막기 not found"},
@@ -60,10 +60,6 @@
  {"n": 486, "code": "length", "detail": "ratio 0.21 (ko 5 / en 24 chars, allowed 0.25-1.60)"},
  {"n": 487, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 497, "code": "glossary", "detail": "Aid -> 돕기 not found"},
- {"n": 501, "code": "glossary", "detail": "Power -> 역장 not found"},
- {"n": 502, "code": "glossary", "detail": "Power -> 역장 not found"},
- {"n": 503, "code": "glossary", "detail": "Power -> 역장 not found"},
- {"n": 504, "code": "glossary", "detail": "Power -> 역장 not found"},
  {"n": 515, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 523, "code": "length", "detail": "ratio 0.13 (ko 2 / en 15 chars, allowed 0.25-1.60)"}
 ]}

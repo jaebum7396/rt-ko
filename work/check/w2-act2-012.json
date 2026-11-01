@@ -1,14 +1,17 @@
 {"errors": [],
 "warnings": [
- {"n": 1, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 27, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 40, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 47, "code": "glossary", "detail": "The Rings -> 고리 not found"},
  {"n": 53, "code": "glossary", "detail": "Navy -> 제국 해군 not found"},
- {"n": 91, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 68, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 94, "code": "glossary", "detail": "Capable Hands -> 유능한 일손 not found"},
- {"n": 104, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 134, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 138, "code": "glossary", "detail": "Unfinished Business -> 미완의 과업 not found"},
  {"n": 139, "code": "glossary", "detail": "Unfinished Business -> 미완의 과업 not found"},
+ {"n": 144, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 173, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 179, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 195, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 197, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"}
 ]}

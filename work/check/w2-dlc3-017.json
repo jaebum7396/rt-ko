@@ -1,7 +1,21 @@
 {"errors": [],
 "warnings": [
+ {"n": 14, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 23, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 24, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 31, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 36, "code": "glossary", "detail": "Genetor Ferrenz -> 제네터 페렌츠 not found"},
+ {"n": 37, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 57, "code": "glossary", "detail": "Unfinished Business -> 미완의 과업 not found"},
+ {"n": 58, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 72, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 84, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 86, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 87, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 89, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 98, "code": "glossary", "detail": "Genetor Ferrenz -> 제네터 페렌츠 not found"},
- {"n": 181, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
+ {"n": 125, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 175, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 181, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 183, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

@@ -1,4 +1,12 @@
 {"errors": [],
 "warnings": [
- {"n": 127, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+ {"n": 22, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 48, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 72, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 116, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 125, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 170, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 182, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 190, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 195, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

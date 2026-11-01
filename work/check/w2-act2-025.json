@@ -1,12 +1,14 @@
 {"errors": [],
 "warnings": [
- {"n": 97, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 99, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 3, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 11, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 80, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 108, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 108, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 108, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
- {"n": 115, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 116, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 117, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
  {"n": 119, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
- {"n": 200, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+ {"n": 147, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 164, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 165, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 176, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

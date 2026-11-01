@@ -1,6 +1,15 @@
 {"errors": [],
 "warnings": [
  {"n": 18, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 39, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
  {"n": 84, "code": "glossary", "detail": "Lord Captain's Quarters -> 로드 캡틴의 처소 not found"},
- {"n": 169, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+ {"n": 91, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 92, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 136, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 139, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 151, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 161, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 164, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 169, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 214, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

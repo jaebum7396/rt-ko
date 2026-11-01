@@ -1,6 +1,19 @@
 {"errors": [],
 "warnings": [
+ {"n": 24, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 37, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 40, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 45, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},
+ {"n": 75, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 79, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 90, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 100, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+ {"n": 100, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 100, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 102, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 102, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 137, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 158, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 171, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 181, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 183, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

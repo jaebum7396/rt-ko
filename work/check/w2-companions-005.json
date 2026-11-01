@@ -1,5 +1,12 @@
 {"errors": [],
 "warnings": [
+ {"n": 26, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 45, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 49, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 103, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 127, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
- {"n": 153, "code": "glossary", "detail": "Winded -> 숨 가쁨 not found"}
+ {"n": 145, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 153, "code": "glossary", "detail": "Winded -> 숨 가쁨 not found"},
+ {"n": 155, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 158, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

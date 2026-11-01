@@ -1,8 +1,19 @@
 {"errors": [],
 "warnings": [
  {"n": 5, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 17, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 24, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 32, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 54, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 54, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 67, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 67, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 83, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 86, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"},
  {"n": 151, "code": "glossary", "detail": "Old Man -> 노인 not found"},
- {"n": 188, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+ {"n": 156, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 180, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 188, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 227, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 228, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

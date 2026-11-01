@@ -1,6 +1,13 @@
 {"errors": [],
 "warnings": [
+ {"n": 3, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 8, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 11, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 30, "code": "glossary", "detail": "Nothing to Lose -> 잃을 것이 없다 not found"},
+ {"n": 43, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 79, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 83, "code": "glossary", "detail": "Cold Blood -> 냉혈 not found"},
- {"n": 115, "code": "glossary", "detail": "Imperial -> 제국의 not found"}
+ {"n": 98, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 115, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 169, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

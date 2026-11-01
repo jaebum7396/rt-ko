@@ -9,7 +9,7 @@
 9	사이커가 즉시 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 되고, 그 자리에 하나 이상의 데몬이 나타난다.
 10	데몬의 침입
 11	번개가 사이커와 주위의 대상(아군과 적 모두 포함) {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}명을 강타하여 <u>(2 × 사이 등급)</u>만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
-12	길들지 않은 역장
+12	길들지 않은 힘
 13	대상 주위 반경 4칸 이내의 모든 대상이 뒤로 <u>(1 + {g|Encyclopedia:PsyRating}사이 등급{/g} / 2)</u>칸만큼 {g|Encyclopedia:PushGlossary}밀려난다{/g}.
 14	워프 폭발
 15	대상과 반경 4칸 이내의 모든 대상이 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
@@ -24,9 +24,9 @@
 24	사이커 테르미누스
 25	사이커 엑스트레미스
 26	공인 사이커는 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}을 일으킬 확률이 감소한다(−20%).
-27	염동력 군율 (기본 역장 — 맹습)
+27	염동력 계통 (기본 능력 — 강타)
 28	대상에게 <u>({uip|MinDamage|fa305ba4e2aa48f394608d1ccfc6d385}~{uip|MaxDamage|fa305ba4e2aa48f394608d1ccfc6d385})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
-29	텔레파시 군율 (기본 역장 — 사이킥 비명)
+29	텔레파시 계통 (기본 능력 — 사이킥 비명)
 30	이 캐릭터는 위험하고 통제되지 않는 비공인 사이커다.\n이 캐릭터가 사용하는 모든 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 5% 확률로 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으키며, 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 높은 것으로 처리된다.
 31	비공인 사이커
 32	<u>(1 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
@@ -85,8 +85,8 @@
 85	타오르는 지옥불
 86	사이커가 사용한 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 최초 대상의 2칸 이내에 있는 무작위 적 하나가 그 피해의 절반을 입는다. 이 피해는 이 {g|Encyclopedia:Talent}재능{/g}을 다시 발동시키지 않는다.
 87	역화
-88	사이커가 화염 {g|Encyclopedia:DamageGlossary}피해{/g}에 대한 추가 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} +{uip|ArmourAgainstFire|52a24c4f709741489b8a0034109ecfdb}%를 얻고, 라스, 멜타, 플라스마 무기의 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}에 대해서는 그 절반만큼 추가 방어도를 얻는다.
-89	화염의 시체
+88	사이커가 화염 {g|Encyclopedia:DamageGlossary}피해{/g}에 대한 추가 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} +{uip|ArmourAgainstFire|52a24c4f709741489b8a0034109ecfdb}%를 얻고, 이 수치의 절반만큼 라스, 멜타, 플라스마 무기의 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}에 대한 추가 방어도를 얻는다.
+89	화염의 육신
 90	<u>(8 + 8 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 91	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면 사이커에게 인접한 모든 적이 {uip|Damage|8e85511b779e41548d0b57635ecfd4db}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입는다. 사이커가 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 피해를 입을 때도 같은 효과가 발생한다.
 92	불타는 피
@@ -108,15 +108,15 @@
 108	사이커가 불타는 투사체 {uip|Count|84ddefd28f224d5fb3f5e176375c1f05}개를 쏟아낸다. 투사체마다 <u>({uip|DamageMin|84ddefd28f224d5fb3f5e176375c1f05}~{uip|DamageMax|84ddefd28f224d5fb3f5e176375c1f05})</u>의 피해를 준다. 투사체는 80% 확률로 중앙 경로를 따라 날아가고, 20% 확률로 측면 경로 중 하나로 빗나간다. 투사체를 2개 이상 맞은 생명체는 {g|f:b91a3b9afb9147848d8167dbcf16d092}워프 화상{/g} 효과를 받는다.\n이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:27dc9a14aaca464a901dc6242123c154}속사{/g} 능력의 영향을 받지 않는다.
 109	지옥불 (영웅적 행동)
 110	지옥불 (필사의 결단)
-111	<u>사이커 지팡이의 역장 레벨</u>
+111	<u>사이커 지팡이 위력 수준</u>
 112	<u>(2 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-113	<u>({g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이의 역장 레벨)</u>
-114	<u>(2 × 사이커 지팡이의 역장 레벨)</u>
+113	<u>({g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이 위력 수준)</u>
+114	<u>(2 × 사이커 지팡이 위력 수준)</u>
 115	<u>(2 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-116	<u>(2 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이의 역장 레벨)</u>
-117	<u>(2 × 사이커 지팡이의 역장 레벨)</u>
+116	<u>(2 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이 위력 수준)</u>
+117	<u>(2 × 사이커 지팡이 위력 수준)</u>
 118	<u>(2 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-119	<u>(2 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이의 역장 레벨)</u>
+119	<u>(2 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이 위력 수준)</u>
 120	신앙이 응축된 신성 능력은 독실한 사이커가 아군을 보호하고 이단자를 징벌하는 데 사용한다.
 121	신성 능력
 122	<u>(5 × 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 아군의 {g|Encyclopedia:Resolve}결의{/g} / 2)</u>
@@ -172,11 +172,11 @@
 172	황제의 분노 (필사의 결단)
 173	대상 칸에 인접한 모두가 <u>(1~{uip|Damage|bdde427505b14cd68b20ab0d915d5fe3})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, 전투 종료 시까지 받는 피해가 +{uip|Debuff|bdde427505b14cd68b20ab0d915d5fe3}% 증가한다.
 174	황제의 분노 (영웅적 행동)
-175	<u>((1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이의 역장 레벨)</u>
-176	<u>((1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이의 역장 레벨)</u>
-177	<u>(2 × 사이커 지팡이의 역장 레벨)</u>
-178	<u>(2 × (1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이의 역장 레벨)</u>
-179	<u>(2 × 사이커 지팡이의 역장 레벨)</u>
+175	<u>((1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이 위력 수준)</u>
+176	<u>((1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이 위력 수준)</u>
+177	<u>(2 × 사이커 지팡이 위력 수준)</u>
+178	<u>(2 × (1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이 위력 수준)</u>
+179	<u>(2 × 사이커 지팡이 위력 수준)</u>
 180	[초안]*개발 중. 상위 레벨에서 선택할 수 있는 {g|Encyclopedia:Ability}능력{/g} 및/또는 {g|Encyclopedia:Talent}재능{/g}이 적다.*
 181	[초안]염동력
 182	[초안]사이커가 전장에 3×3 크기의 염동력 돔을 생성한다. 돔은 전투가 끝나거나 사이커가 <b>염동력 돔</b>을 생성할 다른 구역을 선택할 때까지 유지된다. 돔 밖에서 안쪽의 대상을 사격하면 대상이 {g|Encyclopedia:DetailsOfTheCoverGlossary}반엄폐{/g} 상태인 것처럼 빗나갈 확률이 적용된다. 이 확률은 엄폐물의 방어 효과와 중첩되지 않으며, 모든 효과와 {g|Encyclopedia:Ability}능력{/g}에 대해 반엄폐로 취급한다.
@@ -241,16 +241,16 @@
 241	정신 왜곡
 242	사이커가 부여한 {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:Stun}기절{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|Encyclopedia:ProneEffect}넘어짐{/g} 효과에 걸린 적이 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다.
 243	나약한 심장
-244	대상은 <u>(사이커 지팡이의 역장 레벨 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 대상의 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%)</u>만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입는다.
+244	대상이 <u>(사이커 지팡이 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 대상의 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%)</u>만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 받는다.
 245	죽음의 환영 (영웅적 행동)
-246	<u>(사이커 지팡이의 역장 레벨 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-247	<u>사이커 지팡이의 역장 레벨</u>
+246	<u>(사이커 지팡이 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
+247	<u>사이커 지팡이 위력 수준</u>
 248	대상은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {uip|Damage1|5a328c19cc214780b878be2183550910} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입는다. 피해 중 체력에 비례하는 부분은 300을 초과할 수 없다. 판정에 성공하면 사이커도 같은 피해를 입는다.\n이 사이킥 능력은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킨다.
 249	죽음의 환영 (필사의 결단)
-250	<u>(사이커 지팡이의 역장 레벨 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
+250	<u>(사이커 지팡이 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 251	대상은 {uip|Damage1|5b19d80b3d694f77b84c2b38a04efe8f} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입는다. 피해 중 체력에 비례하는 부분은 300을 초과할 수 없다.
 252	죽음의 환영 (영웅적 행동)
-253	<u>(사이커 지팡이의 역장 레벨 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
+253	<u>(사이커 지팡이 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 254	대상은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {uip|Damage1|5a328c19cc214780b878be2183550910} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입는다. 피해 중 체력에 비례하는 부분은 300을 초과할 수 없다. 판정에 성공하면 대신 {uip|Damage2|5a328c19cc214780b878be2183550910}의 정신 피해를 입는다.
 255	죽음의 환영
 256	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 적 하나를 지정하고 처단을 맹세한다. 지정한 적을 향한 다음 공격은 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 막을 수 없다. 이 공격으로 대상을 처치하면 블레이드 댄서가 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|Heal|590c990c1d684fd09ae883754d28a8ac} 회복하고, 이번 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:ActionPoints}행동력{/g} +1과 추가 공격 1회를 얻는다.\n이 {g|Encyclopedia:Ability}능력{/g}은 턴당 여러 번 사용할 수 있지만, {g|Encyclopedia:ActionPoints}행동력{/g} +1과 추가 공격은 {g|Encyclopedia:Round}라운드{/g}당 1회만 얻는다.

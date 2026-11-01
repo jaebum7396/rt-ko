@@ -2,10 +2,16 @@
 "warnings": [
  {"n": 5, "code": "length", "detail": "ratio 0.24 (ko 8 / en 34 chars, allowed 0.25-1.60)"},
  {"n": 6, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 12, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 26, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 29, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 67, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 73, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
  {"n": 77, "code": "length", "detail": "ratio 0.19 (ko 5 / en 26 chars, allowed 0.25-1.60)"},
  {"n": 92, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 95, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 117, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 120, "code": "glossary", "detail": "Emperor Protects! -> 황제께서 지켜주신다! not found"},
- {"n": 125, "code": "glossary", "detail": "Imperial -> 제국의 not found"}
+ {"n": 125, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 129, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

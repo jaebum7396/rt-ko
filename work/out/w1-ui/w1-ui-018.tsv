@@ -261,7 +261,7 @@
 261	우랄론이 아군에게 {g|Encyclopedia:ActionPoints}행동력{/g}과 {g|Encyclopedia:MovementPoints}이동력{/g}이 각각 <u>(2 × 우랄론의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>인 추가 {g|Encyclopedia:Turn}턴{/g}을 부여한다.\n이 턴 동안 해당 아군의 공격 횟수 제한은 <u>(우랄론의 친화력 보너스 / 4)</u>가 된다.
 262	데몬을 소환한다.
 263	사악한 마도서
-264	결속의 주인
+264	결속의 지배자
 265	우랄론은 전투 중인 아군 카오스 스페이스 마린마다 {g|Encyclopedia:Deflection}피해 감소{/g} +9를 얻는다.
 266	로가의 목소리
 267	"우리의 불경한 무기로 불신자를 도륙하고 세상에 진리의 말씀을 퍼뜨리리라!"
@@ -344,7 +344,7 @@
 344	{g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 추종자 필요\n착용자가 공격을 {g|Encyclopedia:BlockChance}방패 막기{/g}로 막을 때마다 가능하다면 해당 적에게 반격하며, 이 반격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 추가로 +{uip|Crit|bd8e102e7b9344079ccd7ee7b2afb8cc}% 증가한다.
 345	위협의 으르렁거림
 346	<u>(2 × {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스)</u>
-347	착용자는 {g|Encyclopedia:Deflection}피해 감소{/g} +1과 {g|Encyclopedia:Parry}막기{/g} +{uip|Parry|6c70b429eea84371b8efa579bcc1297c}%를 얻는다. 받는 에너지, 화염, {g|Encyclopedia:ShockDamage}감전 피해{/g}가 −35% 감소한다.
+347	착용자는 {g|Encyclopedia:Deflection}피해 감소{/g} +1과 {g|Encyclopedia:Parry}막기{/g} +{uip|Parry|6c70b429eea84371b8efa579bcc1297c}%를 얻는다. 받는 에너지 피해, 화염 피해, {g|Encyclopedia:ShockDamage}감전 피해{/g}가 35% 감소한다.
 348	절연 방패
 349	<u>(10 × {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급)</u>
 350	<u>(5 × {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급)</u>

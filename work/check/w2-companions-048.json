@@ -1,5 +1,15 @@
 {"errors": [],
 "warnings": [
- {"n": 105, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 158, "code": "glossary", "detail": "To Me! -> 내게로! not found"}
+ {"n": 71, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 78, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 79, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 85, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 89, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 92, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 101, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 126, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 136, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 158, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 170, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 185, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

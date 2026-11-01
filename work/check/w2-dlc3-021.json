@@ -1,7 +1,14 @@
 {"errors": [],
 "warnings": [
  {"n": 36, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 39, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 52, "code": "glossary", "detail": "Capable Hands -> 유능한 일손 not found"},
  {"n": 52, "code": "glossary", "detail": "Lady Juvenna -> 유벤나 부인 not found"},
- {"n": 207, "code": "glossary", "detail": "Link in the Chain -> 사슬의 고리 not found"}
+ {"n": 115, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 175, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 176, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 188, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 196, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 207, "code": "glossary", "detail": "Link in the Chain -> 사슬의 고리 not found"},
+ {"n": 233, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

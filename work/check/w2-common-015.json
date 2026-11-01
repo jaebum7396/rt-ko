@@ -1,10 +1,19 @@
 {"errors": [],
 "warnings": [
+ {"n": 8, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 75, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 90, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 117, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 177, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
  {"n": 183, "code": "length", "detail": "ratio 0.25 (ko 24 / en 97 chars, allowed 0.25-1.60)"},
+ {"n": 186, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 265, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
  {"n": 267, "code": "length", "detail": "ratio 0.16 (ko 3 / en 19 chars, allowed 0.25-1.60)"},
+ {"n": 284, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 291, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 323, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
+ {"n": 326, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 332, "code": "length", "detail": "ratio 0.24 (ko 5 / en 21 chars, allowed 0.25-1.60)"},
- {"n": 363, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
- {"n": 372, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+ {"n": 384, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 399, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

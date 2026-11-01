@@ -1,9 +1,14 @@
 {"errors": [],
 "warnings": [
  {"n": 7, "code": "glossary", "detail": "Darkest Hour -> 가장 암울한 시절 not found"},
+ {"n": 63, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 88, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 97, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
+ {"n": 101, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 119, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 121, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 129, "code": "glossary", "detail": "The Heartless -> 무정호 not found"},
+ {"n": 141, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 159, "code": "glossary", "detail": "Always Ready -> 상시 대비 not found"},
  {"n": 176, "code": "glossary", "detail": "Fire Within -> 내면의 불꽃 not found"}
 ]}

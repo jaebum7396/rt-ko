@@ -1,6 +1,15 @@
 {"errors": [],
 "warnings": [
- {"n": 34, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 47, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 49, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},
+ {"n": 95, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 107, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 112, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 118, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 122, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 133, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 134, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
- {"n": 141, "code": "glossary", "detail": "Covered in Oil -> 기름 범벅 not found"}
+ {"n": 141, "code": "glossary", "detail": "Covered in Oil -> 기름 범벅 not found"},
+ {"n": 182, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 184, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"}
 ]}

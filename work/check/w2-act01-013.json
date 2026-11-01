@@ -1,7 +1,24 @@
 {"errors": [],
 "warnings": [
+ {"n": 8, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 8, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 57, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 62, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 85, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},
+ {"n": 86, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 94, "code": "glossary", "detail": "Holy Inquisition -> 신성 이단심문소 not found"},
- {"n": 139, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 158, "code": "glossary", "detail": "Holy Inquisition -> 신성 이단심문소 not found"}
+ {"n": 112, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 113, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 125, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 139, "code": "glossary", "detail": "Warrant -> 무역 영장/무역 영장 not found"},
+ {"n": 149, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 158, "code": "glossary", "detail": "Holy Inquisition -> 신성 이단심문소 not found"},
+ {"n": 178, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 193, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 194, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 196, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 199, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 220, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 226, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 226, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

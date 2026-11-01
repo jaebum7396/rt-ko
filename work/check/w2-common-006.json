@@ -1,6 +1,14 @@
 {"errors": [],
 "warnings": [
+ {"n": 8, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 32, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 88, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 96, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 122, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},
- {"n": 156, "code": "glossary", "detail": "Sit down -> 앉기 not found"}
+ {"n": 149, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 156, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 165, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 170, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 181, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 195, "code": "glossary", "detail": "Body -> 몸/시체 not found"}
 ]}

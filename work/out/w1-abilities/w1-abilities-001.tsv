@@ -78,7 +78,7 @@
 78	믿음직한 무기
 79	{g|Encyclopedia:Injury}부상{/g} 하나당 데스 월드 출신 캐릭터의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +5 증가한다(최대 +60).\n{g|Encyclopedia:Traumas}중상{/g} 하나는 부상 3개로 간주한다.
 80	상처 입은 야수
-81	데스 월드 출신 캐릭터는 화염, {g|Encyclopedia:ToxicDamage}독성 피해{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g} 효과로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{unit_stat|WarhammerToughness|bonus} 감소한다.
+81	데스 월드 출신 캐릭터는 화염, {g|Encyclopedia:ToxicDamage}독성 피해{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g} 효과로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{unit_stat|WarhammerToughness|bonus}만큼 감소한다.
 82	평생의 흉터
 83	전투당 1회, 데스 월드 출신 캐릭터가 {g|Encyclopedia:Stun}기절{/g}, {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 효과를 받으면 해당 효과를 무시하고 대신 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 +20%만큼 임시 체력을 얻는다.
 84	불굴
@@ -143,7 +143,7 @@
 143	다수의 힘
 144	<u>((1 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
 145	임페리얼 월드 — 봉건 사회
-146	임페리얼 월드는 불멸의 신황제를 향한 믿음으로 하나 된 백만 행성 중 하나다. 초고도 기술 사회에서 때 묻은 봉건 사회에 이르기까지, 수많은 행성의 주민들은 인류의 주인과 그분의 종들이 전하는 제국교에 충성과 헌신을 바친다. '임페리얼 월드'라는 명칭은 서로 전혀 다르면서도 제국의 일부인 수많은 행성을 아우른다.
+146	임페리얼 월드는 불멸의 신황제를 향한 믿음으로 하나 된 백만 행성 중 하나다. 초고도 기술 문명부터 때 묻은 봉건 사회까지, 무수한 세계의 주민들은 인류의 주인과 그분의 종복들이 전파하는 제국교에 충성과 헌신을 바친다. "임페리얼 월드"라는 명칭은 서로 전혀 다른 모습이지만 모두 제국에 속한 수많은 세계를 아우른다.
 147	임페리얼 월드
 148	인류의 정예 — 민첩
 149	임페리얼 월드 출신 캐릭터는 원하는 {g|Encyclopedia:Characteristic}능력치{/g} 하나를 선택해 +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다({g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 제외).
@@ -172,11 +172,11 @@
 172	[불명 오리진//홈월드]
 173	공허 태생은 공허 함선 내부나 오래된 궤도 위성에서 태어난 인간이다. 평생 공허선에서 살아온 이들은 현실을 뒤트는 워프 항해와 저중력 또는 무중력 환경에 어느 정도 익숙해진다. 대개 얼굴이 수척하고 피부가 창백하다. 가벼운 기형이 있거나 말투, 걸음걸이, 전반적인 외모에서 다른 이들과 구별되는 기묘함이 드러나기도 한다.
 174	공허 태생
-175	공허 태생 캐릭터는 실패한 공격, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:Characteristic}능력치{/g}, 기량 {g|Encyclopedia:Test}판정{/g}을 성공 확률 20%로 다시 굴릴 수 있다. 이 확률은 해당 판정의 기본 성공 확률을 넘을 수 없다.\n또한 적이 공허 태생 캐릭터를 상대로 회피나 막기 판정에 성공해도 20% 확률로 실패한다.
+175	공허 태생 캐릭터는 실패한 모든 공격, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:Characteristic}능력치{/g}, 기량 {g|Encyclopedia:Test}판정{/g}을 성공 확률 20%로 다시 굴릴 수 있다. 이 확률은 해당 판정의 기본 성공 확률을 넘을 수 없다.\n또한 적이 공허 태생 캐릭터를 상대로 회피나 막기 판정에 성공해도 20% 확률로 실패한다.
 176	행운
 177	공허 태생 캐릭터가 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시킬 때마다 10% 확률로 {g|Encyclopedia:DamageGlossary}피해{/g}가 두 배가 된다.
 178	피범벅
-179	피해를 주지 않는 {g|Encyclopedia:Ability}능력{/g}을 아군에게 사용하면, 해당 아군은 1라운드 동안 실패한 공격, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, 능력치, 기량 {g|Encyclopedia:Test}판정{/g}을 성공 확률 20%로 다시 굴릴 수 있다. 이 확률은 해당 판정의 기본 성공 확률을 넘을 수 없다.\n피해를 주지 않는 능력을 적에게 사용하면, 해당 적은 1라운드 동안 어느 캐릭터를 상대하든 회피나 막기 판정에 성공해도 20% 확률로 실패한다.
+179	아군에게 피해를 주지 않는 {g|Encyclopedia:Ability}능력{/g}을 사용하면, 해당 아군은 1라운드 동안 실패한 모든 공격, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, 능력치, 기량 {g|Encyclopedia:Test}판정{/g}을 성공 확률 20%로 다시 굴릴 수 있다. 이 확률은 해당 판정의 기본 성공 확률을 넘을 수 없다.\n적에게 피해를 주지 않는 능력을 사용하면, 해당 적은 1라운드 동안 어느 캐릭터를 상대로든 회피나 막기 판정에 성공해도 20% 확률로 실패한다.
 180	퍼져 나가는 행운
 181	공허 태생 캐릭터는 치명적인 {g|Encyclopedia:DamageGlossary}피해{/g}를 받아도 20% 확률로 {g|Encyclopedia:HitPoints}체력{/g} 1을 남기고 살아남는다.
 182	살짝 긁혔을 뿐

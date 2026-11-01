@@ -1,7 +1,10 @@
 {"errors": [],
 "warnings": [
+ {"n": 1, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 18, "code": "glossary", "detail": "speaker -> voice not found"},
  {"n": 25, "code": "glossary", "detail": "speaker -> voice not found"},
  {"n": 60, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 116, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 130, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 161, "code": "glossary", "detail": "Disgusting! -> 역겨워! not found"}
 ]}

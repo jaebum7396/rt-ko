@@ -1,10 +1,23 @@
 {"errors": [],
 "warnings": [
+ {"n": 58, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 64, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 77, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 80, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 81, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 96, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 120, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 132, "code": "glossary", "detail": "Unfinished Business -> 미완의 과업 not found"},
  {"n": 137, "code": "glossary", "detail": "On the Hunt -> 사냥 중 not found"},
  {"n": 157, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
  {"n": 208, "code": "glossary", "detail": "Awaiting Orders -> 명령 대기 not found"},
+ {"n": 230, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 245, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
  {"n": 257, "code": "glossary", "detail": "Get out -> 나가기 not found"},
- {"n": 272, "code": "glossary", "detail": "Go down -> 내려가기 not found"}
+ {"n": 262, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 272, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 307, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 336, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 336, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 338, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

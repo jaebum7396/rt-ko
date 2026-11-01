@@ -1,9 +1,19 @@
 {"errors": [],
 "warnings": [
  {"n": 13, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 14, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 32, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 33, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 46, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 84, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 85, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 87, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 96, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 99, "code": "glossary", "detail": "The Rack -> 고문대 not found"},
  {"n": 116, "code": "glossary", "detail": "The Rack -> 고문대 not found"},
+ {"n": 184, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 199, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 202, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 216, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 218, "code": "glossary", "detail": "The Undying -> 불사 not found"}
 ]}

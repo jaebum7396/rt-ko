@@ -1,4 +1,12 @@
 {"errors": [],
 "warnings": [
- {"n": 100, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"}
+ {"n": 4, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 26, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 48, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 54, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 58, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 81, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 100, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 111, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 128, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

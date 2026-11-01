@@ -1,14 +1,27 @@
 {"errors": [],
 "warnings": [
  {"n": 5, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 8, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 43, "code": "glossary", "detail": "Broken Ribs -> 갈비뼈 골절 not found"},
+ {"n": 64, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 65, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 73, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 87, "code": "glossary", "detail": "The Roar -> 포효 not found"},
+ {"n": 101, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 104, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 125, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"},
  {"n": 127, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 130, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 131, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 137, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 148, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 148, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 150, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 163, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 172, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
+ {"n": 196, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 219, "code": "glossary", "detail": "The Undying -> 불사 not found"},
- {"n": 220, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+ {"n": 220, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 229, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 231, "code": "glossary", "detail": "People -> 사람들/인구 not found"}
 ]}

@@ -1,8 +1,19 @@
 {"errors": [],
 "warnings": [
  {"n": 22, "code": "glossary", "detail": "Liege Tocara -> 영주 토카라 not found"},
+ {"n": 46, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 51, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 72, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 77, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 87, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 91, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 94, "code": "glossary", "detail": "Step into the Abyss -> 심연을 향한 발걸음 not found"},
+ {"n": 99, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 101, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 102, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 102, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 108, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 114, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 115, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 138, "code": "glossary", "detail": "Flesh! -> 살점이다! not found"}
 ]}

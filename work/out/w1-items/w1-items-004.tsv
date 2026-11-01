@@ -20,7 +20,7 @@
 20	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 0으로 바뀐다. 사이버 레이븐 주변 반경 4칸 이내의 모든 아군에게서 {g|f:3ddbf131cbd54087a665d4b2e026b0f2}워프 화상{/g}과 {g|f:26be6a9ad4c540a4921f25834a2f420f}영혼 화상{/g} 효과가 제거된다.
 21	황금 옥좌의 빛
 22	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +25 증가한다.\n오버시어가 {g|f:7f6f5b934a994383b8490c76fd5023d4}황금 옥좌의 빛{/g} 능력을 얻는다.
-23	그분의 빛을 전하는 자
+23	황제의 빛을 나르는 자
 24	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 20으로 바뀐다. 사이버 레이븐이 비활성화되고, 그 자리에 무작위 데몬 4마리가 나타난다. 이들은 서로를 제외한 전투 중의 모든 생명체를 공격한다.
 25	수확의 부름
 26	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +25 증가한다.\n오버시어가 {g|f:98b43ba9ab564287abfb43f07585e053}수확의 부름{/g} 능력을 얻는다.
@@ -105,7 +105,7 @@
 105	이 장갑은 착용자에게 {g|Encyclopedia:SkillTechUse}기술 활용{/g} +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.\n또한 플라스마 무기의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +3 증가한다.
 106	플라스마 조형 장갑
 107	{g|Encyclopedia:WarhammerStrength}근력{/g}이 +10 증가한다.
-108	역장 손아귀
+108	파워 그립
 109	이 장갑은 모든 자동화기의 {g|Encyclopedia:Recoil}반동{/g}을 −50% 감소시킨다.
 110	반동 제어 장갑
 111	착용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시, 이번 턴에 착용자가 가한 {g|Encyclopedia:PushGlossary}충돌{/g} {g|Encyclopedia:DamageGlossary}피해{/g}만큼 임시 {g|Encyclopedia:HitPoints}체력{/g}을 얻는다.
@@ -174,7 +174,7 @@
 174	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
 175	<u>(3 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
 176	스페이스 마린의 {g|Encyclopedia:Recoil}반동{/g}이 −{uip|Recoil|d179b36dff70467f814ebbe653853944} 감소한다. 스페이스 마린의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} 대상이 −{uip|Check|d179b36dff70467f814ebbe653853944} 불이익을 받는 강인함 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:StaggeredEffect}비틀거림{/g}도 부여한다.
-177	아스타르테스 역장 장갑
+177	아스타르테스 파워 글러브
 178	이 효과의 중첩마다 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −10 감소한다.
 179	착용자가 {g|f:197b8a8a12b0442db7ffee1067cf3d97}약점 노출{/g} 효과를 받는 적에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 해당 적의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −10 감소한다.
 180	구원의 건틀릿

@@ -1,9 +1,16 @@
 {"errors": [],
 "warnings": [
+ {"n": 20, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 24, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 24, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 26, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 33, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 36, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 40, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 62, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 74, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 77, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 98, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 100, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 101, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 104, "code": "glossary", "detail": "The Undying -> 불사 not found"},
@@ -11,5 +18,13 @@
  {"n": 115, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 118, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 143, "code": "glossary", "detail": "Rogue Trader of House von Valancius -> 폰 발란시우스 가문의 로그 트레이더 not found"},
- {"n": 189, "code": "glossary", "detail": "Emperor Protects! -> 황제께서 지켜주신다! not found"}
+ {"n": 149, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 165, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 171, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 175, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 189, "code": "glossary", "detail": "Emperor Protects! -> 황제께서 지켜주신다! not found"},
+ {"n": 190, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 204, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 222, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 256, "code": "glossary", "detail": "Body -> 몸/시체 not found"}
 ]}

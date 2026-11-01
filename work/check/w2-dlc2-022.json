@@ -1,6 +1,15 @@
 {"errors": [],
 "warnings": [
+ {"n": 6, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 17, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
- {"n": 17, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 57, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+ {"n": 24, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 44, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 80, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 86, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 88, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 97, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 119, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 145, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 166, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 166, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

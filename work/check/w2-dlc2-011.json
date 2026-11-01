@@ -1,7 +1,17 @@
 {"errors": [],
 "warnings": [
+ {"n": 11, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 63, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 74, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 95, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 126, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 133, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 136, "code": "glossary", "detail": "Flesh! -> 살점이다! not found"},
- {"n": 213, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+ {"n": 151, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 166, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 171, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 197, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 213, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 221, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 222, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

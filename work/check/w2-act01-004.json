@@ -1,12 +1,13 @@
 {"errors": [],
 "warnings": [
+ {"n": 3, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 55, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
- {"n": 65, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 68, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 73, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 74, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 79, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
- {"n": 186, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 68, "code": "glossary", "detail": "Warrant -> 무역 영장/무역 영장 not found"},
+ {"n": 99, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 167, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 170, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 198, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},
- {"n": 202, "code": "glossary", "detail": "On the Hunt -> 사냥 중 not found"}
+ {"n": 202, "code": "glossary", "detail": "On the Hunt -> 사냥 중 not found"},
+ {"n": 202, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 206, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

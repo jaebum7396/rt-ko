@@ -1,9 +1,21 @@
 {"errors": [],
 "warnings": [
+ {"n": 2, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 3, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 15, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 15, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 16, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 17, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 21, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 38, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 38, "code": "glossary", "detail": "Thasserian -> 타세리안 not found"},
  {"n": 41, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 44, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 65, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 71, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 79, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 113, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 114, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 139, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 147, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
 ]}

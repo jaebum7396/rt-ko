@@ -1,5 +1,12 @@
 {"errors": [],
 "warnings": [
  {"n": 6, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},
- {"n": 15, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+ {"n": 15, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 23, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 34, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 52, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 58, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 89, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 111, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 155, "code": "glossary", "detail": "Power -> 파워/위력 not found"}
 ]}

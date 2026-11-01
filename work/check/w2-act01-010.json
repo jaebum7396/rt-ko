@@ -1,10 +1,22 @@
 {"errors": [],
 "warnings": [
+ {"n": 60, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 62, "code": "glossary", "detail": "Capable Hands -> 유능한 일손 not found"},
  {"n": 64, "code": "glossary", "detail": "Aaronto Orsellio -> 아아론토 오셀리오 not found"},
+ {"n": 64, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 80, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
  {"n": 100, "code": "glossary", "detail": "Attention! -> 차렷! not found"},
+ {"n": 100, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 116, "code": "glossary", "detail": "Attention! -> 차렷! not found"},
+ {"n": 116, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 118, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 124, "code": "glossary", "detail": "Aaronto Orsellio -> 아아론토 오셀리오 not found"},
+ {"n": 143, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 160, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 167, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 167, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 190, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 199, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 203, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 206, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"}
 ]}

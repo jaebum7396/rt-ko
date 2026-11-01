@@ -1,6 +1,25 @@
 {"errors": [],
 "warnings": [
+ {"n": 9, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 27, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 71, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 72, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 73, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 74, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 75, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 80, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 85, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 102, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
  {"n": 107, "code": "glossary", "detail": "Examine the body -> 시신 조사 not found"},
- {"n": 221, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"}
+ {"n": 116, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 122, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 143, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 189, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 195, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 204, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 221, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 234, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 244, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 248, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 249, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

@@ -1,4 +1,13 @@
 {"errors": [],
 "warnings": [
+ {"n": 31, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 33, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 54, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 94, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 96, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 119, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 129, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 154, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 183, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 286, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"}
 ]}

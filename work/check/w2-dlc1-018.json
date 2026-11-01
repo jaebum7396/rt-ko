@@ -1,4 +1,20 @@
 {"errors": [],
 "warnings": [
- {"n": 218, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"}
+ {"n": 47, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 56, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 61, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 77, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 88, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 118, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 124, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 185, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 189, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 198, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 200, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 205, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 214, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 215, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 218, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 222, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 224, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"}
 ]}

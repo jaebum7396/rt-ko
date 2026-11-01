@@ -224,7 +224,7 @@
 224	엘다리 무기 숙련
 225	드루카리 무기를 사용할 수 있게 된다.
 226	드루카리 무기 숙련
-227	{g|Encyclopedia:CareerFighterGlossary}워리어{/g}가 {g|Encyclopedia:SkillMedicae}의술{/g} {g|Encyclopedia:Skills}기량{/g} 없이 구급상자를 사용할 수 있게 된다. 또한 워리어에게 구급상자를 사용할 때마다 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 +{unit_stat|WarhammerToughness|bonus} 회복한다.
+227	{g|Encyclopedia:CareerFighterGlossary}워리어{/g}가 {g|Encyclopedia:SkillMedicae}의술{/g} {g|Encyclopedia:Skills}기술{/g} 없이 구급상자를 사용할 수 있게 된다. 또한 워리어에게 구급상자를 사용할 때마다 워리어가 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 +{unit_stat|WarhammerToughness|bonus} 얻는다.
 228	야전 의무병
 229	중화기 사용에 필요한 {g|Encyclopedia:WarhammerStrength}근력{/g} 수치가 −25 감소한다.
 230	중화기 숙련
