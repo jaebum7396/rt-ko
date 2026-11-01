@@ -10,7 +10,7 @@
 - 한글패치는 **enGB.json을 한국어로 바꿔치기**한다 (영어 칸 사용).
 
 ## 2. 번역 원본 — `src/template/Strings/` (모드 템플릿 `Modding/WhRtModificationTemplate.tar`에서 Strings만 풀었다)
-- 줄 하나 = JSON 파일 하나. 77,852개, 701MB. 경로가 곧 분류다 (`Mechanics/Blueprints/<분류>/…`).
+- 줄 하나 = JSON 파일 하나. 파일 77,915개(고유 GUID 77,852개 — 겹치는 63개는 전부 Credits), 701MB. 경로가 곧 분류다 (`Mechanics/Blueprints/<분류>/…`).
 - 필드
   - `key`: 게임 파일의 GUID와 같다 (enGB 77,691줄 모두 파일이 있다)
   - `source`: 원문 언어 (대부분 ruRU — 영어도 번역본이다)
@@ -44,7 +44,7 @@
 | `{g|Encyclopedia:X}글자{/g}` | 17,066 | 태그 유지, 글자만 번역 (용어집) |
 | `{n}글자{/n}` | 16,939 | 대사 속 서술. 태그 유지, 안은 서술체(해라체) |
 | `{d|X}글자{/d}` | 706 | 태그 유지, 글자만 번역 |
-| `{mf|남|여}`, `{rt_mf|남|여}` | 3,419 / 134 | 구조 유지, 둘 다 번역 (`rt_mf` = 로그 트레이더 성별) |
+| `{mf|남|여}`, `{rt_mf|남|여}`, `{nc|a|b}` | 3,419 / 134 / 4 | 구조 유지, 두 칸 다 번역 (`rt_mf` = 로그 트레이더 성별) |
 | `{name}`, `{rt_name}`, `{petname}` 등 변수 | 1,539 / 11 / 65 | 그대로 |
 | `{uip|…}`, `{unit_stat|…}`, `{bind|…}`, `{console_bind|…}`, `{mouse_icon|…}`, `{br}`, `{text}`, `{target}`, `{count}`… | 42종 | 그대로 |
 | `<b>`, `<i>`, `<indent>` 같은 HTML 태그 | | 그대로 |

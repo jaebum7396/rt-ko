@@ -1,0 +1,411 @@
+1	565870bd-2b49-4b0c-a1ab-0e89a0a09e60	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Chaos_NPC_Slave_1_String.json
+2	33fbeaf8-db9f-425a-93fa-8aee4e06fe9b	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Chaos_NPC_Slave_2_String.json
+3	864e157e-3da3-42cb-80a8-4fa3944abb44	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Chaos_NPC_Slave_3_String.json
+4	f85401b8-d7b5-4048-859a-46575acf90ff	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Chaos_NPC_String.json
+5	9bc83062-d844-4ebf-b449-b46ea5f13de2	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Chaos_Soulmark_1_String.json
+6	569b199c-4241-46b7-9456-a3a3818cc666	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Chaos_Soulmark_2_String.json
+7	b0c19198-701d-4d81-a7d9-58349e0e9a2b	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Chaos_Soulmark_3_String.json
+8	64e95a8b-4c9e-4497-8bf1-a17412e4766f	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Chaos_Soulmark_4_String.json
+9	c58ece8d-0ec5-4adf-8b3f-3027e975fe28	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Faith_Soulmark_1_String.json
+10	bdf4fd82-3a7e-4832-a3b2-9d903b92d9cd	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Faith_Soulmark_2_String.json
+11	798e9ddf-48cf-4eae-8106-8467f37bea12	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Faith_Soulmark_Statue_String.json
+12	d499e868-51d7-47a5-bd18-ea88c2e9a770	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Hope_Soulmark_1_String.json
+13	acc6653b-52d0-45ca-9b58-5edff92ad3a2	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Hope_Soulmark_2_String.json
+14	347c1415-0c8a-49e2-828a-42b13f5cb5ed	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Hope_Soulmark_3_String.json
+15	5eab686f-d846-4dc0-b0c6-cf173c41c631	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Hope_Soulmark_4_String.json
+16	a0417346-6588-4344-a5f9-53ca32291fc7	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Hope_Soulmark_5_String.json
+17	b24c3d28-82ff-4baa-91df-462b499bf345	Mechanics/Blueprints/World/Dialogs/VoidshipBridge/Soulmark/Barks/Bark_Hope_Soulmark_6_String.json
+18	7cd8fc33-43cc-4f44-bf6b-676f1dec8954	Mechanics/Blueprints/World/Encounters/DaringHeirGuttedShip/Items/GuttedShipCursedItem_DescriptionText_String.json
+19	badd140f-6963-4bda-b8e8-b020a9450da6	Mechanics/Blueprints/World/Encounters/DaringHeirGuttedShip/Items/GuttedShipCursedItem_DisplayNameText_String.json
+20	e0349ec9-fbca-4621-a29f-510b06476bee	Mechanics/Blueprints/World/Encounters/EE_SpaceScavengers/Items/KeyToRelic_m_Description.json
+21	a62d7fe5-ec43-403d-8ccd-016a3fb347e2	Mechanics/Blueprints/World/Encounters/EE_SpaceScavengers/Items/KeyToRelic_m_DisplayName.json
+22	277c780f-5526-4f67-b9c3-fd4f4bb92290	Mechanics/Blueprints/World/Encounters/FootFallDock/Item/AcquirerDiary_plaintext_.Description_String.json
+23	040664ca-a47d-4078-afa7-f41769a48f89	Mechanics/Blueprints/World/Encounters/FootFallDock/Item/AcquirerDiary_plaintext_.Name_String.json
+24	6126c826-9a06-4a83-a968-741c3001d57c	Mechanics/Blueprints/World/Encounters/FootfallSlums/ActionsHolders/Deratizer_Actions_Bark1_String.json
+25	8833aa85-a963-43e3-a613-8282b2695e94	Mechanics/Blueprints/World/Encounters/FootfallSlums/ActionsHolders/Deratizer_Actions_Bark2_String.json
+26	9b5f7bfa-f759-4c09-a64a-4d42613f462a	Mechanics/Blueprints/World/Encounters/FootfallSlums/ActionsHolders/Deratizer_Actions_Bark3_String.json
+27	9f08681e-59b5-4669-b1fa-301504875a76	Mechanics/Blueprints/World/Encounters/FootfallSlums/Items/AtriumNote_.Description_String.json
+28	49c3e122-bf6a-44d5-b5be-cf9ab97bb6f6	Mechanics/Blueprints/World/Encounters/FootfallSlums/Items/AtriumNote_.DisplayName_String.json
+29	e1e352e9-f58c-4733-97f1-49bd64f55b0b	Mechanics/Blueprints/World/Encounters/FootfallSlums/Items/EyesAndTongue_.Description_String.json
+30	2137ae38-84af-4045-a041-81775a718528	Mechanics/Blueprints/World/Encounters/FootfallSlums/Items/EyesAndTongue_.DisplayName_String.json
+31	6e9753af-0812-4353-ac44-8a496b4c3661	Mechanics/Blueprints/World/Encounters/ForgeHeart/ActionsHolders/GoToLiftInteraction_Bark_String.json
+32	877ee0df-3624-4da0-97ac-7c313bf716a4	Mechanics/Blueprints/World/Encounters/ForgeHeart/ActionsHolders/MainLiftILockdownCogitator1_Interaction_Actions_.Actions.Actions.Array.data[2].WhatToBark_.json
+33	26865196-1d3d-4d94-91f5-f201dde9f949	Mechanics/Blueprints/World/Encounters/ForgeHeart/DestructableObjects/DestructablePlasmaBattery_ForgeHeart_Name_String.json
+34	4614d02b-e768-43f2-9e3f-14023f5416db	Mechanics/Blueprints/World/Encounters/ForgeHeart/Items/ForgeHeart_LiftLockdowCogitator2_Key_m_DisplayName.json
+35	d3f3d959-a07d-4c87-b2d6-3e1eb0395e41	Mechanics/Blueprints/World/Encounters/ForgeWorld/ActionsHolders/Button9_ToDataVault_CheckPassedActions_Actions.Actions.Array.data[0].IfFalse.Actions.Array.data[0].WhatToBark.json
+36	63516dc4-f4b1-4c10-b3f9-df47b96390a7	Mechanics/Blueprints/World/Encounters/ForgeWorld/ActionsHolders/Button9_ToDataVault_CheckPassedActions_Actions.Actions.Array.data[0].IfTrue.Actions.Array.data[1].WhatToBark.json
+37	17b050cb-4b78-44a9-acaf-920ce74981ad	Mechanics/Blueprints/World/Encounters/ForgeWorld/ActionsHolders/ButtonLiftTop_CheckPassedActions_.Actions.Actions.Array.data[0].IfFalse.Actions.Array.data[0].WhatToBark_.json
+38	e5fe0c19-df91-4b26-9f4a-1bb128eed839	Mechanics/Blueprints/World/Encounters/ForgeWorld/ActionsHolders/SecretStashFWFail_.json
+39	bc6b4d03-deff-4979-a717-34b17e154307	Mechanics/Blueprints/World/Encounters/ForgeWorld/ActionsHolders/SecretStashFWSuccess_.json
+40	35953018-b563-4e00-8992-c461fcf040a2	Mechanics/Blueprints/World/Encounters/Generic/Items/Consumable_MeltaCharge_m_Description.json
+41	4839b9f3-2ed5-4a16-b895-a6bf99c21a88	Mechanics/Blueprints/World/Encounters/Generic/Items/Consumable_MeltaCharge_m_DisplayName.json
+42	b0b31717-0cc9-4c27-9594-d2ff04c287dc	Mechanics/Blueprints/World/Encounters/Generic/Items/Consumable_Multikey_m_Description.json
+43	1a0e7ccb-8561-4a04-9018-fc2fa004d988	Mechanics/Blueprints/World/Encounters/Generic/Items/Consumable_Multikey_m_DisplayName.json
+44	f4547114-2d43-48f8-bdae-2237f7cc2909	Mechanics/Blueprints/World/Encounters/Generic/Items/Consumable_RitualSet_m_Description.json
+45	f1f70319-1eab-4e20-ad2a-3c5ad12b8565	Mechanics/Blueprints/World/Encounters/Generic/Items/Consumable_RitualSet_m_DisplayName.json
+46	cc52fc90-dad4-4481-9c30-ad780b4c2f82	Mechanics/Blueprints/World/Encounters/ManipulusLaboratory/SmallIceDamageResist_Feature_String.json
+47	affbea34-a039-4198-86b0-9418a7a3db28	Mechanics/Blueprints/World/Encounters/Museion_HardlightLab/ActionsHolders/HardlightLab_Platform_Off_Actions.Actions.Array.data[3].Text.json
+48	ab752104-7411-4383-955f-7c570aaeeec6	Mechanics/Blueprints/World/Encounters/PrisonPit/ActionsHolders/Kibellah_WontDialog_String.json
+49	ff1b989e-9aa5-4455-96c8-647cc6ec1180	Mechanics/Blueprints/World/Encounters/UI_TestPolygon/ActionsHolders/SkillcheckWithBark_CheckPassedActions_Actions.Actions.Array.data[0].WhatToBark.json
+50	78156fc1-b0a2-4fa6-80ec-520dca18d243	Mechanics/Blueprints/World/Encounters/VoidshipCrypt/ActionsHolders/Cube (8)_loot_object_Action_Actions.Actions.Array.data[0].Text.json
+51	f734f649-b267-4848-b16d-4d47fea92bbb	Mechanics/Blueprints/World/Etudes/RogueTraderEtude/DLC3_InfiniteMuseion/DLC3_AreasDefault/Museion/DargonusLoop/DragonusLoop_Soldiers_Fraction_Actions.Actions.Array.data[0].Actions.Actions.Array.data[3].Text.json
+52	0d54a5f1-b72c-411d-8810-3652a1fb4c5f	Mechanics/Blueprints/World/Etudes/RogueTraderEtude/DLC3_InfiniteMuseion/DLC3_AreasDefault/Museion/HardlightLab/Main/HLab_Puzzle/HLab_Puzzle_A_Actions.Actions.Array.data[1].WhatToBark_1.json
+53	410c79e2-f461-40cf-b2aa-f93a5d1ec0fb	Mechanics/Blueprints/World/Etudes/RogueTraderEtude/DLC3_InfiniteMuseion/DLC3_AreasDefault/Museion/HardlightLab/Main/HLab_Puzzle/HLab_Puzzle_B_Actions.Actions.Array.data[1].WhatToBark.json
+54	d76635e7-2c0d-4bdb-b84e-aaea275be74e	Mechanics/Blueprints/World/Etudes/RogueTraderEtude/DLC3_InfiniteMuseion/DLC3_AreasDefault/Museion/HardlightLab/Main/HLab_Puzzle/HLab_Puzzle_C_Actions.Actions.Array.data[1].WhatToBark.json
+55	8d91932c-e78d-4e30-9461-194bca865d47	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[0].Name.json
+56	ff55e607-c9c8-42bc-a02a-61fb893325d4	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[1].Name.json
+57	b05fc5b5-154c-4360-b32e-11984b0eaf6c	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[2].Name.json
+58	0d4a4bda-cc6f-4ffa-b0b6-d534973b1b8d	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[3].Name.json
+59	a7f54e8a-6f40-4449-8fda-dbfdce53fe94	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[4].Name.json
+60	c5cb474f-8c98-46e9-8bde-fc9ac01d0364	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[5].Name.json
+61	2ab20199-c9d8-4997-a2b7-fc12838d1315	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[6].Name.json
+62	08fc7a15-7918-4361-a5e3-35318325cc1e	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[7].Name.json
+63	8c857f8a-e260-447b-91eb-a31db9b196b7	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[8].Name.json
+64	97f025cb-c71c-4637-9829-680b48c14b21	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[9].Name.json
+65	aec4de0f-868f-4c44-929b-421f9b05a525	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[10].Name.json
+66	bc4450ed-201c-484a-9ccd-111ae96254d9	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[11].Name.json
+67	d7a9042e-c640-47a0-8488-b237987a8276	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[12].Name.json
+68	b00ad157-d089-46eb-95fa-5161b9fce5d8	Mechanics/Blueprints/World/Quests/QuestGroups_Groups.Array.data[13].Name.json
+69	49879ef3-44fe-4fdc-820e-fe17783de68b	Mechanics/Blueprints/World/Quests/ChaosQuest/01_2_KeepTheShards_Description.json
+70	7716046d-b2b3-477e-ad7a-409735f11f53	Mechanics/Blueprints/World/Quests/ChaosQuest/01_2_KeepTheShards_Title.json
+71	79e63eaf-c3af-45ac-98dd-416a47f3dbb9	Mechanics/Blueprints/World/Quests/ChaosQuest/01_FindTheSecondShard_Description.json
+72	3f7c3245-1948-4c1f-b12d-e18876404c93	Mechanics/Blueprints/World/Quests/ChaosQuest/01_FindTheSecondShard_Title.json
+73	d193b15f-b148-4282-813b-a11d021c4a4f	Mechanics/Blueprints/World/Quests/ChaosQuest/02_GrowInPower_Description.json
+74	59fe6f50-bc79-4fef-bd32-b969a18a7b26	Mechanics/Blueprints/World/Quests/ChaosQuest/02_GrowInPower_Title.json
+75	5387d5d4-10d9-484b-b907-99d41f47edd1	Mechanics/Blueprints/World/Quests/ChaosQuest/03_UseSwordsOnTheAltar_Description.json
+76	ccdff4f1-3887-4cb1-9c29-8d3d03535791	Mechanics/Blueprints/World/Quests/ChaosQuest/03_UseSwordsOnTheAltar_Title.json
+77	172b00f9-3afe-46e7-acfb-8c3fc36a3a3d	Mechanics/Blueprints/World/Quests/ChaosQuest/04_2_ReachFourthMark_Description.json
+78	b0a1e8fb-b9bd-47e1-ad92-c10e8681f2fd	Mechanics/Blueprints/World/Quests/ChaosQuest/04_2_ReachFourthMark_Title.json
+79	acbaf3e0-5012-4a1c-bdd4-de199bd304b6	Mechanics/Blueprints/World/Quests/ChaosQuest/04_3_MeetUralonTheCruel_Description.json
+80	75961052-159e-440f-aff6-4c941164135f	Mechanics/Blueprints/World/Quests/ChaosQuest/04_3_MeetUralonTheCruel_Title.json
+81	5ae646b4-c5a6-4484-b7c7-fa0f8a6fd411	Mechanics/Blueprints/World/Quests/ChaosQuest/04_WaitForTheRightTime_Description.json
+82	e5eab086-4f44-458c-9b4a-6fa1faa56fcc	Mechanics/Blueprints/World/Quests/ChaosQuest/04_WaitForTheRightTime_Title.json
+83	7ca8e439-f566-4193-8e80-62438296059f	Mechanics/Blueprints/World/Quests/ChaosQuest/05_2_SacrificeSM_Description.json
+84	bd276ca4-7251-41e6-8c6a-6628861ef833	Mechanics/Blueprints/World/Quests/ChaosQuest/05_2_SacrificeSM_Title.json
+85	8c94de96-fd9f-48fd-8aa3-4982758f3039	Mechanics/Blueprints/World/Quests/ChaosQuest/05_TellTheName_Description.json
+86	4059a017-3e53-4440-a1d6-51febc1a26bd	Mechanics/Blueprints/World/Quests/ChaosQuest/05_TellTheName_Title.json
+87	b79aea9d-77a9-4db7-86bc-6dc391257267	Mechanics/Blueprints/World/Quests/ChaosQuest/06_ChooseYourPath_Description.json
+88	595668f1-84ef-495b-9c6f-c082db6c483a	Mechanics/Blueprints/World/Quests/ChaosQuest/06_ChooseYourPath_Title.json
+89	f407a279-eef6-4fdd-91a1-87fff577cd96	Mechanics/Blueprints/World/Quests/ChaosQuest/ChaosArtifact_quest_CompletionText.json
+90	f1448abb-b654-440a-bfd8-08745df9dd2c	Mechanics/Blueprints/World/Quests/ChaosQuest/ChaosArtifact_quest_Description.json
+91	e0e10890-86de-47f2-8674-7688e48b7728	Mechanics/Blueprints/World/Quests/ChaosQuest/ChaosArtifact_quest_Title.json
+92	d6c3af6c-c6fc-449d-bcad-df8463078af8	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/01_FindAndDestroy_Description.json
+93	5d97acf9-591c-4944-aead-22982ae4a73b	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/01_FindAndDestroy_Title.json
+94	633e608e-7deb-4f60-bb7f-976798b3d2ac	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/02_SabotageOpera_Description.json
+95	fa53740e-4765-4ca0-9421-1c92d9416df0	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/02_SabotageOpera_Title.json
+96	20ebce0c-32e8-4b0a-b2a7-543c23326308	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/03_MakeASacrifice_Description.json
+97	2bb0fdf6-63d3-40ff-b850-38ef6b3eea9b	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/03_MakeASacrifice_Title.json
+98	8b72f5bb-78c4-4b52-ad35-1412de4ecfb7	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/04_DestroyArenaDumper_Description.json
+99	795e7fa7-60f8-4de4-bf45-4b8bbcf16019	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/04_DestroyArenaDumper_Title.json
+100	24f6ae7d-bd50-46c6-b69d-5850011239ee	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/ChaosSabotage_quest_CompletionText.json
+101	5f0f33e4-3233-4050-a276-660f7052720d	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/ChaosSabotage_quest_Description.json
+102	1b2a95b5-c715-4745-b8d5-c8d055f45797	Mechanics/Blueprints/World/Quests/Chapter3/ChaosSabotage_quest/ChaosSabotage_quest_Title.json
+103	bcb6ea28-e2bc-4ebf-bcc9-8b9245ef27a3	Mechanics/Blueprints/World/Quests/Chapter3/Errands/CheckOnLoyalists/CheckOnLoyalists_errand_Description.json
+104	3469423a-b78b-40bb-8315-9333e3ba1708	Mechanics/Blueprints/World/Quests/Chapter3/Errands/CheckOnLoyalists/CheckOnLoyalists_errand_Title.json
+105	8f2823a6-5ed6-4454-ad83-a362c098e5f0	Mechanics/Blueprints/World/Quests/Chapter3/Errands/Chtonos/Chtonos_errand_Description.json
+106	86ea4c3b-8adc-4042-ada2-049a7ab2e5ca	Mechanics/Blueprints/World/Quests/Chapter3/Errands/Chtonos/Chtonos_errand_Title.json
+107	aac8b1a7-0da5-464b-a34f-2b93d6362aaf	Mechanics/Blueprints/World/Quests/Chapter3/Errands/FindYouyShoes/FindYouyShoes_errand_Description.json
+108	0dc14704-e7ac-4287-b451-13162a50f727	Mechanics/Blueprints/World/Quests/Chapter3/Errands/FindYouyShoes/FindYouyShoes_errand_Title.json
+109	924438f3-837e-4fdf-9dab-2f07eb221a79	Mechanics/Blueprints/World/Quests/Chapter3/Errands/HeinrixRomance/HeinrixBreather_errand_Description.json
+110	8280c9af-6091-47bc-a2a9-89ed08843b80	Mechanics/Blueprints/World/Quests/Chapter3/Errands/HeinrixRomance/HeinrixBreather_errand_Title.json
+111	9a04421f-7ae8-49d4-959a-ff6b025cf7de	Mechanics/Blueprints/World/Quests/Chapter3/Errands/JaePrisonParty/JaePrisonParty_errand_Description.json
+112	11425f73-2ae8-4ecb-9b86-0c013ed5ef9c	Mechanics/Blueprints/World/Quests/Chapter3/Errands/JaePrisonParty/JaePrisonParty_errand_Title.json
+113	e316bd2f-4bc6-419c-8a7d-3bcb621429b0	Mechanics/Blueprints/World/Quests/Chapter3/Errands/LastStrike/LastStrike_errand_Description.json
+114	59c44831-f5c3-44a1-9b4a-180eac8fa68d	Mechanics/Blueprints/World/Quests/Chapter3/Errands/LastStrike/LastStrike_errand_Title.json
+115	1f0cfe15-05ec-460e-b427-0a32194f87b1	Mechanics/Blueprints/World/Quests/Chapter3/Errands/MaliceComissar_Revenge/MaliceComissar_Revenge_errand_Description.json
+116	d1012a58-115e-48eb-916b-7ce987dc8a4f	Mechanics/Blueprints/World/Quests/Chapter3/Errands/MaliceComissar_Revenge/MaliceComissar_Revenge_errand_Title.json
+117	5ede4f93-9663-4157-be8a-9bb974a88a01	Mechanics/Blueprints/World/Quests/Chapter3/Errands/PatchMonster/PatchMonster_errand_Description.json
+118	9ddaa8be-536d-45e3-91ae-2668c8d0ba97	Mechanics/Blueprints/World/Quests/Chapter3/Errands/PatchMonster/PatchMonster_errand_Title.json
+119	ae7030df-5da0-49f0-b28e-9f296837e525	Mechanics/Blueprints/World/Quests/Chapter3/Errands/PitMeeting/PitMeeting_errand_CompletionText.json
+120	e618e7ca-3c2b-45f5-9d6a-be327fb0d8ae	Mechanics/Blueprints/World/Quests/Chapter3/Errands/PitMeeting/PitMeeting_errand_Description.json
+121	5eeb5140-5e23-4442-815f-4d0435473da5	Mechanics/Blueprints/World/Quests/Chapter3/Errands/PitMeeting/PitMeeting_errand_Title.json
+122	2332f714-220e-4669-8274-721427d626d4	Mechanics/Blueprints/World/Quests/Chapter3/Errands/RecruitUlfar/RecruitUlfar_errand_Description.json
+123	172260da-e64e-4bdc-99d5-e8b128116024	Mechanics/Blueprints/World/Quests/Chapter3/Errands/RecruitUlfar/RecruitUlfar_errand_Title.json
+124	d0d51ce4-3617-4d7e-9421-2fad38faeb66	Mechanics/Blueprints/World/Quests/Chapter3/Errands/TradeSoulstone/TradeSoulstone_errand_Description.json
+125	5e769f3f-cae8-42a4-bb21-9a5034222c2c	Mechanics/Blueprints/World/Quests/Chapter3/Errands/TradeSoulstone/TradeSoulstone_errand_Title.json
+126	df25b2f0-c12d-417d-8fec-ce4179e97d12	Mechanics/Blueprints/World/Quests/Chapter3/Errands/WarmAnger/WarmAnger_errand_Description.json
+127	fef9042e-cd83-4a31-9aff-afa35c64e22b	Mechanics/Blueprints/World/Quests/Chapter3/Errands/WarmAnger/WarmAnger_errand_Title.json
+128	3ebb6c71-f017-4c25-84e8-63659eea219a	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Add_ThisIsTervantias_Description.json
+129	aad449d4-f90b-452d-9def-034ac390c213	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Addendum_0001_Description.json
+130	c232e9f7-52e0-4165-accb-6bddc6f6e7a3	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/EscapeChasm_quest_CompletionText.json
+131	f428ef43-30e2-471a-8b0e-6985d7fbf21e	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/EscapeChasm_quest_Description.json
+132	d6066b4e-34b9-4001-b431-95b079713db7	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/EscapeChasm_quest_Title.json
+133	b3cba404-0e0a-4412-b606-3dd1b9ec815b	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj1.5B_GoToPortal_Description.json
+134	ded1aed6-d613-426c-bff2-899a52d9092b	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj1.5B_GoToPortal_Title.json
+135	35f105a0-7dad-42cd-91df-83cdb18f56e1	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj1A_Debt_Description.json
+136	7297e218-6459-4ee3-92d1-60dc483a70b8	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj1A_Debt_Title.json
+137	af01bb83-eeda-4aec-943b-b0fcda232787	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj1B_KillAnger_Description.json
+138	d2703db7-1903-4078-9039-8f27b84f440f	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj1B_KillAnger_Title.json
+139	1d9c8cf6-a6f4-4caa-9526-ec38f31d103e	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj2_FirstFight_Description.json
+140	ace5239e-6765-45fa-b1a8-61abcb34dcf6	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj2_FirstFight_Title.json
+141	34dda0cd-53d4-468e-bfee-ef5d61022035	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj3_TalkToHaemonculus_Description.json
+142	873403e8-d67e-491f-a1ee-11657c3cbc4d	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj3_TalkToHaemonculus_Title.json
+143	2f67b803-0505-445a-918e-7a26d68086e5	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj4_TalkToProselytes_Description.json
+144	54a56fb8-9e09-4158-8a7d-f96b6047e98f	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj4_TalkToProselytes_Title.json
+145	d7793bed-eeb2-4f02-ac76-9a4f54b40be2	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj5_SecondFight_Description.json
+146	a3c16e09-9139-4aee-9191-6c6df524fa28	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj5_SecondFight_Title.json
+147	497e6bde-fb29-41b8-9978-0ea7d91dd8f5	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj6_TalkToHaemonculus_Description.json
+148	2183fc8f-8bf4-4ae2-8ab7-8c4cc122b578	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj6_TalkToHaemonculus_Title.json
+149	bad067d3-e79e-4f4d-9b9f-868fb0cde403	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj7_ThirdFight_Description.json
+150	6b324862-612b-40d7-96f6-8cf547b1cbd1	Mechanics/Blueprints/World/Quests/Chapter3/EscapeChasm/Obj7_ThirdFight_Title.json
+151	ba7c0e97-5f29-4382-a4dc-79adc89fd030	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/05_RecruitAShip_Title.json
+152	fe9ebed4-47b4-4bb0-98fe-a5f5d9f6493f	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/06_DefeatArenaNemesis_Title.json
+153	9d0147a3-afc4-494a-91de-134c43296e53	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/07_ReachTheSpire_Title.json
+154	0821e060-c38d-435f-9bdd-e63efd3e230e	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/09_FindYourWayOut_Description.json
+155	3611fdb1-76cd-4576-b83d-e3d1748e45fb	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/09_FindYourWayOut_Title.json
+156	8a9f272d-709d-4653-8adc-4dca2156bce9	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/10_KillArchon_Description.json
+157	4b43fe49-e83b-46a8-8cae-19934dc59878	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/10_KillArchon_Title.json
+158	112bfe21-bb36-4541-a1a5-5b009a05b4f9	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/11_ActivateWebwayGate_Description.json
+159	dea26120-a98f-4a93-bf7f-b052646d35c2	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/11_ActivateWebwayGate_Title.json
+160	6d6d1a8a-7238-46e7-9441-19f3ed70a738	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/Addendum_0001_Description.json
+161	aa31064f-96bd-4c8f-85fd-d5eb56af5a4c	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/Addendum_0012_Description.json
+162	9e7bdd6b-b697-44c0-afb2-e5c81ebaef9b	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/Addendum_0013_Description.json
+163	433260e0-fd5b-42f7-8d0b-754fce5a8212	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/Addendum_0014_Description.json
+164	4ac7ffda-728f-4794-9b48-9cc11e87bd79	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/Addendum_0015_Description.json
+165	efe7a98e-699e-4c56-b7ee-4a40e3c31dc2	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/EscapeCommoragh_quest_Description.json
+166	81ac9dc1-4f61-4f79-80a0-36b06a4e0074	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/EscapeCommoragh_quest_Title.json
+167	e2aa7156-acca-4aad-a1e1-2a7524c19f9a	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/Obj1_ScoutTheSurroundings_Description.json
+168	3bfb1c40-cd7e-4390-878d-4453cac061fa	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/Obj2_KillPartyingDrukhari_Description.json
+169	b1a55b82-1f37-4006-b861-651ca3e10264	Mechanics/Blueprints/World/Quests/Chapter3/EscapeCommoragh_quest/Obj3_ReachTheSpire_Description.json
+170	259c2eee-4978-4886-be5d-04810c5e5021	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/1_ReachDistantSystem_Description.json
+171	2fd6bd41-75ec-49b8-8721-a460b2a0fa6e	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/1_ReachDistantSystem_Title.json
+172	44f7f254-4d7b-4462-88c7-d587dda0c1d8	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/2_ExploreDistantSystem_Description.json
+173	276d4b67-54cf-4c51-ac2b-c73db7f190a0	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/2_ExploreDistantSystem_Title.json
+174	b39e35f5-975f-44fb-b244-1e79dd0ab7e2	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/3_VisitChartistBoard_Description.json
+175	652a88e8-e386-41a7-9b6f-821c7b5cc6bf	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/3_VisitChartistBoard_Title.json
+176	a04c9bb4-ed28-49a1-8b85-7ee050f5442b	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/FollowingBreadcrumbs_quest_CompletionText.json
+177	ad1e920d-c843-426d-82f4-62ee3e59e762	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/FollowingBreadcrumbs_quest_Description.json
+178	e3aec40b-ebfc-4791-bfeb-fa0bdf889774	Mechanics/Blueprints/World/Quests/Chapter3/FollowingBreadcrumbs_quest/FollowingBreadcrumbs_quest_Title.json
+179	ba1b2d17-b3c7-486f-90ed-25d1ae34cc3f	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/1_ReachLair_Description.json
+180	9ebfc582-f56f-444c-bf05-cd2f86ea285c	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/1_ReachLair_Title.json
+181	d35e4e5d-602e-4c1c-808c-2ba99bd01882	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/2_SetTrap _Description.json
+182	daad6926-c8c9-4622-b228-02390e6dc839	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/2_SetTrap _Title.json
+183	3009bfa4-15cd-4ccd-9353-39ff68fa6397	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/Add1_IntoVenting_Description.json
+184	9a09be0e-fee9-4058-b94c-12b49cb58e4a	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/Add2_TripWire_Description.json
+185	b06fbdfc-c480-40aa-a35a-9d1763e99319	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/Add3_BehindTheWall_Description.json
+186	ab3c305d-0b81-45ff-8e13-237ab22fb3ed	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/Add4_TurretsReady_Description.json
+187	0a5d8d4a-00f9-4311-b215-55adffacf9a7	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/Add5_DepressurizeStation_Description.json
+188	8590a834-36f6-4062-958a-da1eb14728ca	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/HuntTheHunter_quest_CompletionText.json
+189	684e06cb-44b7-4583-aac2-2ba5951514ec	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/HuntTheHunter_quest_Description.json
+190	5b5d6db2-f7b6-4952-ac81-8db1a91597ca	Mechanics/Blueprints/World/Quests/Chapter3/HuntTheHunter_quest/HuntTheHunter_quest_Title.json
+191	ff3a6933-9194-4951-a116-28c1cb905e7a	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add1_FindPascal_Description.json
+192	fd132d7b-0a3d-4f1f-adec-362784089213	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add2_FindArgenta_Description.json
+193	d7c0c4eb-bd84-4f41-91af-297bfa14f6d8	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add3_FindAbelard_Description.json
+194	79107d3d-b009-4849-b69e-4c738f92b182	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add4_FindYrliet_Description.json
+195	14e25980-77b0-456e-a0cb-05f63ed02a0a	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add5_FindIdira_Description.json
+196	cb039800-5f3c-4c2e-b22d-459eced6d215	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add6_FindJae_Description.json
+197	199cad20-9612-460f-86bf-9066a57e187d	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add7_2_FindCageHeinrix_Description.json
+198	df827601-ad37-4bec-9b55-f1d4f60aa39d	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add7_FindHeinrix_Description.json
+199	079f19f8-6965-45ab-8c19-5b1a09a97859	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add8_2_FindCageCassia_Description.json
+200	acdf82e2-c5db-4d4e-a04c-375cfd18502b	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add8_FindCassia_Description.json
+201	54d06d81-8db3-4289-8a76-b3e318845843	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add9_FindKibellah_Description.json
+202	9fdb0ee7-8bbe-4819-844e-5340fe5d2c0f	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add10_1_FindDog_Description.json
+203	eb1175c9-68fa-40e1-a1a7-e1e211b04bd4	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add10_2_FollowTheDog_Description.json
+204	aa70e298-45ff-4506-9763-3ca978a12b9d	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add10_FindSolomorne_Description.json
+205	f7d8f211-b54f-4b6b-a277-cf5ce9d010e9	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add11_2_MakeEogannApologize_Description.json
+206	bc35e62c-f29d-4ea9-a492-6b13720ee9a7	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add11_3_InspectNuncius_Description.json
+207	b3bd1f20-153f-4644-b221-2f75d063fbf0	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add11_FindEogan_Description.json
+208	477922f0-d41b-4d73-8da9-a9cd08765d44	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Add_FindMerc1_Description.json
+209	41c6187f-4768-4e42-a982-55129e88adb4	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Addendum_0001_Description.json
+210	6268f960-d9dc-4635-b0fb-718dd41b074d	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Obj1_RestoreYourParty_Description.json
+211	9f7d3e54-1e23-45d3-a122-c6fce7eb38a6	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Obj1_RestoreYourParty_Title.json
+212	c096ca89-0876-4750-afa9-0da9b544ceb0	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Reunion_quest_CompletionText.json
+213	4aab4d4e-2da8-4972-b0b6-7ba4b940f636	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Reunion_quest_Description.json
+214	9e5f6e64-6b8d-4fb5-893a-78dd13be373e	Mechanics/Blueprints/World/Quests/Chapter3/Reunion/Reunion_quest_Title.json
+215	08b52fde-fcea-4b43-b98a-f969e52afedb	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/01_WaitForNews_Title.json
+216	a760fb90-ef31-4acf-ba3f-5539e52a26fd	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/02_EscapeCommorragh_Title.json
+217	1c4daf0a-87ca-4393-b720-153d80552b98	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/03_FindYourWayToTheVoidship_Title.json
+218	04dafcbf-45e7-4fdd-9d76-b6bad4e8fabd	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/Addendum_0001_Description.json
+219	932b89ef-2cdc-40de-b0b8-27f13ccc670c	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/Addendum_0002_Description.json
+220	a509ba5b-503e-459b-a392-b7cd002c61f1	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/Objective_0001_Description.json
+221	ac356ff9-f316-4f18-8dd8-e12efe58bc1d	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/Objective_0004_Description.json
+222	56d45517-164a-4fb3-9b58-382ce8f81b5a	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/Objective_0005_Description.json
+223	b1b85668-c894-4539-9799-0f540bcf2447	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/SolvePlanetProblem_quest_CompletionText.json
+224	b8060fcb-74a3-4d27-a901-1e687e26b1f7	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/SolvePlanetProblem_quest_Description.json
+225	918122c1-9947-43b9-8b08-e557db2d476d	Mechanics/Blueprints/World/Quests/Chapter3/SolvePlanetProblem_quest/SolvePlanetProblem_quest_Title.json
+226	4bc9f64a-bf4a-4d1f-ac88-495652bc106a	Mechanics/Blueprints/World/Quests/Chapter3/SurvivePit/Obj1_EscapeMeatDump_Description.json
+227	ba6d752c-fa21-4c6e-9d39-359649943ca9	Mechanics/Blueprints/World/Quests/Chapter3/SurvivePit/Obj1_EscapeMeatDump_Title.json
+228	b5e8de89-c422-4f7e-8281-a284bc6a20ee	Mechanics/Blueprints/World/Quests/Chapter3/SurvivePit/Obj2_FindHelp_Description.json
+229	2e2aa0c9-7408-4320-9ae8-2a827b9f9089	Mechanics/Blueprints/World/Quests/Chapter3/SurvivePit/Obj2_FindHelp_Title.json
+230	584d595a-f030-49e3-8312-11ba1b9486c0	Mechanics/Blueprints/World/Quests/Chapter3/SurvivePit/SurvivePit_quest_CompletionText.json
+231	a14a110c-1966-4c4a-a780-890401259450	Mechanics/Blueprints/World/Quests/Chapter3/SurvivePit/SurvivePit_quest_Description.json
+232	1b881dce-e360-408d-9dba-ac0ac3e2aa80	Mechanics/Blueprints/World/Quests/Chapter3/SurvivePit/SurvivePit_quest_Title.json
+233	635c3aba-d8d5-468d-b4bc-94408b30f125	Mechanics/Blueprints/World/Quests/Chapter4/Errands/MinorDevelopments/MinorDevelopments_errand_Description.json
+234	54b6087c-d2cd-459a-8395-c74f1167fc57	Mechanics/Blueprints/World/Quests/Chapter4/Errands/MinorDevelopments/MinorDevelopments_errand_Title.json
+235	89a641ba-4695-4b44-bc38-7f1cb0404480	Mechanics/Blueprints/World/Quests/Chapter4/Errands/SaveTheDoomed/SaveTheDoomed_errand_Description.json
+236	55a3649e-0cd1-429e-8327-db2c296062c3	Mechanics/Blueprints/World/Quests/Chapter4/Errands/SaveTheDoomed/SaveTheDoomed_errand_Title.json
+237	0144c788-a4d7-4fe0-8f5e-c1bdf8c299e7	Mechanics/Blueprints/World/Quests/Chapter4/Errands/UnquenchableThirst/UnquenchableThirst_errand_Description.json
+238	65b489d6-d69f-4cda-828a-cf84a5110faa	Mechanics/Blueprints/World/Quests/Chapter4/Errands/UnquenchableThirst/UnquenchableThirst_errand_Title.json
+239	48b029de-becb-45f4-b982-cd1d78b8d30c	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/ForgeSiege_quest_CompletionText.json
+240	85712c9f-c0af-4c2d-8b82-af40022ddf1a	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/ForgeSiege_quest_Description.json
+241	5efbee05-b5a1-4949-b573-63e8ab7f1a33	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/ForgeSiege_quest_Title.json
+242	3ab674a6-015c-4085-8b85-1b05324ed6c2	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj1_WarCouncil_Description.json
+243	abb6354e-ad32-4bfd-996e-5ffaab831eff	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj1_WarCouncil_Title.json
+244	8792e871-265b-43ad-b006-3ff96776a879	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj2_SpaceFight_Description.json
+245	83814bbc-2632-49f2-878a-7f7be23c8ecf	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj2_SpaceFight_Title.json
+246	bdb1a63b-8c8e-433d-8369-692db59fc41b	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj3_PlanetAssault_Description.json
+247	9bfbef9c-7d67-4dc5-b54b-ebe87bd8994f	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj3_PlanetAssault_Title.json
+248	a316d2a0-706f-4163-8ba4-032618b7e844	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj4_FindUralon_Description.json
+249	c988a81f-e67b-4e99-884d-e02438d71a23	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj4_FindUralon_Title.json
+250	51afc90e-75fa-4de8-a683-6c538f0361aa	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj5_KillUralon_Description.json
+251	40856786-a6e2-41be-adc5-f14848ba50ab	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj5_KillUralon_Title.json
+252	ef0962c4-3396-4df2-86c3-0624ab39cc67	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj6_Report_Description.json
+253	bc0e62eb-69a3-42d3-b799-d967a6a499fc	Mechanics/Blueprints/World/Quests/Chapter4/ForgeSiege/Obj6_Report_Title.json
+254	5aae092f-af44-423a-99dc-f19e9408b26f	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/GoToFootfall_quest_CompletionText.json
+255	55a5c74a-54ea-4de6-b439-d19848f5fbc5	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/GoToFootfall_quest_Description.json
+256	9bfb5b09-1985-4252-aecb-4e1dc719d55a	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/GoToFootfall_quest_Title.json
+257	8793a9c7-6b71-4d68-8c6f-a54a42891e5f	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/Obj1.5_TalkToChorda_Description.json
+258	99ea7da1-cabb-487c-956e-e66db11b872e	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/Obj1.5_TalkToChorda_Title.json
+259	fb68552c-e01f-450b-bdc9-0dd9e0d14ce6	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/Obj1_GoToFootfall_Description.json
+260	effaf88a-a41e-4e47-a500-65cdb36c6937	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/Obj1_GoToFootfall_Title.json
+261	f934a012-2771-4cd5-993f-4f7487b0f948	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/Obj2_WaitInquisitor_Description.json
+262	ba0a8cac-28f2-4345-82ea-b8d6438e2b5f	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/Obj2_WaitInquisitor_Title.json
+263	d043f1ae-d2e4-491f-bbab-81db93de2a16	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/Obj3_GoToXavier_Description.json
+264	82f2b5f3-b48f-404e-a14d-24d293137a83	Mechanics/Blueprints/World/Quests/Chapter4/GoToFootfall/Obj3_GoToXavier_Title.json
+265	021c4c59-b088-4f32-851e-86ee1f8a409f	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/GreatJudgement_CompletionText.json
+266	2fb61b1a-69f3-4a13-837f-6dc2e8e4bc66	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/GreatJudgement_Description.json
+267	d71921c3-a944-4733-8c4a-ee0fd1844b8c	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/GreatJudgement_Title.json
+268	6c20997b-2673-4fab-b503-14ca1986c46f	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj0_ThinkAboutOptions_Description.json
+269	83a33a12-f489-478e-bcdc-1b98a065cb85	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj0_ThinkAboutOptions_Title.json
+270	f2ba3bdf-d075-41bb-b6cb-5a2ed4006612	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj1A_TakeVladaym_Description.json
+271	79b60c0c-7c31-4ad9-883f-2b522d334825	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj1A_TakeVladaym_Title.json
+272	1990312a-7a0c-41fe-bafd-94d4c2e49d85	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj1B_TalkToVladaym_Description.json
+273	fa7a99f1-9ca4-4563-b51f-ec87309be6dc	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj1B_TalkToVladaym_Title.json
+274	e58ada51-b02c-4638-8535-06dfde69dcc8	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj2A_KillVladaym_Description.json
+275	dd1d0946-f3c9-4c0c-8a05-ab9cbd477363	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj2A_KillVladaym_Title.json
+276	d6132ad8-a2bf-436f-ae06-d5fb5c650e19	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj2B_AttractChorda_Description.json
+277	46cbbeb1-787e-4c0e-a355-f9f9a4a84a53	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj2B_AttractChorda_Title.json
+278	2f24df51-373d-4fca-992b-5d3cf3e8cb57	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj3A_KillChorda_Description.json
+279	dd87049d-3ba9-452a-85f8-18ea3770c2cb	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj3A_KillChorda_Title.json
+280	080b32cf-26ea-44b0-95eb-e4955db786a2	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj3B_KillHieronimus_Description.json
+281	baae3651-4d62-48eb-a753-7c20da3bb0dd	Mechanics/Blueprints/World/Quests/Chapter4/GreatJudgement/Obj3B_KillHieronimus_Title.json
+282	a6064bb6-fd3d-49bc-afc5-4527aa5311c8	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/01_SearchTheLab_Destination.json
+283	d3b5f77c-ac9f-4aac-b747-5610056920e3	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/02_1_KillAllTervantiases_.Destination_String.json
+284	f37670c5-c335-426a-881e-f4af0bbf4ef0	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/02_1_KillAllTervantiases_Description.json
+285	cb756ec5-a61a-4e94-84ac-0efe445005c0	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/02_2_KillTervantiasAgain_Description.json
+286	f16161d8-dc9d-482e-8d21-f7286baa5788	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/02_2_KillTervantiasAgain_Destination.json
+287	02cecd01-d691-4455-903c-c898a09012c0	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/02_2_KillTervantiasAgain_Title.json
+288	73d4fb74-1dc1-462d-9af8-fca957bdf771	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/03_ExploreTheRift_Description.json
+289	a5c828b8-510d-4212-993f-21a4e972e932	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/03_ExploreTheRift_Destination.json
+290	b93c23a3-9dda-404e-b5d9-246036180792	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/03_ExploreTheRift_Title.json
+291	7e7d8635-eaf2-482b-8ba3-c297812f76fe	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/HaemonculusLair_quest_CompletionText.json
+292	85865aa1-5596-4b8f-9bea-7b06a873789a	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/HaemonculusLair_quest_Description.json
+293	3402aacb-9b68-404b-a9df-1f620dc6c7b8	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/HaemonculusLair_quest_Place.json
+294	b43f366b-d654-41ad-b74c-d196700afd64	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/HaemonculusLair_quest_RegionName.json
+295	dab01f21-9ab3-4969-8f75-36935e3783c4	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/HaemonculusLair_quest_Title.json
+296	e64e8df8-04e6-4c10-9f52-e8308b9a44f8	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/Objective_0001_Description.json
+297	46eb7292-e7c7-47bd-b2f3-c1176472aac6	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/Objective_0001_Title.json
+298	90e13f51-b169-4d01-a9d3-07ecec1c6b7f	Mechanics/Blueprints/World/Quests/Chapter4/HaemonculusLair/Objective_2_Title.json
+299	bbb66419-4fdd-4d66-acab-2ed7bc3695b9	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/0_ReachTheQuetzal_Description.json
+300	d91ec759-c3e4-4c6d-a1eb-68fe7d1afc4a	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/0_ReachTheQuetzal_Title.json
+301	54b29ded-b183-44f7-93ab-5f43351c42f2	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/1_ExploreTheWorld_Description.json
+302	c0515a70-13bb-4460-8772-964df475d270	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/1_ExploreTheWorld_Title.json
+303	91ca9f28-1113-4b2d-b5f8-8491601800d7	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/2_FindTheWayOut_Description.json
+304	bc1717de-f1ef-4e27-b0c0-b8e7335090f5	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/2_FindTheWayOut_Title.json
+305	b613c80d-5c8e-4dfd-ba7f-bde902483d9d	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/3_AeldariFate_Description.json
+306	0018b5d6-2c7d-451a-975c-1839e3394fa2	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/3_AeldariFate_Title.json
+307	e0302512-5c8c-45c2-9664-6e8ee0138939	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/4-2_SearchTheLab_Description.json
+308	ae032437-2a71-41f5-b523-b65c92afaeab	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/4-2_SearchTheLab_Title.json
+309	cf46c6b5-8c35-4f5f-8b46-e89f8db13cd2	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/4_DeadLands_Description.json
+310	2c4908fb-5fa6-406c-8156-d415a4fbd9ac	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/4_DeadLands_Title.json
+311	47f4cf8c-3cd5-4a28-8501-ef785bb4cd48	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/5_AnswerTheCall_Description.json
+312	e6dbd64a-206f-4607-a407-41e48466a5e7	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/5_AnswerTheCall_Title.json
+313	2b1d031a-acc1-467a-b11a-905a98f7a695	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/add_DeepIntoTheWoods_Description.json
+314	48835903-230f-4389-a387-617655540856	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/add_DeepIntoTheWoods_Title.json
+315	f4f91f25-a4ee-441e-b2ce-70a8bc53327f	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/add_FindTheVillage_Description.json
+316	f1bd62da-e4b0-46c4-979d-68f9888b0fb8	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/add_FindTheVillage_Title.json
+317	c04fc3f6-1d1a-4794-a59f-d6219cf11dc3	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/add_FindWinterscale_Description.json
+318	e1e1a5ab-29a0-4d2c-9fc8-fdcc042474d2	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/add_FindWinterscale_Title.json
+319	7ddeaa02-90de-43c4-98af-e54bc1e2131b	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/add_ReturnToVillage_Description.json
+320	903525d9-2ccc-4ec7-874d-4395e4519ce9	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/add_ReturnToVillage_Title.json
+321	70998c37-a5dc-470d-b670-3a58dca8437b	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/HuntingGrounds_quest_CompletionText.json
+322	4e56936c-a911-4067-a362-4644ccdd7416	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/HuntingGrounds_quest_Description.json
+323	d0291ee2-b0b7-4de9-9908-5a7820de2f9e	Mechanics/Blueprints/World/Quests/Chapter4/HuntingGrounds/HuntingGrounds_quest_Title.json
+324	85f854b9-750e-43a5-966b-43fe265be5a6	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/Obj1_AskXavier_Description.json
+325	a7723408-2e65-4d60-aa4e-8e9fc71e23b0	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/Obj1_AskXavier_Title.json
+326	f841c1ce-45d1-4a50-9f86-e13be0cb3f09	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/Obj2_SearchPalace_Description.json
+327	7254322f-0c19-46ab-b914-398f7525d77f	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/Obj2_SearchPalace_Title.json
+328	030cb48a-2963-4a38-9b14-dd23eb250aa4	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/Obj3_GoToWarpGate_Description.json
+329	5d587e8f-ee08-4d2c-93d0-026cc5059345	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/Obj3_GoToWarpGate_Title.json
+330	cbb27008-05b6-4653-8bc1-aedc84a7bb27	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/SeriousQuestions_quest_CompletionText.json
+331	07d123e5-c0d2-47a5-948f-89795b58ba3c	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/SeriousQuestions_quest_Description.json
+332	70904c3e-cd96-42ab-89e5-70581ef9731e	Mechanics/Blueprints/World/Quests/Chapter4/SeriousQuestions/SeriousQuestions_quest_Title.json
+333	b85fb8a4-deed-4c71-8aeb-80a213433d4f	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Add1_VoidMines_Description.json
+334	9ad0c141-adfa-434b-b1ab-19bb908151bb	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Add2_TalkToVoxMAster_Description.json
+335	b7fbb8f9-e8c4-4f4e-9d79-40a575251514	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/NecronWorlds_quest_CompletionText.json
+336	0939c71b-43cf-4ca1-a633-50743a49d997	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/NecronWorlds_quest_Description.json
+337	71e57d34-7fdd-43f3-adb4-a4b54a46044e	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/NecronWorlds_quest_Title.json
+338	4f79d428-8e39-46c2-ac4d-83f314691749	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj1_FindXavierSpoils_Description.json
+339	5a2eed7b-0d47-4ee2-91ed-516e8a545a5f	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj1_FindXavierSpoils_Title.json
+340	6bf4d3ed-ce08-4744-9d78-41bdd2ce9d66	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj2_GotoEpitaphia_Description.json
+341	24dcda78-4709-4174-8ce8-4358fece595d	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj2_GotoEpitaphia_Title.json
+342	2229bba7-d4fa-4f65-9a1f-d76b399ef3eb	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj3_FindXavier_Description.json
+343	9ee6c6f9-ce7e-45c4-b1f7-8848fa3dd5f0	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj3_FindXavier_Title.json
+344	acbe7277-50f9-44c0-8764-f0d5748c08f8	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj4_KillXavier_Description.json
+345	885e623b-fbd8-4c35-844f-85522e49d152	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj4_KillXavier_Title.json
+346	6d0b6b2f-ccef-48eb-bd18-b43b250a444e	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj5_FightCtan_Description.json
+347	04c3c989-3986-4a8e-b820-a177f793cd10	Mechanics/Blueprints/World/Quests/Chapter5/NecronWorlds/Obj5_FightCtan_Title.json
+348	46adda1d-25c6-486e-b295-02014763b46e	Mechanics/Blueprints/World/Quests/Chapter 0/01_GoToOfficerDeck_Description.json
+349	d040f7b0-d120-47ee-b516-1376346f7fe5	Mechanics/Blueprints/World/Quests/Chapter 0/01_GoToOfficerDeck_Destination.json
+350	741f71fe-0a3e-4e8f-807a-9defdf59cf5a	Mechanics/Blueprints/World/Quests/Chapter 0/01_GoToOfficerDeck_Title.json
+351	40935273-a6a2-40eb-b7b6-1ab452835095	Mechanics/Blueprints/World/Quests/Chapter 0/02_KillTheodorasPet_Description.json
+352	83d068c4-759f-4b1d-8b06-e4b1ff3d20fa	Mechanics/Blueprints/World/Quests/Chapter 0/02_KillTheodorasPet_Destination.json
+353	12d3d072-6968-43c0-b662-d095f19188b7	Mechanics/Blueprints/World/Quests/Chapter 0/02_KillTheodorasPet_Title.json
+354	961053d4-6fa6-490c-b529-3cb52f8da6bc	Mechanics/Blueprints/World/Quests/Chapter 0/03_TalkToTheodora_Description.json
+355	a7e848c6-0626-4f3f-827a-04df0710bc2f	Mechanics/Blueprints/World/Quests/Chapter 0/03_TalkToTheodora_Destination.json
+356	f4d60071-1fd8-4c30-af71-329fd03e623b	Mechanics/Blueprints/World/Quests/Chapter 0/03_TalkToTheodora_Title.json
+357	7372d3f9-f914-4ca6-bdea-b3d68cbe1621	Mechanics/Blueprints/World/Quests/Chapter 0/04_FollowTheodora_Description.json
+358	1c79927e-d817-4d25-9f7c-4242e860cdcb	Mechanics/Blueprints/World/Quests/Chapter 0/04_FollowTheodora_Destination.json
+359	90d1977e-3220-4bb4-a3b1-c74c03664b7d	Mechanics/Blueprints/World/Quests/Chapter 0/04_FollowTheodora_Title.json
+360	5b109406-6b22-46d1-871e-5170aa7d04fe	Mechanics/Blueprints/World/Quests/Chapter 0/05_FindTheSuccessor_Description.json
+361	fb80312d-6a21-4d10-babe-291273e085e8	Mechanics/Blueprints/World/Quests/Chapter 0/05_FindTheSuccessor_Destination.json
+362	74e5d48c-86a2-45f0-b38c-405723d46003	Mechanics/Blueprints/World/Quests/Chapter 0/05_FindTheSuccessor_Title.json
+363	57e89103-3c22-4ac5-9c03-4b6dd59788dd	Mechanics/Blueprints/World/Quests/Chapter 0/06_CheckWarrantChamber_Description.json
+364	4e9fe8d2-4bff-4c27-b4ef-1e3018fcb75a	Mechanics/Blueprints/World/Quests/Chapter 0/06_CheckWarrantChamber_Destination.json
+365	d14276a6-87ea-4b3c-a491-930b42fb861d	Mechanics/Blueprints/World/Quests/Chapter 0/06_CheckWarrantChamber_Title.json
+366	cccabf9c-ac19-48f4-a741-175f4540945c	Mechanics/Blueprints/World/Quests/Chapter 0/07-1_ArmYourself_Description.json
+367	f478642e-b4dd-497e-8209-a9d702e4fbd4	Mechanics/Blueprints/World/Quests/Chapter 0/07-1_ArmYourself_Destination.json
+368	f87402c3-dfc1-48a8-a086-26afdd0d8752	Mechanics/Blueprints/World/Quests/Chapter 0/07-1_ArmYourself_Title.json
+369	861cfc27-4016-499d-8c97-9bdd7f86ffcb	Mechanics/Blueprints/World/Quests/Chapter 0/07-2_LetAbelardHealYou_Description.json
+370	2669c108-0b96-48a7-9bb0-69bf48b8ec36	Mechanics/Blueprints/World/Quests/Chapter 0/07-2_LetAbelardHealYou_Destination.json
+371	1589645d-d70c-4ef7-98bf-4c112e63bf29	Mechanics/Blueprints/World/Quests/Chapter 0/07-2_LetAbelardHealYou_Title.json
+372	4504ffcf-4d2f-435a-a6bd-c885e697346f	Mechanics/Blueprints/World/Quests/Chapter 0/07_FindAllies_Description.json
+373	a1f217e7-8592-490f-88d3-eb6fffb77402	Mechanics/Blueprints/World/Quests/Chapter 0/07_FindAllies_Destination.json
+374	b3a2a038-e047-44c0-80ad-9c3cdb228c84	Mechanics/Blueprints/World/Quests/Chapter 0/07_FindAllies_Title.json
+375	70b1132d-0939-412e-afac-6d1a7fce8321	Mechanics/Blueprints/World/Quests/Chapter 0/08_ReachNavisSanctum_Description.json
+376	bee98616-4079-409f-9d2a-c5d8ea7794fd	Mechanics/Blueprints/World/Quests/Chapter 0/08_ReachNavisSanctum_Destination.json
+377	05f6e57c-db13-4157-b1f2-6f1fa41eae16	Mechanics/Blueprints/World/Quests/Chapter 0/08_ReachNavisSanctum_Title.json
+378	bdb52252-e549-49ed-8cce-1523019c791b	Mechanics/Blueprints/World/Quests/Chapter 0/09_ProtectNavigator_Description.json
+379	73991bd4-811d-49f8-b11d-9a6c101c5a73	Mechanics/Blueprints/World/Quests/Chapter 0/09_ProtectNavigator_Destination.json
+380	d9fcb61f-d097-4ac9-a90b-c982250b502b	Mechanics/Blueprints/World/Quests/Chapter 0/09_ProtectNavigator_Title.json
+381	81d78060-4043-42d5-9ad4-176b37aa2fa8	Mechanics/Blueprints/World/Quests/Chapter 0/10_TalkToNavigator_Description.json
+382	605037da-bca7-4023-950a-60b856da4f6c	Mechanics/Blueprints/World/Quests/Chapter 0/10_TalkToNavigator_Destination.json
+383	9146e556-1bc6-4e9b-aafb-a4f42ae6463a	Mechanics/Blueprints/World/Quests/Chapter 0/10_TalkToNavigator_Title.json
+384	9bb7be16-343f-4127-a718-d77dca7ad5bc	Mechanics/Blueprints/World/Quests/Chapter 0/11_MakeItToMeeting_Description.json
+385	b2cefb26-fec1-4b74-9c73-3509b12c8619	Mechanics/Blueprints/World/Quests/Chapter 0/11_MakeItToMeeting_Destination.json
+386	2f4e49cc-0580-4f69-bee3-d88fb05ed2b2	Mechanics/Blueprints/World/Quests/Chapter 0/11_MakeItToMeeting_Title.json
+387	4ed0a226-5556-4b12-a219-4380420b6350	Mechanics/Blueprints/World/Quests/Chapter 0/12_ReachSecretLift_Description.json
+388	42800680-f5f5-4ff5-a0e7-80e59a9c272d	Mechanics/Blueprints/World/Quests/Chapter 0/12_ReachSecretLift_Destination.json
+389	9001e321-84d6-4cd0-8b6c-372b1e8636f1	Mechanics/Blueprints/World/Quests/Chapter 0/12_ReachSecretLift_Title.json
+390	5baddb44-1d57-4859-af31-79a5dbc3713b	Mechanics/Blueprints/World/Quests/Chapter 0/13_FindTheodora_Description.json
+391	741f3336-49b2-4c39-9868-9f1f8aeda02d	Mechanics/Blueprints/World/Quests/Chapter 0/13_FindTheodora_Destination.json
+392	7465d6bb-994c-4399-a2fc-75f94c7b1d81	Mechanics/Blueprints/World/Quests/Chapter 0/13_FindTheodora_Title.json
+393	af0a9968-7916-4931-88ec-98d98048249f	Mechanics/Blueprints/World/Quests/Chapter 0/14_DefeatChaosSpawn_Description.json
+394	5e97be46-6ad0-4138-8b8f-8699cd2727e5	Mechanics/Blueprints/World/Quests/Chapter 0/14_DefeatChaosSpawn_Destination.json
+395	d80b4054-7ad9-4026-8cf2-3dd5af48cd7b	Mechanics/Blueprints/World/Quests/Chapter 0/14_DefeatChaosSpawn_Title.json
+396	37294897-df8b-4a2a-a7d5-35d80e9cd05c	Mechanics/Blueprints/World/Quests/Chapter 0/14_ReachBridge_Description.json
+397	f80b27e7-f484-4682-a1b4-d30aa89dd38e	Mechanics/Blueprints/World/Quests/Chapter 0/14_ReachBridge_Destination.json
+398	6bc7c429-f47d-490b-80da-6c95a0184af1	Mechanics/Blueprints/World/Quests/Chapter 0/14_ReachBridge_Title.json
+399	85115347-9643-400e-a1ef-75010754c15b	Mechanics/Blueprints/World/Quests/Chapter 0/15_FindRavor_Description.json
+400	cae35c95-a203-4dfa-a6c4-b03bbbdd124e	Mechanics/Blueprints/World/Quests/Chapter 0/15_FindRavor_Destination.json
+401	10d6bc72-1be9-4c9c-9879-444dc5b3a7bf	Mechanics/Blueprints/World/Quests/Chapter 0/15_FindRavor_Title.json
+402	674d347b-73df-44be-b27d-8c8eee11f983	Mechanics/Blueprints/World/Quests/Chapter 0/16_TakeYourPlace_Description.json
+403	4e2620dd-f5ce-4c71-bca6-171015304ae8	Mechanics/Blueprints/World/Quests/Chapter 0/16_TakeYourPlace_Destination.json
+404	876a0c07-cdfe-43fd-b030-c118b79d054b	Mechanics/Blueprints/World/Quests/Chapter 0/16_TakeYourPlace_Title.json
+405	cf8bc00a-7614-4d9a-acd4-09bdf567d270	Mechanics/Blueprints/World/Quests/Chapter 0/Addendum_0001_Description.json
+406	812e90c0-2e0d-4676-97f9-2ea0e3d7da5d	Mechanics/Blueprints/World/Quests/Chapter 0/Addendum_0005_Description.json
+407	75072e0c-9943-44fc-8a53-45555bcb826e	Mechanics/Blueprints/World/Quests/Chapter 0/Addendum_0006_Description.json
+408	b55d9718-7929-49b3-b17c-2ea62565d458	Mechanics/Blueprints/World/Quests/Chapter 0/Addendum_0007_Description.json
+409	814f2d0a-173f-45c4-b7ba-2e0342757bdf	Mechanics/Blueprints/World/Quests/Chapter 0/Prologue_quest_CompletionText.json
+410	b9692caf-cb2a-4b75-b214-13eb6f6792a8	Mechanics/Blueprints/World/Quests/Chapter 0/Prologue_quest_Description.json
+411	1cfae9df-5432-4b54-8151-ee98ea8f056f	Mechanics/Blueprints/World/Quests/Chapter 0/Prologue_quest_Title.json

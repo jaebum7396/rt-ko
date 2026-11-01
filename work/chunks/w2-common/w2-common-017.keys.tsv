@@ -1,0 +1,369 @@
+1	31a0b8d0-a13d-47d5-9cea-9aa6db85d061	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/1_LandOnTheAgriworld_Description_1.json
+2	a778b35f-a720-49cf-993f-7ac97ebed4de	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/1_LandOnTheAgriworld_Title_1.json
+3	b6371e18-526b-40b8-b3ae-0c5fc1a5ef88	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/2_KillRebels_Description_1.json
+4	f501fce6-a323-4864-8dc1-4d02d6a889ad	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/2_KillRebels_Destination.json
+5	2cbee184-9803-4d5c-a4a8-9d1c8565fe71	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/2_KillRebels_Title_1.json
+6	57dc0f57-d324-4d6d-bbea-7b21dee05737	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/3_MeetTheGovernor_Description_1.json
+7	000ae8b8-91db-4d66-9de6-b148c1eca127	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/3_MeetTheGovernor_Destination.json
+8	06294a32-f7f5-4b47-9c49-82316adf0d39	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/3_MeetTheGovernor_Title_1.json
+9	cbced3d7-0b54-442e-b555-abd084f8c52e	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/4_LearnAboutRebelBase_Description_1.json
+10	4aa48f21-e38e-4530-b18f-3848ac2f65ff	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/4_LearnAboutRebelBase_Destination.json
+11	b100d23b-68bf-4c4a-9195-20afe58f1ab2	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/4_LearnAboutRebelBase_Title_1.json
+12	66a0d0f0-c358-4766-a7bb-c79e79604fd6	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/5_LearnMoreAboutRebels_Description_1.json
+13	9ec3f32c-ea87-43ad-9585-f1bce26dd60b	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/5_LearnMoreAboutRebels_Destination.json
+14	1c497a0e-d874-45c7-96ab-04cdf002c486	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/5_LearnMoreAboutRebels_Title_1.json
+15	59759889-cbc8-41d8-a9cc-6faa3b9ec3d1	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/6_FindRebelBase_Description_1.json
+16	1d42a1bd-de43-41f4-86e1-48a4b7f1f1ba	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/6_FindRebelBase_Title_1.json
+17	10434012-f88a-4eda-9fed-9dcd0aca9e58	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/7_UncoverRebelLeaders_Description.json
+18	65ab9ccb-fd9e-4e13-b86a-7a370c0dd1f0	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/7_UncoverRebelLeaders_Destination.json
+19	ba4f4fb8-d10e-4f8b-880e-9beeebf948ea	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/7_UncoverRebelLeaders_Title_1.json
+20	e1fde2f8-228b-49ec-9b3d-aed0ba58d316	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/8_ReturnToTheGovernor_Description.json
+21	28dad5d6-0354-43b4-b166-b63c2c90e849	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/8_ReturnToTheGovernor_Destination.json
+22	e2e836b3-9e04-4a96-a7cf-4ae581e2d1be	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/8_ReturnToTheGovernor_Title_1.json
+23	8a74d379-ccfb-418c-878b-df0f14c9b141	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/9_KillTheGovernor_Description.json
+24	fecee013-41b6-4387-98b7-90affc5bd6f4	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/9_KillTheGovernor_Destination.json
+25	201820db-f863-43f5-9e8f-28b0b1df871a	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/9_KillTheGovernor_Title_1.json
+26	b60d5bad-aace-41ea-8a0e-3d6a90adfc6f	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/10_KillRemainingRebelLeaders_Description.json
+27	0214ccd0-0a7e-4190-ab78-6a8ba37d95a5	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/Addendum_0001_Description_1.json
+28	12e1c300-c1ae-4df4-97a8-bdab89aef0a3	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/Addendum_0003_Description_1.json
+29	df3f8291-de12-4fe5-ab77-a0216c3ba401	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/Addendum_0004_Description_1.json
+30	b84c3424-cda9-429a-b85d-90372be81146	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/Addendum_0005_Description_1.json
+31	92e3b128-4706-4205-97ba-8e60f193f143	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/Objective_0001_Title.json
+32	c31513fd-f921-4caa-881a-29a0ea442d0c	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/ResolveAgriworldCrisis_quest_CompletionText_1.json
+33	c607320a-50ef-4f35-8d74-ecef80359c10	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/ResolveAgriworldCrisis_quest_Description_1.json
+34	020ff118-9fa5-48ec-9b9a-7a355620f48b	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/ResolveAgriworldCrisis_quest_Place.json
+35	3247ab98-daca-474f-9096-e5df137a08f7	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/ResolveAgriworldCrisis_quest_RegionName.json
+36	9ce5f942-aa50-4f05-81da-07c9af6862b6	Mechanics/Blueprints/World/Quests/Chapter 2/ResolveAgriworldCrisis_quest/ResolveAgriworldCrisis_quest_Title_1.json
+37	9c1e6494-f2bb-484f-8103-6c4de33aa675	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/1ClaimAgriWorld_Description.json
+38	72a651e8-7073-4bf4-9296-b547414348f4	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/1ClaimAgriWorld_Title_1.json
+39	c8903fe2-b5d8-4782-b166-30895537c0bd	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/2ClaimForgeWorld_Description.json
+40	63176991-e383-46b9-bd28-183f8e87acef	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/2ClaimForgeWorld_Title_1.json
+41	965ef34a-de61-4adf-9aa5-43893978021e	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/3Claim CapitalWorld_Description.json
+42	3a0ab6bb-6c2e-4067-9362-b93ff65fa6c2	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/3Claim CapitalWorld_Title_1.json
+43	0a77470c-b57f-4901-a9d9-566d2fc045cd	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/RestoreRogueTraderEmpire_quest_CompletionText.json
+44	0b037284-7c51-4e1d-9320-d3078d442825	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/RestoreRogueTraderEmpire_quest_Description.json
+45	d19c41d6-96d6-4bec-9b67-4b3f15706c8c	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/RestoreRogueTraderEmpire_quest_RegionName.json
+46	b7e4f31e-5636-43db-adc0-d5bb5b2d504d	Mechanics/Blueprints/World/Quests/Chapter 2/RestoreRogueTraderEmpire_quest/RestoreRogueTraderEmpire_quest_Title_1.json
+47	583bb488-d243-49d0-b5f6-147a9951bc4e	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/01_LearnMoreAboutBand_Description.json
+48	7385bccc-38c0-4dbe-95a6-35d6a2124215	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/01_LearnMoreAboutBand_Title.json
+49	4ed9f4e3-3af3-4308-8c70-cf8e1c577d1d	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/02_FindBandLeader_Description.json
+50	787693e0-6283-4e38-b717-5658fe8f2c15	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/02_FindBandLeader_Title.json
+51	6f219a37-183d-4e79-bd51-c9aa3c535305	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/03_ConfrontBandLeader_Description.json
+52	e2b5032e-b685-4782-94e2-e639d2a4fb9e	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/03_ConfrontBandLeader_Title.json
+53	1d617626-df06-4fbc-bd82-189af0cdd020	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/Add_FirstAnverKey_Description.json
+54	6be9cd11-278a-439c-8b0d-a101c44a9508	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/Add_SecondAnverKey_Description.json
+55	e099fd38-410b-4c18-a3b4-ae269498f972	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/SignsOfPlague_c2_quest_CompletionText.json
+56	6ff5c97f-116d-4d91-89a8-a962c69bfade	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/SignsOfPlague_c2_quest_Description.json
+57	c9637ca1-ed9b-4b67-a31c-525ad5c94545	Mechanics/Blueprints/World/Quests/Chapter 2/SignsOfPlague/SignsOfPlague_c2_quest_Title.json
+58	de6f22b3-05e3-44a2-8edc-9e7382e528ab	Mechanics/Blueprints/World/Quests/Chapter 2/SpacePirates/Objective_0001_Description.json
+59	ea7653ac-530f-4e0d-92a4-410e28460d06	Mechanics/Blueprints/World/Quests/Chapter 2/SpacePirates/Objective_0001_Title.json
+60	18a48806-7e10-44ca-a2fe-4b8d3b370019	Mechanics/Blueprints/World/Quests/Chapter 2/SpacePirates/Objective_0002_Description.json
+61	9c312933-92fa-4641-8d03-2aa4f24a8280	Mechanics/Blueprints/World/Quests/Chapter 2/SpacePirates/Objective_0002_Title.json
+62	ca26788b-7290-44fa-92b7-a07408644545	Mechanics/Blueprints/World/Quests/Chapter 2/SpacePirates/SpacePirates_Description.json
+63	5de9e3d7-4916-4e1a-8293-33a28bc74079	Mechanics/Blueprints/World/Quests/Chapter 2/SpacePirates/SpacePirates_Title.json
+64	43fb53c3-4d27-4f9f-92e4-1e3818621abd	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/01_LandOnDargonus_Description.json
+65	d4905e5a-06e6-41a8-a071-d712875652c0	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/02_TalkToAchilleas_Description.json
+66	bab82f3d-3be2-45e2-90ac-9aa83959d636	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/03_MeetTheGovernor_Description.json
+67	f6781d3a-78d8-4ae1-90a3-5f22658d9563	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/03_MeetTheGovernor_Title.json
+68	3123a6f0-be0b-4714-9314-47584ce8cc38	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/Objective_0001_Title.json
+69	72d5c2d4-d888-487e-97c0-abfdeef5561e	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/Objective_0002_Title.json
+70	45dce329-1c85-4871-96ac-0ce4c41a0cae	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/SpidersInTheCan_quest_CompletionText.json
+71	48b27e99-dcc3-466f-abd7-c38ffe917c9e	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/SpidersInTheCan_quest_Description.json
+72	5babdb5b-42d3-4a04-8dfa-f7a9de8e649a	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/SpidersInTheCan_quest_Place.json
+73	4981e173-bda0-4f0f-80ba-a3daf8c312ec	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/SpidersInTheCan_quest_RegionName.json
+74	b4a70e70-da6e-406e-9120-346e7c84ae1d	Mechanics/Blueprints/World/Quests/Chapter 2/SpidersInTheCan_quest/SpidersInTheCan_quest_Title.json
+75	35b04c0d-41ae-4518-a007-30b0b87ef326	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/00_WaitShipRepair_Description.json
+76	31bdab68-b1cb-445c-b33b-1a7ec79257fe	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/00_WaitShipRepair_Destination.json
+77	9f7e0194-da1e-4ad5-ae69-fb6e7764ca86	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/00_WaitShipRepair_Title.json
+78	4085cd11-3ca5-4535-b6db-d02b882725d9	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/01_MeetLiege_Description.json
+79	a4432373-a384-4c94-9e86-6397b4c3bd24	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/01_MeetLiege_Title.json
+80	b8f018e1-0197-4955-825c-89a94a849ae7	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/01_ReachFootfall_Description.json
+81	fe00767f-0de8-41e9-b247-e99d30e0d75a	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/01_ReachFootfall_Destination.json
+82	b0477071-6985-4e91-9b00-61fcec4870d8	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/01_ReachFootfall_Title.json
+83	db26941a-1727-43db-b99a-fd0db4c5ad05	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/02_MeetLiege_.Destination_String.json
+84	0d6572f1-f3c2-4dc8-9e34-82995880f9a6	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/03_MeetOfficers_Description.json
+85	b9bc1564-dd47-42a1-8e9a-b4986d68842e	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/03_MeetOfficers_Title.json
+86	57327cdd-6773-42fc-a3e5-36797f2e803e	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/SpiritTears_c2_main_quest_CompletionText.json
+87	74f886c4-0f6a-4b5b-82d8-8b08d11ec583	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/SpiritTears_c2_main_quest_Description.json
+88	90dc620d-464e-40e2-90fb-d48528d1f54c	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/SpiritTears_c2_main_quest_RegionName.json
+89	1b7e976d-e0f4-4739-bb86-0b6f7e2de543	Mechanics/Blueprints/World/Quests/Chapter 2/SpiritTears/SpiritTears_c2_main_quest_Title.json
+90	01db3c1c-cd7d-4ce4-b016-6c5aae959a68	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/Obj1_GoToGargoyle_Description.json
+91	85278490-10e3-4243-95d6-dc85c97b0c1c	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/Obj1_GoToGargoyle_Title.json
+92	b54e7bf9-2c20-41bb-b012-17371133d739	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/Obj2_KyavaCache_Description.json
+93	2f991013-f31d-4ac8-99e8-193c6e7bab6b	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/Obj2_KyavaCache_Title.json
+94	d45bdac7-1edc-4744-9438-0dfcc6995846	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/Obj3_DargonusCache_Description.json
+95	39c17b4e-0698-4871-a9ee-9c2685a9ec86	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/Obj3_DargonusCache_Title.json
+96	a4983727-eaa9-43c1-82fd-f656d9a74861	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/Obj4_GiveDataSlatesToGargoyle_Description.json
+97	f150283c-a99c-43f6-800b-4fd2096da0be	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/Obj4_GiveDataSlatesToGargoyle_Title.json
+98	345fb870-ad49-44bc-8889-c48521cf630a	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/TheodoraCaches_quest_CompletionText.json
+99	dc72a60a-31f1-40f2-a037-00c9c7cea8b4	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/TheodoraCaches_quest_Description.json
+100	bccc1090-39eb-415d-b1b8-3c83d3b9f4e3	Mechanics/Blueprints/World/Quests/Chapter 2/TheodoraCaches/TheodoraCaches_quest_Title.json
+101	dd38c16c-2152-48d0-a67e-0229db910614	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/01_AttendCeremony_Description.json
+102	ad6991bd-3b68-4fe3-8206-d5eaea06ad2a	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/01_AttendCeremony_Title.json
+103	647f92a7-935a-46e8-9e2a-e38b6155e0df	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/02_WhoIsFidelio_Description.json
+104	936dc806-86c7-461c-a144-395c25e63dfd	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/02_WhoIsFidelio_Title.json
+105	0d528b97-7611-418d-9736-94fd517bfbad	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/03_DeadPirate_Description.json
+106	41d4002d-3428-4fa0-817d-36ea94a37e38	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/03_DeadPirate_Title.json
+107	85e36800-6bd9-4093-a83b-a85adaf066fd	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/04_MakeThemPay_Description.json
+108	e04ecba0-b65f-46ec-8732-56764c0f4c51	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/04_MakeThemPay_Title.json
+109	ab2ca118-8087-4d3a-bc9c-bbb14bed82e9	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_DeadEyes_Description.json
+110	f0f1344a-d206-4a02-818a-b83476f07594	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_DenzIsPirate_Description.json
+111	6639d396-2bc0-460f-a764-c8eee979a075	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_DieFidelio_Description.json
+112	52512d5b-a59a-4eaf-9767-1e25116144f0	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_FidelioIsHeir_Description.json
+113	fcaa5eb8-264f-4723-bf37-0b8612c46abe	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_FidelioIsNear_Description.json
+114	bc83b301-b1ee-4402-b2e6-e1de529700ec	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_GoToFurnance_Description.json
+115	847aa11c-e0cc-495f-a43e-cb319777c62a	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_IdiraWarning_Description.json
+116	0c06b25f-cee3-4779-8043-f0886701a60d	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_IsShip_Description.json
+117	1ebf28d3-fe66-442d-b2e7-ef70c2f7144d	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_NobodyKnowsFidelio_Description.json
+118	5cfc58ec-652a-4266-953e-deb506817e8a	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_ServitorBottle_Description.json
+119	904b0474-b30c-4a27-b207-3f3732281b69	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_ThatsFidelio_Description.json
+120	5d101c72-ae43-468e-b920-22f469d79195	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Add_ThatsFuneral_Description.json
+121	4b89a6a9-9601-4008-aacf-62c84973d023	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Addendum_0002_Description.json
+122	944918c9-17fe-4618-ba0c-876830fc40cd	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Destination_AtriumFootfall_String.json
+123	4bab40bc-2d77-47d9-9348-6f0d66c6c7ce	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Underworld_c2_quest_CompletionText.json
+124	c6c67c23-cc78-48e2-9679-38c83648ca2b	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Underworld_c2_quest_Description.json
+125	e8ea31cc-1578-40ab-bc7e-081a1dc5762f	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Underworld_c2_quest_RegionName.json
+126	7939542a-b8ac-4c3d-8f1c-69b7a42b77d8	Mechanics/Blueprints/World/Quests/Chapter 2/Underworld/Underworld_c2_quest_Title.json
+127	af7677f2-b329-4c97-864a-5fb7386e72bc	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/FindTheCargo/FindTheCargo_errand_Description.json
+128	390947d7-5ab7-4016-8347-0d9a31380cf0	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/FindTheCargo/FindTheCargo_errand_Title.json
+129	5bbea1e3-442d-4551-b565-67ae760f7156	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/0_OneMoreRound_Description.json
+130	da53b3eb-d4b0-4f43-8bff-a6e5cfd9717c	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/0_OneMoreRound_Title.json
+131	6bc513c1-e07d-453f-ad76-cc0f603d4d84	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/1_TalkToMasterOfSeals_Description.json
+132	34ac803c-40e8-4094-ab74-75fbfbe6d532	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/1_TalkToMasterOfSeals_Title.json
+133	7dde7279-d0cc-4175-aa84-7855482c3242	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/2_FindSigilOnDargonus_Description.json
+134	6b0d6d76-67a1-4ab1-9a9b-2292e18efa3b	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/2_FindSigilOnDargonus_Title.json
+135	7908fb57-bbcb-4935-9a78-3d09e0809b18	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/3__FindSigilInTelikosEpsilon_Description.json
+136	96ed51b4-795a-4ac9-a8e7-87cb59d42b3d	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/3__FindSigilInTelikosEpsilon_Title.json
+137	f9efd6ea-e861-4ddc-b7a4-d3e16eb8e94e	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/4_ReturnToAdministratumPalace_Description.json
+138	bda06d63-666e-4008-ba4b-18e2a7643bec	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/4_ReturnToAsministratumPalace_Title.json
+139	e0d6a5f1-6fe1-4a4e-9f83-605c037b4a69	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/5_TheLastOne_Description.json
+140	ba8de5b3-08a1-4395-ae36-2d4c43cca740	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/5_TheLastOne_Title.json
+141	6a894203-f6d7-4f4d-a03f-21cb53df43d6	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/6_FinalStep_Description.json
+142	19942389-cbe1-4dee-acee-baf359bc2ea6	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/6_FinalStep_Title.json
+143	bf5e99b1-1a44-49a2-b1ea-ddc3414ad702	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/9_TalkToJae_Description.json
+144	1be57d8d-d3fc-4e45-80db-1912590e4039	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/9_TalkToJae_Title.json
+145	69c1cc3f-2d1e-40a1-9045-3ce50737f2d8	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Add_1TakeNewAttestation_Description.json
+146	d4e5c675-c098-46de-884a-2ca4304c0b52	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Add_2DargonusSigil_Description.json
+147	e54a7f94-1bb1-4c0a-b34b-aa73544ae61f	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Add_3JanusSigil_Description.json
+148	8cf96728-e7e2-42eb-8670-d21a9910bd51	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Add_4ReturnToMaster_Description.json
+149	56c3796a-e7f0-4e60-b224-778556c3930d	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Add_CanBuySeal_Description.json
+150	e824ce99-df69-4b6e-b202-9d4af1726019	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Add_CanFindSeal_Description.json
+151	c68da40a-0ec9-4d9d-b32f-151b0a5e0d12	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/BecomeRogueTrader_Description.json
+152	f0d1c1d5-81e0-4213-9642-4ea108cc7c64	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Jae_Q1_MercatumTabulaOfficiale_CompletionText.json
+153	eaae0876-8bc1-41ab-94cd-c657309ffe09	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Jae_Q1_MercatumTabulaOfficiale_Description.json
+154	833539c4-5d5f-4e6b-89e0-f3e985194fbb	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/Jae_Q1_MercatumTabulaOfficiale/Jae_Q1_MercatumTabulaOfficiale_Title.json
+155	cc71dbff-8f7e-4cbe-98e5-11865b7ee4f6	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/1_TalkToJae_Description.json
+156	c49e4b8e-68e4-4d34-bfdf-c7db3e7dc360	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/1_TalkToJae_Title.json
+157	845b925a-ee74-4709-afe0-dfa795a539c0	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/2_GoToFootfall_Description.json
+158	5e79850f-81b6-48da-8715-8fc1fef505ab	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/2_GoToFootfall_Title.json
+159	5f05c487-845e-4aeb-8334-6569e89908e2	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/3_FindFalco_Description.json
+160	2760b3e4-678b-442f-ae92-fb186ee61575	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/3_FindFalco_Title.json
+161	7cc59891-8054-4e01-b0bf-dcd77833df38	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/4_Gas_Description.json
+162	d69ed657-64f9-4c51-8fd1-292ec0f9ee8c	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/4_Gas_Title.json
+163	ec008968-92f1-472b-8f97-f97ed3fb3ff7	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/5_UnscrewValves_Description.json
+164	cafac7b3-730c-4147-98f4-24c729b4719a	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/5_UnscrewValves_Title.json
+165	a51f9673-f985-4fc0-907e-06fb2b9c7893	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/6_UseCogitator_Description.json
+166	2ee8532f-0042-4ac1-a4f5-897e3dfe4d79	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/6_UseCogitator_Title.json
+167	3b0dd6d3-b512-48ea-9079-1b029082d18a	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/7_KillFalco_Description.json
+168	22897b5f-fe7b-40d7-83e6-33e8e227aa79	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/7_KillFalco_Title.json
+169	9158faad-9ddc-4d65-999c-a4bd62ad802b	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/8_ReturnToShip_Description.json
+170	d5f5d355-f51f-4b32-94b9-7697bba1940f	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/8_ReturnToShip_Title.json
+171	174aadb6-6034-42f3-afc1-faa10b0193e4	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/add_NoAlarm_Description.json
+172	c19fd3d0-d5a6-4d30-b9f8-e86ddc8eee21	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/add_RepairCogitator_Description.json
+173	cb839c24-eba6-4ddd-92da-f7867ddcff83	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/add_SaveJaeBand_Description.json
+174	6e0c7a2b-50d1-4d99-850c-cc27a4f076bd	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/add_Valve1_Description.json
+175	41bf8a02-ccc9-401c-b154-935ec4a94268	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/add_Valve2_Description.json
+176	0a9c11aa-b629-4b34-9a60-5fb87e176b7a	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/add_Valve3_Description.json
+177	1fceb386-dee9-4252-918a-410f41ba1dd5	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/add_Valve4_Description.json
+178	fe683128-7127-4b16-b96b-9c11c6cb872f	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/add_Valve5_Description.json
+179	6cfddb0e-991f-49d9-8164-a265894d5c5b	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/JaeQ2_quest_CompletionText.json
+180	5c81bb6b-acac-4e06-9dfa-01bf77ceca26	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/JaeQ2_quest_Description.json
+181	75f32b6b-c354-4ff3-9273-412454380371	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/JaeQ2/JaeQ2_quest_Title.json
+182	2bc57928-9619-471a-81f9-989c968527fe	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/VisitAdeptusAmasecus/VisitAdeptusAmasecus_errand_Description.json
+183	adb530db-a1ab-4912-9832-dc5f2596bb94	Mechanics/Blueprints/World/Quests/CompanionQuests/ColdTrader/VisitAdeptusAmasecus/VisitAdeptusAmasecus_errand_Title.json
+184	e7d4b052-621c-4167-b482-bad09d04e598	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/ArgentaRequest/ArgentaRequest_errand_Description.json
+185	924eb900-432d-4f31-9a06-d77b6c48576b	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/ArgentaRequest/ArgentaRequest_errand_Title.json
+186	d8ac1f57-c17c-4140-a81d-6677dc27bf94	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/CassiaTroubled/CassiaTroubled_Q1_errand_Description.json
+187	72e17b99-6831-410c-ba99-facfa2e9574e	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/CassiaTroubled/CassiaTroubled_Q1_errand_Title.json
+188	eed1f298-66d4-4428-bd9c-517747c06de0	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/JaeBusinessTalk/JaeBusinessTalk_Q1_errand_Description.json
+189	b7e7d243-94aa-4589-bdf5-024b8e8aa584	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/JaeBusinessTalk/JaeBusinessTalk_Q1_errand_Title.json
+190	363d4538-c9df-4d9d-9a8b-9494fbdadd64	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/MarazhaiKindred/MarazhaiKindred_errand_Description.json
+191	dd30f870-4ed0-4c32-b93c-feaaad68f3a0	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/MarazhaiKindred/MarazhaiKindred_errand_Title.json
+192	5732d910-51f4-4cd6-a878-7e9cbcd29e3d	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/MarazhaiNostalgic/MarazhaiNostalgic_errand_Description.json
+193	8c06366c-82d6-4c45-98fd-76870fa09c71	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/MarazhaiNostalgic/MarazhaiNostalgic_errand_Title.json
+194	e78f2889-d848-4982-af6d-7f2d538a5ba1	Mechanics/Blueprints/World/Quests/CompanionQuests/Errands/TalkToCassia/TalkToCassia_errand_Description.json
+195	4ba72d05-c260-44a3-9d6c-b9b3be6f9b6d	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/1_TalkToHeinrix_Description.json
+196	087d40b6-2d1f-47cc-9f8e-88c7a226009c	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/1_TalkToHeinrix_Title.json
+197	797de4d4-4260-4c67-a843-2e5c6cf6e92a	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/2_DeliverHeinrixToKiavaGamma_Description.json
+198	11dde2c7-26c8-4df0-bdcb-bc8d90a30b15	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/2_DeliverHeinrixToKiavaGamma_Title.json
+199	76a59008-035b-44db-920d-1f7e6f81ced1	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/3_SearchFactoryWorldForClues_Description.json
+200	2efb5284-a37b-4260-bf9b-cb143d03bbba	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/3_SearchFactoryWorldForClues_Title.json
+201	d3cae5a2-23d7-467d-8c27-a652b67494cf	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/4_FindDataVault_Description.json
+202	15079a7a-41b5-4b03-a2c4-4af62d3c4a08	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/4_FindDataVault_Destination.json
+203	c7541d1f-b1aa-4cef-9906-dd8d45625200	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/4_FindDataVault_Title.json
+204	647bee4f-f1a6-4d27-8833-1b46251b509a	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/5_DecideTheFateOfDataVault_Description.json
+205	5e547747-b59d-46f7-8f45-87f5eb4c7010	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/5_DecideTheFateOfDataVault_Destination.json
+206	1105a5d7-06b8-4167-9dd8-5bde7b6e0fca	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/5_DecideTheFateOfDataVault_Title.json
+207	0960b4ac-3d80-4774-89d9-8862cdf4db7a	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/6_KillDataVaultDaemon_Description.json
+208	46f2f7ca-df1c-45b8-8a16-571c499ff752	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/6_KillDataVaultDaemon_Destination.json
+209	dc58c754-50d0-4325-a267-ff2c9d9359a4	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/6_KillDataVaultDaemon_Title.json
+210	418444ca-980e-4309-9be6-3b6dc87d52d4	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/7_TalkToHeinrixOnTheBridge_Description.json
+211	50399212-2ee4-4691-9084-b30965c0301c	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/7_TalkToHeinrixOnTheBridge_Destination.json
+212	b9cf71f8-f28e-4833-b2cf-539829cf1dcb	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/7_TalkToHeinrixOnTheBridge_Title.json
+213	bdb82745-9af4-4970-8090-44d66c8dc28e	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/Addendum_0001_Description.json
+214	e73968ab-8e2d-4c3b-9cb0-8070e35c5b0c	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/Destination_ManufactorumKiava_String.json
+215	13694783-e5c1-4d29-adcf-8aedd9652d2d	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/Interrogator_Q1_SecretsOfTheCult_CompletionText.json
+216	e3ca6163-860f-4e19-b9f3-c088a8dbb738	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/Interrogator_Q1_SecretsOfTheCult_Description.json
+217	d4f24836-fa71-4250-bd1b-0e55b686a31f	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/Interrogator_Q1_SecretsOfTheCult_Place.json
+218	64e1a122-baa4-4e80-83ff-507790551983	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/Interrogator_Q1_SecretsOfTheCult_RegionName.json
+219	fd926c27-e99f-4672-adf5-200b1fb45fda	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q1_SecretsOfTheCult/Interrogator_Q1_SecretsOfTheCult_Title.json
+220	723763f7-3f95-4547-af58-29f0191d93b6	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/00_TalkToHeainrixAboutMessage_Description.json
+221	0076a936-5770-4aec-a5e1-f0f636710bb2	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/00_TalkToHeainrixAboutMessage_Title.json
+222	43d70c60-3296-41e5-a0ac-16fc0c129886	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/01_ReachTheWorld_Description.json
+223	5ff8fea3-28fa-4bd0-8ae4-443cf9d1792d	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/01_ReachTheWorld_Title.json
+224	28d10f2f-3fdd-49d3-86a6-7dc9b921ad94	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/02_SearchTheWorld_Description.json
+225	6ee4427c-e8de-45d3-a37b-2969bcfe5ea8	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/02_SearchTheWorld_Title.json
+226	75c9dff4-8a77-4e85-ae71-9681f8952cf7	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/03_KillDrukhari_Description.json
+227	d3b584d0-3cd2-4c85-81ba-fdae9fe37c99	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/03_KillDrukhari_Title.json
+228	bde437ce-bff9-42b5-b250-2806ee120627	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/04_ReachEmelina_Description.json
+229	7a505fef-cf6c-47f6-8282-07c22f73d5ee	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/04_ReachEmelina_Title.json
+230	fbdb6173-6f9c-4567-9bc5-13cefd1280e9	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/05_DefeatRaidForce_Description.json
+231	3481ce6e-8669-4a4b-a7aa-7d8f9209a4f4	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/05_DefeatRaidForce_Title.json
+232	51c00777-782e-4ea5-9ec0-e0ecfaf7cfbc	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/06_IssueAVerdict_Description.json
+233	07167857-c4bd-4ea4-b330-5c613c9c30c5	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/06_IssueAVerdict_Title.json
+234	dbc63382-1afb-4b19-a8b8-f37ecd380064	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/07_TalkToHeinrix_Description.json
+235	9617f812-8ab5-40a6-b5a4-2dac5b482d62	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/07_TalkToHeinrix_Title.json
+236	94861cc4-1232-4a1f-ae91-c74c73caa6ee	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/Interrogator_Q2_DeadMensLast_CompletionText.json
+237	36362b6c-97e6-4489-a0a6-ed4afb5eac4a	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/Interrogator_Q2_DeadMensLast_Description.json
+238	b1425351-2816-40bc-918e-1d520a236e72	Mechanics/Blueprints/World/Quests/CompanionQuests/Interrogator/Interrogator_Q2_DeadMensLast/Interrogator_Q2_DeadMensLast_Title.json
+239	e9946449-8392-4833-8111-61f11adeded1	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/01_MeetWithSurvivors_Description.json
+240	817f7fda-8d70-4fe5-ba98-148720e80c69	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/01_MeetWithSurvivors_Title.json
+241	3d7fc111-4c6a-428d-807a-9e773448c1ce	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/02_ExploreTheCompartment_Description.json
+242	b3a245fa-f693-45f8-bd7c-e5ffd2248deb	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/02_ExploreTheCompartment_Title.json
+243	b166c9e8-67f1-431f-853d-f55a305f4fe4	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/03_TalkToMarazhai_Description.json
+244	cb54ad2d-3f16-46ab-8170-e2858701dbae	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/03_TalkToMarazhai_Title.json
+245	abfe702b-6bda-459a-8521-7c8e962c49ec	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/04_KillDaemons_Description.json
+246	b508f791-dbeb-4185-9a62-09cb2fe2a970	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/04_KillDaemons_Title.json
+247	5403af9f-b5b9-4d75-8d00-b99b00d42548	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/05_DecideMarazhaiFate_Description.json
+248	b2a95663-5de5-4459-a56f-4089abaa6277	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/05_DecideMarazhaiFate_Title.json
+249	b41a748f-aa36-434a-b904-dc71cba6c9a9	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/06_CheckOnMarazhai_Description.json
+250	2395ea0e-349c-44f4-b4c6-a0e8db522e6e	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/06_CheckOnMarazhai_Title.json
+251	47234c87-a5dc-41e0-8673-b45fdd43d0cb	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/Marazhai_Q1_Hollow_CompletionText.json
+252	15c69a26-9d4b-48ad-ac24-e0c99ac2fd27	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/Marazhai_Q1_Hollow_Description.json
+253	28fe44c1-515f-47dd-b3f6-7b9d05c34655	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q1_Hollow/Marazhai_Q1_Hollow_Title.json
+254	edbbfc1d-011a-4991-a11a-675ba8f605bd	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/01_HoldAParlay_Description.json
+255	8f1a2e43-a330-422e-ae2b-0d8c19d1d80e	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/01_HoldAParlay_Title.json
+256	c28da912-8905-4b88-b50d-8e63f29241d5	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/02_ReachKabalHideout_Description.json
+257	f3e0b1ca-7cb6-4eb2-973a-3efe0f9ff76d	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/02_ReachKabalHideout_Title.json
+258	0b75e7c5-5e3f-4fb8-93b7-186e72dd6065	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/03_ExplorePlanet_Description.json
+259	86250f10-7209-4104-8fdb-a3ce7384c743	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/03_ExplorePlanet_Title.json
+260	54da747e-dad0-47e3-8a82-0725fc816b92	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/04_ProceedToDesignatedPoint_Description.json
+261	a7208327-7ddb-4137-a92f-2367c3e20802	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/04_ProceedToDesignatedPoint_Title.json
+262	a724f451-3713-43c7-bceb-04ae40285023	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/05_DefeatKabalsEnemies_Description.json
+263	3d1daab8-785b-45f9-a1f3-834b9da7e9a5	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/05_DefeatKabalsEnemies_Title.json
+264	0c5270e9-c55f-4b8c-80ed-78a45833e66b	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/06_TalkToMarazhai_Description.json
+265	f9ec2f06-2a6f-4ea4-906c-4d9c31acd25c	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/06_TalkToMarazhai_Title.json
+266	a3837c9c-52ab-4838-961c-5bdb57dd3388	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/Marazhai_Q2_Bloodright_CompletionText.json
+267	8148b2a5-8d17-424c-ad1c-cf37d24e1fed	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/Marazhai_Q2_Bloodright_Description.json
+268	8bdb2d00-ed3a-462c-9a16-5b651e888607	Mechanics/Blueprints/World/Quests/CompanionQuests/Marazhai/Q2_Bloodright/Marazhai_Q2_Bloodright_Title.json
+269	59452582-a46e-4754-be84-a61d6a8434ab	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/1_ArrangeMeeting_Description.json
+270	a561239f-a395-4d58-9d44-6c48fcec6785	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/1_ArrangeMeeting_Title.json
+271	4590be03-b972-45a2-8983-0d2f2eda6ee3	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/2_TalkToNaviRepresentative_Description.json
+272	f305f9e3-9def-4025-8a36-9b10b2d971ca	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/2_TalkToNaviRepresentative_Title.json
+273	d9259044-8e36-4fa3-a673-d28e21808a19	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/3_RepelNaviAttack_Description.json
+274	9bf0dd3f-b2f5-4b3e-9ac9-8f17a86336e7	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/3_RepelNaviAttack_Title.json
+275	bac0c268-2518-46c5-b1b7-0ae63ecfb584	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/4_AskNaviAboutAssasination_Description.json
+276	3cab5424-b313-4f2c-8404-bb2bc3a586e3	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/4_AskNaviAboutAssasination_Title.json
+277	e90def8e-22e7-4e5a-bef2-b561cba59e6b	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/5_TalkToCassia_Description.json
+278	74006289-6ce5-42a6-b166-3af17afea150	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/5_TalkToCassia_Title.json
+279	44faa5f8-8f32-4da2-a582-0f46fcbd5245	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/6__SilenceInTheCourt_Description.json
+280	e4ac210d-2163-45e6-8c05-f1fbe65c9b31	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/6__SilenceInTheCourt_Title.json
+281	f74972c8-714a-4a43-a0da-4d59b51cda2b	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/Add1_RepelNaviAttackOutside_Description.json
+282	15c71145-5ff4-4c43-9e76-095d4c0734d2	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/Add2_TalkToRadicalLeader_Description.json
+283	5abf43b0-99d1-4e83-a338-ab1635995537	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/NavigatorQ1_quest_CompletionText.json
+284	afaffacc-4986-4335-a230-6623e381519d	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/NavigatorQ1_quest_Description.json
+285	0721c9a1-c116-49ca-9740-310a4090be8a	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/NavigatorQ1_quest_RegionName.json
+286	27b1e488-10d5-4d58-8bfa-bc2b903ac667	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q1/NavigatorQ1_quest_Title.json
+287	da037877-7c19-4e0b-b177-3fe812625707	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/1_ThroughSeeOfSouls_Description.json
+288	1dee7600-1466-41f7-b333-ee57fa0f4e6f	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/1_ThroughSeeOfSouls_Title.json
+289	a544e414-90dc-48b3-9c5f-a9934e056eb0	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/2_ExploreMysteriousWorld_Description.json
+290	f72aa468-dc66-4514-8ad4-83b3b28596a1	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/2_ExploreMysteriousWorld_Title.json
+291	33e73e39-d103-4d66-9777-bce501e31d82	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/3_FindTheTruth_Description.json
+292	0b1e6dfd-cdea-4696-939f-ece40adefede	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/3_FindTheTruth_Title.json
+293	792a027c-7566-46ac-b040-2f30d4d326ab	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/4_TalkToCassia_Description.json
+294	42899bcd-cc3a-4b5f-b9da-bc4c7e07d1d3	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/4_TalkToCassia_Title.json
+295	4018296e-c23e-4c4c-b360-2df0d61aa98c	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/5_LeaveTheWorld_Description.json
+296	88874cd2-0609-47da-9a9e-ac4a38e7d2b0	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/5_LeaveTheWorld_Title.json
+297	be5d5c8d-3ea2-451c-905f-21aefafb88db	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/NavigatorQ2_quest_CompletionText.json
+298	a2fd0a44-5425-4f2a-ae19-91de5b7869d2	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/NavigatorQ2_quest_Description.json
+299	14bddf56-e348-45e5-b65b-a7ec2874aea3	Mechanics/Blueprints/World/Quests/CompanionQuests/Navigator/Q2/NavigatorQ2_quest_Title.json
+300	248c34be-8cea-4711-b025-a90e7b618b44	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/Add1_GoYourself_Description.json
+301	b62cee89-8182-4aa4-9771-9cf2fc5839ab	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/CheckEngine_Description.json
+302	94c07c16-0aaf-48ce-931c-49740cf15762	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/CheckEngine_Title.json
+303	7b87d564-7978-4b43-965a-ccdc598c5740	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/GoToInterestingStarSystem_Description.json
+304	e0f50a4b-98a6-41e4-8785-cc192fd2000c	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/GoToInterestingStarSystem_Title.json
+305	a24c884a-89d1-4bbc-8497-c5f8c2b29627	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/OdditiesInTheDiary_quest_CompletionText.json
+306	e43ac617-dc3b-4a14-83e3-f7f30fba2ef5	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/OdditiesInTheDiary_quest_Description.json
+307	2e662471-8fc4-45d2-bc0f-c0e4aad812e2	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/OdditiesInTheDiary_quest_Title.json
+308	57010476-fcc0-4daf-b05b-8e1aaba89539	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/TalkToGargoyle_Description.json
+309	33d5286f-cdd8-4b3f-a2f6-7f9ccf239943	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/TalkToGargoyle_Title.json
+310	35605195-e401-4b7b-8f63-c371c875d4cf	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/TuneVoxSystem_Description.json
+311	25e92449-92cf-4527-8632-aec28f4e8091	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q1/TuneVoxSystem_Title.json
+312	afc7d667-1101-45ee-bad9-8f62e209d2a1	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/01_TalkWithOfficers_Description.json
+313	2be3cbad-94e7-4a32-a9e6-53c77358160a	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/01_TalkWithOfficers_Title.json
+314	6a5957c8-ed5b-46dd-9dc9-f8a88a5ece35	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/03_DiscussCachesWithNomos_Description.json
+315	120d7908-be51-4484-80f3-a8315e868c4a	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/03_DiscussCachesWithNomos_Title.json
+316	1bdca6df-1e9f-4c11-b8f7-11ebd277e857	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/04_WaitForMoreInfo_Description.json
+317	41663ac2-c8dc-42b3-8aa9-1b87d305e473	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/04_WaitForMoreInfo_Title.json
+318	7182a1ab-dcd3-492e-9886-7c324695fa79	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/05_TalkWithNomos_Description.json
+319	8f682b70-1983-427a-a2f4-1681a0a26206	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/05_TalkWithNomos_Title.json
+320	0a04592a-ce48-4b14-b80f-b18eff3fd576	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/021_TalkWithAbelard_Description.json
+321	b8526b23-69ec-4d9e-8dc7-8c37d01eeb14	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/021_TalkWithAbelard_Title.json
+322	a45d2bce-3fd1-4c51-a6d7-c5e435f6dad6	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/022_TalkWithIdira_Description.json
+323	c9096e33-341f-4c44-bf4c-7d759ccbb8ab	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/022_TalkWithIdira_Title.json
+324	0276f52f-6e5f-4c9f-ba34-a460c208693c	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/Add_TalkedRavor_Description.json
+325	76ab77f3-a090-4f81-9e91-f70d2ad6b6af	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/Add_TalkedVigdis_Description.json
+326	b4c8d581-f151-4eae-8fea-d004d622f9ac	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/FindingRoots_quest_CompletionText.json
+327	8b457110-b1f4-4a70-b004-93eb14aabfe3	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/FindingRoots_quest_Description.json
+328	c524d7ea-7d17-4817-ba6c-d8954f2eedbf	Mechanics/Blueprints/World/Quests/CompanionQuests/Nomos/Nomos_Q2/FindingRoots_quest_Title.json
+329	c2c0cc33-f839-4c83-bda5-b8d018e39f97	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/1_ExploreTheHauntedCompartment_Description_1.json
+330	7933787c-cce0-4c1e-8101-321227b22c3f	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/1_ExploreTheHauntedCompartment_Title_1.json
+331	7ef851b0-26d8-4473-a477-280190a45635	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/2_KeepUpWithDeadRogueTrader_Description_1.json
+332	d49f4739-b665-47da-b26f-55c871d9d500	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/2_KeepUpWithDeadRogueTrader_Title_1.json
+333	01828aa7-8294-4dfe-8cde-5939c5e99f48	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/3_KillTheMonstrosity_Description_1.json
+334	3037389d-203a-4563-a950-bb0d481f5b59	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/3_KillTheMonstrosity_Title_1.json
+335	d2243fcc-2266-4a5f-9ab1-f39687516f8b	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/4_TalkToIdira_Description_1.json
+336	37e81eb5-c8b6-40e5-b28c-1f73117237a3	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/4_TalkToIdira_Title_1.json
+337	3ea1cab6-3f4a-44f8-992b-6cb73ac4231b	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/Addendum_0001_Description.json
+338	d88b2c6e-1ee2-45bc-aa5b-d96e33ddd1d6	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/Addendum_0002_Description.json
+339	256eebf8-066a-4e89-b990-4de1fe2051a4	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/Destination_Macrocannon_String.json
+340	35dc893b-4e97-4aa7-8fad-ac55c5cb77f5	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/Psyker_Q1_EchoOfThePast_CompletionText_1.json
+341	3f9228c8-a246-4384-9f9c-e49ab3652c48	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/Psyker_Q1_EchoOfThePast_Description_1.json
+342	21cc7183-8bad-4e39-8d2b-f9cd84208ce2	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/Psyker_Q1_EchoOfThePast_RegionName.json
+343	bf942a2b-4cb1-4a9d-aee6-e78ee5035588	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q1_EchoOfThePast/Psyker_Q1_EchoOfThePast_Title_1.json
+344	5aacc074-ca7d-426b-a367-8e5a994dfe4a	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/0_DiscussVisions_Description.json
+345	78f0e538-b70e-4966-816e-21c4d75f93d8	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/1_WaitForNewVisions_Description.json
+346	695d41fb-6578-4822-a208-fc160b63ef2d	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/1_WaitForNewVisions_Title.json
+347	b5444374-6815-4201-a2eb-2cbe8c22d0b8	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/2_ExploreThePlanet_Description.json
+348	9b7afa2c-05d7-459d-8070-e6208d1a2549	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/2_ExploreThePlanet_Title.json
+349	ce4ee37a-d37e-46db-a593-045acb584511	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/3_TakeIdiraToTheDoor_Description.json
+350	f75f4bc7-9642-4d46-b24f-f64cd3c7bee2	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/3_TakeIdiraToTheDoor_Title.json
+351	b590bd40-ad93-4099-a389-bab370b45423	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/4_EnterTheDoor_Description.json
+352	91b3d90e-1935-43d3-ac7b-25d7ff9a3594	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/4_EnterTheDoor_Title.json
+353	a7a1f7f1-b1bf-4e11-98ca-979a0fd78eef	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/5_DefeatFarseer_Description.json
+354	8b6b6455-6d43-4f1b-99e8-f0a14c079c1a	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/5_DefeatFarseer_Title.json
+355	ef476dbe-ce29-4b8e-8eb1-ac7fd52a5eae	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/6_PsyDamperDecision_Description.json
+356	da3964e3-ebd8-4848-b2bd-ae64b031590d	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/6_PsyDamperDecision_Title.json
+357	f49e1faf-715b-4244-8525-906308f69399	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/7_TalkToIdira_Description.json
+358	a08f8560-083c-4043-bb11-76907a7c29ed	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/7_TalkToIdira_Title.json
+359	36995396-8985-4543-9e51-aec1e7a6728f	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Addendum_2_Description.json
+360	ca037851-c60a-4d4a-a526-c7073c8e1548	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Addendum_3_Description.json
+361	72135e65-36e8-47d7-bd0a-63c8effec399	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Addendum_0004_Description.json
+362	d5fcd5e5-f8ca-4115-bb26-62fc33d9f6d9	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Addendum_4_Description.json
+363	55f1a657-e629-44d3-9ee0-599408d3fd99	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Addendum_IdiraKilled_Description.json
+364	70abb629-8b65-48ce-b922-412b82824118	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Addendum_Refuse_.Description_.json
+365	a091eca1-276a-4fa4-913b-fdef5e2f8db4	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Addendum_TakeLater_.Description_.json
+366	6e6b361e-8021-4bde-8f9c-9ac0a7e6cccb	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Objective_0001_Title.json
+367	1b868ec7-0816-4051-b87c-06384e32957e	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Psyker_Q2_TheDoor_quest_CompletionText.json
+368	7a6091af-21f6-4956-8a6f-e3ec51b4c971	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Psyker_Q2_TheDoor_quest_Description.json
+369	ba4e02f5-7a4c-462c-b66f-8675e4be1ac3	Mechanics/Blueprints/World/Quests/CompanionQuests/Psyker/Psyker_Q2_TheDoor/Psyker_Q2_TheDoor_quest_Title.json

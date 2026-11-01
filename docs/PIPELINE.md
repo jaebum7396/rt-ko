@@ -11,7 +11,8 @@
 | `work/chunks/<묶음>/<청크>.terms.tsv` | 청크에 나오는 용어만 | 제외 |
 | `work/manifest.json` | 청크 목록·상태 | O |
 | `work/out/<묶음>/<청크>.tsv` | 아스트라 출력 (번역 결과) | O |
-| `work/check/` | 검사 결과·재번역 목록 | O |
+| `work/check/` | 검사 결과 | O |
+| `work/retry/` | 재번역 입력·답 (check.py `--retry`/`--merge`) | 제외 |
 | `work/run/<청크>/` | 아스트라 작업 폴더·로그 | 제외 |
 | `build/` | 만든 enGB.json·설치 zip | 제외 |
 
@@ -29,7 +30,7 @@
 ```
 - `#`로 시작하는 줄은 장면 머리줄이다. 번역하지 않고 출력에도 넣지 않는다.
 - 열: `n`(청크 안 1부터 읽는 순서), `speaker`, `text`(영어, 이스케이프)
-- speaker: Strings의 `speaker` 그대로 (예: `AbelardCompanion`). `Answer_*` 줄은 `PLAYER`. 화자 없는 대사는 `?`, 대사가 아닌 글은 `-`.
+- speaker: Strings의 `speaker` 그대로 (예: `AbelardCompanion`). `Answer_*` 줄은 `PLAYER` (단 `SoulMarkShift` 설명은 `-`). 화자 없는 Cue와 따옴표로 시작하는 줄(외침 등)은 `?`, 대사가 아닌 글은 `-`.
 - GUID는 넣지 않는다 (토큰 낭비). `<청크>.keys.tsv`: `n<TAB>GUID<TAB>Strings 상대 경로`.
 
 ## 청크 나누기

@@ -1,0 +1,363 @@
+1	0281b1bb-f944-4fb5-b7a8-2de7cf2c76c2	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/AdditionalRumours_SmallTutorial_.DescriptionText_.json
+2	c77be792-028b-45a6-af42-f6f5861bbd1e	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/AdditionalRumours_SmallTutorial_.TitleText_String.json
+3	afa9ab3b-c214-45dc-9f89-fc97c330eaf1	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ColonizationRemoteControl_SmallTutorial_.DescriptionText_.json
+4	31f1a4e6-b5d5-46f5-8c90-0c0c172c845a	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ColonizationRemoteControl_SmallTutorial_.TitleText_String.json
+5	d7014117-7cd8-4bed-a901-9761a5a1509c	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ColonizationUI_BigTutorial_.DescriptionText 1_.json
+6	fed652bc-3941-43b1-970e-2072a95e934f	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ColonizationUI_BigTutorial_.DescriptionText 2_String.json
+7	53b3ec7a-bda2-465f-9a74-d217081a3382	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ColonizationUI_BigTutorial_.TitleText 1_String.json
+8	b77d5413-37f2-456a-a12f-f90d5a78890a	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ColonizationUI_BigTutorial_.TitleText_String.json
+9	ee5ebded-efbb-4bc7-ab3a-b34b99f64825	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ColonyEvent_SmallTutorial_.DescriptionText_.json
+10	e682ba9f-cd57-44e1-b833-94667bf10968	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ColonyEvent_SmallTutorial_.TitleText_String.json
+11	39ebb825-0a45-40e8-9e10-9cf9942fe897	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/FarSystem_SmallTutorial_.DescriptionText_.json
+12	393202e3-aa2d-41d3-9687-2a83b449f71c	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/FarSystem_SmallTutorial_.TitleText_String.json
+13	8ed9edfc-0ff1-40b0-976c-83a8a2443687	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/GlobalMapButton_SmallTutorial_.DescriptionText_String.json
+14	38b4588f-bd2c-4a0f-ba53-bc8e4caf03f2	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/GlobalMapButton_SmallTutorial_.TitleText_String.json
+15	587b2ef5-1b38-4731-9924-7ac4e4663b0f	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/GlobalMapRoutes_BigTutorial_.DescriptionText 2_String.json
+16	7f292dff-f1e9-493d-8163-127efdd88999	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/GlobalMapRoutes_BigTutorial_.DescriptionText 3_String.json
+17	a9d2ea2d-0391-4fb8-8477-6b339ff5e83d	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/GlobalMapRoutes_BigTutorial_.DescriptionText 4_String.json
+18	80a09b28-b8ca-4c4e-813c-f8a427263d4c	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/GlobalMapRoutes_BigTutorial_.TitleText 1_String.json
+19	7ead96f5-b33a-4c71-b59c-13199b168454	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/GlobalMapRoutes_BigTutorial_.TitleText 2_String.json
+20	4bf66138-485b-4d46-b003-fd8637c93522	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/GlobalMapRoutes_BigTutorial_.TitleText_String.json
+21	19510826-efdf-4dba-bc2c-6fafd968a3ae	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/PlanetsExtraction_BigTutorial_.DescriptionText 1_.json
+22	1acc9d00-ef71-4eec-a288-2dad36ded888	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/PlanetsExtraction_BigTutorial_.DescriptionText 2_String.json
+23	b893b6b0-7c8f-4f7e-8c0f-4431814ff3c2	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/PlanetsExtraction_BigTutorial_.DescriptionText 3_String.json
+24	5ff0299a-e6e2-4b6e-b591-f223313cc7bb	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/PlanetsExtraction_BigTutorial_.DescriptionText 4_String.json
+25	e5689257-3532-43e0-9c96-cae28c938713	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/PlanetsExtraction_BigTutorial_.TitleText 1_String.json
+26	0a4552b2-c45f-4bd2-9e2c-5e47d2de6d98	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/PlanetsExtraction_BigTutorial_.TitleText_String.json
+27	e978b972-abbb-4cc4-8a0b-f5e2e262bd21	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/Rumours_BigTutorial_.DescriptionText 1_String.json
+28	21d0deb9-7921-4df2-9437-b3afe29df49d	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/Rumours_BigTutorial_.DescriptionText_.json
+29	e26e9ee1-d0aa-46cc-aa3a-62de7410591c	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/Rumours_BigTutorial_.TitleText 1_String.json
+30	a5c02a52-06ea-4c06-a179-4ac336fe6339	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/Rumours_BigTutorial_.TitleText_String.json
+31	4aab73c9-4493-4ac8-8445-4aec9425db73	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncAreas_BigTutorial_.DescriptionText_String.json
+32	32946f0f-20f5-4710-a629-f1e917bacaa9	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncAreas_BigTutorial_.TitleText_String.json
+33	51e90f05-ebf5-4bb3-b245-6e4f06a787ce	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncArsenal_BigTutorial_.DescriptionText 1_String.json
+34	de30e09d-3c6d-4da9-9670-32adbc85f2c5	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncArsenal_BigTutorial_.DescriptionText_String.json
+35	9c2784ae-d87b-4b49-940b-15cbf952a224	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncArsenal_BigTutorial_.TitleText 1_String.json
+36	03aa9ef0-32c3-4f86-87ba-a0c40e1480e9	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncArsenal_BigTutorial_.TitleText_String.json
+37	142aaf4a-34fc-4e3d-a81d-6fc1633f80fa	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncAttack_BigTutorial_.DescriptionText 1_String.json
+38	f7f1b29d-ed06-4810-bf10-a787715a9fe7	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncAttack_BigTutorial_.DescriptionText 2_String.json
+39	89f61119-506b-4d7c-aacb-4812beb16b2f	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncAttack_BigTutorial_.DescriptionText 3_String.json
+40	2d144f5f-fe6c-444f-a9a2-6ca300d2da4d	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncAttack_BigTutorial_.TitleText_String.json
+41	33d87419-a2ec-4d85-b3a1-3aa451028db0	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncMovement_BigTutorial_.DescriptionText 1_.json
+42	75b2461f-d3ee-4815-acc8-ecbbdab0ae84	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncMovement_BigTutorial_.DescriptionText 2_.json
+43	2d4e6f82-e6c1-46da-a4e4-d681a999bc71	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncMovement_BigTutorial_.DescriptionText_.json
+44	3f804b9b-9c29-47f9-9066-0ca5601ef948	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncMovement_BigTutorial_.TitleText 1_String.json
+45	ff24c4d3-3732-47fa-a92c-5516a303e9db	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncMovement_BigTutorial_.TitleText 2_String.json
+46	bf4335d0-c5a5-45b5-ae8b-b8254cf84727	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncMovement_BigTutorial_.TitleText_String.json
+47	0b61269e-6bd6-4303-95e5-ea7c74a61c28	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncPostsUsage_BigTutorial_.DescriptionText 1_String.json
+48	c6aea396-a761-4d89-b475-24025265d7d4	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncPostsUsage_BigTutorial_.DescriptionText 2_String.json
+49	a4b63866-8763-4d18-954e-60c393bae67a	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncPostsUsage_BigTutorial_.TitleText_String.json
+50	3c176d1c-1b15-4b73-987a-650e41032c1d	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.DescriptionText 2_String.json
+51	4c25d4bd-8af6-4456-a692-db3cefc5132c	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.DescriptionText 3_String.json
+52	62d8ee30-62c1-49a5-bde3-dc1146de6f58	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.DescriptionText 4_String.json
+53	02d2f237-dde4-4c19-a740-d790101aa0a5	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.DescriptionText 5_String.json
+54	0de8b369-2eb2-4095-8801-17a6ba428ad7	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.DescriptionText 6_String.json
+55	bca63e39-988c-4b5e-855b-9df656beb706	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.TitleText 1_String.json
+56	c13790b0-0878-4077-b878-2b3554119bcd	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.TitleText 2_String.json
+57	175741ea-58b9-401e-a97f-7d07552da383	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.TitleText 3_String.json
+58	4c813146-1cc1-4a9d-9158-4030e7019c58	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncShields_BigTutorial_.TitleText_String.json
+59	f8fda36e-5674-483d-9083-b6f8c8d6ab7e	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncSmallGroups_BigTutorial_.DescriptionText 1_String.json
+60	3a6937fb-809d-4fb6-b31e-bd3737237a3c	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncSmallGroups_BigTutorial_.DescriptionText_.json
+61	c2e24457-7ec2-476e-b527-823b2d05195a	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncSmallGroups_BigTutorial_.TitleText 1_String.json
+62	586ac1d4-9bb5-439b-a8a9-b197eaa52693	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncSmallGroups_BigTutorial_.TitleText_String.json
+63	3f822176-9f78-4a6a-a6b4-166a5d26bd20	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncTorpedoes_BigTutorial_.DescriptionText 1_String.json
+64	f79ad2dd-5f93-4a19-af83-4cfbfe46a98c	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncTorpedoes_BigTutorial_.DescriptionText_.json
+65	14cd9996-da1c-4f40-a00b-b03f24d3ee86	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncTorpedoes_BigTutorial_.TitleText_String.json
+66	c1333ed7-6927-4452-9f28-8c59ac2243c7	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncTurnEnd_SmallTutorial_.DescriptionText_.json
+67	2bd4a00d-3803-48ac-82d5-ec816fd06252	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncTurnEnd_SmallTutorial_.TitleText_String.json
+68	abccd4eb-b7bd-40c0-8fb4-4ed8abfbf4cd	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncUltimates_BigTutorial_.DescriptionText 1_.json
+69	146f1275-1d14-4097-a0bb-6200c6e59e61	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncUltimates_BigTutorial_.DescriptionText 2_String.json
+70	1fe5f801-8c11-470c-8462-1184c4a1f927	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncUltimates_BigTutorial_.DescriptionText 3_String.json
+71	45600f0b-d96f-47e0-9561-e3ba53d74193	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEncUltimates_BigTutorial_.TitleText_String.json
+72	115ab175-4770-4c5f-ba35-30318c703fad	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEnsShadowfieldSheck_SmallTutorial_.TitleText_String.json
+73	03f5c70a-2b4d-4801-9cbc-9a8033aae28c	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEnsShadowfieldSheck_SmallTutorial_m_DescriptionText.json
+74	2c205cb7-6eb7-4e71-9418-001cc465a3ea	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEquipment_BigTutorial_.DescriptionText_.json
+75	4aea30d8-4c98-4302-aeb1-bea8f1cda9fd	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipEquipment_BigTutorial_.TitleText_String.json
+76	201ffb55-76d6-4996-84c5-f63e9530ad23	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipLevelUp_BigTutorial_.DescriptionText_.json
+77	8eff0cda-de3e-4082-a5ff-f1184fd866de	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipLevelUp_BigTutorial_.TitleText_String.json
+78	1713572f-da55-4874-8cc2-c760eb84af85	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipMovement_SmallTutorial_.DescriptionText_.json
+79	300e0876-9b9d-4910-b3e0-f376d866e157	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipMovement_SmallTutorial_.TitleText_String.json
+80	2b2c3ddb-8d26-4402-9f5b-d900ad19e490	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipRepairment_BigTutorial_.DescriptionText 1_String.json
+81	4ab838b2-e726-405f-b525-87bf04cd16fe	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipRepairment_BigTutorial_.DescriptionText 2_String.json
+82	31a28acf-d288-4545-9222-a1f799abcb0d	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipRepairment_BigTutorial_.TitleText 1_String.json
+83	fcb4ffb3-0e94-4aff-8c88-e445aea03651	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipRepairment_BigTutorial_.TitleText_String.json
+84	ee381550-9867-40ac-8894-848d36a4a529	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipScrapDowngrade_BigTutorial_.DescriptionText 1_String.json
+85	d3679be7-7720-41d0-b2ea-e142e219ddfc	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipScrapDowngrade_BigTutorial_.DescriptionText_.json
+86	3af8a1ff-91a0-41f9-8c0e-f01c4ee353e3	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipScrapDowngrade_BigTutorial_.TitleText_String.json
+87	b4513b06-8163-4bf3-8c92-dbe59e6dbe45	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipStatusCheck_BigTutorial_.TitleText_String.json
+88	f1d31fe9-86b5-463a-96c2-1978c9415260	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/ShipStatusCheck_BigTutorial_m_DescriptionText.json
+89	d5efbe05-31f1-4165-871c-dff8e1b05e6e	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/SystemAdvancementChapter5_BigTutorial_m_DescriptionText.json
+90	a9286e06-445d-4eea-9713-b425cc40513d	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/SystemAdvancementChapter5_BigTutorial_m_TitleText.json
+91	40328584-e9fc-47ab-9862-a40c82ce6f49	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/SystemMap_BigTutorial_.DescriptionText 1_String.json
+92	9451fda7-4c16-4b35-9e5f-76b1ed04c067	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/SystemMap_BigTutorial_.DescriptionText 2_String.json
+93	9de5e873-7926-4201-abb8-d21eb2f2e9c1	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/SystemMap_BigTutorial_.TitleText 1_String.json
+94	6d4e6d80-3d19-45b8-b0a0-6d35a2c14473	Mechanics/Blueprints/TutorialWindows/SpaceTutorials/SystemMap_BigTutorial_.TitleText_String.json
+95	b52f9bb1-d27d-4a7f-8b68-a29e2e6cf539	Mechanics/Blueprints/Units/Companions/ArgentaCompanion/Argenta_Repentia_Feature_m_Description.json
+96	4e81acc0-8eb4-46e7-a378-88526c9f401c	Mechanics/Blueprints/Units/Companions/ArgentaCompanion/Argenta_Repentia_Feature_m_DisplayName.json
+97	d1986eb7-5391-42a6-961c-fbfe0f584610	Mechanics/Blueprints/Units/Companions/FinalCompanions/Chorda_Features/Chorda_Active_Feature_.Description_String.json
+98	fe023b54-61bd-4849-98a0-f17333623ec8	Mechanics/Blueprints/Units/Companions/FinalCompanions/Chorda_Features/Chorda_Active_Feature_.DisplayName_String.json
+99	b327448b-fb3d-4646-abd9-2ec71220a060	Mechanics/Blueprints/Units/Companions/FinalCompanions/Chorda_Features/Chorda_Passive_Feature_m_Description.json
+100	b01e5eab-9e03-49c6-b6b9-a564dbe411cc	Mechanics/Blueprints/Units/Companions/FinalCompanions/Chorda_Features/Chorda_Passive_Feature_m_DisplayName.json
+101	aaf94612-c74d-4017-928c-00d0f718d58d	Mechanics/Blueprints/Units/Companions/FinalCompanions/Uralon_Features/Uralon_Active_Feature_.Description_String.json
+102	05f63c8d-72e4-4657-a59e-0b30395f1824	Mechanics/Blueprints/Units/Companions/FinalCompanions/Uralon_Features/Uralon_Active_Feature_.DisplayName_String.json
+103	92e706bc-4077-47bf-b133-10ed89f56295	Mechanics/Blueprints/Units/Companions/FinalCompanions/Uralon_Features/Uralon_Passive_Feature_.Description_String.json
+104	c2f9d0fc-a7c8-491b-943f-620acd44b1a2	Mechanics/Blueprints/Units/Companions/FinalCompanions/Uralon_Features/Uralon_Passive_Feature_.DisplayName_String.json
+105	bc10b4bf-e977-4896-aef9-69e2a66ec2b8	Mechanics/Blueprints/Units/Companions/FinalCompanions/Winterscale_Features/Winterscale_Active_Feature_.Description_String.json
+106	91792f49-ddd1-42bc-b7c2-e8741a5d6ef8	Mechanics/Blueprints/Units/Companions/FinalCompanions/Winterscale_Features/Winterscale_Active_Feature_.DisplayName_String.json
+107	35b87aaa-8ea8-4c76-8b9a-90d1f8fed752	Mechanics/Blueprints/Units/Companions/FinalCompanions/Winterscale_Features/Winterscale_Passive_Feature_m_Description.json
+108	2254a127-3e65-4bf4-a466-48254dbc578a	Mechanics/Blueprints/Units/Companions/FinalCompanions/Winterscale_Features/Winterscale_Passive_Feature_m_DisplayName.json
+109	7d52bfde-7b80-4208-b1ca-c2b673ecf260	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/DrukhariArmourProficiency_Feature_.DisplayName_String.json
+110	de58e285-b937-4a00-a34d-7125138cc317	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/Marazhai_Active_Feature_.Description_String.json
+111	901d5ceb-6f4d-43f9-b7f6-f0a76d485a13	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/Marazhai_Active_Feature_.DisplayName_String.json
+112	cad49fa8-cbdc-47c6-ac60-0a70e2c6dbd3	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/Marazhai_Talent01_Feature_.Description_String.json
+113	141b43d4-d045-43a3-8e97-dc2fa02fb98e	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/Marazhai_Talent01_Feature_.DisplayName_String.json
+114	8a54c186-efc0-431c-b26f-b6e813fce9a8	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/Marazhai_Talent02_Feature_.Description_String.json
+115	93943306-d891-43bb-ae13-60385b52037a	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/Marazhai_Talent02_Feature_.DisplayName_String.json
+116	d38b8011-62f1-426b-b765-d9827744d83d	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/Marazhai_Talent03_Feature_.Description_String.json
+117	f09c17a1-79cd-44b3-9adc-9e564f6975d0	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/Marazhai_Talent03_Feature_.DisplayName_String.json
+118	5cec0455-26a4-4b94-8e8d-a47c5aa41966	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/TruebornSuperiority_Feature_.Description_String.json
+119	f240acdd-da56-404b-9e77-99cf20bfca40	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Features/TruebornSuperiority_Feature_.DisplayName_String.json
+120	1cd785f7-c121-46ed-8c2c-3950423e6a21	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Romance_Features/Marazhai_StainOnTheSoul_Feature_m_Description.json
+121	f8465da7-dee1-4d61-9abb-80a0dd6d339a	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Romance_Features/Marazhai_StainOnTheSoul_Feature_m_DisplayName.json
+122	ec93cc53-9f05-4c49-8792-15385f50f04c	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Romance_Features/Marazhai_TaintOfTheHeart_Feature_m_Description.json
+123	ffc1726b-3c99-4cea-8b49-367bc0263643	Mechanics/Blueprints/Units/Companions/MarazhaiCompanion/Marazhai_Romance_Features/Marazhai_TaintOfTheHeart_Feature_m_DisplayName.json
+124	686575c5-f65c-4305-b9f5-12c93460c471	Mechanics/Blueprints/Units/Companions/SolomonCompanion/GlaitoCyber-mastiff_.LocalizedName__String.json
+125	1ea77603-a19c-469a-8de8-f2628bc43136	Mechanics/Blueprints/Units/Companions/SolomonCompanion/SolomorneCompanion_.LocalizedName_String.json
+126	24a9fe0a-a99b-4518-9718-0975d02ae4a7	Mechanics/Blueprints/Units/Companions/SolomorneCompanion/SolomorneCompanionFury_Ability_Properties.Array.data[0].Description.json
+127	b5c28e21-603a-48bc-a9cc-b6300bc68797	Mechanics/Blueprints/Units/Companions/SolomorneCompanion/SolomorneCompanionFury_Buff_.Description_String.json
+128	8551759f-1857-48b4-b316-965b7ca3b141	Mechanics/Blueprints/Units/Companions/SolomorneCompanion/SolomorneCompanionFury_Buff_.DisplayName_String.json
+129	d68d1393-c901-4bb2-9264-228525d581ac	Mechanics/Blueprints/Units/Companions/SolomorneCompanion/SolomorneCompanionFury_Feature_.Description_String.json
+130	58eca09b-a1f7-47ae-bed6-80a2b63012ee	Mechanics/Blueprints/Units/Companions/SolomorneCompanion/SolomorneCompanionFury_Feature_.DisplayName_String.json
+131	c00c2587-0005-4a2a-80ab-a4b256885fc0	Mechanics/Blueprints/Units/Companions/UlfarCompanion/SpaceMarineEquipment_Proficiency_.DisplayName_.json
+132	4a81f02c-5903-4de1-a93d-0b87297c9213	Mechanics/Blueprints/Units/Companions/UlfarCompanion/UlfarSwiftHunter_Feature_.Description_String.json
+133	84595acc-7f7f-4950-ab89-2a0bb57f03ac	Mechanics/Blueprints/Units/Companions/UlfarCompanion/UlfarSwiftHunter_Feature_.DisplayName_String.json
+134	328f6efd-58f7-420d-ae36-1e30f89ff4dd	Mechanics/Blueprints/Units/Companions/UlfarCompanion/UlfarWolfen_Feature_.Description_String.json
+135	95f1a3ac-0d76-421c-a298-d1c6c39479e1	Mechanics/Blueprints/Units/Companions/UlfarCompanion/UlfarWolfen_Feature_.DisplayName_String.json
+136	6c41db6e-ac4a-4140-af13-2c837548dd7b	Mechanics/Blueprints/Units/Companions/YrlietCompanion/AeldariArmourProficiency_Feature_.DisplayName_String.json
+137	cf943253-1ec9-4c9b-92ca-0d27526b242a	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Active_Feature_.Description_String.json
+138	40c62656-1166-4452-8b13-a566a45b48bb	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Active_Feature_.DisplayName_String.json
+139	7f5e6ee7-65ed-4e28-a791-fe566c090385	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Talent01_Feature_.Description_String.json
+140	56268c6f-2d2a-4ae1-b3f8-734f7e983087	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Talent01_Feature_.DisplayName_String.json
+141	ee0d9f2a-2012-4e91-815d-c14d982e7c7b	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Talent02_Feature_.Components.Array.data[0].Properties.Array.data[0].Description_String.json
+142	3ddeafc4-4e4a-46ab-be27-afe6310259ee	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Talent02_Feature_.Description_String.json
+143	e66eeaf3-b4c0-41fb-b543-0403d417266f	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Talent02_Feature_.DisplayName_String.json
+144	9ae9ae3a-47f7-4de7-a966-760521f3850f	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Talent03_Feature_.Components.Array.data[0].Properties.Array.data[0].Description_String.json
+145	381a6aec-b5a0-4b43-86bc-f1088f0c0558	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Talent03_Feature_.Description_String.json
+146	7decd837-cdb0-4dbe-a20c-dcbb51ce670d	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_Talent03_Feature_.DisplayName_String.json
+147	237cf086-ee96-47bf-b205-6d44ce0dd5d9	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_WayOfTheWanderer_Feature_.Description_String.json
+148	9f6e3c5d-2e32-4922-8bc0-e9a109cf21d1	Mechanics/Blueprints/Units/Companions/YrlietCompanion/YrlietFeatures/Yrliet_WayOfTheWanderer_Feature_.DisplayName_String.json
+149	7404840f-e922-4402-9221-85c234c6a44d	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/BestialRage_Feature_.Description_.json
+150	70e1fdc5-2b15-4902-a98e-8be70c0a3d31	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/BestialRage_Feature_.DisplayName_.json
+151	006319c0-3407-4b5a-92c8-5c6255c415e9	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/BlackCarapaceArmour_Feature_m_Description.json
+152	a3177fad-8179-495a-8084-7ebad3852ffa	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/BlackCarapaceArmour_Feature_m_DisplayName.json
+153	09c17900-6126-447d-9ec8-ca6b166eb9bb	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/BurningTouchOfTheWarp_Feature_.Description_.json
+154	7257f209-19ff-4471-8619-92f5d89dd2f5	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/BurningTouchOfTheWarp_Feature_.DisplayName_.json
+155	ba929c00-5160-42a0-bd18-80c40e733066	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ChaosBlessing_Buff_m_Description.json
+156	92838cf7-c4a5-4e86-a640-a6ddd29028ae	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ChaosBlessing_Buff_m_DisplayName.json
+157	4722b570-5a92-4401-b451-720bbcb477a7	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ChaosCorruption_Feature_.Description_String.json
+158	c66faa1a-f7f2-4213-b2e0-6eddda2f0b7a	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ChaosCorruption_Feature_.DisplayName_String.json
+159	58ef042a-f3fd-42f5-81a6-c02ebe321c64	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CombatBoss_Feature_.Description_.json
+160	8e6f834d-2530-4e6e-b00c-502590c75659	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CombatBoss_Feature_.DisplayName_.json
+161	086c59d6-6346-4ba2-a118-bb9342ae889a	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CoordinatedTrap_Buff_.Description_String.json
+162	bb07a9e5-8da4-47a7-9333-f71cdee68f8d	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CoordinatedTrap_EndBuff_.Description_String.json
+163	e55ab216-9419-4722-a045-0cfbedece415	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CoordinatedTrap_EndBuff_.DisplayName_String.json
+164	8748d5c6-4728-44af-8acd-4a6e949186e7	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CoordinatedTrap_Feature_.Description_String.json
+165	39f5087b-dd11-4642-9889-b7d2ffee885a	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CoordinatedTrap_Feature_.DisplayName_String.json
+166	30fa27d7-0341-44dd-a3f4-816e60ee885f	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CultAmbush_Feature_.Description_String.json
+167	46f16df4-ae6f-4dfe-b1b5-ea63f2a10183	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CultAmbush_Feature_.DisplayName_String.json
+168	b7a678d9-10bd-4a4c-af97-51a25c08cf80	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CultImmunity_Feature_m_Description.json
+169	60dd3de4-a4fa-4e3b-b348-f47e622b1632	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CultImmunity_Feature_m_DisplayName.json
+170	dad970bc-e0f6-4e0e-b666-23cf217515ad	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CultistsPrayer_Ability_Actions.Actions.Array.data[0].Actions.Array.data[0].Action.Actions.Array.data[0].WhatToBark.json
+171	9ec5ac74-671b-40e5-bde7-40131508bf93	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CultistsPrayer_Feature_.Description_.json
+172	fbb9b53d-1465-4e26-a2f7-3af828f33f89	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/CultistsPrayer_Feature_.DisplayName_.json
+173	f1235812-410e-42fd-a6f3-7cf4c0013a0f	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/DemonMachine_Feature_m_Description.json
+174	d2a86986-f846-480f-981e-62a79db6fd86	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/DemonMachine_Feature_m_DisplayName.json
+175	4857de42-9f1c-4dff-b52b-94b632fa3fe6	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/EntropicTouch_Feature_.Description_String.json
+176	b4bde959-703c-4582-b6e7-8a1cc8bbb54e	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/EntropicTouch_Feature_.DisplayName_String.json
+177	6e0a6230-d359-4f11-842e-fd058c7c1bce	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/HordeOfThugs_Feature_.Description_.json
+178	8a0d7c58-b5d3-408e-8229-869fee29a130	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/HordeOfThugs_Feature_.DisplayName_.json
+179	858531d3-1a0e-4960-89d9-c1edcd73c603	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/LivingMetal_Feature_.Description_String.json
+180	8e1b7cf4-d3fb-43e7-b53d-964779d69425	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/Machine_Feature_.AdditionalDescription_String.json
+181	78ab706d-3f1d-4852-8e28-00533a25ad5e	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/Machine_Feature_.Description_String.json
+182	b56e3e50-37a1-4955-8509-abc3ec48d376	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/Machine_Feature_.DisplayName_String.json
+183	369b88b8-a5c6-44e8-95c0-b9e6e200f1ee	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/Manifestation_Feature_.DisplayName_.json
+184	40012f48-228c-4cab-9388-e60cc889f76b	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/Manifestation_Feature_m_Description.json
+185	61d10774-95ee-41a2-b79e-4d1bc49d9b78	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ManifestationMomentum_Buff_m_Description.json
+186	e20c1cdd-a749-4dc1-8747-ea8eef93fb35	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ManifestationMomentum_Buff_m_DisplayName.json
+187	5a0ab850-2a5e-4f13-9e90-ab4a15385820	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ManifestationWarpHorror_Ability_.Description_String.json
+188	d394e40b-be5d-48f8-a355-30aa1be95d04	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/MechanicImmunity_Feature_m_Description.json
+189	44facf9a-eea3-46ee-842d-b29f817d6ba9	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/MechanicImmunity_Feature_m_DisplayName.json
+190	4448f45b-5e99-4acb-931d-bdd53b44d2cf	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/NaturalArmour_Feature_m_Description.json
+191	b3d615d0-39b4-4f39-ac5c-c13e8d1e9842	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/NaturalArmour_Feature_m_DisplayName.json
+192	b349c3bc-737e-4637-9f15-0b6030fe7d8d	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/NecronImmunity_Feature_.Description_String.json
+193	7053bc84-4e3d-4415-80c4-c02620a91a0f	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/NecronImmunity_Feature_.DisplayName_String.json
+194	2a5aca49-7543-4011-91c4-79cb15d5160b	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/PartMachine_Feature_.Description 1_String.json
+195	abadb7aa-3214-4850-b209-75c24d7b006a	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/PartMachine_Feature_.DisplayName_String.json
+196	4245d060-99b9-4167-875a-07c2e5e09974	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ReanimationProtocol_Buff_m_DisplayName.json
+197	cd2067ce-1945-41b9-83c2-ebcbe73b6c27	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ReanimationProtocol_Feature_.Description_String.json
+198	96417fc7-6553-4e1f-9a49-ff4ce5d7e3bc	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/ReanimationProtocol_Feature_.DisplayName_String.json
+199	2fe4aa0a-255e-441a-bba9-3c8808ce28ed	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/Soulless_Feature_m_Description.json
+200	00fbcf68-8d6c-4ad5-b925-0e4806a8866b	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/Soulless_Feature_m_DisplayName.json
+201	ee4aa12d-ed71-4d93-a996-8d58f6a386d0	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/UncomfortablePresence_Feature_.Description_.json
+202	1fa5bc1d-3894-476f-8746-4efee80b6b63	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/UncomfortablePresence_Feature_.DisplayName_.json
+203	22295d4e-25b4-48c6-8ffb-233289391c37	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/WarpHorror_Buff_.Description_String.json
+204	a8295fd3-a75d-4148-a48b-dff55a5d785a	Mechanics/Blueprints/Units/FactionArmies/ArmyFeatures/WarpHorror_Buff_.DisplayName_String.json
+205	125a9b83-04ed-45ed-ac31-73ec45b6cf60	Mechanics/Blueprints/Units/Familiars/HasHeraldFact_.DisplayName_String.json
+206	241b1ebf-dac5-4d55-bb75-c945441aa338	Mechanics/Blueprints/Units/Familiars/HeraldCherubItem_m_DisplayName.json
+207	0e28ffb5-d867-49c1-88f9-35674a50cf10	Mechanics/Blueprints/Units/Familiars/HeraldCherubItem_m_FlavorText.json
+208	9468bb7d-0f31-4c80-a57d-9f3012744f2a	Mechanics/Blueprints/Units/Familiars/HeraldServoskull1_Item_m_DisplayName.json
+209	dfb48a49-b0c9-4959-a3d8-0a7b705cbaa5	Mechanics/Blueprints/Units/Familiars/HeraldServoskull2_Item_m_DisplayName.json
+210	56457814-0ad5-4aef-b64e-1664176f560e	Mechanics/Blueprints/Units/Familiars/HeraldServoskull3_Item_m_DisplayName.json
+211	b83570df-db4c-4d71-a8f7-b137136f1111	Mechanics/Blueprints/Units/Familiars/HeraldServoskull4_Item_m_DisplayName.json
+212	0e1c293c-06a2-43a9-a6ce-18cdd4835d11	Mechanics/Blueprints/Units/Familiars/HeraldServoskullItem_.FlavorText_String.json
+213	71a92967-c059-4b54-87d6-84792c5b36fb	Mechanics/Blueprints/Units/Familiars/HeraldServoskullItem_m_DisplayName.json
+214	4da8fc3c-8b99-4eee-b6fd-90178ff1df26	Mechanics/Blueprints/Units/Features/Agile_m_Description.json
+215	62560500-48cd-4a72-b44c-068741146ca7	Mechanics/Blueprints/Units/Features/Agile_m_DisplayName.json
+216	00d38f1b-0ce0-46a8-9d92-a339d7dee068	Mechanics/Blueprints/Units/Features/PartMachineRank1_m_Description.json
+217	1b808371-b719-430f-86da-f057ad99267b	Mechanics/Blueprints/Units/Features/PartMachineRank1_m_DisplayName.json
+218	0b1e0251-55b5-4d66-9702-98bf2fb0f210	Mechanics/Blueprints/Units/Features/PartMachineRank2_m_Description.json
+219	9a7276fb-1585-4652-9c6e-84f8665771b3	Mechanics/Blueprints/Units/Features/PartMachineRank2_m_DisplayName.json
+220	821f9fc8-9ac1-47bd-90c8-22216c7748b7	Mechanics/Blueprints/Units/Features/PartMachineRank3_m_Description.json
+221	6653ef84-9bc9-4f3a-a70e-9131fc2766ba	Mechanics/Blueprints/Units/Features/PartMachineRank3_m_DisplayName.json
+222	82881f63-dabb-4142-8244-1e11144da8fe	Mechanics/Blueprints/Units/Features/PartMachineRank4_m_Description.json
+223	369abc49-ee9a-43ad-be8d-870a2263d8ea	Mechanics/Blueprints/Units/Features/PartMachineRank4_m_DisplayName.json
+224	10f9ecb5-a950-4876-b0fe-f55229991efc	Mechanics/Blueprints/Units/Features/PartMachineRank5_m_Description.json
+225	aa15f72c-c043-4aee-a670-2c28b19221e9	Mechanics/Blueprints/Units/Features/PartMachineRank5_m_DisplayName.json
+226	b933c0c1-2ebb-4f7e-8791-eea5c9346b23	Mechanics/Blueprints/Units/Features/PartMachineRank6_m_Description.json
+227	519c458a-13b0-4dc2-b6cb-d6436b9c0fcf	Mechanics/Blueprints/Units/Features/PartMachineRank6_m_DisplayName.json
+228	663bba40-61a5-487a-92c2-75f3791a0836	Mechanics/Blueprints/Units/Features/PartMachineRank7_m_Description.json
+229	6a80f038-371a-422c-b1bd-6a7f0e23839a	Mechanics/Blueprints/Units/Features/PartMachineRank7_m_DisplayName.json
+230	849ef13f-fe07-4770-aead-245ad9795bc3	Mechanics/Blueprints/Units/Monsters/Aberrant/AberrantHammer_Weapon_.DisplayName_String.json
+231	8a56a34e-f155-4b27-95c0-ea98d49b6aca	Mechanics/Blueprints/Units/Monsters/Aberrant/Aberrabt_CH04_VoidshipBridge/Abilities/GenestealerAberrant_AlwaysOnAlert_Feature_m_Description.json
+232	edc318d8-c9de-4514-bf45-8dfd619224eb	Mechanics/Blueprints/Units/Monsters/Aberrant/Aberrabt_CH04_VoidshipBridge/Abilities/GenestealerAberrant_AlwaysOnAlert_Feature_m_DisplayName.json
+233	c0a07389-cf42-41b8-86f4-73b1dea1f553	Mechanics/Blueprints/Units/Monsters/Aberrant/Aberrabt_CH04_VoidshipBridge/Abilities/GenestealerAberrant_HeavyBlow_Feature_m_Description.json
+234	be15467c-a293-4955-ae5a-f1a46ee19f0d	Mechanics/Blueprints/Units/Monsters/Aberrant/Aberrabt_CH04_VoidshipBridge/Abilities/GenestealerAberrant_HeavyBlow_Feature_m_DisplayName.json
+235	697bbed7-5ded-41a5-accc-37a085b40ef5	Mechanics/Blueprints/Units/Monsters/Aberrant/Aberrabt_CH04_VoidshipBridge/Abilities/GenestealerAberrant_InnateResilience_Feature_m_Description.json
+236	ff70cff6-80de-4354-9758-43fdeb78e4c9	Mechanics/Blueprints/Units/Monsters/Aberrant/Aberrabt_CH04_VoidshipBridge/Abilities/GenestealerAberrant_InnateResilience_Feature_m_DisplayName.json
+237	80f56414-5a0c-484d-9623-4094a0e32c6e	Mechanics/Blueprints/Units/Monsters/Aberrant/Aberrabt_CH04_VoidshipBridge/Abilities/GenestealerAberrantHypermorph_RageOutburst_Feature_.Description_String.json
+238	1a4aaa58-d7a1-46a4-accd-ecda0b59a5cc	Mechanics/Blueprints/Units/Monsters/Aberrant/Aberrabt_CH04_VoidshipBridge/Abilities/GenestealerAberrantHypermorph_RageOutburst_Feature_.DisplayName_String.json
+239	79346d4e-9b96-4a39-9c1d-c475f6ccbc4f	Mechanics/Blueprints/Units/Monsters/AcolyteHybrid/Abilities/Acceleration_Ability_.Description_String.json
+240	12a27a0e-b2cb-4567-914d-fb82c1c20cdd	Mechanics/Blueprints/Units/Monsters/AcolyteHybrid/Abilities/Acceleration_Ability_.DisplayName_String.json
+241	b1a4544d-b878-458f-929a-c0378f7111cc	Mechanics/Blueprints/Units/Monsters/AcolyteHybrid/AcolyteHybrid_CH04_VoidshipBridge/Abilities/GenestealerAcolyteHybrid_Crossfire_Feature_m_Description.json
+242	736cdc5b-4734-415c-89ee-1b33dd71b302	Mechanics/Blueprints/Units/Monsters/AcolyteHybrid/AcolyteHybrid_CH04_VoidshipBridge/Abilities/GenestealerAcolyteHybrid_Crossfire_Feature_m_DisplayName.json
+243	34e67eba-3948-4e73-b9bb-97e2e06833cd	Mechanics/Blueprints/Units/Monsters/AcolyteHybrid/AcolyteHybrid_CH04_VoidshipBridge/Abilities/GenestealerAcolyteHybrid_GainMomentum_Ability_m_Description.json
+244	fafbe778-ad1a-4546-99cf-1e3f3990bb5b	Mechanics/Blueprints/Units/Monsters/AcolyteHybrid/AcolyteHybrid_CH04_VoidshipBridge/Abilities/GenestealerAcolyteHybrid_GainMomentum_buff_m_Description.json
+245	1a206616-1ccc-4859-92b3-d7bdacb1e285	Mechanics/Blueprints/Units/Monsters/AcolyteHybrid/AcolyteHybrid_CH04_VoidshipBridge/Abilities/GenestealerAcolyteHybrid_InTheCrosshair_buff_m_Description.json
+246	cac9ee72-29ee-4b47-a866-e5d276da3877	Mechanics/Blueprints/Units/Monsters/AcolyteHybrid/AcolyteHybrid_CH04_VoidshipBridge/Abilities/GenestealerAcolyteHybrid_InTheCrosshair_buff_m_DisplayName.json
+247	309d42ca-aec4-4b72-abe2-248cf8578273	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Attack_AoE_.Description_String.json
+248	38aca783-4bb7-46cf-8dee-5e856b6193ac	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Attack_AoE_.DisplayName_String.json
+249	f47f2da1-d818-46f9-9604-6663e5f72094	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Attack_Single_.DisplayName_String.json
+250	e4812187-be40-4c3c-b929-a4063e7a2781	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Burrow_.Description_String.json
+251	fc4f0496-c9e3-40d8-b1e0-afb0359cdf9c	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Burrow_.DisplayName_String.json
+252	9c720c19-0376-4f48-82ee-3c1321013526	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_CallBrood_.Description_String.json
+253	21d8fd5e-ded2-42a7-83c9-aef43474c614	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_CallBrood_.DisplayName_String.json
+254	6e5ed340-f3e2-4d58-a88f-ee73d26a8870	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Emerge_.Description_String.json
+255	8ab3b56d-2058-4d81-a2e1-b882e5b37cc5	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Emerge_.DisplayName_String.json
+256	8ad91073-dce8-4fe1-8878-ee2fc4dae8d6	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Teleport_.Description_String.json
+257	77291f7c-57ce-4647-b049-304c7b16f518	Mechanics/Blueprints/Units/Monsters/Ambull/Abilities/TreasureWorld_AmbullMother_Teleport_.DisplayName_String.json
+258	5fcb7008-09da-442b-9adb-65bdbcd33397	Mechanics/Blueprints/Units/Monsters/Ambull/Buffs/TreasureWorld_Ambull_StepsHeard_Buff_.Description_String.json
+259	d4168106-1990-426c-920e-6d500d70076c	Mechanics/Blueprints/Units/Monsters/Ambull/Buffs/TreasureWorld_Ambull_StepsHeard_Buff_.DisplayName_String.json
+260	c5052dfe-1248-4d01-959d-43ef64f7fa8f	Mechanics/Blueprints/Units/Monsters/Ambull/Buffs/TreasureWorld_AmbullMother_Burrowed_Buff_.Description_String.json
+261	3ec8f820-e139-4c77-9ce9-2fb593a1edca	Mechanics/Blueprints/Units/Monsters/Ambull/Buffs/TreasureWorld_AmbullMother_Burrowed_Buff_.DisplayName_String.json
+262	1f190f72-4341-46ca-8c8f-7c47beab568b	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_Ambull_Priority_Feature_.Description_String.json
+263	ca98b719-c688-402a-974d-438f96009f6d	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_Ambull_Priority_Feature_.DisplayName_String.json
+264	28b60d57-4699-4736-85f1-8f8fdf79e59c	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_Ambull_SenseVibrations_Feature_.Description_String.json
+265	3c32934e-6f2c-4121-a769-f1731f569b56	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_Ambull_SenseVibrations_Feature_.DisplayName_String.json
+266	f160c9a8-9e2d-42b0-9972-30f4fe3f2ab8	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_Ambull_WarpMentalResistance_Feature_.Description_String.json
+267	4af4acdc-6f60-411a-99f5-f78488229ce0	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_Ambull_WarpMentalResistance_Feature_.DisplayName_String.json
+268	50e17991-58a1-45e5-8cc2-469fff1e3c15	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_AmbullMother_CarefulHunter_Feature_.Description_String.json
+269	8bfcd87a-b8d3-4297-b825-64755800f9f3	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_AmbullMother_CarefulHunter_Feature_.DisplayName_String.json
+270	35b851b9-76ed-4bcf-8cfc-55a22d34f511	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_AmbullMother_Explanatory_Feature_.Description_String.json
+271	828b4fdb-2cf3-4b14-a144-c39f3e107924	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_AmbullMother_Explanatory_Feature_.DisplayName_String.json
+272	6505d02c-07bf-4ea3-b52b-b277b60d9173	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_AmbullMother_MothersRage_Feature_.Description_String.json
+273	b2732285-6c0b-4994-9025-8d406ebd9b5e	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_AmbullMother_MothersRage_Feature_.DisplayName_String.json
+274	51b2184d-edd1-4e31-980d-9056b704d31b	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_AmbullSmall_Priority_Feature_.Description_String.json
+275	62c3be75-4623-47ca-8111-53d7fcc3da2b	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_AmbullSmall_Priority_Feature_.DisplayName_String.json
+276	30af572a-5d0c-4048-8a5b-375e45da74ab	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_Immovable_Feature_.Description_String.json
+277	d4f6bff3-89f5-4968-a15f-dd2106ecccf4	Mechanics/Blueprints/Units/Monsters/Ambull/Features/TreasureWorld_Immovable_Feature_.DisplayName_String.json
+278	1761e010-4fda-41c0-b843-8f03ec95e177	Mechanics/Blueprints/Units/Monsters/Ambull/Weapons/TreasureWorld_AmbullMother_Claw_.DisplayName_String.json
+279	91fb2ff6-89f2-43d1-8735-122010e17ae9	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_Bite_m_DisplayName.json
+280	eac5326f-713d-4296-88a1-d43db57cfa1e	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_DriftApart_Feature_.Description_String.json
+281	1a0375a1-8aa7-4005-ac43-ae48c7c72822	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_DriftApart_Feature_.DisplayName_String.json
+282	aeb915e3-f100-4f26-9a8f-8736659b4d92	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_EmeregencyReconstruction_Feature_.Description_.json
+283	45512887-4ef2-4470-adeb-a9402616a922	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_EmeregencyReconstruction_Feature_.DisplayName_.json
+284	c0c1548f-0d36-4ace-9b0e-aef9f088670c	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_ExplosiveFeature_m_Description.json
+285	3ef3227d-90ed-434b-8bb6-75b77f907d2d	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_ExplosiveFeature_m_DisplayName.json
+286	88cbba96-81b2-437c-a8fa-4a68b1ba871e	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_ImmunityToElectricDamageFeature_.Description_String.json
+287	80a75f0d-d95f-4873-96db-49d2a2d33b8a	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_ImmunityToElectricDamageFeature_.DisplayName_String.json
+288	57d67cfe-a6ae-47f6-96ec-c96d774156b4	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_MatterDecomposition_Feature_.Description_.json
+289	bfc1b3d5-9ff3-42aa-879d-bb5c299d6449	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_MatterDecomposition_Feature_.DisplayName_.json
+290	5101b980-30fb-42f3-bc32-fcc6b5925d93	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_Melee_m_DisplayName.json
+291	7afd8a39-7824-4250-91da-9260d7e49a36	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_UnstableReactors_Feature_m_Description.json
+292	34fc71f9-d42d-438c-9009-0fded89d06fe	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Abilities/CanoptekScarab_UnstableReactors_Feature_m_DisplayName.json
+293	ab74dcdb-4b3c-4170-96ef-fb5358ebe496	Mechanics/Blueprints/Units/Monsters/CanoptekScarabs/Weapon/CanoptekScarab_MeleeWeapon_.DisplayName_.json
+294	11815777-2ac0-47f6-9c8d-63530925ac5d	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/Abilities/ChaosSpawn_MeleeAttackBite_m_DisplayName.json
+295	cb5ce2f4-6bb0-4378-8737-3f604e51a907	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/ChaosSpawnNoHead/Abilities/ChaosSpawn_BattleCry_m_DisplayName.json
+296	bba66476-2adc-491e-8987-d417223c0783	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/ChaosSpawnNoHead/Abilities/ChaosSpawn_MeleeAttackAoe_m_DisplayName.json
+297	de5be6ac-47db-4ea8-b7f0-32571cb83240	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/ChaosSpawnTreeHeads/Abilities/ChaosSpawn_MeleeAttackRight_.DisplayName_.json
+298	47b770fb-4ae0-4fce-ba0f-7d37e6a0d213	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/DLC2_BoardedShip_Bridge/ChaosSpawn_BoardedShip_BileThrow_Ability_.Description_String.json
+299	7301445e-047b-4e2f-b74c-bb638158fdec	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/DLC2_BoardedShip_Bridge/ChaosSpawn_BoardedShip_Bridge_Feature_.Description_String.json
+300	40fd2c01-a8ca-4e8f-948d-8183ec7ddbe4	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/DLC2_BoardedShip_Bridge/ChaosSpawn_BoardedShip_Bridge_Feature_.DisplayName_String.json
+301	7b6ead70-34d6-4c92-abbe-a96f54afaf14	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/DLC2_BoardedShip_Bridge/ChaosSpawn_BoardedShip_Jump_Ability_.Description_String.json
+302	0f8fd140-5e68-41a7-9723-9c583debfd16	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/DLC2_BoardedShip_Bridge/ChaosSpawn_BoardedShip_Jump_Ability_.DisplayName_String.json
+303	aa18b2cc-9cd7-4d61-832a-8836930c1369	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_Devour_Ability_m_Description.json
+304	951cd649-acdf-4906-a90a-1021776cf856	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_Devour_Ability_m_DisplayName.json
+305	f09b8dbf-3765-4191-a64b-5ea35d08f0b6	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_Devour_Buff_m_Description.json
+306	76ed0911-353f-4994-9285-30b760f80fbb	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_Devour_Buff_m_DisplayName.json
+307	d406a540-b7dd-4a68-909b-ce5cdeea66ba	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_RendingRoar_m_Description.json
+308	460528fd-18dd-4d00-b341-eb2cc38507b6	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_RendingRoar_m_DisplayName.json
+309	b15c82ee-3de6-42a5-bca5-4609b6074b91	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_Spit_.DisplayName_.json
+310	19006b0d-fbd3-4a05-9a18-ef372aeef3cf	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_Spit_m_Description.json
+311	f7901d33-3e84-4c1e-9eaa-98735e69cc1c	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Features/PrologueChaosSpawn_ReducesStats_Feature_.Description_String.json
+312	705d92c7-3d03-4a30-bec4-5598756f54dd	Mechanics/Blueprints/Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Features/PrologueChaosSpawn_ReducesStats_Feature_.DisplayName_String.json
+313	39d2a455-b63d-44fc-b2af-41ecbb5fedd7	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_AreaStrikeAbility_Description_String.json
+314	2f52e141-265a-470b-95c9-4d19bd4dbee9	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_AreaStrikeAbility_Name_String.json
+315	d94661b2-ab90-45db-8f16-4de6fffac4ad	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_DisperseEnemiesAbility_Description_String.json
+316	7c24d25a-cf11-4aa1-9b4b-dec1bc2e9a80	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_DisperseEnemiesAbility_Name_String.json
+317	d0846a3f-fc17-4509-94d8-ce366a6340e0	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_ExtraHealthAbility_Description_String.json
+318	c77a378b-cf8b-48e3-98b7-2145affd6e33	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_ExtraHealthAbility_Name_String.json
+319	3adf9f1d-ba2e-4333-bd00-d5f608c7b107	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_ExtraHealthBuff_Description_String.json
+320	53607dc1-3c0e-49cd-9e0d-ae53b5ea8b34	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_ExtraHealthBuff_Name_String.json
+321	299db068-2517-4dac-bf57-257cbc71728d	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_Feature_Description_String.json
+322	0de0d4a5-7e5c-4ff4-898f-9d6470d90539	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_Feature_Name_String.json
+323	96baa885-39cf-44ef-9569-df0e569bea7a	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_FuryStrikeAbility_Description_String.json
+324	a7d65bf7-e47b-45e5-94e5-82832e883c1b	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_FuryStrikeAbility_Name_String.json
+325	3ec97396-8e74-48d0-a1c7-b7661919a3ed	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_LearnThyEnemy_Buff_Description_String.json
+326	2c80cb84-11eb-49df-a332-c64e69025f45	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_LearnThyEnemy_Buff_Name_String.json
+327	2d135f78-5432-4c4a-af06-2ee50d9eddd7	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_LearnThyEnemyPain_Buff_Description_String.json
+328	4d707b4a-40e2-49aa-a645-ec4260f8101b	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_LearnThyEnemyPain_Buff_Name_String.json
+329	c9d1aef5-74c4-4330-9328-94cd3b4d4161	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_Phase02Buff_Description_String.json
+330	9d187cfe-e09b-4a26-ae3b-11504e9de4ee	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_Phase02Buff_Name_String.json
+331	03f3228d-1a77-42a2-8f33-83e9d9e73002	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_Phase03Buff_Description_String.json
+332	8c656299-254e-4bdd-ae39-c5eac8b3b21b	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_Phase03Buff_Name_String.json
+333	06f80c1f-14e1-4a74-aa45-4cd1bff72a8e	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_RevengeAbility_Description_String.json
+334	44b90b37-f32e-4a64-812c-525ec13723d1	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_RevengeAbility_Name_String.json
+335	1136ec70-361f-44ee-9344-02a1616506d1	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SpearOfDestruction_FinishAbility_Description_String.json
+336	1151cf5c-be40-4bd1-acab-f74c981d44ec	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SpearOfDestruction_FinishAbility_Name_String.json
+337	2cf3295b-d1ac-4e0e-81be-8b42da0af2af	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SpearOfDestruction_StartAbility_Description_String.json
+338	f3c640d6-728d-48a2-89a8-98db7d9eabf8	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SpearOfDestruction_StartAbility_Name_String.json
+339	a545a4e2-e2a3-445f-a86f-c2bc6cbf05ec	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SpearOfDestructionNoMoveBuff_Description_String.json
+340	ea948f7d-dd1d-4a3f-9dea-903f3147141f	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SpearOfDestructionNoMoveBuff_Name_String.json
+341	daf81b1e-fcc9-4068-93cc-4379e7fc5b48	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SummonAbility_Description_String.json
+342	713b6e5b-7f0f-49cd-97fb-175e396e7f1a	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SummonAbility_Name_String.json
+343	027a6752-6f81-46bf-8927-98c48e8437b0	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SunderArmorBuff_Description_String.json
+344	f2d18a83-3354-4cd0-9504-ef133c826479	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SunderArmorBuff_Name_String.json
+345	76268226-fb88-4ccd-8a85-e4fed429767e	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SwapPlacesAbility_Description_String.json
+346	ffa553fd-d022-4a3b-82bd-31a8f4957126	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_SwapPlacesAbility_Name_String.json
+347	b123d0ee-7778-4fe2-99e5-8e5501644050	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_Verdict_ImmobilizeBuff_Description_String.json
+348	c58869e6-a796-4811-bba2-31029243892b	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_Verdict_ImmobilizeBuff_Name_String.json
+349	ae19caee-8a04-412a-b239-41b6e7f31559	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_VerdictAbility_Description_String.json
+350	bc25b0a4-fa86-42a4-b462-8254302e50e9	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_VerdictAbility_Name_String.json
+351	ac4f0bad-92a0-40a2-9553-64e5a70b86b3	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_WeakState_Buff_Description_String.json
+352	55ac27c9-6def-4336-a3a9-e01c0d978433	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Ctan_WeakState_Buff_Name_String.json
+353	b4ec5cf5-5368-4e70-be6b-766190654186	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/CtanTail_BurstShotAbility_m_Description.json
+354	e324f003-b74d-4bb4-bf56-ab0d6e5c9c02	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/CtanTail_BurstShotAbility_Name_String.json
+355	70408312-5ad6-4f22-967a-c017c14010b9	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/CtanTailWeak_AO_SingleShotAbility_m_Description.json
+356	09b7ded9-3ed4-4aab-a3c5-d6441ba017bc	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/CtanTailWeak_SingleShotAbility_Name_String.json
+357	adcec92b-2abe-4150-b4b9-6601a5960592	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Nomos_BlessingAbility_Description_String.json
+358	ff0831e0-2bb4-43d0-87f7-f86b3fb59723	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Nomos_BlessingAbility_Name_String.json
+359	9d084155-9ed4-47a9-9182-f3bb5f3f0a23	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Nomos_BlessingBuff_Description_String.json
+360	9836d1ae-bd27-45e3-8b20-29bfc0171ee7	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/Nomos_BlessingBuff_Name_String.json
+361	cfc68f2b-3def-43f7-a2e1-a54efaf7cc05	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/PillarFXBuff_Cutscene_Description_String.json
+362	158270a1-e8b1-434e-ae75-7b9404345d24	Mechanics/Blueprints/Units/Monsters/Ctan/Abilities/PillarFXBuff_Cutscene_Name_String.json
+363	18c5dea0-3c87-41af-87d8-ac8a554af777	Mechanics/Blueprints/Units/Monsters/Cybermastiff/TreasureWorld_ArbitesCybermastiff_.LocalizedName_String.json
