@@ -14,15 +14,15 @@
  {"n": 42, "code": "glossary", "detail": "Run! -> 달려! not found"},
  {"n": 44, "code": "glossary", "detail": "blocks -> 방어 not found"},
  {"n": 47, "code": "glossary", "detail": "turn -> 턴 not found"},
- {"n": 48, "code": "glossary", "detail": "Mercy -> 자비/머시/자비/머시 not found"},
  {"n": 48, "code": "glossary", "detail": "turns -> 턴 not found"},
+ {"n": 48, "code": "glossary", "detail": "Mercy -> 자비/머시/자비/머시 not found"},
  {"n": 57, "code": "glossary", "detail": "Search -> 수색 not found"},
  {"n": 57, "code": "glossary", "detail": "turns -> 턴 not found"},
  {"n": 58, "code": "glossary", "detail": "disturbed -> 동요 not found"},
  {"n": 58, "code": "glossary", "detail": "order -> 명령/교단/명령/교단 not found"},
  {"n": 63, "code": "glossary", "detail": "Soldiers -> 솔져 not found"},
- {"n": 65, "code": "glossary", "detail": "Terrified -> 극심한 공포 not found"},
  {"n": 65, "code": "glossary", "detail": "disturbed -> 동요 not found"},
+ {"n": 65, "code": "glossary", "detail": "Terrified -> 극심한 공포 not found"},
  {"n": 67, "code": "glossary", "detail": "Soldiers -> 솔져 not found"},
  {"n": 68, "code": "glossary", "detail": "Soldiers -> 솔져 not found"},
  {"n": 68, "code": "glossary", "detail": "turn -> 턴 not found"},
@@ -56,6 +56,6 @@
  {"n": 172, "code": "glossary", "detail": "People -> 사람들/인구/사람들/인구 not found"},
  {"n": 175, "code": "glossary", "detail": "People -> 사람들/인구/사람들/인구 not found"},
  {"n": 177, "code": "glossary", "detail": "People -> 사람들/인구/사람들/인구 not found"},
- {"n": 178, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},
- {"n": 178, "code": "glossary", "detail": "Furious -> 격노 not found"}
+ {"n": 178, "code": "glossary", "detail": "Furious -> 격노 not found"},
+ {"n": 178, "code": "glossary", "detail": "The Maw -> 대아귀 not found"}
 ]}

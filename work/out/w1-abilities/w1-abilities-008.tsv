@@ -118,7 +118,7 @@
 118	지각 +5
 119	{g|Encyclopedia:WarhammerStrength}근력{/g}(STR)은 캐릭터의 육체적인 힘을 나타냅니다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}에 영향을 주며 더 무거운 물건을 들 수 있게 합니다. 근력 보너스 1당 한손 근접 무기 피해가 +5%, 양손 근접 무기 피해가 +10% 증가합니다.\n{g|Encyclopedia:SkillAthletics}운동{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 줍니다.
 120	근력 +5
-121	{g|Encyclopedia:WarhammerToughness}강인함{/g}(TGH)은 고통을 견디고 독소, 유독한 환경, 질병과 그 밖의 신체적 이상에 저항하는 능력을 나타냅니다. 해로운 신체 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}에 저항할 확률과 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}을 증가시킵니다. 강인함 보너스 1당 체력이 +10% 증가합니다.\n{g|Encyclopedia:SkillCarouse}주량{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 줍니다.
+121	{g|Encyclopedia:WarhammerToughness}강인함{/g}(TGH)은 고통을 견디고 독소, 유독한 환경, 질병과 그 밖의 신체적 이상에 저항하는 능력을 나타냅니다. 해로운 신체 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}에 저항할 확률과 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}을 증가시킵니다. 강인함 보너스 1당 체력이 +10% 증가합니다.\n{g|Encyclopedia:SkillCarouse}해독력{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 줍니다.
 122	강인함 +5
 123	근접술 +5
 124	{g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}(WS)은 모든 근접 전투에 대한 숙련도를 나타냅니다. 자신의 {g|Encyclopedia:Parry}막기{/g} 확률을 증가시키고 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 적의 막기 확률을 감소시킵니다. 근접 전투에서 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 확률도 증가시킵니다.

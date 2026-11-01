@@ -315,7 +315,7 @@
 315	<b>방어구 기본 속성</b>: {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}에 대한 {g|Encyclopedia:Deflection}피해 감소{/g}가 2 증가합니다.
 316	<b>방어구 기본 속성</b>: {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}에 대한 {g|Encyclopedia:Deflection}피해 감소{/g}가 2 증가합니다.\n<b>출신 행성 속성</b>: {g|Encyclopedia:WarhammerToughness}강인함{/g}이 10 증가합니다.
 317	[포트리스 월드 출신] 템페스투스 카라페이스 아머
-318	<u>({g|Encyclopedia:SkillCarouse}주량{/g} / 15)</u>
+318	<u>({g|Encyclopedia:SkillCarouse}해독력{/g} / 15)</u>
 319	<b>방어구 기본 속성</b>: {g|Encyclopedia:Deflection}피해 감소{/g}가 {uip|Deflection|c08bdc34a70346dfa2193a3fcaaa5b61} 증가합니다.\n<b>출신 행성 속성</b>: {g|Encyclopedia:DodgeGlossary}회피{/g}가 30% 증가합니다.
 320	[전쟁 행성 출신] 템페스투스 정예 카라페이스 아머
 321	<b>방어구 기본 속성</b>: 인간 적에 대한 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 15% 증가합니다.\n<b>출신 행성 속성</b>: {g|Encyclopedia:WarhammerPerception}지각{/g}이 15 증가합니다.

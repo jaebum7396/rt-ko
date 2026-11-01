@@ -403,8 +403,8 @@
 403	기초 기술: 운동
 404	캐릭터가 {g|Encyclopedia:SkillAwareness}인지{/g} +7을 얻습니다.
 405	기초 기술: 인지
-406	캐릭터가 {g|Encyclopedia:SkillCarouse}주량{/g} +7을 얻습니다.
-407	기초 기술: 주량
+406	캐릭터가 {g|Encyclopedia:SkillCarouse}해독력{/g} +7을 얻습니다.
+407	기초 기술: 해독력
 408	캐릭터의 {g|Encyclopedia:Career}아키타입{/g}이나 기원에서 허용하지 않더라도 이 {g|Encyclopedia:Skills}기량{/g}을 향상시킬 수 있습니다.
 409	캐릭터가 {g|Encyclopedia:SkillCoercion}위협{/g} +7을 얻습니다.
 410	기초 기술: 위협
@@ -417,8 +417,8 @@
 417	고급 기술: 운동
 418	캐릭터가 {g|Encyclopedia:SkillAwareness}인지{/g} +13을 얻습니다.
 419	고급 기술: 인지
-420	캐릭터가 {g|Encyclopedia:SkillCarouse}주량{/g} +13을 얻습니다.
-421	고급 기술: 주량
+420	캐릭터가 {g|Encyclopedia:SkillCarouse}해독력{/g} +13을 얻습니다.
+421	고급 기술: 해독력
 422	캐릭터가 {g|Encyclopedia:SkillCoercion}위협{/g} +13을 얻습니다.
 423	고급 기술: 위협
 424	캐릭터가 {g|Encyclopedia:SkillCommerce}상업{/g} +13을 얻습니다.

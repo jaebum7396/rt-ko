@@ -134,7 +134,7 @@
 134	전투당 1회 {g|f:795d08dee468444aa7594ccd70cce165}멜타 작열 사격{/g}을 할 수 있는 경이로운 반지형 소형 무기입니다.
 135	짧은 화염 줄기를 발사하여 일직선상의 적에게 피해를 줍니다.
 136	디지 웨폰 플레이머
-137	이 장치는 착용자에게 {g|Encyclopedia:SkillCarouse}주량{/g} +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.
+137	이 장치는 착용자에게 {g|Encyclopedia:SkillCarouse}해독력{/g} +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.
 138	살균 장치
 139	로그 트레이더나 집사장이 이 아이템을 장착한 상태로 서로 인접해 있으면 로그 트레이더가 받는 모든 피해를 집사장이 대신 받습니다(지속 피해 효과 제외).
 140	착용자의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}이 +5, {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g}가 +5, {g|Encyclopedia:SkillMedicae}의술{/g}이 +5 증가합니다.
@@ -276,7 +276,7 @@
 276	{g|Encyclopedia:VeilThickness}<u>베일 손상</u>{/g}
 277	착용자의 근접 치명타 확률과 근접 치명타 피해가 +{uip|Damage|8c3ea4815ba8458fb272b6c065d85870}% 증가합니다.
 278	엠피리언의 손아귀
-279	하드 양식 데이터 직조기
+279	하드 패턴 데이터 직조기
 280	모든 {g|Encyclopedia:Skills}기술{/g}이 +10 증가합니다.\n착용자는 실패한 기술 {g|Encyclopedia:Test}판정{/g}을 판정당 1회 다시 굴릴 수 있습니다.
 281	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스 / 2)</u>
 282	착용자는 다음 효과를 얻습니다:\n-<indent=5%>{g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g} +25.</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerIntelligence}지능{/g} 대신 민첩을, {g|Encyclopedia:WarhammerWillpower}의지력{/g} 대신 강인함을, {g|Encyclopedia:WarhammerFellowship}친화력{/g} 대신 근력을 사용합니다.</indent>\n-<indent=5%>{g|Encyclopedia:Injury}부상{/g} 및 {g|Encyclopedia:Traumas}중상{/g} 면역.</indent>\n-<indent=5%>턴마다 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|Regen|e9bbb2e42f78452cbb7d021ba50f3bb0} 회복합니다.</indent>\n착용자가 적을 처치할 때마다 전투 종료 시까지 주는 모든 피해가 +1% 증가하고 지능, 의지력, 친화력이 −1 감소합니다(최소 1).
@@ -294,10 +294,10 @@
 294	{g|Encyclopedia:SkillLogic}논리{/g}가 +10, {g|Encyclopedia:SkillCoercion}위협{/g}이 +10, {g|Encyclopedia:SkillPersuasion}설득{/g}이 +10 증가합니다.
 295	착용자가 내비게이터 능력을 사용할 때마다 다음 공격을 무작위 인접 칸으로 직접 이동하여 반드시 {g|Encyclopedia:DodgeGlossary}회피{/g}합니다. 이 효과는 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}에 적용되지 않습니다.
 296	이머티리움 길잡이 부적
-297	<u>({g|Encyclopedia:SkillCarouse}주량{/g} / 20)</u>
+297	<u>({g|Encyclopedia:SkillCarouse}해독력{/g} / 20)</u>
 298	사용자가 전투 자극제로 임시 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|THP|b36fb556ddc04c10ac31264c55eb3da8} 얻습니다.\n매 {g|Encyclopedia:Turn}턴{/g} 처음 사용하는 전투 자극제는 {g|Encyclopedia:ActionPoints}행동력{/g}을 0 소모합니다.
 299	개량형 주입기
-300	<u>({g|Encyclopedia:SkillCarouse}주량{/g} / 10)</u>
+300	<u>({g|Encyclopedia:SkillCarouse}해독력{/g} / 10)</u>
 301	사용자가 전투 자극제로 임시 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|THP|fd6b9cc0cac448a48dc7368a72791cec} 얻습니다.\n전투 자극제 사용 시 {g|Encyclopedia:ActionPoints}행동력{/g}을 0 소모합니다.
 302	주입 어댑터
 303	이단심문관의 신조

@@ -433,7 +433,7 @@
 433	<u>착용자의 {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스</u>
 434	착용자가 {g|f:f6d693dbff0d44eb9590684241e63ef3}베기{/g}, {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}질주{/g}, {g|f:e7836ee2419b46d68da401547aaf630c}발차기{/g}를 사용할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|MP|8ac852460a084506b37b2c1d9e0b569d}, {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 +{uip|Momentum|8ac852460a084506b37b2c1d9e0b569d} 얻습니다.
 435	절단의 상징
-436	착용자의 {g|Encyclopedia:SkillMedicae}의술{/g}과 {g|Encyclopedia:SkillCarouse}주량{/g}이 +20 증가합니다.\n착용자가 매 {g|Encyclopedia:Round}라운드{/g} 처음 구급상자나 자극제를 사용할 때는 0 {g|Encyclopedia:ActionPoints}행동력{/g}을 소모합니다.
+436	착용자의 {g|Encyclopedia:SkillMedicae}의술{/g}과 {g|Encyclopedia:SkillCarouse}해독력{/g}이 +20 증가합니다.\n착용자가 매 {g|Encyclopedia:Round}라운드{/g} 처음 구급상자나 자극제를 사용할 때는 0 {g|Encyclopedia:ActionPoints}행동력{/g}을 소모합니다.
 437	불사조의 보석
 438	착용자가 아군이나 자신을 {g|Encyclopedia:Ability}능력{/g}의 대상으로 지정할 때마다 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +5 증가합니다. 이 효과는 전투 종료 시까지 지속되며 중첩됩니다.
 439	소용돌이 펜던트

@@ -131,17 +131,17 @@
 131	넓은 {g|Encyclopedia:FiringArcSpace}사격각{/g} 안에서 선택한 적에게 <u>(91~105)</u>의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주는 중거리 {g|Encyclopedia:LanceWeaponSpace}랜스 무장{/g}입니다.
 132	공허 분쇄자 랜스 포대
 133	단거리 측면 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 4발을 발사하며, 발당 14의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
-134	화성 양식 매크로 포대
+134	화성 패턴 매크로 포대
 135	단거리 측면 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 6발을 발사하며, 발당 14의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
-136	화성 양식 매크로 포대 (확장형)
+136	화성 패턴 매크로 포대 (확장형)
 137	{g|Encyclopedia:ProwSpace}함수{/g}에 장착된 단거리 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 4발을 발사하며, 발당 14의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
-138	화성 양식 함수 포대
+138	화성 패턴 함수 포대
 139	단거리 측면 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 4발을 발사하며, 발당 21의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
-140	스티기스 양식 매크로 포대
+140	스티기스 패턴 매크로 포대
 141	단거리 측면 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 4발을 발사하며, 발당 27의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
 142	아키오테크 매크로 포대
 143	독립 조준 모듈 2개를 갖춘 단거리 측면 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 2발을 발사하며, 발당 21의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.\n<i>턴당 2회 사용할 수 있습니다.</i>
-144	스티기안 양식 이중 모듈 매크로 포대
+144	스티기안 패턴 이중 모듈 매크로 포대
 145	단거리 {g|Encyclopedia:DorsalSpace}상부{/g} {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 2발을 발사하며, 발당 14의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
 146	메조아 매크로 캐논
 147	단거리 {g|Encyclopedia:DorsalSpace}상부{/g} {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 2발을 발사하며, 발당 21의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
@@ -155,11 +155,11 @@
 155	단거리 {g|Encyclopedia:DorsalSpace}상부{/g} 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 8발을 발사하며, 발당 10의 피해를 줍니다.
 156	소형 플라스마 마크로 캐논
 157	장거리 측면 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 3발을 발사하며, 발당 21의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
-158	라이자 양식 플라스마 전지
+158	라이자 패턴 플라스마 전지
 159	장거리 측면 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 2발을 발사하며, 발당 21의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
-160	라이자 양식 플라스마 전지 (축소형)
+160	라이자 패턴 플라스마 전지 (축소형)
 161	장거리 측면 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 3발을 발사하며, 발당 33의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
-162	헤큐터 양식 플라스마 전지
+162	헤큐터 패턴 플라스마 전지
 163	장거리 측면 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 3발을 발사하며, 발당 39의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
 164	아키오테크 플라스마 전지
 165	단거리 측면 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 6발을 발사하며, 발당 22의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
@@ -173,25 +173,25 @@
 173	동력 코어
 174	코기테이터
 175	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 12를 제공하며 가속 성능은 높고 제동 성능은 낮습니다.\n추가로 충각 돌격 시 {g|Encyclopedia:MovementPointsSpace}함선 이동력{/g}을 3 더 얻습니다.
-176	새터나인 양식 3급 "공성추" 엔진
+176	새터나인 패턴 3급 "공성추" 엔진
 177	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 19를 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 낮고 {g|Encyclopedia:FlagshipSpace}기함{/g}의 {g|Encyclopedia:ManoeuvrabilitySpace}기동성{/g}을 크게 감소시킵니다.
-178	화성 양식 3급 "태풍" 엔진
+178	화성 패턴 3급 "태풍" 엔진
 179	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 14를 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 보통입니다.\n{g|Encyclopedia:FlagshipSpace}기함{/g}의 {g|Encyclopedia:HullIntegritySpace}선체 내구도{/g}가 75% 이하면 속도가 {g|Encyclopedia:MovementPointsSpace}함선 이동력{/g} 2만큼 증가합니다.
-180	라스 양식 3f 엔진
+180	라스 패턴 3f 엔진
 181	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 11을 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 높습니다.
-182	라스 양식 2a 엔진
+182	라스 패턴 2a 엔진
 183	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 12를 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 높습니다.
-184	라스 양식 2b 엔진
+184	라스 패턴 2b 엔진
 185	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 13을 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 높습니다.
-186	새터나인 양식 5급 엔진
+186	새터나인 패턴 5급 엔진
 187	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 14를 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 보통입니다.
 188	세그라지안 "바이퍼드라이브" 해적 엔진
 189	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 13을 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 낮습니다.
-190	조비안 양식 1급 엔진
+190	조비안 패턴 1급 엔진
 191	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 14를 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 낮습니다.
-192	조비안 양식 2급 엔진
+192	조비안 패턴 2급 엔진
 193	이 플라스마 엔진은 {g|Encyclopedia:SpeedSpace}속도{/g} 15를 제공하며 {g|Encyclopedia:AccelerationBrakingSpace}가속과 제동{/g} 성능이 낮습니다.
-194	조비안 양식 4.5급 엔진
+194	조비안 패턴 4.5급 엔진
 195	각 구역에 80의 보호막을 제공합니다.
 196	단일 보이드 실드 배열기
 197	각 구역에 120의 보호막을 제공합니다.
@@ -223,23 +223,23 @@
 223	선택한 위치에 플라스마 탄두를 탑재한 어뢰 일제 발사 대형 4개를 발사합니다. 이 어뢰는 다음 라운드부터 이동하고 공격할 수 있습니다. 공격 시 각 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하면 19의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주고, 빗나가면 근접 신관으로 폭발하여 1칸 범위에 13의 피해를 줍니다.\n<indent=5%>재장전: 1라운드</indent>
 224	19의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주는 탄두가 탑재된 플라스마 어뢰 4발을 발사할 수 있는 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}입니다.
 225	엘다리 음파 어뢰 발사기
-226	보스 양식 어뢰 발사관 (플라스마)
-227	보스 양식 어뢰 발사관 (플라스마)
+226	보스 패턴 어뢰 발사관 (플라스마)
+227	보스 패턴 어뢰 발사관 (플라스마)
 228	플라스마 탄두를 탑재한 단기 연소 어뢰 일제 발사 대형 4개를 발사합니다. 각 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하면 19의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주고, 빗나가면 근접 신관으로 폭발하여 1칸 범위에 13의 피해를 줍니다.\n단기 연소 어뢰는 {g|Encyclopedia:SpeedSpace}속도{/g}, {g|Encyclopedia:EvasionSpace}회피{/g}, {g|Encyclopedia:ManoeuvrabilitySpace}기동성{/g}이 더 높지만 수명이 짧습니다.\n<indent=5%>재장전: 1라운드</indent>
-229	포르티스 양식 어뢰 발사관 (플라스마)
+229	포르티스 패턴 어뢰 발사관 (플라스마)
 230	19의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주는 탄두가 탑재된 단기 연소 플라스마 어뢰 4발을 발사할 수 있는 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}입니다.
 231	멜타 탄두를 탑재한 단기 연소 어뢰 일제 발사 대형 4개를 발사합니다. 각 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하면 27의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주고, 빗나가면 근접 신관으로 폭발하여 1칸 범위에 18의 피해를 줍니다.\n단기 연소 어뢰는 {g|Encyclopedia:SpeedSpace}속도{/g}, {g|Encyclopedia:EvasionSpace}회피{/g}, {g|Encyclopedia:ManoeuvrabilitySpace}기동성{/g}이 더 높지만 수명이 짧습니다.\n<indent=5%>재장전: 1라운드</indent>
-232	포르티스 양식 어뢰 발사관 (멜타)
+232	포르티스 패턴 어뢰 발사관 (멜타)
 233	27의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주는 탄두가 탑재된 단기 연소 멜타 어뢰 4발을 발사할 수 있는 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}입니다.
 234	플라스마 탄두를 탑재한 단기 연소 어뢰 일제 발사 대형 5개를 발사합니다. 각 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하면 19의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주고, 빗나가면 근접 신관으로 폭발하여 반경 1칸 이내에 13의 피해를 줍니다.\n단기 연소 어뢰는 {g|Encyclopedia:SpeedSpace}속도{/g}, {g|Encyclopedia:EvasionSpace}회피{/g}, {g|Encyclopedia:ManoeuvrabilitySpace}기동성{/g}이 더 높지만 수명이 짧습니다.\n<indent=5%>재장전: 1라운드</indent>
 235	음파 탄두를 탑재한 어뢰 일제 발사 대형 4개를 발사합니다. 각 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하면 22의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주고, 빗나가면 근접 신관으로 폭발하여 1칸 범위에 12의 피해를 줍니다.
 236	엘다리 음파 어뢰 발사기
 237	22의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주는 탄두가 탑재된 엘다리 음파 어뢰 4발을 발사할 수 있는 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}입니다.
 238	플라스마 탄두를 탑재한 어뢰 일제 발사 대형 5개를 발사합니다. 각 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하면 19의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주고, 빗나가면 근접 신관으로 폭발하여 1칸 범위에 13의 피해를 줍니다.\n<indent=5%>재장전: 1라운드</indent>
-239	그리폰 양식 어뢰 발사관 (플라스마)
+239	그리폰 패턴 어뢰 발사관 (플라스마)
 240	19의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주는 탄두가 탑재된 플라스마 어뢰 5발을 발사할 수 있는 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}입니다.
 241	멜타 탄두를 탑재한 어뢰 일제 발사 대형 5개를 발사합니다. 각 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하면 27의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주고, 빗나가면 근접 신관으로 폭발하여 1칸 범위에 18의 피해를 줍니다.\n<indent=5%>재장전: 1라운드</indent>
-242	그리폰 양식 어뢰 발사관 (멜타 어뢰)
+242	그리폰 패턴 어뢰 발사관 (멜타 어뢰)
 243	27의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주는 탄두가 탑재된 멜타 어뢰 5발을 발사할 수 있는 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}입니다.
 244	멜타 탄두를 탑재한 중장약 어뢰 일제 발사 대형 5개를 발사합니다. 각 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하면 50의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주고, 빗나가면 {g|Encyclopedia:ProximityFuseSpace}근접 신관{/g}으로 폭발하여 1칸 범위에 18의 피해를 줍니다.\n중장약 어뢰는 더 큰 탄두를 탑재하기 위해 코기테이터와 예비 연료 대부분을 포기했습니다. 최초 진로 설정 이후에는 유도할 수 없으며 수명은 2라운드뿐입니다.\n<indent=5%>재장전: 1라운드</indent>
 245	50의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 주는 탄두가 탑재된 중장약 멜타 어뢰 5발을 발사할 수 있는 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}입니다.
@@ -537,12 +537,12 @@
 537	단거리 {g|Encyclopedia:DorsalSpace}상부{/g} 멜타 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 2발을 발사하며, 발당 22의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
 538	단거리 측면 멜타 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 4발을 발사하며, 발당 22의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
 539	장거리 측면 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}입니다. 3발을 발사하며, 발당 40의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.
-540	헤큐터 양식 플라스마 전지
+540	헤큐터 패턴 플라스마 전지
 541	파이로스 측면 멜타 매크로 캐논
 542	파이로스 멜타 캐논
 543	타락한 멜타 어뢰
 544	{g|Encyclopedia:TorpedoSalvoSpace}일제 발사{/g}마다 타락한 멜타 어뢰 4발을 발사할 수 있는 {g|Encyclopedia:TorpedoLaunchersSpace}어뢰 발사관{/g}입니다.\n<indent=5%>재장전: 2라운드</indent>
-545	그리폰 양식 어뢰 발사관 (멜타)
+545	그리폰 패턴 어뢰 발사관 (멜타)
 546	조종사가 조작하는 플라스마 캐논입니다.
 547	플라스마 캐논
 548	장거리 {g|Encyclopedia:DorsalSpace}상부{/g} 미사일 발사기입니다. 미사일 5발을 발사하며, 발당 18의 {g|Encyclopedia:SpaceBattleDamageGlossary}피해{/g}를 줍니다.

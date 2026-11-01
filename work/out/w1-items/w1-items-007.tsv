@@ -89,7 +89,7 @@
 89	대차량 리볼버
 90	이 무기에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 −5% {g|Encyclopedia:Penalty}불이익{/g}을 받습니다. 중첩됩니다.
 91	앤버 체인소드
-92	[C-델핌 양식] 옴니시아의 도끼
+92	[C-델핌 패턴] 옴니시아의 도끼
 93	이 도끼는 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}에 <b>잔혹한 타격</b>을 사용합니다.
 94	고급 아뎁투스 아르비테스 적쇄추
 95	이 무기에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 적은 3{g|Encyclopedia:Turn}턴{/g} 동안 방사선 피폭 효과를 받아 받는 모든 치유량이 50% 감소합니다. 또한 3{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:5617027d4ab7419092156bfadd0fff05}리애니메이션 프로토콜{/g}을 사용할 수 없습니다.
@@ -164,7 +164,7 @@
 164	사용자가 적 한 명을 세 번 연속 공격합니다.
 165	{g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g} +80%와 적 한 명을 세 번 연속 공격할 수 있는 특수 {g|Encyclopedia:Ability}능력{/g}을 얻습니다.
 166	성 캐서린의 찬양
-167	[오르슬락 양식] 스터브 리볼버
+167	[오르슬락 패턴] 스터브 리볼버
 168	이 소총은 {g|Encyclopedia:RateOfFire}발사 수{/g}와 {g|Encyclopedia:DamageGlossary}피해{/g}가 서로 다른 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격 3종을 사용할 수 있습니다. 매 {g|Encyclopedia:Round}라운드{/g} 무작위로 정해지는 연사 공격 하나만 사용할 수 있습니다.
 169	실험용 돌격소총
 170	전투 중 이 플레이머의 첫 공격은 제노스, 사이커, 데몬에게 대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%만큼 추가 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 줍니다. 이 플레이머가 부여하는 {g|Encyclopedia:BurningEffect}화상{/g} 효과는 제노스, 사이커, 데몬에게 대상의 최대 {g|Encyclopedia:HitPoints}체력{/g}의 2%만큼 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
@@ -252,8 +252,8 @@
 252	네메사이트의 위대한 목적을 위해 개조된 이 스터브 리볼버는 사용자의 뜻에 맞설 힘조차 없는 모든 이에게 응보를 내립니다.
 253	이 검이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 대상은 −5 불이익을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 실패하면 대상에게 {g|Encyclopedia:BleedingEffect}출혈{/g} 효과가 부여되고 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 +1 증가합니다.\n<i>{g|Encyclopedia:SoulmarkTypesGlossary}신념{/g} — {g|Encyclopedia:SoulMarkCorruption}이단적{/g}</i>: 사용자는 출혈 상태인 대상에게 준 {g|Encyclopedia:DamageGlossary}피해{/g}의 25%만큼 {g|Encyclopedia:HitPoints}체력{/g}을 회복합니다.
 254	생명력 흡수의 검
-255	[메조아 양식] 오토피스톨
-256	[메조아 양식] 저격소총
+255	[메조아 패턴] 오토피스톨
+256	[메조아 패턴] 저격소총
 257	이 롱 라스의 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}을 받은 대상은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1{g|Encyclopedia:Round}라운드{/g} 동안 기절합니다.
 258	이 무기의 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}이 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}를 줄 때마다 대상은 1{g|Encyclopedia:Turn}턴{/g} 동안 {g|Encyclopedia:Stun}기절{/g}합니다.
 259	혼미
@@ -267,11 +267,11 @@
 267	타르반나의 최후의 저항
 268	이 무기는 이전 주인이 희생자들에게서 전리품으로 얻은 인간과 제노스의 이빨로 정교하게 장식되어 있습니다.
 269	공허의 독사
-270	[드루수스 프라임 양식] 샷건
+270	[드루수스 프라임 패턴] 샷건
 271	단일 대상만 공격할 수 있습니다. {g|Encyclopedia:Deflection}피해 감소{/g}를 7 무시합니다.
 272	잿불
 273	예속의 굴레
-274	[오르슬락 양식] 오토건
+274	[오르슬락 패턴] 오토건
 275	개조 스플린터 피스톨
 276	멀티 멜타
 277	가장 큰 멜타 무기로, 보통 아뎁투스 아스타르테스만 사용하거나 제국 차량에 장착합니다.
@@ -412,7 +412,7 @@
 412	이 웨버에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 30 감소합니다. 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 −10 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 이 효과를 제거할 수 있습니다.
 413	진압 웨버
 414	고문관의 마울
-415	[화성 양식] 샷건
+415	[화성 패턴] 샷건
 416	{g|f:48f5a4051c0c4cf691c84cb27b6876a3}파멸{/g}로 가하는 다음 공격은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않습니다.
 417	고문대와 파멸
 418	사용자가 같은 {g|Encyclopedia:Turn}턴{/g}에 {g|f:48f5a4051c0c4cf691c84cb27b6876a3}파멸{/g}로 사격했다면 이 무기로 무료 공격을 할 수 있습니다.
@@ -425,7 +425,7 @@
 425	조준경 샷건
 426	이 샷건 공격은 피해를 2배 주고 대상을 5칸 {g|Encyclopedia:PushGlossary}밀어냅니다{/g}. 이 공격의 최소 사거리는 2칸이며 {g|Encyclopedia:Range}유효 사거리{/g}는 14칸입니다.
 427	슬러그 사격
-428	[솔 양식] 샷건
+428	[솔 패턴] 샷건
 429	이 무기에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 +20 보너스를 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1{g|Encyclopedia:Round}라운드{/g} 동안 심인성 {g|Encyclopedia:Traumas}중상{/g}을 입습니다.
 430	샤에일의 침묵
 431	아뎁투스 아르비테스 적쇄추

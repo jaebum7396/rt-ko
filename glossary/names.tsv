@@ -112,7 +112,7 @@ Mad Male	광기 어린 남성	name|w1
 Mad Slash	광기의 베기	name|w1
 Mandrake	맨드레이크	name|w1
 Mark of Cruelty	잔혹함의 표식	name|w1
-Mars-Pattern Macro-Battery	화성 양식 매크로 포대	name|w1
+Mars-Pattern Macro-Battery	화성 패턴 매크로 포대	name|w1
 Master Raider	습격의 대가	name|w1
 Melting Armour	방어구 융해	name|w1
 Mental Tyrant	정신 폭군	name|w1
@@ -217,9 +217,9 @@ You. Kill It.	너는 저것을 죽여라.	name|w1
 You. Protect Me.	너는 나를 지켜라.	name|w1
 Yrliet's Charm	이를리엣의 부적	name|w1
 Zone of Fear	공포의 영역	name|w1
-[Mars-Pattern] Flamer	[화성 양식] 플레이머	name|w1
-[Mars-Pattern] Meltagun	[화성 양식] 멜타건	name|w1
-[Mars-Pattern] Shotgun	[화성 양식] 샷건	name|w1
+[Mars-Pattern] Flamer	[화성 패턴] 플레이머	name|w1
+[Mars-Pattern] Meltagun	[화성 패턴] 멜타건	name|w1
+[Mars-Pattern] Shotgun	[화성 패턴] 샷건	name|w1
 [draft]Psychic Maelstrom	[초안]사이킥 소용돌이	name|w1
 [obsolete] Vendor Name	[폐기됨] 상인 이름	name|w1
 [obsolete] Vendor Name2	[폐기됨] 상인 이름2	name|w1
@@ -469,7 +469,7 @@ Malefic Tome	사악한 마도서	name|w1
 Manipulator Push	조작기 밀치기	name|w1
 Mark of the Gladiator	검투사의 표식	name|w1
 Mark of the Ruler	통치자의 표식	name|w1
-Mars-Pattern Prow Battery	화성 양식 함수 포대	name|w1
+Mars-Pattern Prow Battery	화성 패턴 함수 포대	name|w1
 Martyr Boots	순교자의 장화	name|w1
 Master Surgeon Gloves	명의의 장갑	name|w1
 Master of Charts	성도의 대가	name|w1
@@ -552,7 +552,7 @@ Regimental Tactics	연대 전술	name|w1
 Rocky World	암석 행성	name|w1
 Rugged Repair	견고한 수리	name|w1
 Ruthless Suppression	무자비한 제압	name|w1
-Ryza-Pattern Plasma Battery	라이자 양식 플라스마 전지	name|w1
+Ryza-Pattern Plasma Battery	라이자 패턴 플라스마 전지	name|w1
 Scrap Box	고철 상자	name|w1
 Scrap Chainmail	고철 사슬 갑옷	name|w1
 Scrap Container	고철 컨테이너	name|w1
@@ -666,21 +666,21 @@ Wych Guardian	위치 수호병	name|w1
 Wych Poisoner	위치 독살자	name|w1
 Xenomesh	제노스 망사 갑옷	name|w1
 You. You Are Next.	너는 다음 차례다.	name|w1
-[Mars-Pattern] Astartes Flamer	[화성 양식] 아스타르테스 플레이머	name|w1
-[Mars-Pattern] Hand Flamer	[화성 양식] 핸드 플레이머	name|w1
-[Mars-Pattern] Omnissian Axe	[화성 양식] 옴니시안 액스	name|w1
-[Mars-Pattern] Plasma Gun	[화성 양식] 플라스마 건	name|w1
-[Mars-Pattern] Power Axe	[화성 양식] 파워 액스	name|w1
-[Mars-Pattern] Power Maul	[화성 양식] 파워 마울	name|w1
-[Mars-Pattern] Thunder Hammer	[화성 양식] 썬더 해머	name|w1
-[Mezoa-Pattern] Autogun	[메조아 양식] 오토건	name|w1
-[Mezoa-Pattern] Autopistol	[메조아 양식] 오토피스톨	name|w1
-[Mezoa-Pattern] Greatsword	[메조아 양식] 대검	name|w1
-[Mezoa-Pattern] Hexrifle	[메조아 양식] 헥스 라이플	name|w1
-[Mezoa-Pattern] Lasgun	[메조아 양식] 라스건	name|w1
-[Ryza-Pattern] Chainsword	[라이자 양식] 체인소드	name|w1
-[Ryza-Pattern] Foehammer	[라이자 양식] 적쇄추	name|w1
-[Ryza-Pattern] Meltagun	[라이자 양식] 멜타건	name|w1
+[Mars-Pattern] Astartes Flamer	[화성 패턴] 아스타르테스 플레이머	name|w1
+[Mars-Pattern] Hand Flamer	[화성 패턴] 핸드 플레이머	name|w1
+[Mars-Pattern] Omnissian Axe	[화성 패턴] 옴니시안 액스	name|w1
+[Mars-Pattern] Plasma Gun	[화성 패턴] 플라스마 건	name|w1
+[Mars-Pattern] Power Axe	[화성 패턴] 파워 액스	name|w1
+[Mars-Pattern] Power Maul	[화성 패턴] 파워 마울	name|w1
+[Mars-Pattern] Thunder Hammer	[화성 패턴] 썬더 해머	name|w1
+[Mezoa-Pattern] Autogun	[메조아 패턴] 오토건	name|w1
+[Mezoa-Pattern] Autopistol	[메조아 패턴] 오토피스톨	name|w1
+[Mezoa-Pattern] Greatsword	[메조아 패턴] 대검	name|w1
+[Mezoa-Pattern] Hexrifle	[메조아 패턴] 헥스 라이플	name|w1
+[Mezoa-Pattern] Lasgun	[메조아 패턴] 라스건	name|w1
+[Ryza-Pattern] Chainsword	[라이자 패턴] 체인소드	name|w1
+[Ryza-Pattern] Foehammer	[라이자 패턴] 적쇄추	name|w1
+[Ryza-Pattern] Meltagun	[라이자 패턴] 멜타건	name|w1
 [draft]Armour	[초안]방어도	name|w1
 [draft]Bind	[초안]속박	name|w1
 [draft]Telekinesis	[초안]염동력	name|w1
@@ -710,7 +710,7 @@ Adeptus Militarum	아뎁투스 밀리타룸	name|w1
 Advanced Heavy Stubber	고급 헤비 스터버	name|w1
 Advanced Skill: Athletics	고급 기술: 운동	name|w1
 Advanced Skill: Awareness	고급 기술: 인지	name|w1
-Advanced Skill: Carouse	고급 기술: 주량	name|w1
+Advanced Skill: Carouse	고급 기술: 해독력	name|w1
 Advanced Skill: Coercion	고급 기술: 위협	name|w1
 Advanced Skill: Commerce	고급 기술: 상업	name|w1
 Advanced Skill: Demolition	고급 기술: 폭파	name|w1
@@ -787,7 +787,7 @@ Ballistic Synchroniser	탄도 동기화기	name|w1
 Bane of Soulless Metal	영혼 없는 금속의 파멸	name|w1
 Base Skill: Athletics	기초 기술: 운동	name|w1
 Base Skill: Awareness	기초 기술: 인지	name|w1
-Base Skill: Carouse	기초 기술: 주량	name|w1
+Base Skill: Carouse	기초 기술: 해독력	name|w1
 Base Skill: Coercion	기초 기술: 위협	name|w1
 Base Skill: Commerce	기초 기술: 상업	name|w1
 Base Skill: Demolition	기초 기술: 폭파	name|w1
@@ -1149,8 +1149,8 @@ Golden Tokay	황금 토케이	name|w1
 Great Librarian Glasses	대도서관장의 안경	name|w1
 Grey Hood	회색 두건	name|w1
 Grim Determination	굳건한 결심	name|w1
-Gryphonne-Pattern Torpedo Tubes (Melta)	그리폰 양식 어뢰 발사관 (멜타)	name|w1
-Gryphonne-Pattern Torpedo Tubes (Plasma)	그리폰 양식 어뢰 발사관 (플라스마)	name|w1
+Gryphonne-Pattern Torpedo Tubes (Melta)	그리폰 패턴 어뢰 발사관 (멜타)	name|w1
+Gryphonne-Pattern Torpedo Tubes (Plasma)	그리폰 패턴 어뢰 발사관 (플라스마)	name|w1
 Guttural Howl	목울림 울부짖음	name|w1
 Haemorrhage	대출혈	name|w1
 Hallowed Targeting Cogitator	축성된 조준 코기테이터	name|w1
@@ -1179,7 +1179,7 @@ Heavy Void Suit	중형 공허 방호복	name|w1
 Heavy Voidcraft Armour	중장갑 함재기 장갑	name|w1
 Heavy Weapon Proficiency	중화기 숙련	name|w1
 Hecata	헤카타	name|w1
-Hecutor-Pattern Plasma Battery	헤큐터 양식 플라스마 전지	name|w1
+Hecutor-Pattern Plasma Battery	헤큐터 패턴 플라스마 전지	name|w1
 Hekatarii Serration	헤카타리 톱니	name|w1
 Helbrute Fist	헬브루트 주먹	name|w1
 Helbrute Punch	헬브루트 주먹질	name|w1
@@ -1237,8 +1237,8 @@ Iron Discipline	강철의 군율	name|w1
 Iron Grip	강철 손아귀	name|w1
 It Will Not Die	불사	name|w1
 Joint Analysis	공동 분석	name|w1
-Jovian-Pattern Class 1 Drive	조비안 양식 1급 엔진	name|w1
-Jovian-Pattern Class 2 Drive	조비안 양식 2급 엔진	name|w1
+Jovian-Pattern Class 1 Drive	조비안 패턴 1급 엔진	name|w1
+Jovian-Pattern Class 2 Drive	조비안 패턴 2급 엔진	name|w1
 Jump Maneuver	도약 기동	name|w1
 Just an Instrument	한낱 도구	name|w1
 Kabalite Dracon	카발라이트 드라콘	name|w1
@@ -1300,7 +1300,7 @@ Manipulator Mechadendrite	조작용 메카덴드라이트	name|w1
 Mark-201.b Augur Array	마크 201.b 오거 탐지 장치	name|w1
 Marked for Death	죽음의 표식	name|w1
 Marked for Purge	정화의 낙인	name|w1
-Mars-Pattern Macro-Battery (Extended)	화성 양식 매크로 포대 (확장형)	name|w1
+Mars-Pattern Macro-Battery (Extended)	화성 패턴 매크로 포대 (확장형)	name|w1
 Martyr's Indomitability	순교자의 불굴	name|w1
 Martyr's Penance	순교자의 참회	name|w1
 Master Duellist's Gloves	결투 대가의 장갑	name|w1
@@ -1496,7 +1496,7 @@ Sanctified Slayer	성스러운 살육자	name|w1
 Sanctified Staff	축성된 지팡이	name|w1
 Sanctioned Psyker — Pyromancer	인가 사이커 — 파이로맨서	name|w1
 Sanctioned Psyker — Telepath	인가 사이커 — 텔레패스	name|w1
-Saturnine-Pattern Class 5 Engine	새터나인 양식 5급 엔진	name|w1
+Saturnine-Pattern Class 5 Engine	새터나인 패턴 5급 엔진	name|w1
 Scanner Mechadendrite	탐지용 메카덴드라이트	name|w1
 Scorching Retribution	불타는 응징	name|w1
 Scourge of Vheabos VI	베아보스 VI의 재앙	name|w1
@@ -1684,7 +1684,7 @@ Voidship Crypt	공허선 납골당	name|w1
 Voidship Remains	공허선 잔해	name|w1
 Voidship Shrine	공허선 성소	name|w1
 Von Valancius Cloak	폰 발란시우스 망토	name|w1
-Voss-Pattern Torpedo Tubes (Plasma)	보스 양식 어뢰 발사관 (플라스마)	name|w1
+Voss-Pattern Torpedo Tubes (Plasma)	보스 패턴 어뢰 발사관 (플라스마)	name|w1
 Vox-Beacon	복스 신호기	name|w1
 Vox-Whistle	복스 호각	name|w1
 Wall of Rockcrete	록크리트 장벽	name|w1
@@ -1734,21 +1734,21 @@ Zarkov's Sting	자르코프의 독침	name|w1
 [Death World Origin] Armoured Bodyglove	[데스 월드 출신] 방탄 밀착복	name|w1
 [Fortress World Origin] Mesh Vest	[포트리스 월드 출신] 망사 조끼	name|w1
 [Fortress World Origin] Tempestus Carapace	[포트리스 월드 출신] 템페스투스 카라페이스 아머	name|w1
-[Mezoa-Pattern] Arc Rifle	[메조아 양식] 아크 라이플	name|w1
-[Mezoa-Pattern] Bolt Pistol	[메조아 양식] 볼트 피스톨	name|w1
-[Mezoa-Pattern] Hand Flamer	[메조아 양식] 핸드 플레이머	name|w1
-[Mezoa-Pattern] Inferno Pistol	[메조아 양식] 인페르노 피스톨	name|w1
-[Mezoa-Pattern] Plasma Gun	[메조아 양식] 플라스마 건	name|w1
-[Mezoa-Pattern] Sniper Rifle	[메조아 양식] 저격소총	name|w1
-[Orthlack-Pattern] Autogun	[오르슬락 양식] 오토건	name|w1
-[Retobi-Pattern] Foehammer	[레토비 양식] 적쇄추	name|w1
-[Retobi-Pattern] Greatsword	[레토비 양식] 대검	name|w1
-[Ryza-Pattern] Astartes Chainsword	[라이자 양식] 아스타르테스 체인소드	name|w1
-[Ryza-Pattern] Blast Pistol	[라이자 양식] 블라스트 피스톨	name|w1
-[Ryza-Pattern] Power Maul	[라이자 양식] 파워 마울	name|w1
-[Ryza-Pattern] Thunder Hammer	[라이자 양식] 썬더 해머	name|w1
-[Sol-Pattern] Meltagun	[솔 양식] 멜타건	name|w1
-[Sol-Pattern] Shotgun	[솔 양식] 샷건	name|w1
+[Mezoa-Pattern] Arc Rifle	[메조아 패턴] 아크 라이플	name|w1
+[Mezoa-Pattern] Bolt Pistol	[메조아 패턴] 볼트 피스톨	name|w1
+[Mezoa-Pattern] Hand Flamer	[메조아 패턴] 핸드 플레이머	name|w1
+[Mezoa-Pattern] Inferno Pistol	[메조아 패턴] 인페르노 피스톨	name|w1
+[Mezoa-Pattern] Plasma Gun	[메조아 패턴] 플라스마 건	name|w1
+[Mezoa-Pattern] Sniper Rifle	[메조아 패턴] 저격소총	name|w1
+[Orthlack-Pattern] Autogun	[오르슬락 패턴] 오토건	name|w1
+[Retobi-Pattern] Foehammer	[레토비 패턴] 적쇄추	name|w1
+[Retobi-Pattern] Greatsword	[레토비 패턴] 대검	name|w1
+[Ryza-Pattern] Astartes Chainsword	[라이자 패턴] 아스타르테스 체인소드	name|w1
+[Ryza-Pattern] Blast Pistol	[라이자 패턴] 블라스트 피스톨	name|w1
+[Ryza-Pattern] Power Maul	[라이자 패턴] 파워 마울	name|w1
+[Ryza-Pattern] Thunder Hammer	[라이자 패턴] 썬더 해머	name|w1
+[Sol-Pattern] Meltagun	[솔 패턴] 멜타건	name|w1
+[Sol-Pattern] Shotgun	[솔 패턴] 샷건	name|w1
 [War World Origin] Enforcer Carapace	[전쟁 행성 출신] 인포서 카라페이스 아머	name|w1
 [War World Origin] Fencing Bodyglove	[전쟁 행성 출신] 검술 밀착복	name|w1
 [War World Origin] Flak Chestplate	[전쟁 행성 출신] 플랙 흉갑	name|w1
@@ -2130,7 +2130,7 @@ Burning Touch of the Warp	불타는 워프의 손길	name|w1
 Burnscour-Beast Cured Leather	번스코어 야수의 무두질 가죽	name|w1
 Burnt Aquila Pendant	불탄 아퀼라 펜던트	name|w1
 By Right of Strength!	힘이 곧 권리다!	name|w1
-Cadian-Pattern Armaplas Moulds	카디아 양식 아마플라스 주형	name|w1
+Cadian-Pattern Armaplas Moulds	카디아 패턴 아마플라스 주형	name|w1
 Calculated Relations	계산된 관계	name|w1
 Calculated Resolve	계산된 결의	name|w1
 Calculated Strikes	계산된 타격	name|w1
@@ -2763,8 +2763,8 @@ Forsaken World	버림받은 행성	name|w1
 Fortification Protocol	요새화 프로토콜	name|w1
 Fortifier	방비자	name|w1
 Fortifying Orders	강화 명령	name|w1
-Fortis-Pattern Torpedo Tubes (Melta)	포르티스 양식 어뢰 발사관 (멜타)	name|w1
-Fortis-Pattern Torpedo Tubes (Plasma)	포르티스 양식 어뢰 발사관 (플라스마)	name|w1
+Fortis-Pattern Torpedo Tubes (Melta)	포르티스 패턴 어뢰 발사관 (멜타)	name|w1
+Fortis-Pattern Torpedo Tubes (Plasma)	포르티스 패턴 어뢰 발사관 (플라스마)	name|w1
 Foul Aberration	불결한 변종	name|w1
 Foul Plaguebearer	불결한 플레이그베어러	name|w1
 Foul Play	반칙	name|w1
@@ -2862,7 +2862,7 @@ Grounded	접지	name|w1
 Grox-Meat Rump Steaks	그록스 우둔살 스테이크	name|w1
 Gruesome Gust	참혹한 돌풍	name|w1
 Gruesome Kill	참혹한 처치	name|w1
-Gryphonne-Pattern Torpedo Tube (Melta Torpedoes)	그리폰 양식 어뢰 발사관 (멜타 어뢰)	name|w1
+Gryphonne-Pattern Torpedo Tube (Melta Torpedoes)	그리폰 패턴 어뢰 발사관 (멜타 어뢰)	name|w1
 Guaranteed Dodge	확정 회피	name|w1
 Guardian Long Rifle	가디언 롱 라이플	name|w1
 Guardian of Life	생명의 수호자	name|w1
@@ -2872,7 +2872,7 @@ Guidance of the Astronomican	아스트로노미칸의 인도	name|w1
 Guide of Souls	영혼의 인도자	name|w1
 Gunslinger's Helmet	총잡이의 헬멧	name|w1
 Hack and Slash	난도질	name|w1
-Hadd-Pattern Data-Loom	하드 양식 데이터 직조기	name|w1
+Hadd-Pattern Data-Loom	하드 패턴 데이터 직조기	name|w1
 Haemonculus's Guard	해몬쿨루스 경비병	name|w1
 Haemonculus's Injector	해몬쿨루스의 주사기	name|w1
 Hail of Steel	강철의 폭우	name|w1
@@ -3103,7 +3103,7 @@ Jinx	징크스	name|w1
 Joint Hunting	합동 사냥	name|w1
 Joint Offence	합동 공세	name|w1
 Joint Offensive	합동 공세	name|w1
-Jovian-Pattern Class 4.5 Drive	조비안 양식 4.5급 엔진	name|w1
+Jovian-Pattern Class 4.5 Drive	조비안 패턴 4.5급 엔진	name|w1
 Joyful Torture	즐거운 고문	name|w1
 Judex	유덱스	name|w1
 Jungle Worlds	밀림 행성	name|w1
@@ -3143,9 +3143,9 @@ Lasher Tendrils	채찍 촉수	name|w1
 Lashing the Void	공허를 향한 채찍질	name|w1
 Lasting Impression	오래가는 감화	name|w1
 Lateral Impact	측면 충격	name|w1
-Lathe-Pattern 2a Engine	라스 양식 2a 엔진	name|w1
-Lathe-Pattern 2b Engine	라스 양식 2b 엔진	name|w1
-Lathe-Pattern 3f Engine	라스 양식 3f 엔진	name|w1
+Lathe-Pattern 2a Engine	라스 패턴 2a 엔진	name|w1
+Lathe-Pattern 2b Engine	라스 패턴 2b 엔진	name|w1
+Lathe-Pattern 3f Engine	라스 패턴 3f 엔진	name|w1
 Laughing God's Pendant	웃는 신의 펜던트	name|w1
 Launch Fury Interceptors	퓨리 요격기 출격	name|w1
 Launch Starhawk Bombers	스타호크 폭격기 출격	name|w1
@@ -3250,7 +3250,7 @@ Marked by the Warp	워프의 낙인	name|w1
 Marksman Bracers	명사수 팔보호구	name|w1
 Marksman Rifle	명중수 소총	name|w1
 Marner's Road	마르너의 길	name|w1
-Mars-Pattern Class 3 "Typhoon" Engine	화성 양식 3급 "태풍" 엔진	name|w1
+Mars-Pattern Class 3 "Typhoon" Engine	화성 패턴 3급 "태풍" 엔진	name|w1
 Marshal's Armour of the Koronus Expanse	코로누스 공역 원수의 갑옷	name|w1
 Marshal's Helmet of the Koronus Expanse	코로누스 공역 집행관장의 헬멧	name|w1
 Martial Art	무술	name|w1
@@ -3768,7 +3768,7 @@ Rusted Blades	녹슨 칼날	name|w1
 Rusty Heavy Rock Saw	녹슨 중형 암석 절단톱	name|w1
 Ruthlessness of Zarkov	자르코프의 무자비함	name|w1
 Rykadi Philia, the Prison Planetoid	감옥 소행성 리카디 필리아	name|w1
-Ryza-Pattern Plasma Battery (Shortened)	라이자 양식 플라스마 전지 (축소형)	name|w1
+Ryza-Pattern Plasma Battery (Shortened)	라이자 패턴 플라스마 전지 (축소형)	name|w1
 STC Optimisation	STC 최적화	name|w1
 Saboteur's Gloves	파괴 공작원의 장갑	name|w1
 Saboteur's Helmet	파괴 공작원의 헬멧	name|w1
@@ -3806,7 +3806,7 @@ Sanguine Thirst	피에 대한 갈망	name|w1
 Sanguine Threads	핏빛 실	name|w1
 Sapping Shots	쇠약 사격	name|w1
 Saturated Cape	약제 처리 망토	name|w1
-Saturnine-Pattern Class 3 "Battering" Engine	새터나인 양식 3급 "공성추" 엔진	name|w1
+Saturnine-Pattern Class 3 "Battering" Engine	새터나인 패턴 3급 "공성추" 엔진	name|w1
 Savannah World	사바나 행성	name|w1
 Savannah Worlds	사바나 행성	name|w1
 Savour the Kill	살육 음미	name|w1
@@ -4059,8 +4059,8 @@ Stun Grenade	기절 수류탄	name|w1
 Stunner	기절 유발자	name|w1
 Stunning Roar	기절의 포효	name|w1
 Sturdy Shield Straps	튼튼한 방패 끈	name|w1
-Stygian-Pattern Dual-Module Macro-Battery	스티기안 양식 이중 모듈 매크로 포대	name|w1
-Stygies-Pattern Macro-Battery	스티기스 양식 매크로 포대	name|w1
+Stygian-Pattern Dual-Module Macro-Battery	스티기안 패턴 이중 모듈 매크로 포대	name|w1
+Stygies-Pattern Macro-Battery	스티기스 패턴 매크로 포대	name|w1
 Sublime Subdermal Gems	최상급 피하 보석	name|w1
 Subterranean Voids	지하 공동	name|w1
 Subtle Manipulation	은밀한 조작	name|w1
@@ -4473,25 +4473,25 @@ Zealous Thug	광적인 깡패	name|w1
 Zero-Sum Lens	영점 렌즈	name|w1
 [Armoury World Origin] Malleus Bodyglove	[무기고 행성 출신] 말레우스 밀착복	name|w1
 [Black Heart Kabal Origin] Kabalite Armour	[블랙 하트 카발 출신] 카발라이트 아머	name|w1
-[C-Delphim Pattern] Omnissian Axe	[C-델핌 양식] 옴니시아의 도끼	name|w1
-[Civitas Pattern] Autogun	[시비타스 양식] 오토건	name|w1
+[C-Delphim Pattern] Omnissian Axe	[C-델핌 패턴] 옴니시아의 도끼	name|w1
+[Civitas Pattern] Autogun	[시비타스 패턴] 오토건	name|w1
 [Daemon World Origin] Chaos Enforcer Carapace	[데몬 월드 출신] 카오스 인포서 카라페이스 아머	name|w1
 [Death World Origin] Enforcer Light Carapace	[데스 월드 출신] 집행관 경량 카라페이스 아머	name|w1
 [Death World Origin] Light Flak Armour	[데스 월드 출신] 경량 플랙 아머	name|w1
-[Drusus Prime Pattern] Shotgun	[드루수스 프라임 양식] 샷건	name|w1
+[Drusus Prime Pattern] Shotgun	[드루수스 프라임 패턴] 샷건	name|w1
 [Forge World Origin] Skitarii Ranger Armour	[포지 월드 출신] 스키타리 레인저 갑옷	name|w1
 [Hive World Origin] Voidsmen Armour	[하이브 월드 출신] 공허선 선원 갑옷	name|w1
-[Kiava Gamma Pattern] Omnissian Axe	[키아바 감마 양식] 옴니시안 액스	name|w1
-[Mezoa-Pattern] Astartes Bolt Pistol	[메조아 양식] 아스타르테스 볼트 피스톨	name|w1
-[Orthlack-Pattern] Stub Revolver	[오르슬락 양식] 스터브 리볼버	name|w1
+[Kiava Gamma Pattern] Omnissian Axe	[키아바 감마 패턴] 옴니시안 액스	name|w1
+[Mezoa-Pattern] Astartes Bolt Pistol	[메조아 패턴] 아스타르테스 볼트 피스톨	name|w1
+[Orthlack-Pattern] Stub Revolver	[오르슬락 패턴] 스터브 리볼버	name|w1
 [Reaving Tempest Kabal Origin] Incubus Armour	[약탈의 폭풍 카발 출신] 인큐버스 아머	name|w1
-[Retobi-Pattern] Hekatarii Blade	[레토비 양식] 헤카타리 칼날	name|w1
-[Retobi-Pattern] Plasma Gun	[레토비 양식] 플라스마 건	name|w1
-[Retobi-Pattern] Plasma Pistol	[레토비 양식] 플라스마 피스톨	name|w1
-[Retobi-Pattern] Power Maul	[레토비 양식] 파워 마울	name|w1
-[Retobi-Pattern] Sniper Rifle	[레토비 양식] 저격소총	name|w1
-[Sol-Pattern] Plasma Pistol	[솔 양식] 플라스마 피스톨	name|w1
-[Sol-Pattern] Power Maul	[솔 양식] 파워 마울	name|w1
+[Retobi-Pattern] Hekatarii Blade	[레토비 패턴] 헤카타리 칼날	name|w1
+[Retobi-Pattern] Plasma Gun	[레토비 패턴] 플라스마 건	name|w1
+[Retobi-Pattern] Plasma Pistol	[레토비 패턴] 플라스마 피스톨	name|w1
+[Retobi-Pattern] Power Maul	[레토비 패턴] 파워 마울	name|w1
+[Retobi-Pattern] Sniper Rifle	[레토비 패턴] 저격소총	name|w1
+[Sol-Pattern] Plasma Pistol	[솔 패턴] 플라스마 피스톨	name|w1
+[Sol-Pattern] Power Maul	[솔 패턴] 파워 마울	name|w1
 [War World Origin] Crusade Plate Armour	[전쟁 행성 출신] 성전 판금 갑옷	name|w1
 [War World Origin] Tempestus Elite Carapace	[전쟁 행성 출신] 템페스투스 정예 카라페이스 아머	name|w1
 [draft] Test self-buff	[초안] 자신 강화 시험	name|w1
