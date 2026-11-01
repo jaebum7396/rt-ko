@@ -15,3 +15,5 @@ build/
 __pycache__/
 # 아스트라 실행 폴더 (로그·입력)
 work/glossary_run/
+# 옵션판 아스트라 실행 폴더
+work/variants/*/run/

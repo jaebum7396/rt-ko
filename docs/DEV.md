@@ -2,7 +2,6 @@
 
 Warhammer 40,000: Rogue Trader 번역기 한글패치를 대신할 한글패치. 개인 프로젝트, **비공개 유지** (번역문은 게임 텍스트 파생물).
 
-- 작업 관리: Plane RTKO — https://plane.codism.co.kr/jay-trader/projects/23f0a096-6c97-449f-b796-c2c097fee955/issues
 - 번역 원칙·말투표·용어집: [STYLE.md](../STYLE.md)
 - 번역: 아스트라(gpt-6-astra, 생각 단계 medium) / 도구·관제·검수: Claude
 
@@ -17,5 +16,5 @@ Warhammer 40,000: Rogue Trader 번역기 한글패치를 대신할 한글패치.
 | `src/` | 게임 원본·참고 패치 링크 — git 제외 |
 
 ## 원본
-- 게임: 서버 `/data2/rt-ko/game` (SteamCMD, `+@sSteamCmdForcePlatformType windows +login jaebum7396 +app_update 2186680` — 업데이트도 같은 명령)
-- 참고 패치: `/data2/rt-ko/ref/korean-patch` (geungogma/RogueTrader-KoreanPatch — 글꼴 모드만 재사용)
+- 게임 원본: SteamCMD로 받은 Windows판 (`+@sSteamCmdForcePlatformType windows +app_update 2186680`)
+- 글꼴: geungogma/RogueTrader-KoreanPatch의 FontKorean 모드 (재배포하지 않음)
