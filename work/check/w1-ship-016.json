@@ -4,6 +4,7 @@
  {"n": 2, "code": "glossary", "detail": "Death -> 죽음 not found"},
  {"n": 3, "code": "glossary", "detail": "fires -> 함내 화재 not found"},
  {"n": 6, "code": "glossary", "detail": "Body -> 몸/시체/몸/시체 not found"},
+ {"n": 10, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
  {"n": 11, "code": "glossary", "detail": "Body -> 몸/시체/몸/시체 not found"},
  {"n": 17, "code": "glossary", "detail": "Body -> 몸/시체/몸/시체 not found"},
  {"n": 21, "code": "glossary", "detail": "turn -> 턴 not found"},
@@ -67,6 +68,6 @@
  {"n": 247, "code": "glossary", "detail": "People -> 사람들/인구/사람들/인구 not found"},
  {"n": 248, "code": "glossary", "detail": "damage -> 피해 not found"},
  {"n": 250, "code": "glossary", "detail": "Officers -> 오피서 not found"},
- {"n": 250, "code": "glossary", "detail": "Mercy -> 자비/머시/자비/머시 not found"},
- {"n": 250, "code": "glossary", "detail": "Power -> 파워/위력/파워/위력 not found"}
+ {"n": 250, "code": "glossary", "detail": "Power -> 파워/위력/파워/위력 not found"},
+ {"n": 250, "code": "glossary", "detail": "Mercy -> 자비/머시/자비/머시 not found"}
 ]}

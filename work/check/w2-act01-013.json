@@ -1,7 +1,7 @@
 {"errors": [],
 "warnings": [
- {"n": 8, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 8, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 8, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 14, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
  {"n": 26, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
  {"n": 57, "code": "glossary", "detail": "order -> 명령/교단 not found"},
