@@ -5,22 +5,56 @@
 - **일반판**
 - **해병문학체판**: 아스타르테스 대사만 해병문학체로 바꾼 판
 
-> 다운로드: 공개 시 릴리스 링크
+> 다운로드: [릴리스](https://github.com/jaebum7396/rt-ko/releases)
 
 ---
 
-## 기존 한글패치와 무엇이 다른가
+## 번역기 패치와 무엇이 다른가
 
-| | 기존 한글패치 | 이 패치 |
+비교 대상: 구글 번역 기반 한글패치 2026-08-07판
+
+| | 번역기 패치 | 이 패치 |
 |---|---|---|
-| **번역 방식** | AI 초벌 2종 + AI 재번역 + 일부 손번역 | 전체를 한 원칙으로 새로 번역, 화자와 장면 앞뒤 대사를 보고 옮김 |
-| **인물 말투** | 번역한 사람·시기에 따라 다름 | 인물별 말투표, 동료 27명 · NPC 143명 |
-| **로그 트레이더** | 반말 위주 | 하오체 |
-| **용어** | 일부 흔들림: Inquisitor = 심문관 336줄, 이단심문관 63줄 | 나무위키 등 국내 커뮤니티 표기 기준 용어집 1,621개 |
+| **기술 설명** | 체력(Wounds)을 "상처"로: 399줄 중 340줄 | "체력" 399줄 전부, 같은 효과는 같은 문장틀 |
+| **용어** | 같은 말을 여러 가지로: Navigator = 항해사 330 · 네비게이터 153 · 내비게이터 23줄, Inquisitor = 심문관 275 · 종교재판관 90줄 | 나무위키 등 국내 커뮤니티 표기 기준 용어집 1,621개 |
+| **인물 말투** | 같은 인물도 줄마다 존댓말·반말이 섞임 | 인물별 말투표, 동료 27명 · NPC 143명 |
+| **번역 방식** | 줄 단위 기계번역 | 화자와 장면 앞뒤 대사를 보고 장면 단위로 |
 | **이름** | — | 아이템·기술·지명 이름 4,501개를 메뉴와 대사에서 같게 |
-| **아이템·기술 설명** | "~합니다" | "~한다", 같은 효과는 같은 문장틀 |
 | **검사** | — | 모든 줄의 게임 태그·변수·줄바꿈 자동 검사 |
 | **옵션** | — | 해병문학체판 |
+
+---
+
+## 예문 비교
+
+### 기술 설명
+
+| 원문 | 번역기 패치 | 이 패치 |
+|---|---|---|
+| Once the wearer's wounds drop below 50% for the first time in combat, they immediately gain temporary wounds equal to their missing wounds. | 착용자의 상처가 전투에서 처음으로 50% 미만으로 떨어지면 즉시 잃어버린 상처와 동일한 임시 상처를 얻습니다. | 전투 중 착용자의 체력이 처음으로 50% 미만이 되면 잃은 체력만큼 즉시 임시 체력을 얻는다. |
+| This creature restores 10 wounds each time they suffer shock damage. | 이 생물은 충격 피해를 입을 때마다 10 상처를 회복합니다. | 이 크리처는 감전 피해를 입을 때마다 체력 10을 회복한다. |
+| Grants +5 temporary wounds and +2 to all types of damage dealt for each stack of dark blessing until the end of combat. | 전투가 끝날 때까지 어둠의 축복 스택 하나당 +5의 임시 상처와 모든 유형의 피해에 +2를 부여합니다. | 전투 종료 시까지 어둠의 축복 중첩마다 임시 체력 +5를 얻고, 가하는 모든 유형의 피해가 +2 증가한다. |
+
+### 대사
+
+| 화자 | 원문 | 번역기 패치 | 이 패치 |
+|---|---|---|---|
+| 아벨라드 | "Sister Argenta, it is a relief to see you. We require all the forces we can muster!" | "아르젠타 수녀님, 뵙게 되어 정말 다행입니다. 우리가 동원할 수 있는 모든 힘이 필요합니다!" | "시스터 아젠타, 이렇게 뵈니 안심이 됩니다. 지금은 모을 수 있는 병력을 모두 모아야 합니다!" |
+| 플레이어 | "Mutiny? But who would attempt a mutiny here, in the warp?" | "반란이라고? 하지만 누가 여기, 워프에서 반란을 시도하겠어?" | "반란이라고? 대체 누가 이 워프 한가운데서 반란을 일으키겠소?" |
+| 플레이어 | "We are both servants of the God-Emperor and Lady Theodora. Does it become anyone of our status to engage in petty feuds?" | "우리는 둘 다 신황제와 여신 테오도라의 종입니다. 우리의 지위에 걸맞게 사소한 불화에 휘말리는 것이 합당합니까?" | "우리 둘 다 신황제와 테오도라 님의 종이오. 우리 같은 지위의 사람이 사소한 다툼이나 벌여서야 되겠소?" |
+| 플레이어 | "You... You are to blame for Theodora's death?" | "당신... 당신이 테오도라의 죽음에 책임이 있는 건가요?" | "네가... 테오도라를 죽게 한 것이냐?" |
+
+### 용어
+
+| 원문 | 번역기 패치 | 이 패치 |
+|---|---|---|
+| Wounds | 상처 | 체력 |
+| Navigator | 항해사 / 네비게이터 / 내비게이터 | 내비게이터 |
+| Inquisitor | 심문관 / 종교재판관 | 이단심문관 |
+| Warrant of Trade | 무역 허가증 / 무역 영장 | 무역 영장 |
+| Desperate Measure | 필사적인 조치 / 절박한 조치 | 필사의 결단 |
+| Heroic Act | 영웅적 행위 | 영웅적 행동 |
+| Sister Argenta | 아르젠타 수녀님 | 시스터 아젠타 |
 
 ### 말투 예
 
@@ -32,52 +66,23 @@
 | 이를리엣 | 하오체 |
 | 파스칼 | 하십시오체, 자신을 "본 개체" |
 | 울파르 | 하게체, "자네" |
+| 로그 트레이더 | 하오체 |
+
+### 일반판과 해병문학체판
+
+| 원문 | 일반판 | 해병문학체판 |
+|---|---|---|
+| "I respect you enough, Rogue Trader, to speak frankly. I would rather fight shoulder to shoulder with you than stand against you." | "자네를 존중하기에 솔직히 말하는 걸세, 로그 트레이더. 자네와 맞서기보다는 어깨를 나란히 하고 싸우고 싶네." | "자네를 존중하기에 솔직히 말하는 걸세, 로그 트레이더 아쎄이. 이 울파르 해병은 자네와 맞서기보다는 어깨를 나란히 하고 싸우고 싶네." |
+| He gives you a long, pensive look before he says, "You do not even know what it is you speak of, mortal." | 그가 오랫동안 생각에 잠긴 눈으로 당신을 바라보다 말한다. "필멸자여, 너는 네가 무슨 말을 하는지도 모른다." | 울파르 해병님께서 오랫동안 생각에 잠긴 눈으로 당신을 바라보다 말씀하시는 것이 아닌가! "아쎄이, 너는 네가 무슨 말을 하는지도 모른다." |
 
 전체 말투표: [glossary/voices.tsv](glossary/voices.tsv) · 번역 원칙: [STYLE.md](STYLE.md)
 
 ---
 
-## 예문 비교
-
-### 대사
-
-| 화자 | 원문 | 기존 패치 | 이 패치 |
-|---|---|---|---|
-| 아벨라드 | "Sister Argenta, it is a relief to see you. We require all the forces we can muster!" | "아르젠타 자매님, 무사한 모습을 뵈어 참으로 다행입니다. 우리가 동원할 수 있는 모든 병력이 시급히 필요합니다!" | "시스터 아젠타, 만나서 다행이네. 지금은 병력 한 명이라도 더 필요하네!" |
-| 플레이어 | "Mutiny? But who would attempt a mutiny here, in the warp?" | "반란? 하지만 대체 누가 이 워프 한복판에서 그런 짓을?" | "반란이라고? 대체 누가 이 워프 한가운데서 반란을 일으키겠소?" |
-| 플레이어 | "I am under no obligation to take such risks!" | "내가 왜 그런 위험을 감수해야 하는데!" | "내가 그런 위험까지 감수할 의무는 없소!" |
-| 플레이어 | "We are both servants of the God-Emperor and Lady Theodora. Does it become anyone of our status to engage in petty feuds?" | "우리 둘 다 신-황제 폐하와 테오도라 각하의 종복입니다. 주제넘게 사소한 말다툼을 벌일 필요가 있겠습니까?" | "우리 둘 다 신황제와 테오도라 님의 종이오. 우리 같은 지위의 사람이 사소한 다툼이나 벌여서야 되겠소?" |
-
-### 용어
-
-| 원문 | 기존 패치 | 이 패치 |
-|---|---|---|
-| Sister Argenta | 아르젠타 자매님 | 시스터 아젠타 |
-| Inquisitor | 심문관 / 이단심문관 | 이단심문관 |
-| Warrant of Trade | 무역 영장 | 무역의 영장 |
-| Momentum | 기세 | 원동력 |
-| Desperate Measure | 필사적 수단 | 필사의 결단 |
-| Veil | 장막 | 베일 |
-| High / Low Gothic | — | 하이 고딕 / 로우 고딕 |
-
-### 아이템·기술 설명
-
-| 원문 | 기존 패치 | 이 패치 |
-|---|---|---|
-| This character gains +{THP} temporary wounds. | 이 캐릭터는 +{THP}의 임시 생명력을 얻습니다. | 이 캐릭터는 임시 체력을 +{THP} 얻는다. |
-| Medium-range dorsal lance weapon dealing (from 32 to 40) damage. | 중거리 함배 랜스 무기로 (32~40) 피해를 입힙니다. | (32~40)의 피해를 주는 중거리 상부 랜스 무장이다. |
-
-### 일반판과 해병문학체판
-
-2차 번역이 끝나면 울파르 대사로 채웁니다.
-
----
-
 ## 설치 방법
 
-1. 기존 한글패치의 자동 갱신 모드를 지웁니다. 게임을 켤 때마다 번역 파일을 덮어씁니다.
-   `%USERPROFILE%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager\KoreanPatch_AutoUpdate` 폴더 삭제
-2. 한글 글꼴 모드 FontKorean이 필요합니다. 기존 한글패치를 쓰고 있었다면 이미 설치돼 있습니다. 없다면 [기존 한글패치 릴리스](https://github.com/geungogma/RogueTrader-KoreanPatch/releases)에서 `FontKorean.zip`을 받아 위 `UnityModManager` 폴더 안에 `FontKorean` 폴더째 넣습니다.
+1. 한글 글꼴 모드가 필요합니다. 다른 한글패치를 쓰고 있었다면 이미 설치돼 있습니다. 없다면 [FontKorean](https://github.com/geungogma/RogueTrader-KoreanPatch/releases)을 받아 `%USERPROFILE%\AppData\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager` 안에 `FontKorean` 폴더째 넣습니다.
+2. 자동 갱신 모드 `KoreanPatch_AutoUpdate`를 쓰고 있었다면 위 `UnityModManager` 폴더에서 지웁니다. 게임을 켤 때마다 번역 파일을 덮어씁니다.
 3. 게임 폴더의 `WH40KRT_Data\StreamingAssets\Localization\enGB.json`을 백업하고, 받은 `enGB.json`으로 바꿉니다.
    - 게임 폴더: 스팀 라이브러리에서 게임 우클릭 → 관리 → 로컬 파일 보기
 4. 게임 언어를 English로 둡니다.
@@ -101,7 +106,7 @@ AI 번역이라 어색한 문장이 남아 있을 수 있습니다. 발견하면
 ---
 
 ## 크레딧
-- 한글 글꼴 모드 FontKorean, 기존 한글패치: [geungogma/RogueTrader-KoreanPatch](https://github.com/geungogma/RogueTrader-KoreanPatch)
+- 한글 글꼴 모드 FontKorean: [geungogma/RogueTrader-KoreanPatch](https://github.com/geungogma/RogueTrader-KoreanPatch)
 - 용어 표기: [나무위키](https://namu.wiki/w/Warhammer%2040,000:%20Rogue%20Trader) 등 국내 워해머 커뮤니티
 - 원작: Owlcat Games / Games Workshop. 비공식 팬 번역이며 상업적 목적이 없습니다.
 

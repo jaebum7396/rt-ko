@@ -41,13 +41,13 @@ def main():
     if '--collect' in sys.argv:
         std = {g: (e, k) for g, s, e, k in lines()}
         ids = {}
-        for d in sorted(os.listdir(os.path.join(V, 'run'))):
+        for d in sorted(x for x in os.listdir(os.path.join(V, 'run')) if os.path.isdir(os.path.join(V, 'run', x))):
             for ln in open(os.path.join(V, 'run', d, 'input.tsv'), encoding='utf-8'):
                 p = ln.rstrip('\n').split('\t')
                 if p[0] != 'id':
                     ids[p[0]] = p[0]
         good, bad, missing = {}, 0, 0
-        for d in sorted(os.listdir(os.path.join(V, 'run'))):
+        for d in sorted(x for x in os.listdir(os.path.join(V, 'run')) if os.path.isdir(os.path.join(V, 'run', x))):
             out = os.path.join(V, 'run', d, 'out.tsv')
             got = {}
             if os.path.exists(out):
