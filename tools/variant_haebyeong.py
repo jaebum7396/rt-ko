@@ -87,6 +87,12 @@ def main():
                     bad += 1  # markup changed -> keep the standard line
                 else:
                     good[gid] = got[gid]
+        rp = os.path.join(V, 'review.tsv')  # lines fixed in review (RTKO-41) win over the share outputs
+        if os.path.exists(rp):
+            for ln in open(rp, encoding='utf-8'):
+                p = ln.rstrip('\n').split('\t', 1)
+                if len(p) == 2 and p[0] in good and tags(p[1]) == tags(std[p[0]][1]):
+                    good[p[0]] = p[1]
         with open(os.path.join(V, 'overlay.tsv'), 'w', encoding='utf-8') as f:
             for gid, t in good.items():
                 f.write('%s\t%s\n' % (gid, t))
