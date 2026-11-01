@@ -1,0 +1,527 @@
+1	메두사의 시선은 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패한 개체를 기절시킨다.
+2	드루카리를 제외하고 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패한 모든 대상에게 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 주고 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 효과를 부여한다.
+3	불꽃의 서약
+4	고해사제 아달베르트가 자신을 제외한 모든 아군에게 {g|f:5278c1a661504336a44e0cce1cb8f0bb}불꽃의 서약{/g} 효과를 부여한다.
+5	이 개체의 공격은 공격 {g|Encyclopedia:DamageGlossary}피해{/g}와 같은 양의 추가 {g|Encyclopedia:FireDamage}화염 피해{/g}를 준다.
+6	이 개체는 {g|Encyclopedia:HitPoints}체력{/g}이 10% 미만으로 떨어지면 폭발하여 인접한 모든 개체에게 막대한 {g|Encyclopedia:FireDamage}화염 피해{/g}를 준다.
+7	프로메튬 누출
+8	이 개체가 받는 {g|Encyclopedia:FireDamage}화염 피해{/g}가 −80% 감소한다.
+9	불꽃의 축복
+10	대상의 {g|Encyclopedia:HitPoints}체력{/g}을 <u>(31~36)</u> 회복시키고 {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}을 제거한다.
+11	적절한 치료
+12	커미사르는 이 개체를 죽이지 않는다.
+13	충성
+14	이 개체는 이번 {g|Encyclopedia:Turn}턴{/g}에 추가 공격을 얻는다.
+15	신속한 공격
+16	적을 뚫고 반대편 칸으로 돌진하며 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가해 적에게 {g|Encyclopedia:ProneEffect}넘어짐{/g}을 부여한다.
+17	하단 베기
+18	타락한 귀족은 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시 피를 찾아서 또는 공포를 찾아서 효과가 활성화된 가장 가까운 서비터에게 이동한다. 이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.\n해당 효과가 있는 서비터가 없으면 타락한 귀족은 제자리에 머무른다.
+19	사냥감 추적
+20	타락한 귀족은 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시 사냥감을 골라 연회의 사냥감 효과를 부여한다. 이 효과를 받은 개체는 귀족의 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가한다. 귀족이 대상에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 {g|Encyclopedia:HitPoints}체력{/g}을 +10% 회복하고 이 효과를 제거한다.
+21	사냥감 선정
+22	타락한 귀족이 받는 {g|Encyclopedia:FireDamage}화염 피해{/g}가 +125% 증가한다.
+23	빛 없는 어둠
+24	타락한 귀족은 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 전투 중인 {g|Encyclopedia:BleedingEffect}출혈{/g} 상태의 개체 하나당 최대 {g|Encyclopedia:HitPoints}체력{/g}의 5%를 회복한다.
+25	섬뜩한 만족
+26	이 개체는 타락한 귀족의 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가한다. 귀족이 대상에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 {g|Encyclopedia:HitPoints}체력{/g}을 +10% 회복하고 이 효과를 제거한다.
+27	연회의 사냥감
+28	타락한 귀족은 부자연스러운 면역력으로 {g|Encyclopedia:Stun}기절{/g}, {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 효과에 면역이다. 하지만 영구적으로 {g|Encyclopedia:DisturbedEffect}동요{/g} {g|Encyclopedia:CommonStatuses}효과{/g} 3중첩을 받는다.
+29	변이한 자
+30	타락한 귀족은 언제나 목말라 있다. 공격이 명중하면 항상 {g|Encyclopedia:BleedingEffect}출혈{/g}을 부여한다.
+31	포도주처럼 짙게
+32	이 충직한 수호자는 라보르의 {g|f:df3bcd18c8ae4aea8032d53a58706345}절대 명령{/g}과 {g|f:32c75d8efde14a788225367fbf570bcf}노장의 조언{/g}에 기꺼이 따른다.
+33	절대 충성
+34	이 개체는 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 떨어지면 체력을 <u>(44~64)</u> 회복한다.
+35	이단심문소 구급상자
+36	이 개체의 공격은 {g|Encyclopedia:FireDamage}화염 피해{/g}를 주며, 대상이 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:BurningEffect}화상{/g}을 부여할 수 있다.
+37	소이탄
+38	중첩당 {g|Encyclopedia:Deflection}피해 감소{/g}를 +1 얻는다.
+39	이 개체는 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 완화 효과를 +1중첩 얻으며, 중첩당 {g|Encyclopedia:Deflection}피해 감소{/g}를 +1 얻는다(최대 10중첩). 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시 완화 중첩이 모두 제거된다.
+40	이 개체는 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.
+41	신체 보강물 과출력
+42	1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DodgeGlossary}회피{/g}를 +80% 얻는다.
+43	대규모 개조
+44	오래된 상처
+45	1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:MovementPoints}이동력{/g}을 +2, {g|Encyclopedia:WarhammerAgility}민첩{/g}을 +10, {g|Encyclopedia:ArmourPenetration}방어 관통{/g}을 +30% 얻는다.
+46	옴니시아의 찬가
+47	1{g|Encyclopedia:Round}라운드{/g} 동안 모든 적 무기의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 −10% 감소한다.
+48	무기를 무디게 하는 찬가
+49	이 개체의 {g|Encyclopedia:Deflection}피해 감소{/g}가 −5, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}가 −20% 감소한다. 모든 적은 이 개체를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 간주한다.
+50	브라스위스퍼가 살아 있으면 이 개체는 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 최대 {g|Encyclopedia:HitPoints}체력{/g}의 20%를 회복한다.
+51	에스카토스의 존재감
+52	이 개체의 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}이 +50% 증가한다.
+53	로그 트레이더의 존재감
+54	로그 트레이더의 존재로 이 개체의 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}이 +50% 증가한다.
+55	꺾인 의지
+56	이 개체의 근접술, 사격술, 지각이 −15 감소한다.
+57	궁지
+58	이 개체는 죽음을 각오하고 싸운다. 받는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 −30% 감소한다. {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g}가 2중첩 쌓이면 이 효과가 제거된다.
+59	이 개체는 적을 죽도록 두려워한다. 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 더 이상 감소하지 않는다.
+60	죽음의 공포
+61	이 개체는 체력이 30% 미만으로 떨어지면 즉시 {g|f:8e4f8f5fc4164faa99faa577fa64082e}파이셀린{/g}으로 적을 공격한다. 이후 턴의 모든 공격에도 {g|f:8e4f8f5fc4164faa99faa577fa64082e}파이셀린{/g}을 사용한다.
+62	네메사이트를 위하여!
+63	{g|Encyclopedia:ArmourPenetration}방어 관통{/g} 10%로 <u>(20~40)</u>의 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}를 주고 대상을 3칸 {g|Encyclopedia:PushGlossary}밀쳐낸다{/g}.
+64	파이셀린
+65	웨버의 대상은 –10의 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다.
+66	점성 시약
+67	이 보균자는 지각을 +20 얻고 추가 공격을 얻는다.
+68	타고난 본능
+69	이 개체는 살아 있는 모든 아군의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스 합계(보정치 적용 전)만큼 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+70	완벽한 협동
+71	이들의 외모와 행동에는 무언가 이상한 점이 있다.
+72	뭔가 이상하다
+73	이 개체의 공격이 명중하면 강인함 저항 판정에 실패한 대상에게 독(7)을 부여한다.
+74	녹슨 칼날
+75	고철 장갑
+76	이 개체는 이 효과의 중첩 하나당 받는 피해를 1회 무시한다. 효과가 발동할 때마다 중첩이 1 감소한다.
+77	이 효과가 7중첩 쌓이면 이 개체는 다음 턴 시작 시 {g|f:aa7583fd98214ec9930c394ce834719c}잃을 것이 없다{/g}를 사용한다.
+78	도망칠 곳은 없다
+79	아군이 적에게 피해를 줄 때마다 이 개체는 {g|f:a43ac64dd4af424c93310bc4f620036b}도망칠 곳은 없다{/g}를 +1중첩 얻는다.
+80	{g|f:a43ac64dd4af424c93310bc4f620036b}도망칠 곳은 없다{/g}가 7중첩 쌓이면 이 개체는 다음 턴 시작 시 자신을 포함해 전투 중인 모든 아군에게 {g|f:902dbcec26b94da39afe63880433b8e1}잃을 것이 없다{/g}를 부여한다.
+81	이 개체가 주는 피해가 +100% 증가하고 최대 체력의 50%만큼 임시 체력을 얻는다.
+82	잃을 것이 없다
+83	아르비테이터
+84	공허선 선원
+85	무장한 공허선 선원
+86	승함병
+87	이 개체의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}, 원거리 무기 {g|Encyclopedia:DamageGlossary}피해{/g}가 증가한다.
+88	숙련된 명사수
+89	이 개체의 원거리 공격은 1{g|Encyclopedia:Round}라운드{/g} 동안 대상의 {g|Encyclopedia:ActionPoints}행동력{/g}을 −2 감소시킨다.
+90	{g|Encyclopedia:ActionPoints}행동력{/g}이 −2 감소한다({g|Encyclopedia:ExtraTurn}추가 턴{/g} 제외).
+91	총상
+92	장갑 관통탄
+93	이 개체는 사격 시 {g|f:0b27cafb92384e9daab27b80592d7cde}연막{/g}을 무시한다.
+94	분광 투시경
+95	이 개체의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerStrength}근력{/g}이 증가한다.
+96	숙련된 전사
+97	해적 분쇄병
+98	해적 총잡이
+99	프록터 아드리아나 예거
+100	리시마스터
+101	서브덕터
+102	리시마스터가 사이버 마스티프에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여한다. 해당 턴 동안 사이버 마스티프가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 증가한다.
+103	물어!
+104	리시마스터는 쓰러진 사이버 마스티프를 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 절반으로 부활시킬 수 있으며, {g|Encyclopedia:Traumas}중상{/g}은 남지 않는다.\n<i>{g|Encyclopedia:Turn}턴{/g}당 2회만 사용할 수 있다.</i>\n<i>각 사이버 마스티프는 1회만 재가동할 수 있다.</i>
+105	재가동
+106	대인 포탄
+107	중장갑 차량을 상대하도록 특별히 설계된 포탄이다.
+108	대전차 포탄
+109	발츠 대위가 {g|Encyclopedia:AreaOfEffect}효과 범위{/g} 내 모든 아군에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여한다.
+110	필사의 명령
+111	십일조 수송 용기를 수없이 뜯어 본 경험 덕분에 이 가드맨은 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 보너스를 +50% 얻는다.
+112	금속 절단자
+113	아군은 이 개체의 공격을 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}한다.
+114	분대 전술
+115	이 프로토콜로 리시마스터는 아군 사이버 마스티프를 모두 제어할 수 있다.
+116	프로토콜: 제어 단절
+117	이 가드맨이 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −75% 감소한다.
+118	폭파병의 본능
+119	아군이 사망할 때마다 이 가드맨은 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}을 +{uip|Dodge|5111136ad86740b4a1d6d9dcbf75fb15}% 얻는다. 이 효과는 중첩되며 전투 종료 시까지 지속된다.
+120	어떤 대가를 치르더라도
+121	<u>(10 − {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
+122	발츠 대위는 죽음이 임박하면 부하들에게 마지막 명령을 수행하도록 지시한다.
+123	최후의 명령
+124	발츠 대위의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 떨어지면 각 적의 {g|Encyclopedia:Turn}턴{/g} 종료 후 행동한다.
+125	비장한 결의
+126	타락한 경비병
+127	타락한 귀족
+128	석조 파수병
+129	지휘관 루크라
+130	이 기계는 {g|Encyclopedia:ProneEffect}넘어짐{/g}, {g|Encyclopedia:FatiguedEffect}피로{/g}, {g|Encyclopedia:DisturbedEffect}동요{/g}, {g|Encyclopedia:PerplexedEffect}당혹{/g}, {g|Encyclopedia:StaggeredEffect}비틀거림{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:ToxinEffect}중독{/g} 효과와 {g|f:423e91ce057d4e2489043ded7306f3e2}워프의 공포{/g}, {g|Encyclopedia:MentalDamage}정신 피해{/g}에 면역이다. {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 없고 {g|Encyclopedia:PushGlossary}밀려남{/g}도 받지 않는다. {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 40%, {g|Encyclopedia:Deflection}피해 감소{/g}는 5다.
+131	무기물의 본성
+132	이 공격의 대상은 −20의 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다.
+133	엄청난 괴력
+134	대상은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 3칸 {g|Encyclopedia:PushGlossary}밀려난다{/g}.
+135	강한 발차기
+136	이 효과의 중첩당 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 −5, {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −10 감소한다.
+137	견딜 수 없는 가려움
+138	이 개체가 사망하면 물집이 터져 인접한 적에게 피가 튄다. 피를 뒤집어쓴 적은 {g|f:3bfd44baa24c4533b370dd1373a50e46}견딜 수 없는 가려움{/g}을 +1중첩 받는다. 이 효과는 최대 3회 중첩되며 3{g|Encyclopedia:Round}라운드{/g} 동안 지속된다.
+139	곪아 터진 종기
+140	아군 하나를 선택해 즉시 {g|Encyclopedia:ActionPoints}행동력{/g} 2와 {g|Encyclopedia:MovementPoints}이동력{/g} 4를 가진 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여한다.
+141	정신 차려!
+142	타세르튬으로 부풀어 오른 이 개체의 몸은 터지기 직전이다. 대상에게 달려가 폭발하여 반경 2칸 이내의 돌연변이가 아닌 모든 대상에게 <u>(25~30)</u>의 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 준다.
+143	타세르튬 종기
+144	이 {g|Encyclopedia:Ability}능력{/g}은 전투 중인 무작위 돌연변이 5마리를 고무하여 2{g|Encyclopedia:Round}라운드{/g} 동안 일부 {g|Encyclopedia:Characteristic}능력치{/g}를 증가시킨다.
+145	광란의 외침
+146	이 개체의 {g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +15 증가한다.
+147	돌연변이의 독성 타액에 맞은 대상은 {g|Encyclopedia:ToxicDamage}독성 피해{/g} 5와 {g|Encyclopedia:ToxinEffect}중독{/g}(15)을 받는다.
+148	독성 타액
+149	이 {g|Encyclopedia:Ability}능력{/g}의 대상은 사망 시 폭발하여 인접한 모든 개체에게 <u>(30~35)</u>의 {g|Encyclopedia:ImpactDamage}충돌 피해{/g}를 준다.
+150	조직 폭발
+151	"주군의 운명은 이미 돌에 새겨졌다! 내가 살아 있는 한, 너희는 그것을 파괴할 수 없다."
+152	타브리스크가 살아 있는 동안 블러프는 전투에 남아 있는 석조 파수병 하나당 {g|f:8e056b164f3b4a17b03b1d7565cc558e}예속의 속박{/g}을 +1중첩 얻는다.
+153	예속의 속박
+154	"나를 해칠 수가 없나? 안됐군! 운명이 네 편이 아닌 모양이야!"
+155	"너희는 정말 지긋지긋해... 그냥 좀 죽어! 그게 그렇게 어려워?"
+156	"누가 내 장난감을 망가뜨리는 건 질색이거든. 그러니 대가를 치러야지!"
+157	이 효과의 중첩당 블러프가 다음 효과를 얻는다.\n-<indent=5%> 받는 {g|Encyclopedia:DamageGlossary}피해{/g} −25%</indent>\n-<indent=5%> 주는 피해 +25%</indent>\n-<indent=5%> {g|Encyclopedia:HitSequenceGlossary}명중률{/g} +25%</indent>\n-<indent=5%> {g|Encyclopedia:MovementPoints}이동력{/g} +1</indent>
+158	사슬의 고리
+159	이 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g}은 9다.\n{g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 사거리가 +99 증가한다.\n{g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 −99 감소한다.
+160	타락한 사이커
+161	이 개체의 살갗은 타세르튬 가루로 반짝이며, {g|Encyclopedia:WarhammerStrength}근력{/g}이 +25 증가한다.\n이 개체가 사망하면 타세르튬이 응축된 감정을 워프 에너지로 바꾸어 반경 2칸 이내의 돌연변이가 아닌 모든 대상에게 <u>(25~30)</u>의 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 준다.
+162	타세리안 열병
+163	블러프가 죽으면 석조 파수병이 모두 파괴된다.
+164	의식의 초점
+165	"핏빛 초승달이여,\n마지막 은혜를 내려 주겠느냐?\n그림자가 곱고도 참되게 속삭였네.\n죽음이 바로 너를 쫓아온다!"
+166	블러프, 석조 파수병 또는 타브리스크에게 마지막으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 준 개체가 블러프의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 된다. 해당 개체가 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g}이면 무작위 적이 우선 표적이 된다.
+167	총구 앞에서
+168	이 개체의 몸은 물집과 혹으로 뒤덮였으며 팔다리는 기괴하게 변형되었다.\n{g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +25 증가하지만 {g|Encyclopedia:DodgeGlossary}회피{/g}는 −50% 감소한다.
+169	돌연변이
+170	거대한 검
+171	이 수류탄은 2{g|Encyclopedia:Round}라운드{/g} 동안 지속되는 {g|Encyclopedia:BurningEffect}화상{/g} 구역을 생성한다. 이 구역에 들어가거나 효과가 적용되는 순간 구역 안에 있는 개체는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 20%로 {g|Encyclopedia:FireDamage}화염 피해{/g} 20을 받고, 3라운드 동안 화상(15)을 받는다.
+172	봉건 검
+173	서브덕터
+174	철저한 경계
+175	아스트로패스
+176	용병 "알파"
+177	용병 "베타"
+178	용병 "델타"
+179	용병 "제타"
+180	용병 "엡실론"
+181	용병 "감마"
+182	해적
+183	고발자
+184	정의의 무기
+185	안빌라스의 추종자
+186	아벨라드를 고발한다!
+187	아젠타를 고발한다!
+188	블레이드 댄서를 고발한다!
+189	카시아를 고발한다!
+190	유죄가 입증되었다. 정의의 무기가 {g|f:dffbc4538c8f4571b56ffb0b9c93e5c3}피할 수 없는 응보{/g}를 집행한다.
+191	판결 선고
+192	헤인릭스를 고발한다!
+193	이디라를 고발한다!
+194	자이를 고발한다!
+195	키벨라를 고발한다!
+196	마라자이를 고발한다!
+197	오피서를 고발한다!
+198	오퍼러티브를 고발한다!
+199	파스칼을 고발한다!
+200	로그 트레이더를 고발한다!
+201	솔져를 고발한다!
+202	[고발: 부적절한 사이버 마스티프 운용]<br>자신과 사이버 마스티프가 피해를 준 횟수가 같아야 한다!
+203	솔로모른을 고발한다!
+204	울파르를 고발한다!
+205	워리어를 고발한다!
+206	이를리엣을 고발한다!
+207	보복 방전
+208	스트라크스 원수가 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 인접한 대상은 원수의 {g|f:85a47da9a853494293b7b2eee8cccc2a}운동 정지 방패{/g} 중첩 수의 절반만큼 피해를 받는다.
+209	법 집행자가 고발한다. 피고발자의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 그 행동으로 유죄가 입증되면 정의의 무기가 {g|f:dffbc4538c8f4571b56ffb0b9c93e5c3}피할 수 없는 응보{/g}를 집행한다.
+210	고발
+211	감독관 불투르는 글라스크리트 방벽의 보호를 받는 동안 공격 대상으로 지정할 수 없으며 {g|Encyclopedia:DamageGlossary}피해{/g}를 받지 않는다. 방벽의 내구도는 {g|f:dffbc4538c8f4571b56ffb0b9c93e5c3}피할 수 없는 응보{/g}로만 감소시킬 수 있다.
+212	글라스크리트 방벽 뒤에서
+213	{g|f:2cf8fef6da524c2ea554464b64d4d719}고발자{/g}가 죽으면 정의의 무기가 감독관 불투르에게 {g|f:dffbc4538c8f4571b56ffb0b9c93e5c3}피할 수 없는 응보{/g}를 가한다.
+214	피의 항소
+215	이 무기는 감독관 불투르 또는 {g|f:2cf8fef6da524c2ea554464b64d4d719}고발자{/g}가 활성화할 수 있다.\n피고발자가 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 요구된 행동을 이행하지 않으면 유죄가 입증된 것으로 간주하여 이 무기가 피고발자를 향해 발사된다.\n피고발자가 자신의 턴 종료 시까지 요구를 이행하거나 {g|f:2cf8fef6da524c2ea554464b64d4d719}고발자{/g}를 죽이면 이 무기는 대신 감독관 불투르를 향해 발사된다.
+216	피할 수 없는 응보
+217	전투 시작 시 용병들이 각자 표적을 지정한다. 용병은 지정한 표적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 받기 전까지 다른 원인으로 받는 피해가 −80% 감소한다.
+218	"위협 확인."
+219	"방해된다."
+220	"표적 발견."
+221	결투 전술
+222	용병 "알파"가 이 캐릭터를 상대로 {g|f:51ac69456e5f4b22b4736f46abb9c1b1}결투 전술{/g}을 사용한다.\n이 효과를 제거하려면 이 캐릭터가 해당 용병에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줘야 한다.
+223	결투 신청(알파)
+224	용병 "베타"가 이 캐릭터를 상대로 {g|f:87d8405a74e14350ba02ac629ef204dd}결투 전술{/g}을 사용한다.\n이 효과를 제거하려면 이 캐릭터가 해당 용병에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줘야 한다.
+225	결투 신청(베타)
+226	용병 "델타"가 이 캐릭터를 상대로 {g|f:79718d16661b467fa02398723af2747e}결투 전술{/g}을 사용한다.\n이 효과를 제거하려면 이 캐릭터가 해당 용병에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줘야 한다.
+227	결투 신청(델타)
+228	용병 "제타"가 이 캐릭터를 상대로 {g|f:f95c7a1fd8cb407e93e65341071b6c85}결투 전술{/g}을 사용한다.\n이 효과를 제거하려면 이 캐릭터가 해당 용병에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줘야 한다.
+229	결투 신청(제타)
+230	용병 "엡실론"이 이 캐릭터를 상대로 {g|f:16045f91beea4662b6763ec0c89ce7f7}결투 전술{/g}을 사용한다.\n이 효과를 제거하려면 이 캐릭터가 해당 용병에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줘야 한다.
+231	결투 신청(엡실론)
+232	용병 "감마"가 이 캐릭터를 상대로 {g|f:4f43bba795ec4a1ca72a0254a6d1a42f}결투 전술{/g}을 사용한다.\n이 효과를 제거하려면 이 캐릭터가 해당 용병에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줘야 한다.
+233	결투 신청(감마)
+234	포탑의 {g|Encyclopedia:HitPoints}체력{/g}을 회복시키고 {g|f:2b822f5f71d0476fa975e5dff7092cd3}오버클록{/g} 효과를 부여한다.
+235	매 {g|Encyclopedia:Round}라운드{/g}마다 포탑이 여러 번의 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻는다. 공격할 때마다 {g|f:7733be9627bd41ce83b43dc4438df22c}과열{/g}을 +1중첩 얻는다.
+236	오버클록
+237	이 개체는 죽음을 앞두고 있다! 다음 턴 시작 시까지 치유받지 못하면 사망한다.\n이 상태에서는 적이 다른 표적을 우선시한다. 회피가 +50% 증가한다.
+238	의무를 다하는 마지막 숨결
+239	이 개체는 정착지에 없어서는 안 될 인물이다. 치명적인 피해를 받아도 즉시 사망하지 않고 대신 {g|f:68ec1bbab36344b69aa8b644ff7c8663}의무를 다하는 마지막 숨결{/g} 효과를 얻는다.
+240	핵심 생존자
+241	"이 정도면 다행이지..."
+242	"거의... 난... 거의 해냈는데... "
+243	능력을 사용하는 개체의 반경 5칸 이내에 있는 모든 아군에게 {g|f:f7c442d4d3c444a99d7411cb83c95c1e}결집{/g}을 부여한다.
+244	전투 결집
+245	"유일자를 위한 속죄를!"
+246	이 개체는 피해를 +25%, 임시 체력을 +25 얻는다.
+247	결집
+248	받는 모든 감전 피해가 80% 감소한다.
+249	접지
+250	대상의 최대 체력 50%를 회복시키고 {g|f:68ec1bbab36344b69aa8b644ff7c8663}의무를 다하는 마지막 숨결{/g} 효과를 제거한다.
+251	소생
+252	이 개체는 인접한 아군에게 부분 엄폐로 간주된다.
+253	총알받이
+254	이 개체는 모든 능력치를 +20, 치명타 확률을 +15% 얻는다.
+255	전우의 복수
+256	이 개체는 치명적인 피해를 받으면 다른 베테랑에게 {g|f:79bde8332e774c37a3dd12a67d2782e3}내 원수를 갚아라!{/g}를 +1중첩 부여한다.
+257	내 원수를 갚아라!
+258	이 개체는 피해 감소를 +5, 모든 능력치를 +20 얻고, 주는 피해가 +100% 증가한다.
+259	다른 베테랑이 남아 있지 않으면 이 개체는 전투 종료 시까지 {g|f:fc53f4670cda489ab399c53da47af6ca}궁지에 몰린 짐승{/g} 효과를 얻는다.
+260	궁지에 몰린 짐승
+261	렉트로 폭발
+262	이 개체의 공격은 항상 방패의 방어를 무시한다.
+263	계산된 타격
+264	돌연변이가 산을 뱉어 {g|Encyclopedia:MeltingEffect}융해{/g} 효과를 부여한다.
+265	산성 침
+266	강력한 내려치기
+267	자발적 변이
+268	매 {g|Encyclopedia:Round}라운드{/g}마다 돌연변이가 무작위 워프 변이를 하나 얻는다.
+269	워프의 손길이 매 {g|Encyclopedia:Round}라운드{/g}마다 돌연변이에게 무작위 변이를 부여한다. 변이는 치유하거나 {g|Encyclopedia:DamageGlossary}피해{/g}를 주거나, 실명 또는 불길한 예감을 부여할 수 있다.
+270	이 개체는 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 다른 너글의 하수인보다 더욱 빠르게 적을 타락시켜, 죽은 뒤 의식 없는 꼭두각시로 일어나게 한다.
+271	썩어 문드러진 거구
+272	이 개체는 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 적을 타락시켜, 죽은 뒤 의식 없는 꼭두각시로 일어나게 한다.
+273	썩어 문드러진 망자
+274	이 개체는 차원문을 통해 핑크 호러를 소환한다.
+275	현실의 균열
+276	이 개체는 {g|Encyclopedia:Round}라운드{/g}당 한 번 이상 공격할 수 있다.
+277	공격적
+278	이 개체는 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.
+279	날렵함
+280	원거리 공격을 가한다. {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 2{g|Encyclopedia:Round}라운드{/g} 동안 적이 공격에 맞을 확률이 +20% 증가한다.
+281	살해 표식
+282	작열하는 장작더미
+283	불멸의 황제가 대상을 향해 나아가는 불길의 파도를 내보내 경로상의 모든 적에게 막대한 화염 및 절단 피해를 준다. 피해는 영향을 받는 모든 대상에게 균등하게 나뉜다. 각 대상은 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g}를 +2중첩 받고, 불멸의 황제는 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}을 +2중첩 얻는다.\n<b>특수</b>: 대상이 {g|Encyclopedia:BurningEffect}화상{/g} 상태이면 불길의 파도가 1라운드 동안 {g|Encyclopedia:SlowedEffect}감속{/g}을 부여하고, 전투 종료 시까지 {g|f:26bad8fff4f24e6b8558340eb509c6cf}스러지는 영혼{/g}을 +2중첩 부여한다.
+284	불멸의 황제가 넓은 범위의 모든 적에게 절단 피해를 주고, 영향을 받는 각 대상에게 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g}를 +2중첩 부여한다. 또한 자신은 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}을 +2중첩 얻는다.\n<b>특수</b>: 대상에게 {g|f:26bad8fff4f24e6b8558340eb509c6cf}스러지는 영혼{/g} 효과가 있으면 전투 종료 시까지 같은 중첩 수의 {g|f:5856ae1c9ea04369bddd4ee3eec32b3d}산산조각{/g}을 받는다.
+285	거대한 가르기
+286	방어도가 −10% 감소한다. 중첩된다.
+287	산산조각
+288	"발버둥 쳐 봐야 소용없다."
+289	"정녕 나를 쓰러뜨릴 수 있다고 믿느냐?"
+290	불멸의 황제의 체력은 알 수 없다.
+291	불사
+292	죽음이 속삭인 이름
+293	불멸의 황제가 대상에게 절단 피해를 주고 대상의 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}과 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g} 중첩을 모두 제거한다. 대상의 체력이 50% 미만이면 −50의 불이익을 받는 강인함 저항 판정에 성공하지 못할 경우 즉시 사망한다.\n<b>특수</b>: {g|f:26bad8fff4f24e6b8558340eb509c6cf}스러지는 영혼{/g}이 3중첩 이상이거나 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g}가 3중첩 이상인 대상은 체력이 90% 미만이면 해당 판정을 해야 한다.
+294	불멸의 황제의 적이 턴을 마칠 때마다 초자연적인 힘이 황제에게 추가 턴을 부여한다. 추가 턴마다 현재 단계에 따라 능력을 하나 사용한다.\n-<indent=5%>{g|f:f03fb2a6d17f452899a8310ed41704e2}죽음, 망각{/g} 단계: {g|f:fdb7ad9f95224672af0853c2fe3a48de}죽음의 기도{/g} 또는 {g|f:08b50f3e19c240759b8f7bc57ca1758c}죽음의 환영{/g}</indent>\n-<indent=5%>{g|f:3d4f32cb26d44ef4aa5b7edf3b5eab2a}죽음, 잿더미{/g} 단계: {g|f:fa98d892a6404f91af19e542d1b2fbb3}작열하는 장작더미{/g} 또는 {g|f:7ecf42ea9ffb4231bb797f166b2694e5}불사의 불길{/g}</indent>\n-<indent=5%>{g|f:997d8f1503e442ef906c58f1299037e2}죽음, 고통{/g} 단계: {g|f:f86ec5197f324351a2f62468a05a5a4b}거대한 가르기{/g} 또는 {g|f:c449c4181a484879913d0c31c8618ed8}죽음이 속삭인 이름{/g}</indent>\n단계의 순서는 바뀌지 않는다. 불멸의 황제가 턴을 마치면 즉시 다음 단계가 시작된다. 전투에서 해당 단계가 처음 시작되면 두 능력 중 하나를 무작위로 사용한다. 이후에는 같은 단계에서 직전에 사용하지 않았던 능력을 사용한다.
+295	죽음이 속삭인 명령
+296	불멸의 황제의 방어도는 50% 미만으로 감소하지 않는다.
+297	타락하지 않는 의복
+298	모든 능력치가 −5 감소한다. 중첩된다.
+299	스러지는 영혼
+300	불멸의 황제가 대상에게 정신 피해를 준다. 대상은 −50의 불이익을 받는 의지력 저항 판정에 성공하지 못하면 2라운드 동안 {g|f:eda0a061c09a4ea090998a9c117b05cd}무기력{/g} 효과를 받는다.\n<b>특수</b>: 대상의 체력이 50% 미만이면 최대 체력의 50%만큼 임시 체력을 얻는다.
+301	죽음의 기도
+302	무기력
+303	이 개체는 다음 턴을 건너뛴다. 피해를 받아 임시 체력이 아닌 체력을 잃으면 이 효과가 제거된다.
+304	불멸의 황제가 범위 내 모든 적에게 정신 피해를 주고 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}과 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g} 중첩을 모두 제거한다. 대상은 −20의 불이익을 받는 의지력 저항 판정에 성공하지 못하면 추가 정신 피해를 받고, 3라운드 동안 {g|Encyclopedia:FatiguedEffect}피로{/g}, {g|Encyclopedia:DisturbedEffect}동요{/g}, {g|Encyclopedia:PerplexedEffect}당혹{/g} 중 무작위 효과 하나를 받는다.\n<i>참고</i>: 주 대상이 한 칸만 차지한다면 해당 대상은 이 능력의 영향을 받지 않는다.\n<b>특수</b>: 불멸의 황제는 각 대상에게서 제거한 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g} 또는 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g} 중첩 하나당 해당 대상에게 {g|f:26bad8fff4f24e6b8558340eb509c6cf}스러지는 영혼{/g}을 +1중첩 부여한다.
+305	죽음의 환영
+306	불멸의 황제가 가장 가까운 적에게 {g|f:f86ec5197f324351a2f62468a05a5a4b}거대한 가르기{/g} 또는 {g|f:c449c4181a484879913d0c31c8618ed8}죽음이 속삭인 이름{/g} 능력을 사용한다. 대상이 여럿이면 그중 체력 비율이 가장 낮은 적을 선택한다. 그래도 대상이 여럿이면 그중 하나를 무작위로 선택한다.
+307	죽음, 고통
+308	죽음, 잿더미
+309	불멸의 황제가 자신에게 가장 많은 피해를 준 적에게 {g|f:fa98d892a6404f91af19e542d1b2fbb3}작열하는 장작더미{/g} 또는 {g|f:7ecf42ea9ffb4231bb797f166b2694e5}불사의 불길{/g} 능력을 사용한다.
+310	불멸의 황제가 가장 멀리 있는 적에게 {g|f:08b50f3e19c240759b8f7bc57ca1758c}죽음의 환영{/g} 또는 {g|f:fdb7ad9f95224672af0853c2fe3a48de}죽음의 기도{/g} 능력을 사용한다. 대상이 여럿이면 그중 체력 비율이 가장 높은 적을 선택한다. 그래도 대상이 여럿이면 그중 하나를 무작위로 선택한다.
+311	죽음, 망각
+312	불멸의 황제가 대상을 자신에게 인접한 칸으로 순간이동시킨다. 이후 대상 주위의 좁은 반경 내 모든 적에게 화염 및 절단 피해를 주고 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}과 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g} 중첩을 모두 제거한다. 해당 대상들은 −40의 불이익을 받는 민첩 저항 판정에 성공하지 못하면 추가 피해를 받고 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다. 또한 −40의 불이익을 받는 강인함 저항 판정에 성공하지 못하면 전투 종료 시까지 {g|Encyclopedia:BurningEffect}화상{/g}(15)을 받는다.\n<b>특수</b>: 대상의 체력이 90%를 초과하면 {g|f:26bad8fff4f24e6b8558340eb509c6cf}스러지는 영혼{/g}을 +2중첩 받고 1라운드 동안 {g|Encyclopedia:BlindedEffect}실명{/g} 상태가 된다.
+313	불사의 불길
+314	불멸의 황제는 자신에게 다음으로 명중하는 공격의 피해를 −100% 감소시키고, 공격자에게 소량의 정신 피해를 준다.
+315	영혼 반발
+316	불멸의 황제는 자신의 턴 시작 시 {g|f:ac6c6f5240d141bf82db7f5ca7deb390}영혼 반발{/g} 효과를 얻는다.
+317	불멸의 황제는 적을 통과해 이동할 수 있다.
+318	막을 수 없는 자
+319	매 {g|Encyclopedia:Round}라운드{/g} 시작 시 얼음 덩어리에 걸린 이 효과의 중첩이 −1 감소한다. 마지막 중첩이 제거되면 얼음이 녹고 그 자리에 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 90%를 가진 네크론이 나타난다.\n<i>연결된 회로</i>: 전기 회로가 얼음 덩어리에 닿으면 즉시 중첩이 1개만 남고 모두 제거된다. 다음 라운드 시작 시 최대 체력의 70%를 가진 네크론이 나타난다.\n<i>발전기 과부하</i>: 발전기 과부하가 얼음 덩어리에 적중하면 모든 중첩이 제거되고 즉시 네크론이 나타난다. 최대 체력의 50%를 가지며 1라운드 동안 {g|Encyclopedia:Stun}기절{/g} 상태가 된다.
+320	융해
+321	"동력을 다루는 제 능력에는 한계가 없습니다! 손끝 하나 대지 않고 발전기 회로를 과부하시켜, 제노스에게 옴니시아의 분노를 쏟아부을 수 있습니다!"
+322	이 구역에 서 있는 개체는 {g|f:15f32ade9f3e4b9f8e47a2840f514b70}전도성{/g} 효과를 받는다.
+323	웅덩이
+324	위치에게 3{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:e4bb425e00364886b1e489c26c743ed5}신속한 공격{/g}을 부여한다.
+325	어둠의 기량
+326	어둠의 기량: 이중 사격
+327	회전무
+328	중첩당 {g|Encyclopedia:DamageGlossary}피해{/g}를 +<u>(2~4)</u>, {g|Encyclopedia:ArmourPenetration}방어 관통{/g}을 +2% 얻는다. 최대 3회 중첩된다.
+329	고통의 선물
+330	위치에게 3{g|Encyclopedia:Turn}턴{/g} 동안 {g|Encyclopedia:DamageGlossary}피해{/g} +<u>(3~8)</u>, {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +3%를 부여한다.
+331	전투 자극제: 그레이브 로터스
+332	전투 자극제: 서펜틴
+333	대상이 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:MovementPoints}이동력{/g}이 −10 감소한다.
+334	잡았다!
+335	아군에게 추가 {g|Encyclopedia:Turn}턴{/g}을 부여한다.
+336	지원 요구
+337	망각의 심야가 대상의 공격 가능한 모든 방향(인접한 물체나 개체에 가로막히지 않은 방향)에서 타격하여 최대 4회 공격한다.
+338	공격 시 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않으며 이동 시 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.
+339	다른 개체가 {g|Encyclopedia:DamageGlossary}피해{/g}를 받고도 죽지 않을 때마다 이 개체는 {g|Encyclopedia:HitPoints}체력{/g}을 +3 회복한다.
+340	생기를 주는 고통
+341	대상의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}, {g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −25 감소한다. 대상이 어떤 원인으로든 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 모든 드루카리가 {g|Encyclopedia:HitPoints}체력{/g}을 3 회복한다.
+342	죽음 공포증
+343	죽음 공포증 구역
+344	{g|f:482633ad900b420aa0433246e7716f82}죽음 공포증{/g} 구역 내 개체는 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다. 실패하면 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:482633ad900b420aa0433246e7716f82}죽음 공포증{/g} 효과를 받는다.
+345	중첩당 이 개체의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +5 증가한다.
+346	격노
+347	이 개체가 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 공격 피해가 +5 증가한다. 중첩된다.
+348	무모함
+349	각 개체의 {g|Encyclopedia:Turn}턴{/g} 시작 시 최대 {g|Encyclopedia:HitPoints}체력{/g}의 20%를 회복한다.
+350	고통 억제
+351	이 {g|Encyclopedia:Ability}능력{/g}의 영향을 받는 적은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다. 실패하면 {g|Encyclopedia:DamageGlossary}피해{/g} 5를 받고 {g|Encyclopedia:BleedingEffect}출혈{/g} 효과를 받는다.
+352	혈석
+353	"모두 죽음을 맞이하리라!"
+354	모든 인큐버스가 추가 {g|Encyclopedia:Turn}턴{/g}을 얻는다.
+355	아콘의 의지
+356	이 개체는 매 {g|Encyclopedia:Round}라운드{/g}마다 {g|Encyclopedia:DamageGlossary}피해{/g} 5를 받는다.
+357	고통
+358	쇠약의 발톱
+359	깊은 절개
+360	비천한 자의 운명
+361	실험용 자극제
+362	이 개체는 {g|Encyclopedia:Turn}턴{/g}당 추가 공격을 얻고, {g|Encyclopedia:ActionPoints}행동력{/g} +4, {g|Encyclopedia:DamageGlossary}피해{/g} +100%, 모든 {g|Encyclopedia:Characteristic}능력치{/g} +50%를 얻는다. 하지만 자극제 효과가 끝나면 {g|Encyclopedia:MentalDamage}정신 피해{/g} 120을 받는다.
+363	이 개체는 아군이 피해를 받거나 {g|Encyclopedia:BleedingEffect}출혈{/g} 효과를 부여할 때마다 {g|Encyclopedia:DamageGlossary}피해{/g}를 +1 얻는다.
+364	피의 갈증
+365	이 개체는 아군이 사망할 때마다 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻는다. 또한 아군의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 떨어지면 추가 {g|Encyclopedia:Turn}턴{/g}을 얻지만, 이 효과는 아군마다 1회만 발동한다.
+366	개입
+367	이 개체는 원거리 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하면 즉시 반격 사격한다.
+368	돌려주마!
+369	놈들을 죽여라!
+370	카라엘 휘하 드루카리의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +20% 증가한다.
+371	이 개체의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +20% 증가한다.
+372	대상의 {g|Encyclopedia:ActionPoints}행동력{/g}과 {g|Encyclopedia:MovementPoints}이동력{/g}을 −2 감소시키는 강력한 공격을 가한다.
+373	기습 공격
+374	이 개체의 {g|Encyclopedia:ActionPoints}행동력{/g}과 {g|Encyclopedia:MovementPoints}이동력{/g}이 −2 감소한다.
+375	찢어진 힘줄
+376	카라엘의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 대상에게 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ToxinEffect}중독{/g}을 부여한다.
+377	맹독 칼날
+378	아콘이 살아 있는 동안 나즈라케이 휘하 개체들은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} +20%, {g|Encyclopedia:Deflection}피해 감소{/g} +4를 얻고, 매 {g|Encyclopedia:Turn}턴{/g}마다 체력을 <u>(12~30)</u> 회복한다.
+379	아콘의 존재감
+380	카라엘 휘하 모든 개체에게 {g|Encyclopedia:HitSequenceGlossary}명중률{/g} +10%, {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +15%, {g|Encyclopedia:DamageGlossary}피해{/g} +7을 부여한다.
+381	지도자의 존재감
+382	나즈라케이의 복수자
+383	내 원수를 갚아라!
+384	나즈라케이는 무기 공격으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 즉시 아군에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여한다(내 권위에 복종하라 효과가 있는 아군을 최우선으로 선택한다). 추가 {g|Encyclopedia:Turn}턴{/g}을 얻은 개체는 나즈라케이에게 피해를 준 적에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키려 한다.
+385	나즈라케이가 아군에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여한다(내 권위에 복종하라 효과가 있는 아군을 최우선으로 선택한다). 추가 {g|Encyclopedia:Turn}턴{/g}을 얻은 개체는 나즈라케이에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 준 적에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키려 한다.
+386	내 권위에 복종하라!
+387	나즈라케이가 아군에게 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DamageGlossary}피해{/g} +200%, {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +30%, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g} +50을 부여한다.
+388	이 개체는 {g|Encyclopedia:DamageGlossary}피해{/g} +200%, {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +30%, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g} +50을 얻는다.
+389	나즈라케이가 사격하여 <u>(12~52)</u>의 {g|Encyclopedia:PiercingDamage}관통 피해{/g}를 준다. 대상과 그 주변의 모든 개체는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −10%, {g|Encyclopedia:Deflection}피해 감소{/g}가 −1 감소한다.
+390	독성 융해
+391	시니스토리아의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 대상에게 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:BleedingEffect}출혈{/g}을 부여한다.
+392	선홍빛 학살
+393	시니스토리아가 대상의 공격 가능한 모든 방향(인접한 물체나 개체에 가로막히지 않은 방향)에서 타격하여 최대 4회 공격한다.
+394	나는 어디에나 있다!
+395	시니스토리아는 공격 시 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않으며 이동 시 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.
+396	치밀한 움직임
+397	제노스 용병 다크글라이더
+398	파멸을 선고받은 개체는 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}에 −50%의 {g|Encyclopedia:Penalty}불이익{/g}을 받고 {g|Encyclopedia:Deflection}피해 감소{/g}에 −4의 불이익을 받는다. 또한 적은 파멸을 선고받은 개체를 상대로 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}을 +50% 얻는다.
+399	파멸의 예언
+400	파시어가 거대한 사이킥 폭풍을 불러내 반경 4칸 범위에 {g|Encyclopedia:EnergyDamage}에너지 피해{/g} 10을 준다. 2{g|Encyclopedia:Turn}턴{/g} 후 폭풍이 워프로 돌아가며 에너지 {g|Encyclopedia:DamageGlossary}피해{/g} 35를 준다.
+401	섬뜩한 폭풍
+402	이 개체를 대상으로 하는 모든 공격은 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}에 −50%의 {g|Encyclopedia:Penalty}불이익{/g}을 받는다.
+403	예견된 행운
+404	파시어가 적에게 {g|Encyclopedia:SlowedEffect}감속{/g}을 부여하고 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 수 없게 한다.\n대상은 −30의 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:SkillAwareness}인지{/g} {g|Encyclopedia:Test}판정{/g}에 성공해야 이 효과들을 피할 수 있다.
+405	정신 전쟁
+406	1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +10 증가한다.
+407	무기를 준비하라!
+408	전투 종료 시까지 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +50 증가한다.
+409	놈들을 죽여라!
+410	감시관 카스테글리아는 {g|Encyclopedia:WarhammerAgility}민첩{/g}에 −20의 {g|Encyclopedia:Penalty}불이익{/g}을 받지만, 적은 그의 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}에 −25%의 불이익을 받는다.
+411	악마의 속박
+412	대상은 {g|Encyclopedia:WarhammerToughness}강인함{/g}에 −20의 {g|Encyclopedia:Penalty}불이익{/g}을 받고, {g|Encyclopedia:WarpDamage}워프 피해{/g}를 제외한 모든 {g|Encyclopedia:DamageGlossary}피해{/g} 유형에 대한 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 +50% 얻는다.
+413	악마의 갑옷
+414	대상은 {g|Encyclopedia:WarhammerStrength}근력{/g}에 −20의 {g|Encyclopedia:Penalty}불이익{/g}을 받는다. 대상의 각 공격은 추가 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 준다.
+415	악마의 타격
+416	시공의 물결
+417	내비게이터의 행운이 증가하지만 한동안 이동할 수 없게 된다.\n-<indent=5%>내비게이터의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g} +30%.</indent>\n-<indent=5%>내비게이터의 {g|Encyclopedia:DamageGlossary}피해{/g} +3.</indent>\n-<indent=5%>내비게이터를 상대로 한 적의 명중률에 −30%의 {g|Encyclopedia:Penalty}불이익{/g}.</indent>
+418	50% 확률로 받는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}를 흡수한다.
+419	역장
+420	심연의 편린
+421	이 개체는 이번 {g|Encyclopedia:Round}라운드{/g}에 여러 번 공격할 수 있다.\n전투당 1회만 사용할 수 있다.
+422	과부하
+423	이 개체는 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이면 7칸 원뿔 범위로 불길을 내뿜어 {g|Encyclopedia:FireDamage}화염 피해{/g} 3을 주고 {g|Encyclopedia:BurningEffect}화상{/g}을 부여한다.
+424	불태워라!
+425	이 개체는 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이면 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 증가하지만 피해를 줄 때마다 {g|Encyclopedia:PiercingDamage}관통 피해{/g} 3을 받는다. 공격 시 일정 확률로 대상을 {g|Encyclopedia:PushGlossary}밀치거나{/g} {g|Encyclopedia:BleedingEffect}출혈{/g}을 부여한다.
+426	예리한 칼날
+427	이 개체는 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이면 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 증가하지만 피해를 줄 때마다 {g|Encyclopedia:PiercingDamage}관통 피해{/g} 3을 받는다. 공격 시 일정 확률로 대상을 {g|Encyclopedia:PushGlossary}밀치거나{/g} {g|Encyclopedia:BleedingEffect}출혈{/g}을 부여한다.
+428	이 개체는 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 증가하지만 피해를 줄 때마다 {g|Encyclopedia:PiercingDamage}관통 피해{/g} 3을 받는다. 공격 시 일정 확률로 대상을 {g|Encyclopedia:PushGlossary}밀치거나{/g} {g|Encyclopedia:BleedingEffect}출혈{/g}을 부여한다.
+429	최후의 질주
+430	제노스 폭탄
+431	자동 공격성
+432	광기의 베기
+433	공격 프로토콜
+434	이 개체는 매 {g|Encyclopedia:Turn}턴{/g} 종료 시 {g|Encyclopedia:DirectDamage}직접 피해{/g} 10을 받지만, 중첩되는 {g|Encyclopedia:DamageGlossary}피해{/g} {g|Encyclopedia:Bonus}보너스{/g} +5를 얻는다. 또한 자신의 턴 종료 시 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내 모든 대상에게 한 번씩 공격한다.
+435	{g|Encyclopedia:DamageGlossary}피해{/g}를 +5 얻는다. 중첩된다.
+436	이 개체는 근접 공격에 맞을 때마다 즉시 반격한다.
+437	초고속 행동 프로토콜
+438	커미사르가 아군 하나를 처형하여 1{g|Encyclopedia:Round}라운드{/g} 동안 다른 아군의 {g|Encyclopedia:DamageGlossary}피해{/g}를 증가시키고 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}과 추가 {g|Encyclopedia:MovementPoints}이동력{/g}을 부여한다.
+439	배신자에게 죽음을
+440	{g|Encyclopedia:DamageGlossary}피해{/g}가 +100% 증가한다. 이 개체는 임시 {g|Encyclopedia:HitPoints}체력{/g} +20과 {g|Encyclopedia:MovementPoints}이동력{/g} +2도 얻는다.
+441	공포 주입
+442	적이 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 최대 3칸까지 {g|Encyclopedia:PushGlossary}밀쳐낼{/g} 수 있는 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가한다.
+443	이 개체는 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 인접한 적이 하나라도 있는지에 따라 전투 전술을 변경한다.
+444	커미사르가 20칸 이내의 아군 3명을 최단 경로로 자신의 곁에 오도록 부른다. 해당 아군들은 커미사르 대신 {g|Encyclopedia:DamageGlossary}피해{/g}를 받는다.
+445	나를 지켜라!
+446	강력한 일격
+447	대상이 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g}을 부여할 수 있는 원거리 공격을 가한다.
+448	비틀거리는 사격
+449	"공포 유발자" 볼트 피스톨
+450	낡은 체인소드
+451	받는 모든 공격에 반격한다.
+452	무자비
+453	인센디아 초르다는 치명적인 피해를 받는 순간 기습 반격을 가한다.
+454	순교자의 불굴
+455	인센디아 초르다가 {g|Encyclopedia:LineOfSight}시야{/g} 내 각 적에게 단발 사격을 가한다. 이 사격은 항상 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한다.
+456	피할 수 없는 그분의 정의
+457	피할 수 없는 그분의 정의 — 두 번째 무기
+458	1{g|Encyclopedia:Round}라운드{/g} 동안 아군의 {g|Encyclopedia:Characteristic}능력치{/g}가 +20 증가한다.
+459	고무하는 웅변
+460	1{g|Encyclopedia:Round}라운드{/g} 동안 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 +20 증가한다.
+461	고무됨
+462	{g|Encyclopedia:DamageGlossary}피해{/g} 5를 주고 대상이 아군을 공격하게 한다. 대상은 −20의 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 혼란에서 벗어날 수 있다.
+463	혼란의 따귀
+464	꼬리 타격
+465	{g|Encyclopedia:DamageGlossary}피해{/g} 15를 준다. 대상이 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:ProneEffect}넘어짐{/g}도 부여한다.
+466	대상은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+467	비열한 싸움
+468	전투에서 처음으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 준 후 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} +60%와 {g|Encyclopedia:Deflection}피해 감소{/g} +6을 추가로 얻는다.
+469	전투로 벼려진 자
+470	{g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} +60%\n{g|Encyclopedia:Deflection}피해 감소{/g} +6
+471	전투로 벼려진 자
+472	이 개체는 {g|Encyclopedia:DamageGlossary}피해{/g} +12와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +20%를 얻는다.
+473	꽤 아팠겠군
+474	이 개체는 {g|Encyclopedia:Bonus}보너스{/g} {g|Encyclopedia:MovementPoints}이동력{/g}과 {g|Encyclopedia:Turn}턴{/g}당 추가 공격을 얻는다.
+475	이 개체는 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 떨어지면 체력을 모두 회복하고 {g|Encyclopedia:Bonus}보너스{/g} {g|Encyclopedia:MovementPoints}이동력{/g}과 {g|Encyclopedia:Turn}턴{/g}당 추가 공격을 얻는다.
+476	흉포한 충동
+477	팔코는 전투 중 {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g} 효과를 받는 적 하나당 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다(최대 +100%).
+478	음흉한 황홀경
+479	이 개체는 자신의 {g|Encyclopedia:Turn}턴{/g} 동안 공격 횟수에 제한을 받지 않는다.
+480	이머티리움의 광란
+481	이 {g|Encyclopedia:Ability}능력{/g}의 영향을 받은 개체는 카오스 스폰이 된다.
+482	혼돈의 부름
+483	{g|Encyclopedia:Round}라운드{/g}당 1회, 광신도 하나를 카오스 스폰으로 변이시킨다.
+484	해방된 혼돈
+485	{g|Encyclopedia:HitPoints}체력{/g}을 <u>(32~42)</u> 회복한다.
+486	라보르의 구급상자
+487	1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ActionPoints}행동력{/g} +2와 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g} +50%를 얻는다.
+488	노장의 조언
+489	라보르가 이 개체에게 {g|Encyclopedia:ActionPoints}행동력{/g} +2와 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g} +50%를 부여한다.
+490	거역할 수 없는 명령이다!\n아군에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여한다. {g|Encyclopedia:Turn}턴{/g}당 1회만 활성화할 수 있다.
+491	절대 명령
+492	신체 개조 장치 가동
+493	아이샤라의 선원들이 임시 {g|Encyclopedia:HitPoints}체력{/g}과 추가 {g|Encyclopedia:MovementPoints}이동력{/g}을 얻고 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}이 증가한다.
+494	이 개체는 임시 {g|Encyclopedia:HitPoints}체력{/g} +20%, {g|Encyclopedia:MovementPoints}이동력{/g} +4, {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g} +50%를 얻는다.
+495	중첩당 {g|Encyclopedia:Deflection}피해 감소{/g}를 +3 얻는다.
+496	완화
+497	아이샤라는 지속 피해({g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:ToxinEffect}중독{/g})를 포함한 모든 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 완화 효과를 +1중첩 얻으며, 중첩당 {g|Encyclopedia:Deflection}피해 감소{/g}를 +3 얻는다(최대 10중첩). 아이샤라의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시 완화 중첩이 모두 제거된다.
+498	아이샤라의 {g|f:b2d7c012454c42dead2097e033918d22}사이킥 격발{/g}이 {g|Encyclopedia:Cooldown}재사용 대기시간{/g} 중이다. {g|Encyclopedia:WarpDamage}워프 피해{/g}와 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}으로 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻지 않는다.
+499	격발 비활성화
+500	{g|Encyclopedia:Round}라운드{/g}당 1회, 아이샤라가 {g|Encyclopedia:WarpDamage}워프 피해{/g}나 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 효과를 받으면 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻는다.\n이 {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}은 아이샤라의 {g|Encyclopedia:Turn}턴{/g} 시작 시 초기화된다.
+501	사이킥 격발
+502	{g|Encyclopedia:WarpDamage}워프 피해{/g}를 주는 수류탄을 던진다.
+503	워프 수류탄
+504	에스카토스의 유대
+505	브라스위스퍼가 에스카토스를 깨워 1{g|Encyclopedia:Round}라운드{/g} 동안 자신과 파스칼을 강화한다.
+506	파스칼이 에스카토스의 힘을 끌어온다. 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:WarhammerIntelligence}지능{/g} +10과 {g|Encyclopedia:DamageGlossary}피해{/g} +50%를 얻는다.\n하지만 해당 라운드 동안 아뎁투스 메카니쿠스 적도 파스칼을 상대로 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}을 +10% 얻으며 파스칼을 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 간주한다.
+507	브라스위스퍼가 에스카토스의 힘을 끌어온다. {g|Encyclopedia:WarhammerIntelligence}지능{/g} +10과 {g|Encyclopedia:DamageGlossary}피해{/g} +50%를 얻는다. 최대 3회 중첩된다.\n파스칼도 브라스위스퍼를 상대로 다음번에 명중하는 공격의 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}을 +10% 얻는다. 파스칼이 브라스위스퍼에게 공격을 명중시키면 브라스위스퍼는 이 효과의 중첩을 모두 잃는다.
+508	에스카토스의 분노
+509	매 {g|Encyclopedia:Round}라운드{/g} 시작 시 무작위 적 주위에 특수한 7×7 구역이 생성되며, 라운드 종료 시 폭발한다. 폭발 시 구역 안에 있는 모든 개체는 2라운드 동안 에스카토스의 분노 효과를 받는다. 이미 이 효과를 받는 개체는 대신 에스카토스의 분노가 제거된다.
+510	구역 효과가 끝나면 에스카토스의 분노가 제거된다.
+511	에스카토스의 약점
+512	구역 효과가 끝나면 구역 내 모든 개체에게 2{g|Encyclopedia:Round}라운드{/g} 동안 에스카토스의 분노가 부여된다.
+513	에스카토스의 힘
+514	이 개체의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 −50 감소하고, {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 무기{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 −75% 감소한다.
+515	매 {g|Encyclopedia:Round}라운드{/g} 시작 시 무작위 적 주위에 특수한 7×7 구역이 생성되며, 라운드 종료 시 폭발한다. 폭발 시 구역 안에 있는 모든 개체는 2라운드 동안 에스카토스의 분노 효과를 받는다. 이미 이 효과를 받는 개체는 대신 에스카토스의 분노가 제거된다.
+516	브라스위스퍼가 에스카토스의 힘으로 적의 몸에 있는 모든 신체 개조 장치와 기계 장치를 마비시킨다. 대상은 −10의 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Stun}기절{/g} 상태가 된다.\n파스칼에게는 영향을 주지 않는다.
+517	겸양 프로토콜
+518	절대 기계령
+519	브라스위스퍼가 기계령을 부른다. 2{g|Encyclopedia:Round}라운드{/g} 동안 아군은 그 힘으로 축복받고 적은 저주받는다.
+520	이 개체는 기계령의 축복을 받는다. 무기의 {g|Encyclopedia:Recoil}반동{/g}이 절반으로 감소하며, 모든 대상은 이 개체의 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 −<u>(2 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>% 감소한다.
+521	절대 기계령의 축복
+522	이 개체는 기계령의 저주를 받는다. 무기의 {g|Encyclopedia:Recoil}반동{/g}이 두 배로 증가하며, 모든 대상은 이 개체의 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}를 +<u>(2 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>% 얻는다.
+523	절대 기계령의 저주
+524	이 개체는 {g|Encyclopedia:MovementPoints}이동력{/g} +5, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +30, {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}과 무기 {g|Encyclopedia:DamageGlossary}피해{/g} +50%를 얻는다.
+525	무제한 코드
+526	파스칼이 죽으면 모든 아뎁투스 메카니쿠스 적이 에스카토스의 강력한 은총을 받는다.
+527	죽음은 완성을 뜻한다

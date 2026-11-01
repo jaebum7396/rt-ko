@@ -1,0 +1,472 @@
+1	아치 밀리턴트의 망토
+2	착용자가 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 무기{/g}로 치명타를 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 전투 종료 시까지 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +{unit_stat|WarhammerStrength|bonus} 증가한다.
+3	의태 섬유가 착용자의 색을 주변 환경에 동화시킨다. 착용자의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +10% 증가한다.
+4	카멜레올린 망토
+5	위장 망토
+6	착용자가 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}에 인접해 있으면 적의 {g|Encyclopedia:WarhammerPerception}지각{/g} 수치를 무시하고 {g|Encyclopedia:DodgeGlossary}회피{/g} 확률을 계산한다.
+7	착용자의 {g|f:e8164ac219f44e69b95de4853569da3b}눈꺼풀 없는 응시{/g} 능력이 영향을 받는 아군에게 더 이상 피해를 주지 않는다. 대신 해당 아군은 임시 체력을 {unit_stat|WarhammerFellowship|bonus} 얻는다.
+8	머시의 망토
+9	착용자는 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 0인 {g|f:e8e9fbe8696e4820b84c733ceba629af}다시 전장으로!{/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.
+10	커미사르의 망토
+11	착용자가 적의 원거리 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 장비한 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 무작위 인접 적을 즉시 1회 공격한다. 이 공격은 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}과 {g|Encyclopedia:ParryReduction}막기 감소{/g}가 +35% 증가하며, 한 {g|Encyclopedia:Round}라운드{/g}에 3회까지만 발동한다.
+12	어둠의 약탈자
+13	착용자가 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 할 때마다 대상의 {g|Encyclopedia:Deflection}피해 감소{/g}만큼 추가 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 준다.
+14	파멸의 전령 두건
+15	자수 망토
+16	착용자가 {g|Encyclopedia:SkillPersuasion}설득{/g}에 +5 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.\n착용자가 아군의 {g|Encyclopedia:Ability}능력{/g}에 영향을 받을 때마다 전투 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +3% 증가한다. 중첩된다.
+17	착용자는 {g|Encyclopedia:BurningEffect}화상{/g}에 면역이 된다.\n또한 착용자의 {g|Encyclopedia:Turn}턴{/g}이 끝날 때마다 인접한 모든 아군의 화상을 제거한다.
+18	방화제 망토
+19	착용자가 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 이 효과의 충전 1회를 소모하여 해당 피해를 막는다.\n남은 충전이 없으면 피해를 막지 못하며, 착용자는 전투 종료 시까지 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다.
+20	홀로 필드
+21	홀로 필드 방출기
+22	전투 시작 시 착용자는 홀로 필드 충전을 3회 얻는다. 착용자가 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 홀로 필드 충전 1회를 소모하여 해당 피해를 막는다.\n남은 충전이 없으면 피해를 막지 못하며, 착용자는 전투 종료 시까지 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다.
+23	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Bonus}보너스{/g} + 3 × {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
+24	<u>(2 × {g|Encyclopedia:TemporaryWounds}임시 체력{/g})</u>
+25	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 피해를 줄 때마다 임시 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|THP|fb13409a1d7b4784b229adddf99d59ec} 얻는다.\n착용자의 근접 공격 피해가 +{uip|Damage|fb13409a1d7b4784b229adddf99d59ec}% 증가한다.
+26	철의 망토
+27	응보의 망토
+28	착용자는 이번 {g|Encyclopedia:Round}라운드{/g}에 자신에게 피해를 준 적을 상대로 {g|Encyclopedia:DamageGlossary}피해{/g}에 +15% {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+29	착용자에게 인접한 적이나 아군이 없으면 {g|Encyclopedia:PriorityTarget}우선 표적{/g} 순위가 가장 낮아진다.
+30	그림자 길잡이 망토
+31	<u>(2 × {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
+32	착용자가 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}이나 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}을 사용할 때마다 {g|Encyclopedia:ActionPoints}행동력{/g} +2, {g|Encyclopedia:MovementPoints}이동력{/g} +6, 임시 {g|Encyclopedia:HitPoints}체력{/g} {uip|THP|a70164cbc0e54e168449793ecc448367}을 얻는다.
+33	담대함의 장막
+34	쾌검사의 망토
+35	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 2개 장비하면 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +15% 증가한다.
+36	이 캐릭터는 신속의 장막 망토 착용자의 다음 {g|Encyclopedia:Turn}턴{/g}까지 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Dodge|b1ac612ecbbb423c9618e1797376bf67}% 증가한다.
+37	신속의 장막
+38	<u>(2 × ({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 + 착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}))</u>
+39	<u>(({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 + {g|Encyclopedia:PsyRating}사이 등급{/g}) / 2)</u>
+40	<u>(5 × 신속의 장막 중첩 수)</u>
+41	착용자가 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}의 대상이 될 때마다 신속의 장막 효과를 +1중첩 얻고 해당 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Dodge|47ef5ac73a7b424e91767416f3612116}% 증가한다.\n또한 기회 공격의 대상이 될 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|MP|47ef5ac73a7b424e91767416f3612116} 얻는다.\n자신의 턴 종료 시 신속의 장막 중첩을 모두 소모하여, 착용자의 다음 턴까지 모든 아군의 회피를 +{uip|AllyDodge|47ef5ac73a7b424e91767416f3612116}% 증가시킨다.
+42	신속의 장막 망토
+43	<u>(5 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+44	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +{uip|Crit|2e62de08f5a3452a98526b3771009a6e}% 증가한다. 중첩된다.
+45	검무가의 망토
+46	전술 망토
+47	착용자가 무기를 {g|Encyclopedia:Reload}재장전{/g}할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}과 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 각각 +10% 증가한다. 이 효과는 중첩되지 않는다.
+48	<u>({g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스 / 4)</u>
+49	<u>(3 × {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+50	착용한 무기의 기본 {g|Encyclopedia:RateOfFire}발사 수{/g} 또는 타격 횟수가 <u>(2~4)</u>이면 해당 수치가 +{uip|RoF|10d27d1253ac42148b8b016e3765fb57} 증가한다. 원거리 무기라면 {g|Encyclopedia:Recoil}반동{/g}이 2배가 된다.\n착용한 무기의 기본 발사 수 또는 타격 횟수가 5 이상이면 착용자의 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +{uip|Burst|10d27d1253ac42148b8b016e3765fb57}% 증가한다. 원거리 무기라면 반동이 사라진다.
+51	템페스투스 카라페이스 아머 정예 배낭
+52	착용자의 {g|Encyclopedia:HitPoints}체력{/g}이 최대이면 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 +5 증가한다.
+53	폰 발란시우스 망토
+54	{g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +10% 증가한다.\n착용자가 이번 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 공격과 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}을 모두 수행했다면, 반경 5칸 내에서 착용자보다 작은 모든 적에게 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 +1중첩 부여한다. 중첩된다.
+55	늑대 가죽 망토
+56	광신도 효과 중첩마다 {g|Encyclopedia:AreaOfEffect}범위 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다.
+57	광신도
+58	착용자의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 아군에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 전투 종료 시까지 광신도 효과를 +1중첩 얻는다.\n<i>광신도</i>: 광신도 효과 중첩마다 착용자의 범위 공격 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다.
+59	광신도의 망토
+60	착용자가 적을 처치하면 대상의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}의 2배만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 추가로 증가한다.
+61	스캴드의 모피
+62	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 수행하면, 해당 공격의 영향을 받은 대상마다 다음 근접 공격의 회피 감소와 막기 감소가 +5% 증가한다.
+63	돌격 망토
+64	<u>({g|Encyclopedia:ArmourPenetration}방어 관통{/g} / 5)</u>
+65	착용자의 원거리 공격이 대상에게 {g|Encyclopedia:BleedingEffect}출혈{/g}을 {uip|Bleed|eaed3890d0204c0f844cca89fc0cfa96}레벨 부여한다.
+66	철갑탄 배낭
+67	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스 / 2)</u>
+68	착용자의 턴 종료 시 자신과 인접한 모든 아군의 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:ToxinEffect}중독{/g} {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 제거한다. 이렇게 제거한 해로운 효과마다 착용자는 임시 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|THP|1d0faee48d084334aff1c4f05542bb9d} 얻는다.
+69	전흔의 망토
+70	<u>(10 + 2 × 제거한 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g} 수)</u>
+71	착용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시 인접한 모든 아군의 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}을 제거한다. 그 후 인접한 모든 적에게 출혈을 {uip|Power|be21ee63735043728f13823e5568c5cc}레벨 부여한다.
+72	전흔의 외투
+73	축복받은 망토
+74	데몬 적을 상대로 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가한다. 착용자의 {g|Encyclopedia:SoulmarkTypesGlossary}신념{/g}이 {g|Encyclopedia:SoulMarkFaith}교조적{/g}이면 대신 피해가 +4 증가한다.
+75	위장 로브
+76	착용자의 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}이 대상의 {g|Encyclopedia:DodgeGlossary}회피{/g}를 −5% 감소시킨다. 중첩되지 않는다.
+77	<u>(3 × 착용자의 {g|Encyclopedia:Resolve}결의{/g})</u>
+78	{g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}가 정신 피해를 +{uip|Damage|f08821bffc3b4437953bbb6aeb86cff5} 추가로 준다.
+79	블레이드 댄서의 외투
+80	심판의 망토
+81	{g|Encyclopedia:SoulMarkFaith}교조적{/g} — 헌신자 필요\n적의 공격이 착용자에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 해당 적에 대한 착용자의 원거리 공격 {g|Encyclopedia:DamageGlossary}피해{/g}에 +5% {g|Encyclopedia:Bonus}보너스{/g}를 얻는다. 데몬이나 제노스를 상대할 때는 이 보너스에 착용자의 <u>교조적 등급</u>을 곱한다.
+82	착용자의 대상이 {g|Encyclopedia:BleedingEffect}출혈{/g} 상태이면 대상의 민첩 보너스 1당 착용자의 근접 공격 피해가 +2% 추가로 증가한다.
+83	피의 갈증 망토
+84	{g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 헌신자 필요\n착용자는 {g|Encyclopedia:HitPoints}체력{/g}을 <u>(3~9)</u> 소모하여 반경 4칸 내의 원하는 칸으로 즉시 순간이동하는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 얻는다.
+85	차원 여행자의 망토
+86	증오의 망토
+87	착용자의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 처치한 적마다 전투 종료 시까지 착용자의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +3% 증가한다.
+88	영웅의 외투
+89	{g|Encyclopedia:SoulMarkHope}인습타파{/g} — 추종자 필요\n전투 중 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}이 사용될 때마다 전투 종료 시까지 착용자의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +20% 증가한다(최대 60%).
+90	{g|Encyclopedia:CareerLeaderGlossary}오피서{/g} {g|Encyclopedia:Career}아키타입{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:Range}사거리{/g}가 +1칸 증가한다.
+91	지휘관의 망토
+92	교란의 망토
+93	이 망토는 반경 5칸 내 모든 적의 {g|Encyclopedia:WarhammerPerception}지각{/g}을 −{unit_stat|WarhammerFellowship|bonus} 감소시킨다.
+94	착용자가 5칸 이상의 거리에서 원거리 공격으로 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 착용자의 다음 {g|Encyclopedia:Turn}턴{/g}까지 해당 적의 최상위 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 된다.
+95	덫사냥꾼의 모피
+96	제국 해군 쾌검사의 외투
+97	이 외투는 착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 {g|Encyclopedia:ParryReduction}막기 감소{/g} +10%와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +5%를 부여한다.
+98	착용자가 중상을 입을 때마다 모든 아군이 가능하다면 평소 행동력 소모가 가장 적은 공격으로 가장 가까운 적을 즉시 공격한다.
+99	비상 복스 통신기
+100	착용자와 아군은 착용자의 수류탄 {g|Encyclopedia:DamageGlossary}피해{/g}에 면역이 된다. 착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 처음으로 수류탄을 사용하면 50% 확률로 수류탄을 소모하지 않는다.
+101	척탄병의 배낭
+102	착용자와 아군은 착용자의 수류탄 {g|Encyclopedia:DamageGlossary}피해{/g}에 면역이 된다.
+103	척탄병의 망토
+104	{g|f:13e41af1d54c458da81050336ce8e0fc}도발의 비명{/g} 대상은 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하지 않아도 이 {g|Encyclopedia:Ability}능력{/g}의 영향을 받는다.
+105	선동가의 외투
+106	반경 2칸 내의 적마다 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +5 증가한다.
+107	로그 트레이더의 망토
+108	이 화학 시약 세트는 사용자가 부여하는 모든 {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g} 효과의 {g|Encyclopedia:DamageGlossary}피해{/g}를 +2 증가시킨다.
+109	시약 꾸러미
+110	{g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g} 중첩마다 착용자의 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +2 증가한다.
+111	착용자가 범위 공격으로 적을 처치할 때마다 착용자의 다음 턴까지 아군의 치명타 확률이 +5% 증가한다. 중첩된다.
+112	섬멸의 외투
+113	착용자가 자신의 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 중 하나를 이동시키면 해당 구역이 부여하는 {g|Encyclopedia:Bonus}보너스{/g}가 2배가 된다.
+114	은폐장 방출기
+115	착용자가 {g|f:e5874ecd259b4878bc71239c281c17e4}고통의 축제{/g}를 사용할 때마다 즉시 체력을 최대로 회복한다.
+116	자극제 가방
+117	전사의 망토
+118	전투 중 착용자의 첫 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}은 막기나 {g|Encyclopedia:DodgeGlossary}회피{/g}가 불가능하다.
+119	대전략가의 외투
+120	착용자가 이전과 다른 {g|Encyclopedia:Stratagem}책략{/g}을 사용하거나 처음으로 책략을 사용하면, 1{g|Encyclopedia:Round}라운드{/g} 동안 착용자의 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역이 부여하는 모든 {g|Encyclopedia:Bonus}보너스{/g}가 +5% 증가한다. 이 효과는 중첩되지 않는다.
+121	<u>(1 + {g|f:7f7d109653f24774939f758d094b8812}다재다능{/g} 중첩 수)</u>
+122	{g|Encyclopedia:DirectDamage}직접 피해{/g}를 제외한 모든 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|Damage|c6af4d981ffe4a46ac8c1fa9891ec337}% 감소한다.
+123	몬케이 가죽 망토
+124	착용자가 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 장막 효과를 얻는다. 이 효과는 중첩되지 않는다.\n<i>장막</i>: 착용자가 장막 효과를 보유한 동안 공격 대상이 되면 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}한다. 그 후 장막 효과가 제거된다.
+125	그림자 망토
+126	착용자가 장막 효과를 보유한 동안 공격 대상이 되면 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}한다. 그 후 장막 효과가 제거된다.
+127	장막
+128	{g|Encyclopedia:WarpDamage}워프 피해{/g}에 대한 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +15% 증가한다.
+129	환영 망토
+130	착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}에 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +12%를 부여한다.
+131	수확자의 망토
+132	{g|Encyclopedia:SoulMarkFaith}교조적{/g} — 헌신자 필요\n착용자나 아군이 적에게 치명타로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하면, 해당 적이 사거리 내에 있을 경우 착용자가 현재 무기로 즉시 공격한다. 이 공격이 명중하면 {g|Encyclopedia:BurningEffect}화상{/g}(10)을 부여한다.
+133	불타는 복수
+134	정의의 분노 망토
+135	적을 처치할 때마다 전투 종료 시까지 착용자의 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +5% 증가한다.
+136	<u>(3 × 착용자의 {g|Encyclopedia:Resolve}결의{/g})</u>
+137	{g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}가 정신 피해를 +{uip|Damage|4e13c403d0b2471da1cddbc3bfae039f} 추가로 준다. 명중한 각 대상에게 2라운드 동안 피로를 +1중첩 부여한다.
+138	고공 선회 망토
+139	착용자가 {g|f:4d2f2a839d2340388d45cf4cf66c947b}인내{/g}를 사용하면 자신에게 걸린 효과 중 하나를 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g} 순서로 즉시 제거한다.
+140	약제 처리 망토
+141	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 적을 처치할 때마다 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 공격 횟수 제한이 사라진다. 단, 공격할 때마다 자신도 <u>최대 {g|Encyclopedia:HitPoints}체력{/g}의 10%</u>만큼 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 받는다.
+142	피의 격노 망토
+143	정지장이 즉시 {g|Encyclopedia:HitPoints}체력{/g}을 <u>{g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>만큼 회복한다.\n착용자는 모든 {g|Encyclopedia:MovementPoints}이동력{/g}을 잃지만 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +30% 증가한다.
+144	착용자의 {g|Encyclopedia:HitPoints}체력{/g}이 0이 되어도 의식 불명에 빠지지 않는다. 대신 정지장이 즉시 체력을 +{unit_stat|WarhammerToughness|bonus} 회복하고, 남아 있는 {g|Encyclopedia:MovementPoints}이동력{/g}을 모두 소모한다. 또한 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +30% 증가하고 이동력을 회복할 수 없다.\n! 전투당 1회만 사용할 수 있다.
+145	비상 주입기
+146	이 배낭은 착용자가 사용하는 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격 가능 무기의 {g|Encyclopedia:RateOfFire}발사 수{/g} 또는 타격 횟수를 +1 증가시킨다.
+147	전술 배낭
+148	전투 중 반경 4칸 내에 적이 없으면 착용자는 {g|Encyclopedia:WarhammerFellowship}친화력{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+149	귀족의 외투
+150	<u>(2 × (5 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스))</u>
+151	<u>(5 + 착용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
+152	착용자가 받는 충돌 피해와 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}가 −{uip|Resist|b0e7b907907b44fe948e142a93add87e}% 감소한다.\n착용자가 충돌 또는 에너지 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 공격한 적에게 {g|Encyclopedia:PowerDamage}동력 피해{/g}를 {uip|Damage|b0e7b907907b44fe948e142a93add87e} 준다.
+153	볼타가이스트 역장 방출기
+154	착용자가 적에게 {g|Encyclopedia:BurningEffect}화상{/g}을 부여할 때마다 해당 효과의 레벨이 +6 추가로 증가한다.\n해당 적은 착용자의 다음 {g|Encyclopedia:Turn}턴{/g}까지 {g|Encyclopedia:CalmedWarpEffect}사이킥 억제{/g} 효과도 받는다.
+155	제노스 방출기
+156	<u>(2 × 사역마의 {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
+157	착용자가 방패를 장비한 상태로 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 방패의 {g|Encyclopedia:BlockChance}방패 막기{/g}가 +2% 증가한다. 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 지속된다. 중첩된다.
+158	알케돈트 모피 망토
+159	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 + {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
+160	<u>(4 × 착용자의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+161	<u>{g|Encyclopedia:VeilThickness}베일 손상{/g}</u>
+162	착용자의 {g|Encyclopedia:Turn}턴{/g} 시작 시 전투 중인 적의 수가 아군보다 많으면 착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기 {g|Encyclopedia:DamageGlossary}피해{/g}가 +20% 증가한다.
+163	{g|f:374265cc61d5475898f17ac969795f7c}재가동{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 0이 된다. 대상 사역마는 {g|Encyclopedia:Round}라운드{/g} 종료 시까지 {g|Encyclopedia:TemporaryWounds}임시 체력{/g} {uip|Fellowship Bonus|2f1c349fa4f04d16a835a156c8db3ed9}과 모든 {g|Encyclopedia:Characteristic}능력치{/g}에 +{uip|Fellowship Bonus|2f1c349fa4f04d16a835a156c8db3ed9} 보너스를 얻는다.
+164	재가동 장비팩
+165	착용자가 {g|f:4955b43454f6488f82892e166c76c995}돌진{/g}, {g|f:7daf9f9d4c3d44ccaeebb0b9a7725b54}죽음의 무도{/g}, {g|f:9b09708aa0c244a6bc4a8e46d69c5884}질주{/g}, {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용할 때마다 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}과 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 +{uip|Penetration|c2d196acb09341a8a9796e59781823ed}% 증가한다. 최대 3회 중첩된다.
+166	감각 운동 조절기
+167	착용자가 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|Veil Tear|3cbe5a2c28b049a9bc8e8e8ef4e447a6}% 감소한다.
+168	그을린 망토
+169	착용자가 사역마와 인접한 상태로 {g|Encyclopedia:Turn}턴{/g}을 마치면 해당 사역마가 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|Wounds|6f5225ff33c34371b2b38f352e46fcbd} 회복한다.
+170	합성 사료
+171	착용자의 사이킥 능력이나 사이커 지팡이 공격에 영향을 받은 적마다 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}가 {unit_stat|WarhammerPerception|bonus}% 증가한다. 중첩된다.
+172	전투 사이커 장화
+173	부패의 장화
+174	착용자가 상위 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 {g|Encyclopedia:LineOfSight}시야{/g} 내 모든 적의 {g|Encyclopedia:Deflection}피해 감소{/g}가 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 30% 감소한다.
+175	카스르킨 장화
+176	착용자가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중이면 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}에 대한 엄폐 효율이 100%가 되지만 해당 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 없다. 또한 범위 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −50% 감소한다.\n전투 중 착용자가 사용한 수류탄이 처음으로 적 3명 이상에게 동시에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 해당 행동은 {g|Encyclopedia:ActionPoints}행동력{/g}을 소모하지 않는다.
+177	착용자의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 자신으로부터 반경 2칸 내의 적 2명 이상에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 0인 {g|f:e7836ee2419b46d68da401547aaf630c}발차기{/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.
+178	돌파병 장화
+179	바람잡이 장화
+180	착용자가 적이 있는 칸을 통과할 때마다 착용자의 다음 {g|Encyclopedia:Turn}턴{/g}까지 해당 적의 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +15% 증가한다.
+181	착용자가 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 할 때마다 인접한 모든 적의 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 즉시 유발한다.\n범위 공격으로 유발한 기회 공격마다 착용자는 임시 {g|Encyclopedia:HitPoints}체력{/g}을 +{unit_stat|WarhammerToughness|bonus} 얻는다.
+182	난동꾼 장화
+183	<u>({g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스 / 2)</u>
+184	<u>(착용자의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스 / 2)</u>
+185	착용자가 아군을 {g|Encyclopedia:Ability}능력{/g}의 대상으로 지정할 때마다 즉시 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|SelfMP|6e3b70f210d24bcf8c87db1890023ac5} 얻는다.\n대상 아군은 자신의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시 이동력을 +{uip|AllyMP|6e3b70f210d24bcf8c87db1890023ac5} 얻는다.
+186	커미사르 장화
+187	<u>최대 {g|Encyclopedia:MovementPoints}이동력{/g}</u>
+188	착용자의 {g|Encyclopedia:MovementPoints}이동력{/g}이 0이 될 때마다 인접한 모든 적에게 {g|Encyclopedia:ImpactDamage}충돌 피해{/g}를 {uip|Damage|02b02020fbd24a5191a6528dbef3ec78} 준다.
+189	죽음의 무희 장화
+190	착용자의 {g|Encyclopedia:MovementPoints}이동력{/g}이 +3 증가한다.
+191	동력 장화
+192	인포서 경량 장화
+193	착용자가 공격을 {g|Encyclopedia:Parry}막기{/g}로 막을 때마다 공격자에게 즉시 반격한다.\n이 공격이 {g|Encyclopedia:DamageGlossary}피해{/g}를 주면 {g|f:e7836ee2419b46d68da401547aaf630c}발차기{/g}로 적을 {g|Encyclopedia:PushGlossary}밀치기{/g}한다.
+194	착용자의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +5, {g|Encyclopedia:SkillAthletics}운동{/g}이 +10 증가한다.
+195	인체공학 장화
+196	<u>(2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+197	<u>(5 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+198	착용자가 검을 사용하면 {g|Encyclopedia:Parry}막기{/g}가 +{uip|Parry|b94daa0387c640f29b5b561dc37ff673}% 증가한다.\n검으로 막기에 성공할 때마다 즉시 반격하여 공격한 적을 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태로 만든다.\n공격자가 비틀거림 상태이면 착용자의 막기가 +{uip|StaggerParry|b94daa0387c640f29b5b561dc37ff673}% 증가한다.
+199	검술 장화
+200	착용자는 {g|Encyclopedia:SlowedEffect}감속{/g}과 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 효과에 면역이 된다.
+201	자유로운 질주 장화
+202	보급관 장화
+203	착용자가 소모품을 사용할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|Encyclopedia:MovementPoints}이동력{/g} +2와 {g|Encyclopedia:DodgeGlossary}회피{/g} +20%를 얻는다.
+204	순교자의 장화
+205	착용자는 적에게 인접한 칸을 이동할 때 평소와 같은 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모한다.\n또한 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 자신의 {g|Encyclopedia:Resolve}결의{/g}만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻는다.
+206	{g|Encyclopedia:Round}라운드{/g} 중 처음으로 착용자의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 자신으로부터 반경 2칸 내의 적 2명 이상에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주면 {g|Encyclopedia:ActionPoints}행동력{/g}을 +2 얻고, 해당 공격은 공격 횟수 제한에 포함되지 않는다. 그 후 착용자는 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다.
+207	제국 해군 돌파병 장화
+208	{g|f:4955b43454f6488f82892e166c76c995}돌진{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 −1 감소한다.
+209	공압 장화
+210	착용자는 불타는 칸을 지나가도 {g|Encyclopedia:BurningEffect}화상{/g} 효과를 받지 않는다.\n착용자가 불타는 칸에 서 있으면 부여하는 화상 중첩 수가 +3 증가한다.
+211	방화광 장화
+212	<u>({g|Encyclopedia:SkillAwareness}인지{/g} / 4)</u>
+213	착용자가 어떤 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}에서든 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g} 원거리 공격을 하면 해당 공격의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +{uip|Pen|64b0f8074bab45d4850cbb3cd5bae3a7}% 증가한다.
+214	명사수 장화
+215	착용자가 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 25% 확률로 {g|Encyclopedia:MovementPoints}이동력{/g}을 2 얻는다.
+216	유격병 장화
+217	원정대 신발
+218	착용자가 내비게이터 능력을 사용할 때마다 {g|Encyclopedia:Round}라운드{/g} 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +15% 증가한다. 중첩된다.
+219	소로리타스 장화
+220	착용자가 한 {g|Encyclopedia:Turn}턴{/g}에 적 5명을 연속으로 처치할 때마다 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 175로 올린다.
+221	<u>(5 × 착용자의 {g|Encyclopedia:BleedingEffect}출혈{/g} 레벨)</u>
+222	전투 시작 시 착용자에게 {g|Encyclopedia:BleedingEffect}출혈{/g}(4)을 부여한다.\n착용자가 범위 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 모든 생명체에게 출혈(4)을 부여한다.\n또한 이 범위 근접 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|cdb2305218224a638cb83c6845ac4bb5}% 증가한다.
+223	가시 장화
+224	굳건한 장화
+225	착용자와 인접한 아군은 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되지 않으며 강제 이동 효과에 면역이 된다.
+226	착용자가 원거리 공격 후 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 해당 근접 공격의 대상은 −15 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+227	아치 밀리턴트의 장화
+228	착용자가 한 번의 공격으로 적을 2명 이상 처치하면 해당 공격은 착용자의 {g|Encyclopedia:MovementPoints}이동력{/g}을 전부 소모하지 않는다.
+229	전쟁광 장화
+230	바람 질주 장화
+231	{g|Encyclopedia:Round}라운드{/g} 중 처음으로 적이 착용자에게 인접한 칸으로 이동하면 착용자는 즉시 {g|Encyclopedia:MovementPoints}이동력{/g} 3, {g|Encyclopedia:ActionPoints}행동력{/g} 0인 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻는다.\n이 {g|Encyclopedia:Turn}턴{/g} 동안 착용자는 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.
+232	{g|f:22d6c1b32a6d47f4899a370e28cf16f9}발차기{/g} 능력의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 0이 되고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|15ad552f904944b19a7064a81bfcd801} 증가한다.\n착용자가 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 무기{/g}로 적을 처치할 때마다 {g|f:22d6c1b32a6d47f4899a370e28cf16f9}발차기{/g} 능력의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 초기화된다.
+233	쇄빙 철갑화
+234	위대한 아르눌프! 영광스러운 아르눌프!{br}\n그 발걸음에 얼음이 갈라지니,{br}\n그 깊이가 오십 길이라.{br}\n육중한 발길을 내리쳐,{br}\n만인의 아버지의 원수들을{br}\n바다 늑대의 먹이로 보내네.{br}\n스콜!{br}
+235	착용자의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:Round}라운드{/g} 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +20% 증가한다.
+236	아드레날린 전투 장화
+237	성계의 흐름
+238	전투의 첫 {g|Encyclopedia:Round}라운드{/g} 동안 착용자는 다음 혜택을 얻는다.\n-<indent=5%>{g|Encyclopedia:MovementPoints}이동력{/g} +20.</indent>\n-<indent=5%>위협 구역이 착용자의 이동 비용에 영향을 주지 않는다.</indent>\n-<indent=5%>착용자의 이동이 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.</indent>
+239	턴당 1회, 착용자가 {g|f:a29aa37a4db3485fb5a0ee7b7515e0dd}피의 맹세{/g}나 {g|f:3774147440ac412a876725b9b2b24682}복수의 맹세{/g}를 사용하면 자신의 턴 종료 시까지 행동력 소모가 0인 {g|f:9b09708aa0c244a6bc4a8e46d69c5884}질주{/g} 사용 횟수를 +1 얻는다.\n이 {g|f:9b09708aa0c244a6bc4a8e46d69c5884}질주{/g} 능력을 사용하면 자신의 결의만큼 이동력을 회복한다.
+240	피 위의 춤
+241	전투 시작 시 착용자는 구급상자와 맹공 소모품의 효과를 재현하는 {g|f:b6e3c9398ea94c75afdbf61633ce2f85}구급상자{/g}와 {g|f:aa74639ee0f34ac7bd5f6f797631bffe}맹공{/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다. {g|Encyclopedia:ActionPoints}행동력{/g} 소모는 0이며 각 능력은 전투당 1회만 사용할 수 있다.
+242	외과의의 장화
+243	착용자의 {g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g} {g|Encyclopedia:Ability}능력{/g}으로 아군이 얻는 {g|Encyclopedia:Resolve}결의{/g} 보너스가 2배가 된다.
+244	불굴의 뱅가드 장화
+245	착용자의 {g|f:4955b43454f6488f82892e166c76c995}돌진{/g}, {g|f:f6d693dbff0d44eb9590684241e63ef3}베기{/g}, {g|f:7daf9f9d4c3d44ccaeebb0b9a7725b54}죽음의 무도{/g} {g|Encyclopedia:Ability}능력{/g}이 {g|Encyclopedia:Opening}빈틈{/g}에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 대상에게 {g|Encyclopedia:BleedingEffect}출혈{/g}(10)을 부여한다.
+246	칼날 장화
+247	착용자가 {g|f:e299c13f2278479bbd4e23269af5657c}피의 비{/g}나 {g|f:3a4eebf212974ba68d6867981c240b1b}혈액병{/g}의 영향을 받는 칸을 통과할 때 소모하는 이동력이 −50% 감소한다.
+248	블레이드 댄서의 경갑
+249	침묵의 장화
+250	턴당 1회, 착용자가 {g|f:a29aa37a4db3485fb5a0ee7b7515e0dd}피의 맹세{/g}나 {g|f:3774147440ac412a876725b9b2b24682}복수의 맹세{/g}를 사용하면 자신의 턴 종료 시까지 행동력 소모가 0인 {g|f:9b09708aa0c244a6bc4a8e46d69c5884}질주{/g} 사용 횟수를 +1 얻는다.
+251	날쌘 그림자
+252	승리의 장화
+253	착용자가 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}이나 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}을 사용할 때마다 {g|Encyclopedia:HitPoints}체력{/g}을 모두 회복하고 이번 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:ActionPoints}행동력{/g}을 +2 얻는다.
+254	착용자가 근접 공격으로 적을 처치할 때마다 행동력 소모가 0인 {g|f:4955b43454f6488f82892e166c76c995}돌진{/g} 사용 횟수를 즉시 +1 얻는다(이 능력이 없어도 적용된다).
+255	공허의 고참 장화
+256	곡예사의 경갑
+257	전투 시작 시 착용자는 자신의 이동력만큼 {g|f:48b5d7a82ab3411eae0449d06da0d821}곡예 기교{/g} 중첩을 얻는다. 이 중첩은 전투 종료 시까지 사용할 수 있다.
+258	이 캐릭터는 곡예 기교 중첩을 하나 소모하여 공격을 다시 굴리거나(빗나감, 회피 또는 막기 발생 시), 공격을 피할 수 있다.
+259	곡예 기교
+260	착용자가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 뒤의 적을 원거리 공격할 때마다 해당 공격에 대한 엄폐 효율이 −40% 감소한다.\n<indent=5%>{g|Encyclopedia:Recoil}반동{/g} −15</indent>
+261	반동 제어 전투 장화
+262	착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않으면 다음 턴 종료 시까지 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}이 2배가 되고 강제 이동 효과에 면역이 된다.
+263	성전사의 장화
+264	착용자가 범위 공격을 수행하면 이동력을 +4 얻고 계속 이동할 수 있다.
+265	중장 돌파병의 장화
+266	<u>인접한 생명체 수</u>
+267	<u>{g|Encyclopedia:SoulmarkTypesGlossary}신념{/g} — {g|Encyclopedia:SoulMarkCorruption}이단적{/g} 등급</u>
+268	착용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시 인접한 각 생명체와 자신에게 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 {uip|Damage|dfe89c96a963499f8a5ca14f9b95e7b4} 준다.\n적에게는 추가로 워프 {g|Encyclopedia:DamageGlossary}피해{/g}를 +{uip|MoreDamae|dfe89c96a963499f8a5ca14f9b95e7b4} 준다.
+269	저주받은 장화
+270	착용자는 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기 공격에 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +15% {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+271	데스 월드 전투 장화
+272	착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않으면 다음 턴 종료 시까지 부분 엄폐의 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}이 2배가 된다.
+273	방어 장화
+274	<u>(착용자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스 × 2)</u>
+275	착용자는 {g|f:197b8a8a12b0442db7ffee1067cf3d97}약점 노출{/g} 효과를 받는 적을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Dodge|ab83495228d0477dbbbb20c2c390cc58}% 증가한다.
+276	제자의 장화
+277	<u>(5 × {g|Encyclopedia:SoulMarkCorruption}이단적{/g} 등급)</u>
+278	{g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 헌신자 필요\n착용자는 항상 감속 상태이지만 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 효과에 면역이 된다.\n착용자의 근접 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상이 −{uip|Check|c9279ededcda42f58f38dda7b6a16946} 불이익을 받는 강인함 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1턴 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다. 성공하면 대신 1턴 동안 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된다.
+279	타락한 인포서 장화
+280	적이 착용자에게 기회 공격을 시도할 때마다 공격이 명중하기 전에 해당 적이 1칸 뒤로 밀려난다.
+281	전술 장화
+282	착용자의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}에 영향을 받은 적마다 전투 종료 시까지 착용자가 부여하는 {g|Encyclopedia:BurningEffect}화상{/g} 효과의 위력이 +1 증가한다. 이 {g|Encyclopedia:Bonus}보너스{/g}는 중첩된다.
+283	검은 아콘의 경갑
+284	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 때마다 {g|Encyclopedia:HitPoints}체력{/g}을 <u>({g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g} / 2)</u>만큼 회복하고 {g|Encyclopedia:MovementPoints}이동력{/g}을 +2 얻는다.\n<indent=5%>치명타 피해 +15%</indent>
+285	착용자가 {g|f:e299c13f2278479bbd4e23269af5657c}피의 비{/g}나 {g|f:3a4eebf212974ba68d6867981c240b1b}혈액병{/g}의 영향을 받는 칸을 통과할 때 소모하는 이동력이 0이 된다.
+286	블레이드 댄서의 경량 경갑
+287	<u>(4 × ({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 + {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급))</u>
+288	{g|Encyclopedia:WarhammerAgility}민첩{/g}이 +5 증가하고 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Dodge|337dc2d4ce7648e4a2f7998a14aa71cb}% 증가한다.
+289	내마모 장화
+290	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
+291	착용자의 {g|Encyclopedia:Parry}막기{/g}가 +{uip|Parry|116f8ed237df4e4bbabfaf9175eb7121}% 증가하고 실패한 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Test}판정{/g}을 다시 굴린다.
+292	개량형 경량 장화
+293	착용자가 경량 {g|Encyclopedia:WarhammerArmourGlossary}방어구{/g}를 착용하면 {g|Encyclopedia:Parry}막기{/g}가 +{unit_stat|WarhammerStrength|bonus}% 증가한다.
+294	경량 장화
+295	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
+296	{g|f:e7836ee2419b46d68da401547aaf630c}발차기{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 0이 되고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|437b8247ae98465491ab35193f77e47d} 증가한다.
+297	아스타르테스 파워 장화
+298	사이커의 신발
+299	착용자가 사이킥 능력을 사용할 때마다 전투 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +3% 증가한다. 중첩된다.
+300	착용자의 아군이 {g|f:a39d7daf9b884978a66ef00675b2766f}따르겠습니다!{/g}를 사용할 때마다 착용자 주변 반경 2칸 내의 아군마다 해당 아군의 다음 공격 {g|Encyclopedia:DamageGlossary}피해{/g}가 +33% 증가한다.
+301	집결의 장화
+302	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스 / 2)</u>
+303	착용자의 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +5 증가한다. 착용자가 유발하는 {g|Encyclopedia:PushGlossary}충돌{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|5db94011cf9f4531a77ecfdcdd19e18a} 증가한다.
+304	강화 장화
+305	전격 장화
+306	착용자는 인접한 아군이 없는 적을 상대로 {g|Encyclopedia:DamageGlossary}피해{/g}가 +4 증가한다. {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격에서는 첫 타격이나 첫 발사체에만 적용된다.\n또한 착용자의 {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}질주{/g}와 {g|f:4955b43454f6488f82892e166c76c995}돌진{/g} {g|Encyclopedia:Ability}능력{/g}의 사거리가 +1칸 증가한다.
+307	착용자가 양손에 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장비하면 {g|f:f6d693dbff0d44eb9590684241e63ef3}베기{/g} {g|Encyclopedia:Ability}능력{/g} 사용 시 보조 무기로 추가 근접 공격을 한다.
+308	잠행 장화
+309	착용자의 {g|f:56bd0b3c54784098ae7044ceae173c7c}맹렬한 추적{/g} {g|Encyclopedia:ExtraTurn}추가 턴{/g}이 발동할 때마다 해당 추가 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:ActionPoints}행동력{/g} +1과 {g|Encyclopedia:MovementPoints}이동력{/g} +{unit_stat|WarhammerAgility|bonus}을 얻는다.
+310	추적 장화
+311	착용자가 {g|Encyclopedia:Round}라운드{/g} 중 처음으로 방패로 공격을 {g|Encyclopedia:BlockChance}방어{/g}하면 다음 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:ActionPoints}행동력{/g}을 +2 얻는다.
+312	정예 합성 가죽 장화
+313	<u>(2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+314	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 +2 회복하고 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|Crit Hit Chance|f08a8a9e6e6142b7b839d5c1d8fda4db}% 증가한다. {g|Encyclopedia:Round}라운드{/g} 종료 시까지 지속된다. 중첩된다.
+315	추진 장화
+316	착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}({g|f:6f1b7cfb48a0450cb85ce8a8879502de}죽음의 강하{/g}와 {g|f:e955823f54d24088ae1fdefe88d3684d}검무{/g} 능력 제외)이 {g|Encyclopedia:DodgeGlossary}회피{/g} 또는 {g|Encyclopedia:Parry}막기{/g}로 저지되거나 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가하면, 착용자는 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{unit_stat|WarhammerAgility|bonus} 얻고 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.
+317	관성 장화
+318	{g|f:613246cc28464ade9845da9b30dc65c3}무자비한 제압{/g} 효과를 받는 동안 착용자는 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|Encyclopedia:ProneEffect}넘어짐{/g}, {g|Encyclopedia:SlowedEffect}감속{/g}에 면역이 된다.
+319	착용자는 {g|f:8c7d2be4225745e4911eb3c53c603b76}돌격 맹공{/g} {g|Encyclopedia:Ability}능력{/g}을 {g|Encyclopedia:Turn}턴{/g}당 2회 사용할 수 있다.
+320	방패병의 장화
+321	<u>(({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 + {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스) / 2)</u>
+322	착용자가 {g|f:4955b43454f6488f82892e166c76c995}돌진{/g}, {g|f:7daf9f9d4c3d44ccaeebb0b9a7725b54}죽음의 무도{/g}, {g|f:9b09708aa0c244a6bc4a8e46d69c5884}질주{/g}, {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용할 때마다 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|ddc5a202a550411d9a23e1d13f1d8ddb}% 증가한다. 최대 3회 중첩된다.
+323	죽음의 느린 행진
+324	체인 무기의 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 +25% 증가한다.
+325	체인 무기
+326	헤카타리 톱니
+327	<u>(3 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SoulMarkCorruption}이단적{/g} 등급)</u>
+328	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +10 증가한다.\n{g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받지 않는다. 근접 공격에 명중당할 때마다 즉시 공격자에게 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 {uip|Damage|d9b527f50267467f9c2d10542c92b90a} 준다.
+329	이성 너머
+330	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +10 증가한다.\n{g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받지 않는다.
+331	논리 너머
+332	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +30 증가한다.\n{g|Encyclopedia:Turn}턴{/g} 중 처음으로 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}한 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 대상은 해당 능력에 대한 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 자동으로 실패한다.\n턴 중 처음으로 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}한 사이킥 능력이 생명체 3명 이상에게 영향을 주면 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 {g|Encyclopedia:ActionPoints}행동력{/g}을 +1 회복한다.
+333	죽음의 전령
+334	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +10 증가하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +200% 증가한다.\n{g|f:f39e0e323f314259b3e7510b110d3a4b}포박된{/g} 적의 {g|Encyclopedia:Turn}턴{/g} 시작 시 해당 적은 −{unit_stat|WarhammerStrength|bonus} {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다. 실패하면 사이버 마스티프가 피해가 +100% 증가한 공격을 해당 적에게 가한다.\n{g|f:7d75105e9e224ceab784932c12a26757}보호받는{/g} 아군이 {g|f:ebfe1f63501a4134962d0b2ff6ab6655}전투의 달인{/g} 효과를 얻는다.
+335	공포의 냄새
+336	<u>(2 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
+337	<u>({g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스 / 2)</u>
+338	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +15 증가한다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Turn}턴{/g} 종료 시 사이버 레이븐 주변 반경 4칸 내 아군의 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g} 레벨이 −{uip|Lose|3ac984bef2744d90a505b620767816e8} 감소하고, 해당 구역에서 이 효과를 받는 적의 효과 레벨은 +{uip|Gain|3ac984bef2744d90a505b620767816e8} 증가한다.
+339	균형의 법칙
+340	서보 스컬 군집이 이 효과를 5중첩 얻으면 반경 4칸 내의 무작위 아군({g|Encyclopedia:CareerOverseerGlossary}오버시어{/g} 제외)에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여한다. 그 후 모든 중첩이 제거된다.
+341	추가 자극
+342	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +20 증가한다.\n서보 스컬 군집이 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Ability}능력{/g}을 {g|f:d68b6efac32b4db7afaf7de694eab819}확장{/g}할 때마다 {g|f:731a8efa918847c0828cb53018147a23}추가 자극{/g}을 +1중첩 얻는다. 5중첩이 되면 가장 가까운 아군(오버시어 제외)에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여한다. 그 후 모든 중첩이 제거된다.
+343	자극 프로토콜
+344	사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +20 증가하고 피해가 +300% 증가한다.\n{g|Encyclopedia:BleedingEffect}출혈{/g} 상태인 대상에 대한 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +25% 증가한다. {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Turn}턴{/g} 종료 시 사이버 이글이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적을 공격한다. 이 공격에는 다음 효과가 적용될 수 있다.\n-<indent=5%>공격 전 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 {g|Encyclopedia:HitPoints}체력{/g}이 100%이면 해당 적은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못할 경우 출혈을 {unit_stat|WarhammerPerception|bonus}레벨 받는다.</indent>\n-<indent=5%>공격 전 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 체력이 50% 이하이면 해당 공격의 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +50% 증가한다.</indent>\n-<indent=5%>이번 라운드에 오버시어의 공격이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적에게 명중했다면 사이버 이글의 공격은 치명타 피해가 +20% 증가한다.</indent>
+345	피의 향연
+346	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +25 증가하고 피해가 +200% 증가한다.
+347	하늘 사냥꾼 마크 I
+348	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +15 증가한다. {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +25% 증가하고 피해가 +250% 증가한다.
+349	강철 포식자 마크 I
+350	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +30 증가하고 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +75% 증가한다.
+351	검은 징조 마크 I
+352	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +15 증가한다. 받는 피해가 −15% 감소한다.
+353	연산 모듈 에프아이-디알-알파
+354	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +35 증가하고 피해가 +350% 증가한다.
+355	하늘 사냥꾼 마크 II
+356	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +25 증가한다. {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +75% 증가하고 피해가 +300% 증가한다.
+357	강철 포식자 마크 II
+358	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +35 증가하고 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +100% 증가한다.
+359	검은 징조 마크 II
+360	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +30 증가한다. 받는 피해가 −30% 감소한다.
+361	연산 모듈 에프아이-디알-베타
+362	<u>(3 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급)</u>
+363	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +15 증가하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +150% 증가한다.\n사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}포박된{/g} 대상에게 가하는 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}은 항상 대상의 이동을 중단시킨다.\n{g|f:f39e0e323f314259b3e7510b110d3a4b}포박된{/g} 대상에 대한 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|Crit|2cf043106e4e42a6b5c1b49ac70f760a}% 증가한다.
+364	살아 있는 덫
+365	<u>(4 × {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
+366	사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +10 증가하고 피해가 +150% 증가한다. {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 사이버 이글의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Dodge|cdd71475a76f46adb072f009748e5c1a}% 증가한다.\n사이버 이글이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 근접 공격을 회피하면 해당 적은 즉시 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 가장 적은 공격으로 인접한 무작위 아군에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키며, 이 공격은 반드시 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 된다.
+367	폐소공포증
+368	사이버 마스티프의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +10 증가하고 피해가 +100% 증가한다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Turn}턴{/g} 종료 시 사이버 마스티프가 적과 인접해 있으면 전투 종료 시까지 오버시어의 {g|Encyclopedia:Resolve}결의{/g}가 +1 증가한다. 오버시어가 {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자이면 무작위 능력치에도 +2 보너스를 얻는다. 중첩된다.
+369	지배와 제거
+370	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +10 증가한다.\n사이버 레이븐에게 {g|f:5f6ef4bf13754f7285ac540bfd2ee80f}재배치{/g}를 사용한 후 생명체 2명 이상과 인접해 있으면 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 이 사이버 레이븐을 통해 중계하는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가한 것으로 계산한다.\n오버시어가 {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 신봉자이면 {g|f:5f6ef4bf13754f7285ac540bfd2ee80f}재배치{/g}를 턴당 2회 사용할 수 있다.
+371	상승효과
+372	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10 증가하고 피해가 +75% 증가한다.
+373	전투 알고리즘
+374	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +5 증가하고 피해가 +100% 증가한다.\n사이버 이글이 {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g}하기 시작하면 인접한 적은 +20 보너스를 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못할 경우 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 +1중첩 받는다.\n사이버 이글이 당혹 상태인 대상에게 주는 피해가 +100% 증가한다.
+375	날개 달린 망상
+376	사이버 마스티프의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +5 증가하고 피해가 +100% 증가한다.\n사이버 마스티프가 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 될 때마다 전투 종료 시까지 가하는 피해에 중첩 가능한 +100% 보너스를 얻는다.
+377	죽음의 손아귀
+378	<u>({g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스 / 2)</u>
+379	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +5 증가한다.\n어떤 신호 효과든 활성화되어 있는 동안 서보 스컬 군집의 {g|Encyclopedia:Deflection}피해 감소{/g}가 +{uip|Deflection|eb8d903b792a4ea5bf1874da3b29142c} 증가하고, 과관통되지 않으며, 아군에게 부분 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 취급된다.
+380	무생물 방패
+381	<u>(4 × {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
+382	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +20 증가하고 피해가 +400% 증가한다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 사이버 이글이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적에게 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가하고, {g|Encyclopedia:Round}라운드{/g} 종료 시까지 해당 적의 지각을 −{uip|Debuff|d1aa3f6ae4a542f693759c53bebd9692} 감소시킨다. 이 불이익은 중첩되지 않는다.\n사이버 이글이 {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g}하기 시작할 때마다 인접한 적은 모든 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 잃고 1라운드 동안 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다.
+383	매사냥
+384	<u>(3 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급)</u>
+385	사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +15, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|Crit|f4beea717feb4fa3b3293f258c516502}% 증가한다. 또한 {g|Encyclopedia:DamageGlossary}피해{/g}가 +150% 증가한다.
+386	의로운 자의 눈
+387	사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +15 증가하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +150% 증가한다.
+388	강화 광학 장치
+389	서보 스컬 군집의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +20 증가한다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Turn}턴{/g} 시작 시 서보 스컬 군집 주변 반경 4칸 내 아군의 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g} 레벨이 −{unit_stat|WarhammerFellowship|bonus} 감소한다.\n오버시어의 턴 종료 시 서보 스컬 군집이 폭발하여 {g|f:088ba04da57c434b86b65eb603d52608}화염 수류탄{/g}의 효과를 재현한다.
+390	열역학 프로토콜
+391	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 2)</u>
+392	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +20 증가하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +250% 증가한다.\n{g|Encyclopedia:Round}라운드{/g}마다 처음 {uip|Count|a2d3b06bb12c4fa9ab73a1273eb4c3d0}회 동안, 사이버 이글의 공격을 제외한 공격이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 사이버 이글도 피해가 +100% 증가한 공격을 해당 적에게 가한다. 이 공격이 명중하면 해당 적은 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다.
+393	집중 괴롭히기
+394	<u>(2 × {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
+395	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
+396	사이버 마스티프의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +150% 증가한다.\n{g|f:7d75105e9e224ceab784932c12a26757}보호받는{/g} 아군이 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막을 때마다 사이버 마스티프는 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +{uip|THP|69f357995ff74dc0bd37ea1657a919c7} 얻고 피해가 +{uip|Damage|69f357995ff74dc0bd37ea1657a919c7}% 증가한다. 중첩되지 않는다.\n{g|f:78e7771b7c974111887e762d5e999a11}지켜라!{/g}를 {g|Encyclopedia:Turn}턴{/g}당 여러 번 사용할 수 있지만 한 라운드에서 첫 사용 이후 사용할 때마다 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 +1 증가한다.
+397	보호 본능
+398	<u>(3 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
+399	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 3)</u>
+400	<u>(5 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
+401	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +15, {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Dodge|20f00bda7d544f34b361e3015afdde4a}%, {g|Encyclopedia:Deflection}피해 감소{/g}가 +{uip|Deflection|20f00bda7d544f34b361e3015afdde4a} 증가한다.\n서보 스컬 군집은 반경 4칸 내 적의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 된다. 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당할 때마다 받는 피해가 −{unit_stat|WarhammerFellowship|bonus} 감소하고 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|Armour|20f00bda7d544f34b361e3015afdde4a}% 증가한다. {g|Encyclopedia:Round}라운드{/g} 종료 시까지 지속된다. 중첩된다.
+402	요새화 프로토콜
+403	<u>(3 × ({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
+404	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +10 증가한다.\n서보 스컬 군집의 {g|Encyclopedia:HitPoints}체력{/g}이 0이 되면 반경 4칸 내의 각 적에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 50%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|Damage|c1c33574340f43979a8ecab4c8af708e} 준다.
+405	자폭 알고리즘
+406	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} / 3)</u>
+407	<u>({g|Encyclopedia:WarhammerFellowship}친화력{/g} / 3)</u>
+408	서보 스컬 군집을 통해 {g|f:215d9f42b7e6435e9ed77337156e0fc3}확장{/g}된 {g|Encyclopedia:Ability}능력{/g}이 다른 생명체에게 영향을 줄 때마다 서보 스컬 군집은 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerFellowship}친화력{/g}에 중첩 가능한 +5 보너스를 얻는다.\n오버시어가 {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 신봉자이면 서보 스컬 군집이 능력을 총 5회 {g|f:215d9f42b7e6435e9ed77337156e0fc3}확장{/g}할 때마다 반경 4칸 내의 각 적에게 즉시 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|PEN|69fd340db26640ceaf4d43ce7de18680}%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|DMG|69fd340db26640ceaf4d43ce7de18680} 준다. 그 후 능력 횟수가 초기화된다.
+409	분석 모듈
+410	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +25 증가한다.\n신호 {g|Encyclopedia:Ability}능력{/g}의 효과를 계산할 때 서보 스컬 군집의 {g|Encyclopedia:Characteristic}능력치{/g}가 +30 증가한 것으로 취급한다.
+411	강화 무선 신호
+412	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +30 증가하고 피해가 +300% 증가한다.\n사이버 이글이 {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g} 상태인 대상에게 피해를 줄 때마다 해당 대상은 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못할 경우 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 +1중첩 받는다.
+413	나약한 자의 재앙
+414	<u>(2 × {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
+415	<u>(2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+416	<u>(5 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
+417	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +10 증가하고 피해가 +150% 증가한다.\n사이버 이글이 {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g} 중이면 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 원거리 공격 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|Chance|e6e323339782401881d5bae55641bf03}% 증가한다.\n{g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적에게 가하는 치명타 피해가 +{uip|Damage|e6e323339782401881d5bae55641bf03}% 증가한다. 또한 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적이 가하는 피해가 −{uip|Resist|e6e323339782401881d5bae55641bf03}% 감소한다.
+418	공중 지원
+419	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +25 증가한다. {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +50% 증가하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +300% 증가한다.\n{g|f:11251c47c7b14a87824cffe48ea6374d}전투 모드: 대기{/g} 중에는 사이버 마스티프의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|Critchance|0428b4d435254ec4af3db36b75bfd64c}% 증가하고, 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g} 시 {g|Encyclopedia:BleedingEffect}출혈{/g}을 {unit_stat|WarhammerStrength|bonus}레벨 부여한다.
+420	살육의 갈망
+421	<u>(5 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+422	<u>({g|Encyclopedia:WarhammerStrength}근력{/g} 보너스 / 2)</u>
+423	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +20 증가한다. {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +50% 증가하고 피해가 +300% 증가한다.\n라운드마다 처음 {uip|Count|a07bc75d755f4a7cab924d138fa23298}회 동안, 아군({g|Encyclopedia:CareerOverseerGlossary}오버시어{/g} 제외)이 {g|f:f39e0e323f314259b3e7510b110d3a4b}포박된{/g} 대상을 공격하여 명중시키면 {g|f:e16934c3dbf44cb997c684a6ddce7575}포박 중인{/g} 사이버 마스티프도 해당 대상을 공격한다.\n사이버 마스티프가 {g|Encyclopedia:Round}라운드{/g} 중 처음으로 적을 처치하면 최대 {g|Encyclopedia:HitPoints}체력{/g}의 20%를 회복한다.
+424	무리 사냥
+425	<u>(5 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
+426	사이버 마스티프의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +300% 증가하고 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|Chance|4c57dca794ad4f6a93959ab85fe0e680}% 증가한다.\n{g|f:f39e0e323f314259b3e7510b110d3a4b}포박된{/g} 적은 사이버 마스티프의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 없다. 사이버 마스티프가 치명타를 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 적은 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+427	무자비한 맹공
+428	<u>(2 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급)</u>
+429	사이버 레이븐이 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 비공격 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}할 때마다 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +5, {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +{uip|AGI|34b85b2841514256aac25560b25da4cc} 증가한다. 중첩된다.\n오버시어의 {g|Encyclopedia:Turn}턴{/g} 종료 시 사이버 레이븐의 의지력이 80 이상이면 즉시 체력을 최대로 회복한다. 이미 {g|Encyclopedia:HitPoints}체력{/g}이 최대이면 반경 4칸 내의 각 아군에게 {g|Encyclopedia:Resolve}결의{/g}를 +1 부여한다.
+430	생명의 발산
+431	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +25 증가한다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Turn}턴{/g} 시작 시 사이버 레이븐 주변 반경 4칸 내의 적은 즉시 사이버 레이븐 쪽으로 1칸 이동하고, +20 보너스를 받는 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못할 경우 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다.
+432	심연을 향한 발걸음
+433	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +15 증가한다.\n{g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}된 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 영향을 받은 적은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못할 경우 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된다.\n이미 감속 상태인 적은 +20 보너스를 받는 민첩 저항 {g|Encyclopedia:Test}판정{/g}에 성공하지 못할 경우 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다. 이동 불가에 면역인 대상은 <u>{g|Encyclopedia:MaxWounds}최대 체력{/g}의 5%</u>만큼 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 받는다.
+434	이머티리움의 장막
+435	<u>(2 × {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스)</u>
+436	<u>(2 × {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스)</u>
+437	<u>(2 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
+438	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10 증가하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +100% 증가한다.\n사이버 마스티프의 공격이 {g|f:f39e0e323f314259b3e7510b110d3a4b}포박된{/g} 적에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:WarhammerStrength}근력{/g}에 중첩 가능한 +{uip|STR|cfced9bbf78741568fc1d5eb5f55c219} {g|Encyclopedia:Bonus}보너스{/g}와 {g|Encyclopedia:WarhammerToughness}강인함{/g}에 중첩 가능한 +{uip|TGH|cfced9bbf78741568fc1d5eb5f55c219} 보너스를 얻는다.
+439	온순한 자의 분노
+440	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10 증가하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +100% 증가한다.\n사이버 마스티프의 공격이 {g|f:f39e0e323f314259b3e7510b110d3a4b}포박된{/g} 적에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:WarhammerStrength}근력{/g}에 중첩 가능한 +{uip|STR|5346c7803ffe4101b9b901ac7623a42c} {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+441	불굴의 분노
+442	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +20 증가한다.\n서보 스컬 군집이 여러 신호 효과를 동시에 유지할 수 있다.
+443	위상 방사
+444	서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +10 증가한다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Turn}턴{/g} 시작 시 서보 스컬 군집에 인접한 적은 +20 보너스를 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못할 경우 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 +1중첩 받는다. 반경 4칸 내의 당혹 상태인 적마다 서보 스컬 군집의 {g|Encyclopedia:Deflection}피해 감소{/g}가 +1 증가한다.
+445	위험한 이웃
+446	강대한 주인의 영광과 위엄을 널리 알리도록 설계된 서보 스컬이다.
+447	전령 서보 스컬
+448	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +10 증가하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +100% 증가한다.\n적의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 해당 적의 {g|Encyclopedia:BlockChance}방패 막기{/g}, 회피, {g|Encyclopedia:Parry}막기{/g}가 −10% 감소한다. 오버시어가 {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자이면 해당 적은 추가로 모든 능력치에 −5 불이익을 받는다. 전투 종료 시까지 지속된다. 중첩된다.
+449	강철 발톱
+450	사이버 이글의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +20, {g|Encyclopedia:DamageGlossary}피해{/g}가 +300% 증가하고 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태인 대상에게 반드시 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가한다.\n사이버 이글이 {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g}하기 시작하면 인접한 적은 +20 {g|Encyclopedia:Bonus}보너스{/g}를 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못할 경우 넘어짐 상태가 된다.
+451	폭풍 돌풍
+452	<u>({g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SoulMarkCorruption}이단적{/g} 등급)</u>
+453	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +20, {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +50% 증가한다. {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}할 때마다 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 {uip|THP|08a0dd40cf694dd9a7f32c9b0f6a9e65} 얻는다.
+454	워프 전도 골격
+455	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +20, {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +50% 증가한다.
+456	사이킥 전도 골격
+457	사이버 마스티프의 상태에 따라 다음 효과가 적용된다.\n-<indent=5%>...{g|f:e16934c3dbf44cb997c684a6ddce7575}포박 중{/g}이면 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 50%를 회복한다.</indent>\n-<indent=5%>...{g|f:a63088cd6402424b8ec0c508e5143083}보호 중{/g}이면 {g|f:7d75105e9e224ceab784932c12a26757}보호받는{/g} 아군이 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 {uip|THP|6087d39917384fea9ad6ffc479bacc92} 얻는다.</indent>\n-<indent=5%>...{g|f:11251c47c7b14a87824cffe48ea6374d}전투 모드: 대기{/g} 중이면 다음 공격이 반드시 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 된다.</indent>\n그 후 사이버 마스티프가 자신의 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}에 인접한 칸으로 이동하여 {g|f:7e87f215637d45dfb80d7291177ed6c8}대기{/g}하기 시작한다.
+458	이리 와!
+459	<u>(3 × 사역마의 {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
+460	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +25 증가하고 피해가 +400% 증가한다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 {g|f:6087d39917384fea9ad6ffc479bacc92}이리 와!{/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.
+461	"이리 와!" 프로토콜
+462	이 사이버 마스티프의 다음 공격은 반드시 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 된다.
+463	<u>(2 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
+464	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +30 증가한다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 사이버 레이븐 주변 반경 4칸 내에 있으면 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}하는 공격 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 피해가 +{uip|Damage|de0326772ec8408d8b8e1614cec43697}% 증가하고 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않는다. 단, 사이버 레이븐이 공격 사이킥 능력을 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}할 때마다 오버시어는 자신의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%만큼 피해를 받는다. 또한 이 구역 내에서 오버시어는 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 되며 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 없다.
+465	이머티리움의 축복
+466	<u>({g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스 / 2)</u>
+467	<u>(2 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
+468	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +40 증가한다.\n{g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}할 때마다 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|MP|4c948aef7d49439dab9a3cb033b991d7} 얻는다. 공격 사이킥 능력을 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}할 때마다 다음에 {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}하는 공격 사이킥 능력의 피해가 +{uip|Damage|4c948aef7d49439dab9a3cb033b991d7}% 증가한다.
+469	에테르 바람
+470	<u>(2 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
+471	사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +30 증가한다.\n전투 시작 시 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 +5 증가한다.\n베일 손상이 10 이상이면 사이버 레이븐은 {g|Encyclopedia:DamageGlossary}피해{/g}를 받지 않으며, {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}중계{/g}하는 모든 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이 영향을 받은 적에게 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 {uip|Damage|cedb3ce1e67344f9bfe120ed3b81aae3} 추가로 준다.
+472	무덤의 한기

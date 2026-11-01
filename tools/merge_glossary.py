@@ -19,6 +19,32 @@ def rows(p):
     return r[1:] if r and r[0] and r[0][0] in ('english', 'speaker') else r
 
 
+STOP = set("""a an the of in on at to for with by from as is be are was were this that these those it its
+he him his she her hers they them their you your we our us i me my mine up down out over under all any some one more most
+no not yes something nothing everything anything someone anyone everyone none here there now then""".split())
+
+
+def proper_noun_ratio(words):
+    """Share of each word's dialogue occurrences that are capitalised mid-sentence (proper-noun use)."""
+    import re as _re
+    want = {w.lower() for w in words}
+    tot, cap = collections.Counter(), collections.Counter()
+    for f in glob.glob(os.path.join(ROOT, 'work', 'chunks', 'w2-*', '*.src.tsv')):
+        for ln in open(f, encoding='utf-8'):
+            if ln.startswith('#'):
+                continue
+            text = ln.rstrip('\n').split('\t', 2)[-1]
+            for m in _re.finditer(r"[A-Za-z][A-Za-z'\-]*", text):
+                lw = m.group(0).lower()
+                if lw not in want:
+                    continue
+                tot[lw] += 1
+                before = text[:m.start()].rstrip()
+                if m.group(0)[0].isupper() and before and before[-1] not in '.!?"\u201c>}:' and not before.endswith('\\n'):
+                    cap[lw] += 1
+    return {w: cap[w] / tot[w] for w in tot}
+
+
 def main():
     review = sys.argv[sys.argv.index('--review') + 1] if '--review' in sys.argv else None
     want, got, problems = {}, {}, []
@@ -40,15 +66,23 @@ def main():
                 got[key] = (e, k, cat, src, conf, rank)
     missing = [want[k][0] for k in want if k not in got]
     os.makedirs(GL, exist_ok=True)
-    # lowercase single words ("turn", "speed") are game terms only in system text -> system.w1.tsv (not dialogue)
+    # Single words: keep for dialogue only when the dialogue uses them as proper nouns (capitalised mid-sentence);
+    # otherwise ("Power", "order", "turn") they are game terms for system text only -> system.w1.tsv. Pronouns etc. drop.
+    proper = proper_noun_ratio([g[0] for g in got.values() if ' ' not in g[0].strip()])
     def target(e, cat):
-        if cat in ('system', 'item', 'ability'):
-            return 'system.w1.tsv' if (e.islower() and ' ' not in e) else 'system.tsv'
-        return 'setting.tsv'
+        w = e.strip()
+        if ' ' not in w:
+            if w.lower() in STOP:
+                return None
+            if proper.get(w.lower(), 1.0) < 0.6:
+                return 'system.w1.tsv'
+        return 'setting.tsv' if cat not in ('system', 'item', 'ability') else 'system.tsv'
     out = collections.defaultdict(list)
     for key in sorted(got, key=lambda k: -want.get(k, ('', 0))[1]):
         e, k, cat, src, conf, _ = got[key]
-        out[target(e, cat)].append('%s\t%s\t%s|%s|%s\n' % (e, k, cat, src, conf))
+        t = target(e, cat)
+        if t:
+            out[t].append('%s\t%s\t%s|%s|%s\n' % (e, k, cat, src, conf))
     count = collections.Counter()
     for fn in ('setting.tsv', 'system.tsv', 'system.w1.tsv'):
         with open(os.path.join(GL, fn), 'w', encoding='utf-8') as f:

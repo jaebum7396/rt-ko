@@ -1,0 +1,370 @@
+1	선택한 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기의 공격은 {g|Encyclopedia:Parry}막기{/g}가 20% 더 어려워진다. 해당 무기의 피해와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +2 증가한다.
+2	선택한 원거리 무기의 공격은 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}에 +20% 보너스를 얻는다. 해당 무기의 {g|Encyclopedia:Recoil}반동{/g}이 25% 감소하고 {g|Encyclopedia:RateOfFire}발사 수{/g}가 +25% 증가한다(최소 1발).
+3	선택한 원거리 무기의 공격은 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}에 +20% 보너스를 얻는다. 해당 무기의 {g|Encyclopedia:DamageGlossary}피해{/g}와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +2 증가한다.
+4	<u>(50 + 10 × {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+5	<u>(10 + 2 × {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+6	솔져가 즉시 모든 {g|Encyclopedia:ActionPoints}행동력{/g}과 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하고 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}에 +30% 보너스를 얻는다.\n다음에 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 사용하면 소모한 행동력과 이동력을 모두 돌려받고 행동력을 추가로 1 얻는다. 또한 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 제외한 솔져의 모든 능력의 재사용 대기시간을 초기화한다.
+7	솔져가 모든 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하여 선택한 방향으로 즉시 질주한다. {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다. 아군과 적을 통과할 수 있지만 장애물은 통과할 수 없다.
+8	질주
+9	<u>(2 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 2)</u>
+10	<u>추가 이동력</u>
+11	솔져가 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}에 −10 {g|Encyclopedia:Penalty}불이익{/g}을 받고 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 사용할 수 없다.
+12	숨 가쁨
+13	솔져가 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|MovementPoints|5e60764f84c94277ae6a78b63a1fd2aa} 얻는다. 다음 공격의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소하며 턴당 공격 횟수 제한에 포함되지 않는다.\n솔져는 다음 턴 종료 시까지 숨 가쁨 상태가 된다. 숨 가쁨 상태에서는 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}에 −10 불이익을 받고 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 사용할 수 없다.
+14	기동 사격
+15	솔져가 사격을 예고하는 신호를 보낸다. 솔져와 아군은 솔져의 다음 공격을 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}한다.
+16	통제 사격
+17	솔져의 다음 원거리 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격은 기본 {g|Encyclopedia:RateOfFire}발사 수{/g}가 2배가 되지만 {g|Encyclopedia:DamageGlossary}피해{/g}가 25% 감소한다. 모든 탄환이 무작위 궤적으로 발사된다.\n연사가 가능한 무기에만 적용된다.
+18	속사
+19	<u>(5 + 2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+20	<u>{g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스</u>
+21	<u>(5 + 2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+22	<u>{g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스</u>
+23	{g|f:8638221f9caf46649cefcbd7574804d1}학살의 희열{/g}을 사용할 수 있다.
+24	솔져는 모든 원거리 무기의 달인으로, 유리한 위치를 신속히 확보하고 적에게 화력을 쏟아부을 태세를 갖춘다. 다양한 무기에 능숙하지만 특히 {g|Encyclopedia:BurstAttacksGlossary}연사{/g}와 범위 무기로 적을 쓸어버리는 데 뛰어나다.\n핵심 분야: 이동과 원거리 공격, {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}, 연사, 범위 공격.
+25	솔져
+26	볼터나 볼트 피스톨 등의 볼트 무기를 사용할 수 있다.
+27	볼터 무기 숙련
+28	중화기의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1 및 +10% 증가하고 {g|Encyclopedia:Deflection}피해 감소{/g}를 2 무시한다.
+29	한계점
+30	전투 중 구급상자로 아군을 치료하면 <u>({g|Encyclopedia:SkillMedicae}의술{/g} / 10)</u>만큼 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 회복한다.\n구급상자 사용 시 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다.
+31	전투 의술
+32	플레이머, 헤비 플레이머, 핸드 플레이머 등의 화염 무기를 사용할 수 있다.
+33	화염 무기 숙련
+34	전투 중 처음 사용하는 수류탄은 {g|Encyclopedia:ActionPoints}행동력{/g}을 소모하지 않고 해당 {g|Encyclopedia:Turn}턴{/g}의 공격 횟수 제한에 포함되지 않는다.
+35	척탄병
+36	중화기 사격 시 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CriticalHitChance|1e6606f5500a4baba84c4351f36da215}% 증가하고 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|CriticalDamage|1e6606f5500a4baba84c4351f36da215}% 증가한다.
+37	압도
+38	<u>{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스</u>
+39	<u>(3 × {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+40	원거리 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격마다 첫 {g|Encyclopedia:HitSequenceGlossary}명중{/g}은 무기의 현재 {g|Encyclopedia:RateOfFire}발사 수{/g}만큼 추가 피해를 준다.
+41	총구 속도
+42	<u>(5 + 3 × {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+43	<u>({g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스 / 2)</u>
+44	솔져가 한 번의 원거리 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격으로 적에게 두 번 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면, 두 번째 명중은 첫 번째 명중의 피해만큼 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+45	집중 포화
+46	원거리 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}의 추가 피해를 결정할 때 솔져의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 대신 {g|Encyclopedia:SkillDemolition}폭파{/g}를 사용한다. 지능 10당 5% 대신 폭파 10당 피해가 5% 증가한다.
+47	폭파 공병
+48	{g|f:27dc9a14aaca464a901dc6242123c154}속사{/g}가 더는 {g|Encyclopedia:DamageGlossary}피해{/g}를 감소시키지 않는다.
+49	흔들림 없는 사격
+50	적을 3명 대신 2명 처치하면 {g|f:8638221f9caf46649cefcbd7574804d1}학살의 희열{/g}을 사용할 수 있다.
+51	신속한 학살
+52	솔져가 한 {g|Encyclopedia:Turn}턴{/g}에 수행하는 두 번째 공격 행동은 해당 턴에 솔져에게 피해를 받지 않은 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 +{uip|DamageBonus|1c82d5f20dfb4e8ab89f78a4adad66a5}% 더 준다.
+53	모두에게 한 발씩
+54	<u>(5 + 2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+55	{g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}이 완전 엄폐 시 +10%, 부분 엄폐 시 +20% 증가한다.
+56	지형 활용
+57	{g|Encyclopedia:Reload}재장전{/g} 시 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 2 감소한다(최소 1). 전투 중 첫 재장전은 행동력을 소모하지 않는다.
+58	신속 재장전
+59	솔져가 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 전투 종료 시까지 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +1% 증가한다.
+60	달아오른 화력
+61	솔져가 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 사용하기 전에 공격하면, 사용 후 다음 공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g} 사용 전 공격 위치와 사용 후 다음 공격 위치 사이의 거리 1칸당 +3% 증가한다.
+62	측면 공격수
+63	솔져에게 인접한 아군이 있으면 {g|f:ba56eecb14dc4793a604c28017307500}통제 사격{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다.
+64	사전 경고
+65	솔져가 적을 상대로 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g} 상태이면 해당 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다. 적이 사격하는 순간 엄폐물이 존재하면 해당 적의 공격이 솔져와 엄폐물에 주는 피해가 20% 감소한다(그 사격으로 엄폐물이 파괴되더라도 적용된다).
+66	요새
+67	솔져의 범위 공격 {g|Encyclopedia:AreaOfEffect}효과 범위{/g} 안에 아군이 있으면, 범위 내 적은 해당 공격에 대해 {g|Encyclopedia:DodgeGlossary}회피{/g}에 −{uip|DodgePenalty|661f9a1ac69f44fc881366af05f7c502}%, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 −{uip|ArmourPenalty|661f9a1ac69f44fc881366af05f7c502}% 불이익을 받는다.
+68	붙잡아 둬!
+69	<u>(10 + 5 × {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+70	<u>(10 + 2 × {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+71	{g|f:f509573bad85478b8f36e6bd97c943e4}참호 구축{/g} 후 다음에 사용하는 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}은 {g|Encyclopedia:MovementPoints}이동력{/g}을 추가로 +{unit_stat|WarhammerAgility|bonus} 부여한다.
+72	신속 기동
+73	솔져의 {g|Encyclopedia:MediumArmour}중형 방어구{/g}가 {g|Encyclopedia:DodgeGlossary}회피{/g}를 감소시키지 않는다.
+74	제2의 피부
+75	솔져의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 {g|Encyclopedia:GrazingHit}스침{/g}으로 적중하면 {g|Encyclopedia:DamageGlossary}피해{/g}를 50% 대신 75% 준다.
+76	정밀 폭파
+77	{g|f:1d48dfb6002a48f68bee0b86c4b56dc4}질주{/g}를 사용해도 해당 {g|Encyclopedia:Turn}턴{/g}에 솔져의 이동이 종료되지 않는다. {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}질주{/g} 시작 지점에 인접한 적은 자신의 다음 턴 동안 솔져를 가장 낮은 순위의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 취급한다.
+78	전술적 이탈
+79	솔져에게 인접한 아군 한 명당 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|BonusDamage|09204d361b6d4fb786842e43ac1979db}% 증가한다.
+80	전우애
+81	<u>(5 + {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+82	<u>(10 + 2 × {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스)</u>
+83	솔져의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 {g|Encyclopedia:DamageGlossary}피해를 입은{/g} 적은 다음에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하는 공격으로 피해를 +{uip|DamageBonus|3feb70e54f244b0e96053909f4533606} 더 받는다.
+84	약화 사격
+85	<u>(1 + {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스 / 2)</u>
+86	밀집 대형 분쇄
+87	솔져가 적의 공격을 성공적으로 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 막을 때마다 해당 적에게 확정 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 수 있다.
+88	탄도 추적
+89	솔져가 한 발 사격할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +1 증가한다.
+90	민활함
+91	솔져의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceBonus|bcdbde555de5492abae33d0dc285c956}% 증가한다. 공격 시점에 솔져가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 보호받는 상대를 공격하면 이 {g|Encyclopedia:Bonus}보너스{/g}가 2배가 된다.
+92	예측 불가
+93	<u>(3 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
+94	솔져의 {g|Encyclopedia:HitPoints}체력{/g}이 최대일 때 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +10, {g|Encyclopedia:MovementPoints}이동력{/g}이 +2 증가한다.
+95	온전함
+96	솔져가 무기의 {g|Encyclopedia:RateOfFire}발사 수{/g}만큼 추가 공격을 할 수 있다(최소 2회). 기본 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 가장 적은 무기 공격을 사용하며, 이 공격은 행동력을 소모하지 않는다.\n-<indent=5%>솔져의 턴 종료 시까지 각 새로운 적을 상대로 하는 첫 공격은 자동으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 된다.</indent>\n-<indent=5%>솔져가 현재 무기를 즉시 재장전한다.</indent>\n-<indent=5%>다음 라운드부터 전투 종료 시까지 솔져의 행동력이 1 감소한다.</indent>
+97	솔져가 무기의 {g|Encyclopedia:RateOfFire}발사 수{/g}만큼 추가 공격을 할 수 있다(최소 2회). 기본 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 가장 적은 무기 공격을 사용하며, 이 공격은 행동력을 소모하지 않는다.\n-<indent=5%>솔져의 턴 종료 시까지 각 새로운 적을 상대로 하는 첫 공격은 자동으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 된다.</indent>\n-<indent=5%>솔져가 현재 무기를 즉시 재장전한다.</indent>
+98	총기 숙련
+99	솔져의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:MovementPoints}이동력{/g}이 +4 증가하고 공격 시 이동력을 소모하지 않는다.
+100	총기 숙련 (강화 I)
+101	전투 종료 시까지 솔져의 {g|Encyclopedia:RateOfFire}발사 수{/g}가 +30% 증가한다.
+102	총기 숙련 (강화 II)
+103	전투 종료 시까지 솔져의 모든 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하기가 20% 더 어려워진다.\n전투 종료 시까지 솔져의 원거리 공격 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +10% 증가한다.
+104	총기 숙련 (강화 III)
+105	솔져의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 모든 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 공격한 대상 수만큼 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+106	총기 숙련 (강화 IV)
+107	엘다리는 초자연적으로 민첩하며 아키타입에 관계없이 {g|Encyclopedia:WarhammerAgility}민첩{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}, {g|Encyclopedia:SkillAwareness}인지{/g} 기술을 향상시킬 수 있다.\n또한 {g|Encyclopedia:DodgeGlossary}회피{/g} 확률이 +15%, {g|Encyclopedia:InitiativeGlossary}우선권{/g}이 +2 증가한다.
+108	아수리안의 자손
+109	{g|Encyclopedia:WarhammerAgility}민첩{/g}(민첩)은 캐릭터의 빠르기, 반사 신경, 균형 감각을 나타낸다. 민첩이 높으면 섬세한 폭발물을 능숙하게 다루거나 험한 지형에서도 균형을 유지할 수 있다. 캐릭터의 {g|Encyclopedia:InitiativeGlossary}우선권{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g} 확률, 반응 능력을 향상시킨다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 사용하면 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 민첩의 절반과 같아진다.\n폭파 기술에도 영향을 준다.
+110	민첩 +5
+111	사격술 +5
+112	{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}(사격술)은 모든 {g|Encyclopedia:Range}원거리{/g} 무기의 명중 정확도를 나타내며 연사 시 탄환의 궤적을 결정한다. 사격술이 높은 캐릭터는 총격전이나 교전에서 두려움의 대상이 되는 숙련된 사수다. 무기의 유효 사거리 내 원거리 공격의 기본 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}은 <u>(30 + 사격술)</u>%다.
+113	친화력(FEL)은 다른 생명체와 교류하고 속이거나 매료시키거나 친분을 맺는 능력을 나타낸다. 친화력이 높으면 무뚝뚝한 하인 무리에게 다가갈 방법을 찾아내거나 교활한 상인과도 손쉽게 거래할 수 있다.\n{g|Encyclopedia:SkillPersuasion}설득{/g}, {g|Encyclopedia:SkillCoercion}위협{/g}, {g|Encyclopedia:SkillCommerce}상업{/g} 기술에도 영향을 준다.
+114	친화력 +5
+115	{g|Encyclopedia:WarhammerIntelligence}지능{/g}(지능)은 캐릭터의 통찰력, 이성, 지식을 나타낸다. 지능 보너스 1당 {g|Encyclopedia:BurstAttacksGlossary}연사{/g}가 아닌 {g|Encyclopedia:Range}원거리{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}의 피해가 +5% 증가한다.\n{g|Encyclopedia:SkillLoreImperium}지식(제국){/g}, 지식(워프), 지식(제노스), 논리, 의술, 기술 활용 기술에도 영향을 준다.
+116	지능 +5
+117	{g|Encyclopedia:WarhammerPerception}지각{/g}(지각)은 주변 환경을 얼마나 잘 감지하는지 나타낸다. 지각이 높은 캐릭터는 언더하이브의 일상적인 혼잡 속에서 흩어진 볼터 탄피를 찾아내거나 누군가가 거짓말하는 것을 알아챌 수 있다.\n{g|Encyclopedia:SkillAwareness}인지{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 주며, 캐릭터의 공격에 대한 적의 {g|Encyclopedia:DodgeGlossary}회피{/g} 확률을 감소시킨다.
+118	지각 +5
+119	{g|Encyclopedia:WarhammerStrength}근력{/g}(근력)은 캐릭터의 신체적인 힘을 나타낸다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}에 영향을 주며 더 무거운 물건을 들 수 있게 한다. 근력 보너스 1당 한손 근접 무기의 피해가 +5%, 양손 근접 무기의 피해가 +10% 증가한다.\n{g|Encyclopedia:SkillAthletics}운동{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 준다.
+120	근력 +5
+121	{g|Encyclopedia:WarhammerToughness}강인함{/g}(강인함)은 고통을 견디고 독소, 유독한 환경, 질병 등 신체적 이상에 저항하는 능력을 나타낸다. 부정적인 신체 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}에 저항할 확률과 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}을 증가시킨다. 강인함 보너스 1당 체력이 +10% 증가한다.\n{g|Encyclopedia:SkillCarouse}주량{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 준다.
+122	강인함 +5
+123	근접술 +5
+124	{g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}(근접술)은 모든 근접 전투에서의 숙련도를 나타낸다. 자신의 {g|Encyclopedia:Parry}막기{/g}를 증가시키고 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 적의 막기 확률을 감소시킨다. 근접 전투에서 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 확률도 증가시킨다.
+125	{g|Encyclopedia:WarhammerWillpower}의지력{/g}(의지력)은 워프의 공포, 우주의 두려움, 코로누스 공역에서 마주칠 끔찍한 적들을 견디는 능력을 나타낸다. 의지력이 높으면 군중을 통제하거나 이단자를 심문할 수 있다.\n부정적인 정신 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}와 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 저항할 확률도 증가시킨다.
+126	의지력 +5
+127	대전략가
+128	<u>({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+129	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택한다. 1라운드 동안 {uip|Range|7005fbf810a64264893cd18fc0187b39}칸 이내의 모든 아군이 해당 구역으로 이동하는 {g|Encyclopedia:Ability}능력{/g}을 얻는다. 이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않고 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않는다.
+130	전격전 책략
+131	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택한다. 1{g|Encyclopedia:Round}라운드{/g} 동안 해당 구역의 {g|Encyclopedia:Bonus}보너스{/g}가 2배가 된다. 나머지 전술 구역은 모두 해제되어 이번 {g|Encyclopedia:Turn}턴{/g}에는 사용할 수 없지만 다음 라운드에 다시 지정할 수 있다.
+132	전투 거점 전술
+133	<u>(2 × ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
+134	대전략가가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택한다. 1라운드 동안 해당 구역의 모든 적은 모든 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g} 및 {g|Encyclopedia:Parry}막기{/g} {g|Encyclopedia:Test}판정{/g}에 성공하면 다시 판정해야 한다. 피해를 받은 뒤 남은 {g|Encyclopedia:HitPoints}체력{/g}이 {uip|MinimumWounds|ab86bcee2036424c90dd12c2ad3fab39} 미만인 적은 즉시 사망한다.
+135	살상 지대 책략
+136	<u>(5 + 2 × ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
+137	<u>(5 + 2 × ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
+138	<u>(5 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
+139	<u>(5 + {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+140	대상의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 <u>(5 + 2 × (대전략가의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>, {g|Encyclopedia:RateOfFire}발사 수{/g}가 25%, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 <u>(5 + (대전략가의 지능 보너스 + 친화력 보너스))</u> 감소한다. 추가로 근접 대상은 {g|Encyclopedia:MovementPoints}이동력{/g}이 3 감소하고, 원거리 대상은 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}하려 한다. 근접 무기를 하나 이상 보유하면 근접 대상으로 취급하며, 이 추가 효과는 일부 강력한 적에게는 적용되지 않는다.
+141	압도당함
+142	대전략가가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택한다. 1라운드 동안 해당 구역 내 아군의 모든 공격은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패한 적에게 1라운드 동안 {g|f:27c28c48cd154096afcace5ac4ec66b6}압도당함{/g} 효과를 부여한다.
+143	압도 책략
+144	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
+145	<u>(({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 4)</u>
+146	대전략가가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택한다. 1라운드 동안 해당 구역의 아군은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|BonusArmour|111f6e8111ae4d30a9d5d6d06027281d}% 증가하고, 과관통되지 않으며, {g|Encyclopedia:ProneEffect}넘어짐{/g} 효과에 면역이 되고, 범위 공격에 대한 {g|Encyclopedia:Deflection}피해 감소{/g}를 +{uip|BonusDeflection|111f6e8111ae4d30a9d5d6d06027281d} 얻는다. 또한 피해를 받아도 {g|Encyclopedia:Injury}부상{/g}을 입지 않는다.
+147	요새 책략
+148	<u>(5 + {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+149	<u>(5 + {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+150	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택한다. 1라운드 동안 해당 구역의 모든 아군은 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}이 +{uip|CoverBonus|0e89f6eda1ae4960aeebfed0737289a3}% 증가하고 실패한 모든 {g|Encyclopedia:Characteristic}능력치{/g} {g|Encyclopedia:Test}판정{/g}을 다시 실시한다. 또한 구역 내 엄폐물은 피해를 받지 않는다.
+151	참호선 책략
+152	자신과 아군의 전장 배치에 능한 {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}는 전장의 중요 구역을 지정하고 강화하여 파티의 전투 효율을 높인다.\n핵심 분야: 전장 통제, 아군 강화, 고유한 지원 능력, 적 약화.
+153	대전략가
+154	대전략가가 전장에 5×2칸의 후방 구역을 지정한다. 후방 구역의 모든 아군은 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}과 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|CoverDodgeBonus|bc99e6ba256f45368bc6bc529e59effd}%, {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 +{uip|DodgePenetrationBonus|bc99e6ba256f45368bc6bc529e59effd}% 증가한다.\n이 {g|Encyclopedia:Ability}능력{/g}을 다시 사용하여 후방을 이동할 수 있다.
+155	후방
+156	<u>(5 + 2 × {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
+157	<u>(10 + 2 × {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+158	대전략가가 전장을 분석하여 자신을 포함한 모든 아군에게 {g|Encyclopedia:Bonus}보너스{/g}를 제공하는 구역인 {g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g}, {g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g}을 생성할 수 있다. 전투 첫 라운드에는 한 턴에 세 구역을 모두 생성할 수 있다. 이후 라운드에는 턴당 하나만 생성할 수 있다. 각 구역은 해당 {g|Encyclopedia:Ability}능력{/g}으로 이동할 수 있으며(턴당 하나), 서로 겹칠 수 없다.\n파티에 그랜드 스트래티지스트가 둘 이상 있으면 모든 그랜드 스트래티지스트가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역을 공유하며, 그중 가장 높은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스와 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스를 사용한다. 전장에는 {g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g}, {g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g}이 각각 하나씩만 존재할 수 있다.\n사용한 능력과 관계없이 대전략가는 전투에서 항상 먼저 행동한다.
+159	전투 전술
+160	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 전장에 4×4칸의 전방 구역을 지정한다. 전방의 모든 아군은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 +{uip|ArmourBonus|7cdf3a1dd3b5477096e008492e738587}% {g|Encyclopedia:Bonus}보너스{/g}를 얻고, 모든 적은 모든 원인으로 받는 피해가 +{uip|DamageBonus|7cdf3a1dd3b5477096e008492e738587}% 증가한다.\n이 {g|Encyclopedia:Ability}능력{/g}을 다시 사용하여 전방을 이동할 수 있다.
+161	전방
+162	<u>(5 + 2 × {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
+163	<u>(5 + 2 × {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+164	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 전장에 5×2칸의 후방 구역을 지정한다. 후방 구역의 모든 아군은 원거리 공격 피해가 +{uip|DamageBonus|b1e24d15bb6841d89b9873829f7b3ba5}%, {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}이 +{uip|CritChanceBonus|b1e24d15bb6841d89b9873829f7b3ba5}%, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceIncrease|b1e24d15bb6841d89b9873829f7b3ba5}% 증가한다.\n이 {g|Encyclopedia:Ability}능력{/g}을 다시 사용하여 후방을 이동할 수 있다.
+165	후방
+166	<u>(5 + {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+167	<u>(5 + 2 × {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
+168	<u>(5 + 2 × {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
+169	2{g|Encyclopedia:Round}라운드{/g} 동안 구역을 이동하지 않으면 모든 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} {g|Encyclopedia:Bonus}보너스{/g}가 +{uip|BonusBonus|c44292911a6d404b928176a5371eaaae}% 증가한다.
+170	주요 지점
+171	<u>(({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
+172	한 {g|Encyclopedia:Turn}턴{/g}에 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 두 번째로 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 {g|Encyclopedia:ActionPoints}행동력{/g}을 1 돌려받는다. 이 효과는 턴당 1회 발동한다.
+173	방어 거점
+174	아군이 {g|Encyclopedia:ActionPoints}행동력{/g} 1을 소모하여 자신이 있는 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역을 재배치하는 {g|Encyclopedia:Ability}능력{/g}을 얻는다.
+175	개인 전투 구역
+176	한 {g|Encyclopedia:Turn}턴{/g}에 처음 사용한 {g|Encyclopedia:Stratagem}책략{/g}을 {g|Encyclopedia:ActionPoints}행동력{/g} 0으로 한 번 더 사용할 수 있다.
+177	개전 전략
+178	{g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 구역 내 아군은 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 보호받는 상대를 공격할 때 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceBonus|e76b4151d3554a369e3801ba27a6a9b6}% 증가한다.
+179	치명타 구역
+180	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
+181	{g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 해당 구역의 아군은 1{g|Encyclopedia:Round}라운드{/g} 동안 적에게 가장 낮은 순위의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 된다.
+182	교란 구역
+183	{g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 해당 구역의 아군은 다른 아군의 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|DodgeBonus|1d4ab291faad4ed4aa3fa918a43ec0d6}% 증가한다.
+184	교차 사격 구역
+185	<u>(10 + 2 × ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
+186	{g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 해당 구역의 모든 아군이 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않고 1칸 이동하는 {g|Encyclopedia:Ability}능력{/g}을 얻는다.
+187	기동 구역
+188	{g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 거리에 관계없이 해당 구역의 아군에게 모든 {g|Encyclopedia:CareerLeaderGlossary}오피서{/g} {g|Encyclopedia:Ability}능력{/g}을 사용할 수 있다.
+189	지원 구역
+190	{g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 해당 구역의 모든 아군이 다음에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하는 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 공격에 대한 {g|Encyclopedia:Deflection}피해 감소{/g}를 +{unit_stat|WarhammerIntelligence|bonus} 얻는다.
+191	인내 구역
+192	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 {g|Encyclopedia:Stratagem}책략{/g}을 사용할 때마다 전략적 완벽함 효과를 1중첩 얻는다. 전략적 완벽함이 6중첩이면 다음 책략은 대전략가가 아는 모든 책략의 혜택을 적용한 뒤 중첩을 모두 제거한다.
+193	전략적 완벽함
+194	전투 시작 시 {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 배우지 않은 무작위 {g|Encyclopedia:Stratagem}책략{/g} 하나를 얻고 전투 종료 시까지 {g|Encyclopedia:ActionPoints}행동력{/g} 0으로 사용할 수 있다.
+195	즉흥 전략
+196	{g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}이 적용될 때마다 해당 구역의 모든 아군이 다음 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 +1 얻는다. 중첩된다.
+197	재배치
+198	{g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g} 구역에 아군보다 적이 많으면 구역 내 모든 아군의 {g|Encyclopedia:Parry}막기{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|BonusParryDodge|4264c8ae4ca646fa97f42b5183ac5fd7}% 증가한다.\n{g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g} 구역에 적보다 아군이 많으면 구역 내 모든 아군의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|BonusDamage|4264c8ae4ca646fa97f42b5183ac5fd7}% 증가한다.
+199	전방 조정
+200	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
+201	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
+202	{g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역의 각 아군은 주변 반경 5칸 이내에 적이 없으면 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|BonusCritChance|ec81fa9d154544bcb9f5bc3c1a8feb91}% 증가한다.
+203	저격 구역
+204	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
+205	{g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g} 구역에 적이 없으면 구역 내 각 아군이 {g|Encyclopedia:Turn}턴{/g}마다 처음 하는 공격의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다.
+206	자유 사격
+207	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}를 포함하여 대전략가와 같은 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 있는 아군은 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +{uip|StatBonus|0baaa1db7cf44a52ac7cf9beee62f230} 증가한다.
+208	개인 구역
+209	<u>(3 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
+210	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}와 같은 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 있는 적은 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}에 −{uip|DodgeParryPenalty|2821d25b055348b5977aa16143bbd73e}% {g|Encyclopedia:Penalty}불이익{/g}을 받는다.
+211	경합 구역
+212	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
+213	{g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g} 구역에서 적이 처치될 때마다 전투 종료 시까지 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역의 모든 {g|Encyclopedia:Bonus}보너스{/g}가 +1 증가한다.
+214	전략적 공세
+215	{g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역의 모든 아군은 구급상자로 회복하는 체력이 +{uip|TemporaryWounds|43087167f03b46ff9c28c9914aa47e54} 증가하고 같은 양의 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻는다.\n{g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역의 아군이 구급상자를 사용할 때 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다.
+216	휴식 구역
+217	<u>(5 + {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+218	{g|f:b8c1d9bf80354d24b279945f1f6e81fb}살상 지대 책략{/g}으로 강제되는 재판정에 −15 {g|Encyclopedia:Penalty}불이익{/g}이 적용된다.
+219	탈출 불가 구역
+220	{g|f:6fdddfc22c7145e5bda65b5c96e28c3e}참호선 책략{/g}의 효과를 받는 아군은 이동하지 않고 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}하며 모든 강제 이동에 면역이 된다.
+221	요새 구역
+222	{g|f:b6fa6a9130a64255933ca0144f28dd03}전투 거점 전술{/g}을 사용하면 {g|f:b6fa6a9130a64255933ca0144f28dd03}전투 거점 전술{/g}로 제거된 구역 하나를 즉시 다시 생성할 수 있다.
+223	분산 거점
+224	{g|f:807137df735b46858a3e562b49bb89b1}압도 책략{/g}으로 강제되는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 −{uip|ResistancePenalty|2758369cb14a43cdb72df3e7d1aad9cb} {g|Encyclopedia:Penalty}불이익{/g}이 적용된다.
+225	위압 구역
+226	<u>(5 + 2 × ({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
+227	{g|f:631bcfc164274b6382daace38b7ce951}요새 책략{/g}의 효과를 받는 아군은 {g|Encyclopedia:Injury}부상{/g}을 입을 상황마다 대신 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +{uip|TemporaryWounds|bb601b2b4d404a219b33426afcf1d783} 얻는다.
+228	극복 구역
+229	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+230	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택한다. 대전략가의 다음 턴 시작 시 해당 구역 내 대전략가를 제외한 모든 아군이 {g|Encyclopedia:ActionPoints}행동력{/g} 1과 {g|Encyclopedia:MovementPoints}이동력{/g} 2를 가진 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻는다.\n선택한 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에서 처치된 적 한 명당 행동력이 +1(최대 3), 이동력이 +2(최대 6) 증가한다.\n전투 종료 시까지 대전략가의 이동력이 1로 감소한다.
+231	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택한다. 대전략가의 다음 턴 시작 시 해당 구역 내 대전략가를 제외한 모든 아군이 {g|Encyclopedia:ActionPoints}행동력{/g} 1과 {g|Encyclopedia:MovementPoints}이동력{/g} 2를 가진 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻는다.\n선택한 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에서 처치된 적 한 명당 행동력이 +1(최대 3), 이동력이 +2(최대 6) 증가한다.
+232	점령 사수
+233	선택한 구역의 모든 아군은 추가로 {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +20% 증가한다.
+234	점령 사수 (강화 I)
+235	선택한 구역의 모든 아군은 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +20 증가한다.
+236	점령 사수 (강화 II)
+237	선택한 구역의 모든 아군은 추가로 {g|Encyclopedia:DodgeReduction}회피 감소{/g}와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +20% 증가한다.
+238	점령 사수 (강화 III)
+239	{g|f:afece68fac504e339ffefed3da8e5dc6}점령 사수{/g}가 부여하는 최대 {g|Encyclopedia:ActionPoints}행동력{/g}이 5로 증가한다.
+240	점령 사수 (강화 IV)
+241	항상 전투의 한복판에서 지휘력과 전투 기량을 발휘하는 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}은 파티의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 활용하여 자신과 아군의 전투 효율을 높인다.\n핵심 분야: 파티의 성과에 따른 성장, 단일 대상 장기 강화, 원동력, 다재다능.
+242	마스터 택티션
+243	마스터 택티션이 적 하나를 지정한다. 마스터 택티션의 다음 턴 시작 전에 아군이 해당 적을 처치하면, 그 아군은 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 +<u>(10 + 2 × 아군의 {g|Encyclopedia:Resolve}결의{/g})</u> 얻고 전투 종료 시까지 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 +5 증가한다. 모든 능력치 {g|Encyclopedia:Bonus}보너스{/g}는 중첩되지 않는다.
+244	목표 지정
+245	마스터 택티션이 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 20%만큼 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 받고, <u>마스터 택티션의 {g|Encyclopedia:Resolve}결의{/g}</u>만큼 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩을 얻으며, {g|f:a113bd4f6b4145f7bea35ea1c0a160a1}핵심 인물{/g}, {g|f:3c33178f69de4c46983635ff3838e4f5}고무{/g}, {g|f:4f978989a35e4f01b7405c409c8efeb5}방어 거점{/g}의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}을 초기화한다. 마스터 택티션의 턴 종료 시까지 이 능력들은 자신만 대상으로 삼을 수 있다.
+246	열의
+247	미완의 과업 효과가 있는 적에게만 사용할 수 있다. 이 효과는 마스터 택티션 본인이 아닌 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 아군에게 공격받고 남은 체력이 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 50% 미만인 적에게 적용된다.\n마스터 택티션이 즉시 대상을 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g}이나 타격으로 공격한다. 이 공격은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수{/g} 제한에 포함되지 않으며, 무기 최대 피해의 절반에 +{unit_stat|WarhammerBallisticSkill|bonus}을 더한 피해를 준다.
+248	마무리
+249	마무리 (보조 손)
+250	대상의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +5% 증가하고 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 10중첩당 피해가 추가로 +5% 증가하지만, 마스터 택티션은 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩의 절반을 잃는다(올림). 이 효과는 중첩되며 전투 종료 시까지 지속된다.\n대상이 마스터 택티션의 다음 턴 시작 전에 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 사용하면 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 +25 얻는다.
+251	고무
+252	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 이번 {g|Encyclopedia:Round}라운드{/g}에 {g|f:305858b91e6e4d89bff75431fa6030e6}열의{/g}를 사용하여 자신만 대상으로 삼을 수 있다.
+253	대상 아군 또는 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}은 마스터 택티션의 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 5중첩당 {g|Encyclopedia:Resolve}결의{/g}를 +1 얻지만, 마스터 택티션은 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩의 절반을 잃는다(올림). 이 효과는 중첩되며 전투 종료 시까지 지속된다.\n마스터 택티션의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 대상이 얻는 모든 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}의 {uip|AdditionalMomentum|ca8040427b6d4a3d859991b62609b318}%만큼 마스터 택티션이 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩을 얻는다(기본 20% 대신 적용).
+254	핵심 인물
+255	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 다음 공격을 강화하여 보유한 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩당 {g|Encyclopedia:DamageGlossary}피해{/g}를 +4% 더 주고, {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩의 절반을 잃는다(올림).
+256	승기 굳히기
+257	대상이 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +2 얻고 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 2중첩당 임시 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 +1 얻지만, 마스터 택티션은 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩의 절반을 잃는다(올림).\n마스터 택티션의 다음 턴 시작 시까지 대상이 피해로 임시 체력을 잃을 때마다 잃은 임시 체력만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻는다.
+258	방어 거점
+259	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 공격을 강화하는 특수 효과인 전술적 우위를 얻는다. 자신이나 아군이 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 5 얻을 때마다 이 효과를 +1중첩 얻는다.\n마스터 택티션은 <u>{g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>만큼 전술적 우위 중첩을 가진 상태로 전투를 시작한다.
+260	전술적 우위
+261	<u>({g|Encyclopedia:MaxWounds}최대 체력{/g}의 20%)</u>
+262	{g|f:e627e3fb653840dab9661093828432c5}마무리{/g}의 대상이다. {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 아군에게 공격받았으며 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이다.
+263	미완의 과업
+264	<u>(20 + {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+265	마스터 택티션이 전장의 3×3 구역을 선택한다.\n마스터 택티션을 포함하여 선택한 구역 내 적을 {g|Encyclopedia:LineOfSight}시야{/g}에 둔 모든 아군이 자신의 무기로 공격할 수 있는 구역 내 무작위 적에게 즉시 단일 공격을 가한다.\n마스터 택티션의 다음 턴 시작 시까지 {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}최후의 일제 사격{/g}에 참여한 모든 아군이 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}과 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}에 −20 불이익을 받으며, 마스터 택티션의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}은 전투 종료 시까지 40 감소한다.
+266	최후의 일제 사격
+267	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}최후의 일제 사격{/g}에 참여한 모든 아군의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}과 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 20 감소한다.
+268	전투 종료 시까지 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 40 감소한다.
+269	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 전장의 3×3 구역을 선택한다.\n마스터 택티션을 포함하여 선택한 구역 내 적을 {g|Encyclopedia:LineOfSight}시야{/g}에 둔 모든 아군이 자신의 무기로 공격할 수 있는 구역 내 무작위 적에게 즉시 단일 공격을 가한다.
+270	일제 화력 공세
+271	{g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}일제 화력 공세{/g}와 {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}최후의 일제 사격{/g} 사용 시 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}과 무작위 아군 한 명이 1회 대신 2회 공격한다.
+272	일제 화력 공세 (강화 I)
+273	{g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}일제 화력 공세{/g}와 {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}최후의 일제 사격{/g}을 전투 중 여러 번, {g|Encyclopedia:Turn}턴{/g}당 1회 사용할 수 있다.
+274	일제 화력 공세 (강화 II)
+275	{g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}일제 화력 공세{/g}와 {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}최후의 일제 사격{/g} 사용 시 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}을 포함하여 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격이 가능한 무기를 보유한 모든 아군은 단일 공격 대신 연사 공격을 가한다. 마스터 택티션의 다음 턴 시작 시까지 아군은 모든 아군 오사를 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}한다.
+276	일제 화력 공세 (강화 III)
+277	{g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}일제 화력 공세{/g}와 {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}최후의 일제 사격{/g} 사용 시 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}을 포함하여 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 가능한 무기를 보유한 모든 아군은 단일 공격 대신 범위 공격을 가한다. 구역 내 모든 아군은 마스터 택티션의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +35% 증가한다.
+278	일제 화력 공세 (강화 IV)
+279	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 모든 {g|Encyclopedia:Ability}능력{/g}은 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩이 {unit_stat|WarhammerFellowship|bonus}만큼 더 있는 것으로 취급하여 적용된다.
+280	숨겨진 우위
+281	마스터 택티션의 아군이 영웅적 행동을 사용할 때마다 마스터 택티션의 친화력이 +5 증가한다. 이 보너스는 중첩되며 전투 종료 시까지 지속된다.
+282	마스터 택티션의 아군이 필사의 결단을 사용할 때마다 마스터 택티션의 강인함이 +5 증가한다. 이 보너스는 중첩되며 전투 종료 시까지 지속된다.
+283	마스터 택티션의 아군이 영웅적 행동을 사용할 때마다 마스터 택티션의 친화력이 +5 증가한다. 아군이 필사의 결단을 사용할 때마다 마스터 택티션의 강인함이 +5 증가한다. 이 보너스들은 중첩되며 전투 종료 시까지 지속된다.
+284	영웅의 발자취
+285	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 적에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g}를 +1중첩 얻는다.
+286	합동 공세
+287	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이나 아군이 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻을 때마다 1을 더 얻는다. 마스터 택티션이나 아군이 원동력을 잃을 때마다 1을 덜 잃는다.
+288	강철 신경
+289	마스터 택티션의 {g|Encyclopedia:Career}아키타입{/g} 능력 효과를 받는 아군에게 구급상자를 사용하면 <u>(마스터 택티션의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스 + 대상의 {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>만큼 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 회복하고, {g|Encyclopedia:Test}판정{/g} 없이 {g|Encyclopedia:Injury}부상{/g}을 하나 더 제거한다.
+290	구원
+291	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 무기를 {g|Encyclopedia:Reload}재장전{/g}할 때마다 주변 반경 3칸 이내의 모든 아군도 무기를 재장전한다.
+292	전술적 휴식
+293	수류탄과 구급상자 사용 시 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다(최소 0).
+294	비용 효율
+295	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 아군을 치료할 때마다 해당 아군의 {g|Encyclopedia:Resolve}결의{/g}가 전투 종료 시까지 +1 증가한다. 이 효과는 최대 +{unit_stat|WarhammerFellowship|bonus}까지 중첩된다.
+296	굳건한 결의
+297	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 적의 수만큼 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩을 추가로 가진 상태로 전투를 시작한다.
+298	역경을 딛고
+299	마스터 택티션의 턴 시작 시 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 125보다 높으면, 이번 턴에 처음 사용하는 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격 또는 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다(최소 0).
+300	진격 지원
+301	모든 아군은 아군의 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +25% 증가하고, 아군에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 25% 감소하며, 아군에게 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}로 주는 추가 피해가 50% 감소한다.
+302	아군 협동
+303	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만인 대상에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +12% 증가하고, 체력이 50% 미만인 대상의 체력을 회복시키는 양이 +20% 증가한다.
+304	죽음의 문턱
+305	{g|f:7989c6e3109841329aee9e4546138395}승기 굳히기{/g}가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}를 무시한다.
+306	확고한 우위
+307	영웅의 고무 — 목표 지정
+308	전투 중 최초로 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}이 사용된 후 마스터 택티션이 다음에 사용하는 {g|Encyclopedia:Career}아키타입{/g} 능력은, 전투 종료 시까지 이후 모든 사용의 소모량이 {g|Encyclopedia:ActionPoints}행동력{/g} 0으로 감소한다.
+309	영웅의 고무
+310	영웅의 고무 — 마무리
+311	영웅의 고무 — 고무
+312	영웅의 고무 — 핵심 인물
+313	영웅의 고무 — 방어 거점
+314	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이나 아군이 소모품(수류탄, 구급상자 등)을 사용하거나 무기를 {g|Encyclopedia:Reload}재장전{/g}할 때마다 마스터 택티션이 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g}를 +2중첩 얻는다.
+315	보급 우위
+316	아군이 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}에게 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩을 부여할 때마다 해당 아군은 부여한 중첩당 {g|Encyclopedia:HitPoints}체력{/g}을 1 회복한다.
+317	순응의 안도감
+318	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 때마다 <u>({g|Encyclopedia:Resolve}결의{/g} / 2)</u>만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻는다. 턴당 최대 3회 적용된다.
+319	승리의 여명
+320	{g|f:a113bd4f6b4145f7bea35ea1c0a160a1}핵심 인물{/g} 사용 시 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩을 1/2 대신 1/4만 소모한다.
+321	신뢰
+322	{g|f:4f978989a35e4f01b7405c409c8efeb5}방어 거점{/g}이 대상에게 가장 가까운 아군에게도 절반만큼의 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 부여한다.
+323	요새
+324	{g|f:e627e3fb653840dab9661093828432c5}마무리{/g}의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +75% 증가한다.
+325	완벽한 마무리
+326	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 적을 처치할 때마다 전투 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}가 +1 증가한다.
+327	직접 참전
+328	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 모든 적은 엄폐 중인 마스터 택티션의 아군에게 사격할 때 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물에 맞힐 확률이 +10% 증가한다.
+329	제압 사격
+330	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}이 {g|Encyclopedia:Ability}능력{/g}에 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩을 소모할 때마다 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 소모한 중첩당 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +1% 증가한다.
+331	승부수 쌓기
+332	{g|f:3c33178f69de4c46983635ff3838e4f5}고무{/g}의 대상은 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 10중첩당 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 +5% 증가한다.
+333	흔들림 없는 의욕
+334	{g|f:0d8a5197d82b4c0193a429c49a6b25a7}목표 지정{/g}이 추가로 {g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 대상이 모든 원인으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}를 +7% 증가시킨다.
+335	최우선 목표
+336	대상이 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다. 또한 이 효과의 중첩당 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g}가 +20% 증가한다.
+337	경련
+338	이 {g|Encyclopedia:Ability}능력{/g}은 아군과 적 모두에게 영향을 준다.\n<i>아군:</i> 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Recoil}반동{/g}이 절반으로 감소한다. 1라운드 동안 아군의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Percent|a01295a67a9a46579e46c3073d6a9aa9}% 증가한다.\n<i>적:</i> 1라운드 동안 회피가 {uip|Percent|a01295a67a9a46579e46c3073d6a9aa9}% 감소한다. 적이 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 전투 종료 시까지 {g|f:e6ed7e168bfb4adb9fc73fb07b5e7020}경련{/g}이 +1중첩 부여된다. 대상이 {g|f:ed0acc1731834a89bda8cc52ec769e3d}육신 거부{/g} 또는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 특성을 보유했거나 기계 장치 또는 기계라면 판정에 −{uip|Penalty|a01295a67a9a46579e46c3073d6a9aa9} {g|Encyclopedia:Penalty}불이익{/g}을 받는다.
+339	기계령 교감
+340	<u>테크 프리스트의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>
+341	<u>(2 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g} + 테크 프리스트의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+342	<u>(1 + 테크 프리스트의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
+343	<u>(테크 프리스트의 {g|Encyclopedia:SkillTechUse}기술 활용{/g} / 2)</u>
+344	<u>({g|Encyclopedia:SkillMedicae}의술{/g} / 5)</u>
+345	{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 효과로 대상이 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g} 증가량이 전투 종료 시까지 중첩당 5% 감소한다.
+346	<i>피해:</i>
+347	<i>관통력:</i>
+348	<u>관통력</u>
+349	사격용 메카덴드라이트는 테크 프리스트가 손을 쓰지 않고 모든 원거리 무기를 사용하게 해 준다.
+350	사격용 메카덴드라이트
+351	테크 프리스트의 시스템에 직접 연결된 추가 서보 스컬이 {g|Encyclopedia:WarhammerPerception}지각{/g}을 +10 증가시킨다.
+352	탐지용 메카덴드라이트
+353	조작용 메카덴드라이트
+354	<u>({g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + 테크 프리스트의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+355	<u>(5 × 테크 프리스트의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
+356	이 메카덴드라이트는 기계령과 소통하기 위한 온갖 도구를 갖추고 있다. {g|Encyclopedia:SkillTechUse}기술 활용{/g}과 {g|Encyclopedia:SkillDemolition}폭파{/g}가 +10 증가한다.
+357	다용도 메카덴드라이트
+358	옴니시안 액스 사용 시 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.
+359	세큐터 근접 전투 프로토콜
+360	{g|Encyclopedia:CareerVanguardGlossary}뱅가드{/g}가 {g|Encyclopedia:Injury}새 부상{/g} 1개를 치료한다.
+361	{g|Encyclopedia:CareerVanguardGlossary}뱅가드{/g}가 이번 {g|Encyclopedia:Round}라운드{/g}에 사용하지 않은 {g|Encyclopedia:MovementPoints}이동력{/g} 1당 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 +2 증가한다.
+362	방어 태세
+363	뱅가드가 공격받을 때마다 {g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g}를 +1중첩 얻는다. 중첩당 {g|Encyclopedia:Resolve}결의{/g}가 +1 증가하며 최대 +15까지 증가한다. 뱅가드 주변 반경 2칸 이내의 모든 아군은 이 {g|Encyclopedia:Bonus}보너스{/g}의 1/5을 얻는다.\n뱅가드에게 부여되는 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}은 이제 중첩되지만 뱅가드의 턴 시작 시까지만 중첩이 유지된다. 턴 시작 시 남은 임시 {g|Encyclopedia:HitPoints}체력{/g}이 적용된 단일 효과가 부여한 최대 수치로 감소한다. 남은 임시 체력이 불굴의 봉화 중첩 수보다 적으면 해당 중첩 수와 같아진다. 턴 시작 시 임시 체력이 없어도 적용된다.
+364	불굴의 봉화
+365	<u>({g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스 + {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
+366	<u>최대 중첩</u>
+367	<u>임시 체력</u>
+368	<u>(3 + {g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g} 중첩 수)</u>
+369	{g|Encyclopedia:CareerVanguardGlossary}뱅가드{/g}와 주변 반경 3칸 이내의 모든 아군이 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +<u>(3 + {g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g} 중첩 수)</u> 얻는다.\n영향을 받은 모든 대상이 다음 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 50% 감소한다. 이 효과는 뱅가드의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 지속된다.
+370	록크리트 장벽

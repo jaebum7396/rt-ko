@@ -1,127 +1,463 @@
 english	korean	note
+Heinrix	헤인릭스	setting|style|high
+Cassia	카시아	setting|style|high
+Jae	자이	setting|style|high
 damage	피해	system|translated|high
+Pasqal	파스칼	setting|style|high
+Idira	이디라	setting|style|high
+Abelard	아벨라드	setting|style|high
+Eogunn	에오건	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
+Death	죽음	setting|translated|mid
 turn	턴	system|translated|high
+Skill	기량	system|translated|high
 round	라운드	system|translated|high
 bonus	보너스	system|translated|high
+Overseer	오버시어	ability|community|high
 ability	능력	system|translated|high
+Vox	복스	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
+AP	행동력	system|style|high
+Shield	방패	item|translated|high
 hit	명중	system|translated|high
+Child	아이	other|translated|high
+Achilleas	아킬레아스	setting|community|mid
+Prey	사냥감	system|translated|high
+Medicae	의술	system|translated|high
+Mercy	머시	setting|translit|mid
+Maive	메이브	setting|translit|mid
+Strike	타격	ability|translated|high
 abilities	능력	ability|translated|high
+Assassin	어새신	ability|namu:Warhammer 40,000: Rogue Trader/등장인물|high
+Examine	조사하기	system|translated|high
+Hammer	해머	setting|translit|mid
+Sword	검	item|translated|high
 penalty	불이익	system|translated|high
+Rebel	반란군	setting|translated|high
+Malice	말리스	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 characteristics	능력치	system|translated|high
+Vanguard	뱅가드	ability|community|high
+Enforcer	인포서	setting|community|high
 rounds	라운드	system|translated|high
+Edelthrad	에델쓰라드	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 melee	근접	system|translated|high
+Bladedancer	블레이드 댄서	ability|namu:Warhammer 40,000: Rogue Trader|high
 resolve	결의	system|translated|high
+Emelina	에멜리나	setting|translit|mid
 hits	명중	system|translated|high
+flagship	기함	setting|translated|high
+PER	지각	system|style|high
+People	인구	system|translated|high
+Charge	돌진	ability|translated|high
 immobilised	이동 불가	system|translated|high
+Executioner	처형자	ability|translated|high
 test	판정	system|translated|high
-bonuses	보너스	system|translated|high
+Enginseer	엔진시어	setting|community|high
+Heretical	이단적	system|namu:Warhammer 40,000: Rogue Trader/등장인물|high
+Asuryani	아수랴니	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
+Dogmatic	교조적	system|namu:Warhammer 40,000: Rogue Trader/등장인물|high
+Coercion	위협	system|translated|high
+Fury	격노	system|translated|high
+Crucible	도가니	other|translated|mid
+Burst	연사	system|style|high
+Command	명령	ability|translated|high
 slowed	감속	system|translated|high
+STR	근력	system|style|high
+Elana	엘라나	setting|translit|mid
+Kharael	카라엘	setting|translit|low
+Claws	발톱	item|translated|high
+Commander	지휘관	setting|translated|high
+Logic	논리	system|translated|high
+Maw	아가리	item|translated|mid
 staggered	비틀거림	system|translated|high
+Demolition	폭파	system|translated|high
+Focus	집중	ability|translated|high
+Zealot	광신도	system|translated|mid
+Persuasion	설득	system|translated|high
 macro-cannons	매크로 캐논	item|community|high
 talents	재능	ability|style|high
-cooldown	재사용 대기시간	system|translated|high
+Activate	작동	system|translated|high
+Warden	감시관	setting|translated|mid
+Noble	귀족	ability|translated|high
 blinded	실명	system|translated|high
+Contempt	경멸	ability|translated|high
+Assault	돌격	ability|translated|high
+Envoy	사절	setting|translated|high
+Data-Slate	데이터 슬레이트	item|community|high
 perplexed	당혹	system|translated|mid
 speed	속도	system|translated|high
+Jarub	자루브	setting|translit|low
+Awareness	인지	system|translated|high
+Grenade	수류탄	item|translated|high
+Inspect	조사	system|translated|high
+Axe	도끼	item|translated|high
 dodges	회피	system|style|high
+Froscher	프로셔	setting|translit|mid
+Drusians	드루수스파	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 turns	턴	system|translated|high
 characteristic	능력치	system|translated|high
 effect	효과	system|translated|high
+Artisan	장인	setting|translated|mid
+Foreman	작업반장	setting|translated|high
+Repair	수리	ability|translated|high
+Rumours	소문	system|translated|high
+Scrap	고철	system|translated|high
+Search	수색	system|translated|high
+mon-keigh	몬케이	setting|community|high
+BS	사격술	system|style|high
 tests	판정	system|translated|high
+Elusive	신출귀몰	system|translated|mid
+Servant	하인	setting|translated|high
 skills	기술	system|translated|high
+Port	좌현	system|translated|high
 fatigued	피로	system|translated|high
+Astronomican	아스트로노미칸	setting|community|high
+Cyber-Mastiff	사이버 마스티프	setting|namu:아뎁투스 아르비테스|high
+Tomb	무덤	setting|translated|high
 exploit	약점	system|translated|mid
 ranged	원거리	system|translated|high
-overpenetration	관통 사격	system|translated|high
+Acolyte	수행원	setting|translated|mid
+Opening	빈틈	system|translated|high
+Pilgrim	순례자	setting|translated|high
+Reload	재장전	ability|translated|high
+Weapons	무기	item|translated|high
 unconscious	의식 불명	system|translated|high
+Inferno	지옥불	ability|translated|high
+Post	보직	system|translated|high
 trauma	중상	system|translated|high
-traumas	중상	system|translated|high
+Thug	깡패	setting|translated|high
 pushes	밀치기	system|translated|high
+Augmentation	신체 개조	setting|translated|high
+Onslaught	맹공	item|translated|high
+Nihel	니헬	setting|translit|mid
+Cardinal	추기경	setting|translated|high
+Quartermaster	보급관	setting|translated|high
+Voidsman	공허선 선원	setting|translated|high
+Crusade	성전	other|translated|high
+Swarm	군집	ability|translated|mid
 dorsal	상부	system|translated|high
+Commerce	상업	system|translated|high
+Chronomancer	크로노맨서	setting|community|high
+Dispatch	처단	ability|translated|high
+Mort	모트	setting|translit|mid
+Slash	베기	ability|translated|high
 lethality	치사율	system|translated|high
+Vengeance	복수	system|translated|high
+Accusation	고발	ability|translated|high
 shields	보이드 실드	system|style|high
 block	방패 막기	system|translated|high
+Adamantine	아다만티움	item|community|high
+Agony	고통	system|translated|high
+Firestorm	화염 폭풍	ability|translated|high
+Fortress	요새	ability|translated|high
+Gladiator	검투사	setting|translated|high
 pushed	밀려남	system|translated|high
+Frenzy	광란	system|translated|high
 evasion	회피	system|style|high
+Prisoner	죄수	setting|translated|high
 prow	함수	system|translated|high
+Aishara	아이샤라	setting|translit|mid
 disturbed	동요	system|translated|mid
 single-shot	단발 사격	system|translated|high
+Servitude	예속	ability|translated|high
+Security	치안	system|translated|high
+Claw	발톱	item|translated|high
+Cyber-Eagle	사이버 이글	setting|translit|mid
+Kick	발차기	ability|translated|high
+Rot	로트	setting|translit|mid
+Mechadendrite	메카덴드라이트	item|community|mid
+Psyber-Raven	사이버 레이븐	setting|community|mid
+Survivor	생존자	ability|translated|high
 dodged	회피	system|style|high
 mechadendrites	메카덴드라이트	item|community|high
+Throne	황금 옥좌	setting|community|high
+Data-Crypt	데이터 납골당	setting|translated|mid
+Craftworld	크래프트월드	setting|community|high
+Furious	격노	ability|translated|mid
+Restoration	복구	system|translated|high
+Stratagem	책략	system|translated|high
+Conviction	신념	system|translated|high
 damaged	피해를 입음	system|translated|high
 augurs	오거 탐지기	item|community|mid
 implants	이식물	item|translated|high
 hull	선체	system|translated|high
-parries	막기	system|style|high
+Augur	오거	setting|community|mid
+Body	시체	other|translated|high
+Augments	신체 개조물	setting|translated|high
+Pirates	해적	setting|translated|high
+Melting	융해	system|translated|high
+Dash	질주	ability|translated|high
+Plasteel	플라스틸	setting|community|high
+Scout	정찰병	setting|translated|high
+Zorael	조라엘	setting|translit|mid
 injuries	부상	system|translated|high
 manoeuvrability	기동성	system|translated|high
 recoil	반동	system|translated|high
 push	밀치기	system|translated|high
 augment	신체 보강물	item|translated|mid
+Inspire	고무	ability|community|high
+Kor	코르	setting|translit|mid
+amasec	아마섹	setting|community|high
+Manufactorum	매뉴팩토룸	setting|community|high
 injury	부상	system|translated|high
+Obelisk	오벨리스크	setting|community|high
+Aebys	에이비스	setting|translit|low
+Sacrifice	희생	item|translated|high
 effects	효과	system|translated|high
+Elite	정예	system|translated|high
+Range	사거리	system|translated|high
+Reputation	평판	system|translated|high
+Suppression	제압	ability|translated|high
+grox	그록스	setting|community|high
+Swing	휘두르기	ability|translated|high
+Priority	우선권	system|translated|high
+Thunderfang	썬더팽	setting|translit|mid
+Fangs	송곳니	item|translated|high
+Whip	채찍	setting|translated|mid
+Revenge	복수	ability|translated|high
+Axiomantha	악시오만타	setting|translit|low
+Beggar	거지	setting|translated|high
+Bite	물어뜯기	ability|translated|high
+Inspired	고무됨	system|translated|high
+Loyalty	충성	ability|translated|high
+Stronghold	요새	ability|translated|high
+Cogicor	코지코르	setting|translit|mid
+Technomat	테크노마트	setting|translit|mid
+Combi-Tool	다용도 공구	item|translated|high
+Medikit	구급상자	item|translated|high
+Destroyer	파괴자	ability|translated|high
+Trap	함정	system|translated|high
 exploits	약점	system|translated|mid
+realspace	현실 우주	setting|community|high
 servo-skull	서보 스컬	item|community|high
+Devastating	파괴적	system|translated|mid
+Scream	비명	ability|translated|high
+Defender	수호자	item|translated|high
+Grotesque	그로테스크	setting|community|high
+Heretek	헤레텍	setting|namu:Warhammer 40,000: Mechanicus|high
+Echo	에코	setting|translit|high
 initiative	우선권	system|translated|high
+Knife	단검	item|translated|high
+Auspex	오스펙스	item|community|high
 implant	이식물	item|translated|high
 parried	막기	system|style|high
 penalties	불이익	system|translated|high
+Slam	내려치기	ability|translated|high
+Castigating	징벌	system|translated|mid
+Furnace	용광로	setting|translated|mid
+Asteroid	소행성	setting|translated|high
+Discipline	군율	ability|translated|mid
+Petition	청원서	item|translated|high
+Tyrant	폭군	item|translated|high
+Autopistol	오토피스톨	item|community|high
+Petitioner	민원인	setting|translated|high
+Barrage	집중 포화	ability|translated|high
+Witness	목격자	system|translated|high
+Insight	통찰	system|translated|high
+Rear	후방	ability|translated|high
 lumens	루멘	item|translit|mid
 augmetics	기계 보철	item|translated|mid
+psykers	사이커	setting|style|high
+servitors	서비터	setting|style|high
+Convictions	신념	system|translated|high
+Unforgiving	무자비	ability|translated|high
+Contracts	계약	system|translated|high
+Soaring	비상	system|translated|high
+Afterlight	애프터라이트	setting|translit|low
+Cutthroat	살인강도	setting|translated|high
+Missionary	선교사	setting|translated|high
+Protecting	보호 중	system|translated|high
+Vigilant	철저한 경계	ability|translated|mid
+Aid	돕기	system|translated|mid
+Fortune	행운	ability|translated|high
+Provocation	도발	ability|translated|high
+Waiting	대기	system|translated|high
+Webber	웨버	item|community|mid
+Rebels	반란군	setting|translated|high
+Worker	노동자	setting|translated|high
+Salvation	구원	ability|translated|high
+Wraithbone	레이스본	setting|community|high
+Scribe	서기관	setting|translated|high
+Consign	위탁	ability|translated|low
+Shattered	산산조각	system|translated|mid
+regicide	레지사이드	setting|community|mid
 blocks	방어	system|translated|mid
 reloads	재장전	system|translated|high
 salvo	일제 발사	system|translated|high
+Guidance	인도	ability|translated|high
+Macro-Cannon	마크로 캐논	item|community|high
+Stain	얼룩	setting|translated|mid
+Efficiency	효율	system|translated|high
+Commoner	평민	setting|translated|high
+Menas	메나스	setting|translit|mid
+Arena	투기장	setting|translated|high
+Conqueror	정복자	other|translated|mid
+Shrine	성소	other|translated|high
+Twelve	열둘	setting|translated|mid
+Armour-Piercing	장갑 관통	ability|translated|high
+Intervention	개입	ability|translated|high
+Nobleman	귀족	setting|translated|high
+Desolation	황폐화	ability|translated|high
+Intimidation	위협	ability|translated|high
+Pict	픽트	setting|translit|mid
 comm-bead	소형 통신기	item|translated|high
+augmentations	신체 개조	setting|translated|high
 damages	피해	system|translated|high
 cogitators	코기테이터	item|style|high
 lumen	루멘 조명	item|translit|mid
+Advance	진격	ability|translated|high
+Catch	포획	ability|translated|mid
+Crossfire	교차 사격	ability|translated|high
+Demolitionist	폭파병	setting|translated|high
+Provisions	식량	system|translated|high
+Uve	우베	setting|translit|mid
+Castigator	징벌자	ability|translated|mid
+Crippled	불구	system|translated|high
+Eviscerator	에비서레이터	item|community|high
+Guest	손님	setting|translated|high
+Disarm	무장 해제	system|translated|high
+Exemplar	귀감	ability|translated|mid
+Voidfarer	공허 항해자	setting|translated|high
+Bloodthirst	피의 갈증	ability|translated|high
+Extermination	섬멸	ability|translated|high
+Relentless	가차없는 맹공	ability|translated|mid
+Ignite	발화	ability|translated|high
+Mercenaries	용병	system|translated|high
+Starport	우주항	setting|translated|high
+Combat-Ready	전투 준비 완료	system|translated|high
+Galvanisation	전기 자극	system|translated|low
+Carnage	대학살	ability|translated|high
+Endure	인내	ability|translated|high
+Techna-Lingua	테크나 링구아	setting|translit|low
+Lingua-Technis	링구아-테크니스	setting|community|high
 wound	체력	system|style|high
+Cleave	가르기	ability|translated|high
+One-Eye	외눈	setting|translated|high
+Bitter	쓴맛	setting|translated|low
+Cleansing	정화	ability|translated|high
+Flash	섬광	item|translated|mid
+Rapier	레이피어	setting|translit|mid
+Ambush	매복	ability|translated|high
+Healer	치유사	setting|translated|high
+Linchpin	핵심 인물	ability|translated|mid
+Optimisation	최적화	ability|translated|high
+Refugee	피난민	setting|translated|high
+Stun	기절	system|style|high
+Overload	과부하	ability|translated|high
+Reliquary	성유물함	system|translated|high
+Sweep	휩쓸기	ability|translated|high
+Counter-Attack	반격	ability|translated|high
+Patronage	후원	other|translated|high
+Undaunted	불굴	ability|translated|high
+Artificial	인공물	system|translated|mid
+Bunker	벙커	setting|translated|high
+Displacement	위치 이동	ability|translated|mid
+Martyrdom	순교	ability|translated|high
+Chainaxe	체인 액스	item|community|high
+Talon	탈론	setting|translit|high
+Valve	밸브	other|translated|high
+Terrified	극심한 공포	system|translated|high
+Awakened	각성	system|translated|high
+Fervour	열의	ability|translated|high
+Insatiable	끝없는 갈증	item|translated|mid
+Jailer	간수	setting|translated|high
+Premonition	예감	ability|translated|high
+Assassins	어쌔신	ability|community|mid
 blocked	차단	system|translated|mid
 recaf	레카프	item|style|high
+Officers	오피서	ability|style|high
+augmented	신체 개조된	setting|translated|mid
 components	함선 부품	item|translated|high
 lho	로	item|translit|low
+Operatives	오퍼러티브	ability|style|high
+agri-world	농업 행성	setting|community|high
 augmetic	신체 보강물	item|translated|mid
 pushing	밀치기	system|translated|high
+Executioners	처형자	ability|translated|high
+Warriors	워리어	ability|style|high
 trailed	추적당함	system|translated|mid
+Lexmechanics	렉스메카닉	setting|community|high
+Soldiers	솔져	ability|style|high
 critical	치명타	system|style|high
+technomats	테크노마트	setting|translit|low
+Path	길	setting|translated|mid
 auspexes	오스펙스	item|community|mid
+manufactorums	매뉴팩토룸	setting|community|mid
+tithe	십일조	setting|community|high
 vox-caster	복스 캐스터	item|community|high
 collision	충돌	system|translated|high
-galvanising	증강 과부하	system|translated|low
 psy-focus	사이킥 집중기	item|translated|mid
+Rending	절단	system|translated|mid
 decay	부패	system|translated|mid
 hitting	명중	system|translated|high
+vox-casts	복스 통신	setting|translated|high
+Piercing	관통	system|translated|high
 doctrine	교리	ability|translated|mid
 lances	랜스	item|style|high
+servitorised	서비터로 개조된	setting|style|high
 vulnerable	취약	system|translated|high
+Master	주인	setting|translated|mid
+Overseers	오버시어	ability|community|high
+Warrants	무역의 영장	setting|style|high
 cards	카드	item|translated|high
 fire	화염	system|translated|high
-immobilises	이동 불가 부여	system|translated|high
+followers	추종자	setting|translated|high
+groxes	그록스	setting|community|high
+heretechnical	이단 기술의	setting|translated|mid
 mental	정신	system|translated|high
-overexerted	탈진	system|translated|mid
+regiment	연대	setting|translated|high
+servitorise	서비터로 개조	setting|translated|high
+sorcery	주술	setting|community|mid
 stimulants	자극제	item|translated|high
 vox-bead	소형 통신기	item|translated|high
 vox-casters	복스 통신기	item|translated|high
+vox-line	복스 통신 회선	setting|translated|high
+vox-net	복스 통신망	setting|translated|high
 vox-synth	복스 음성 합성기	item|translated|mid
+witches	마녀	setting|community|high
 xenodevice	제노스 장치	item|translated|high
+Materium	마테리움	setting|community|high
+Power	역장	system|translated|mid
+Sisterhood	수녀회	setting|translated|high
+Thee	당신	other|translated|mid
+Waystones	영혼석	item|community|mid
 concussion	뇌진탕	system|translated|high
-degrades	손상된다	system|style|high
 dodging	회피	system|style|high
 fires	함내 화재	system|translated|high
+groxshit	그록스 똥	other|translated|mid
+hard-light	경질광	setting|translated|mid
 highlighted	강조 표시된	system|translated|high
 merchant	상인	system|translated|high
 oddities	진귀품	item|translated|mid
-overpenetrate	관통한다	system|translated|mid
 resistance	저항	system|translated|high
+ship	함선	setting|translated|high
+spirit	기계령	setting|style|high
+tech-clergy	기술 사제단	setting|translated|high
+vox-broadcasts	복스 방송	setting|translated|high
 vox-grille	복스 발성구	item|translated|mid
+vox-link	복스 통신 연결	setting|translated|high
 vox-recording	복스 녹음	item|translated|high
 vox-synthesiser	복스 음성 합성기	item|translated|high
+xenophilia	제노스 숭배	setting|translated|mid
+Bursts	연사	system|style|high
+Impact	충격	system|translated|high
+Proctor-Exactant	프록터 엑잭턴트	setting|translit|low
+Sisters	수녀	setting|style|high
 archetypes	아키타입	ability|style|high
+craftworlds	크래프트월드	setting|community|high
+crimson-clad	진홍색 옷을 입은	other|translated|high
+data-crypts	데이터 보관소	setting|translated|mid
 direct	직접	system|translated|high
 energy	에너지	system|translated|high
+giant	거인	other|translated|high
+heretech	헤레테크	setting|community|high
 immobilise	이동 불가	system|translated|high
 micro-cogitator	소형 코기테이터	item|style|high
-overpenetrated	과관통된	system|translated|high
+order	수녀회	setting|translated|high
+servitorisation	서비터 개조	setting|style|high
+sorcerer	소서러	setting|community|high
+vox-cast	복스 방송	setting|community|mid
 vox-hubs	복스 중계소	item|community|mid
+vox-messages	복스 통신	setting|community|mid
+vox-station	복스 통신소	setting|community|mid
 voxes	복스 통신기	item|community|high
 xenocogitator	제노스 코기테이터	item|style|high
+xenotechnology	제노스 기술	setting|style|high

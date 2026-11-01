@@ -1,176 +1,105 @@
 english	korean	note
-Skill	기량	system|translated|high
-Overseer	오버시어	ability|community|high
 resistance test	저항 판정	system|translated|high
-AP	행동력	system|style|high
-Shield	방패	item|translated|high
 Arch-Militant	아치 밀리턴트	ability|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 MP	이동력	system|style|high
-Prey	사냥감	system|translated|high
-Medicae	의술	system|translated|high
 armour penetration	방어 관통	system|translated|high
 psy rating	사이 등급	system|translated|mid
-Strike	타격	ability|translated|high
-Assassin	어새신	ability|namu:Warhammer 40,000: Rogue Trader/등장인물|high
-Examine	조사하기	system|translated|high
-Sword	검	item|translated|high
 INT	지능	system|style|high
 Manipulus	마니풀루스	ability|community|high
-Vanguard	뱅가드	ability|community|high
 FEL	친화력	system|style|high
 hit chance	명중률	system|translated|high
 Master Tactician	마스터 택티션	ability|namu:Warhammer 40,000: Rogue Trader|high
 Flesh!	살점이다!	ability|translated|mid
 The Undying	불사	ability|translated|high
 WP	의지력	system|style|high
-Bladedancer	블레이드 댄서	ability|namu:Warhammer 40,000: Rogue Trader|high
 AGI	민첩	system|style|high
 maximum wounds	최대 체력	system|style|high
 Tech-Use	기술 활용	system|translated|high
 attacks of opportunity	기회 공격	system|translated|high
 Bounty Hunter	현상금 사냥꾼	ability|translated|high
 critical hit chance	치명타 확률	system|style|high
-PER	지각	system|style|high
 temporary wounds	임시 체력	system|translated|high
-People	인구	system|translated|high
-Charge	돌진	ability|translated|high
-Executioner	처형자	ability|translated|high
 melee attack	근접 공격	system|translated|high
-Heretical	이단적	system|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 Execute!	처형하라!	ability|translated|high
 psychic powers	사이킥 능력	system|style|high
-Dogmatic	교조적	system|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 TGH	강인함	system|style|high
 psychic power	사이킥 능력	ability|style|high
-Coercion	위협	system|translated|high
-Fury	격노	system|translated|high
+bonuses	보너스	system|translated|high
 Grand Strategist	대전략가	ability|translated|high
 dodge reduction	회피 감소	system|translated|high
 extra turn	추가 턴	system|translated|high
-Burst	연사	system|style|high
 Run!	달려!	ability|translated|high
 direct damage	직접 피해	system|translated|high
 Iconoclast	인습타파	system|namu:Warhammer 40,000: Rogue Trader/등장인물|high
-Command	명령	ability|translated|high
 warp damage	워프 피해	system|style|high
 melee attacks	근접 공격	system|translated|high
 Get out	나가기	system|translated|high
-STR	근력	system|style|high
-Claws	발톱	item|translated|high
-Logic	논리	system|translated|high
-Maw	아가리	item|translated|mid
 line of sight	시야	system|translated|high
-Demolition	폭파	system|translated|high
 critical damage	치명타 피해	system|translated|high
 shock damage	감전 피해	system|translated|mid
-Focus	집중	ability|translated|high
 Focus!	집중하라!	ability|translated|high
-Zealot	광신도	system|translated|mid
-Persuasion	설득	system|translated|high
 Elucidator	엘루시데이터	item|translit|mid
-Up	위로	system|translated|high
-Activate	작동	system|translated|high
 area attack	범위 공격	system|translated|high
+cooldown	재사용 대기시간	system|translated|high
 area attacks	범위 공격	system|translated|high
 fire damage	화염 피해	system|translated|high
-Noble	귀족	ability|translated|high
 Combat Tactics	전투 전술	ability|translated|high
-Contempt	경멸	ability|translated|high
-Assault	돌격	ability|translated|high
-Down	아래로	system|translated|high
 toxic damage	독성 피해	system|translated|high
-Data-Slate	데이터 슬레이트	item|community|high
 priority target	우선 표적	system|translated|high
-Awareness	인지	system|translated|high
-Grenade	수류탄	item|translated|high
-Inspect	조사	system|translated|high
-Axe	도끼	item|translated|high
 Following!	따르겠습니다!	ability|translated|high
 Lore (Xenos)	지식(제노스)	system|translated|high
 WS	근접술	system|style|high
 Overcharge	과충전	ability|translated|high
 mental damage	정신 피해	system|translated|high
-Repair	수리	ability|translated|high
-Rumours	소문	system|translated|high
-Scrap	고철	system|translated|high
-Search	수색	system|translated|high
 ranged attacks	원거리 공격	system|translated|high
 Lore (Imperium)	지식(제국)	system|translated|high
 Voice of Command	지휘의 목소리	ability|translated|high
-BS	사격술	system|style|high
 energy damage	에너지 피해	system|translated|high
-Elusive	신출귀몰	system|translated|mid
 Plasma Pistol	플라스마 피스톨	item|community|high
 Protect!	지켜라!	ability|translated|high
 resistance tests	저항 판정	system|translated|high
 negative effects	해로운 효과	system|translated|high
 Death From Above	죽음의 강하	ability|translated|high
 Look around	주변 살펴보기	system|translated|high
-Port	좌현	system|translated|high
 Crimson Dance of Khaine	케인의 진홍빛 춤	item|translated|mid
 difficulty tier	난이도 단계	system|translated|high
 rate of fire	발사 수	system|translated|mid
+overpenetration	관통 사격	system|translated|high
 Blade Dance	검무	ability|translated|high
-Opening	빈틈	system|translated|high
-Reload	재장전	ability|translated|high
-Weapons	무기	item|translated|high
 attack of opportunity	기회 공격	system|translated|high
 character level	캐릭터 레벨	system|translated|high
-Inferno	지옥불	ability|translated|high
 lance weapon	랜스 무장	system|style|high
-Post	보직	system|translated|high
 Post Abilities	직책 능력	system|translated|high
+traumas	중상	system|translated|high
 Athletics	운동	system|translated|high
 Bloodstained	피투성이	system|translated|high
-Onslaught	맹공	item|translated|high
 Carouse	주량	system|translated|mid
 Shadow Field	섀도 필드	item|community|mid
 Ferrum Sanctum	페룸 상툼	system|translit|mid
 Hunt Down the Prey	사냥감 추적	ability|translated|high
 Lore (Warp)	지식(워프)	system|translated|high
-Swarm	군집	ability|translated|mid
 Torpedo tubes	어뢰 발사관	item|translated|high
 impact damage	충돌 피해	system|translated|high
 negative effect	해로운 효과	system|translated|high
-Commerce	상업	system|translated|high
-Dispatch	처단	ability|translated|high
 Plasma Battery	플라스마 전지	item|translated|high
-Slash	베기	ability|translated|high
-Vengeance	복수	system|translated|high
-Accusation	고발	ability|translated|high
 critical hits	치명타	system|style|high
 Steady!	흔들리지 마라!	ability|translated|high
 Reject the Flesh	육신 거부	ability|translated|high
-Adamantine	아다만티움	item|community|high
-Agony	고통	system|translated|high
-Firestorm	화염 폭풍	ability|translated|high
-Fortress	요새	ability|translated|high
 cover efficiency	엄폐 효율	system|translated|high
 psychic phenomena	사이킥 현상	system|style|high
-Frenzy	광란	system|translated|high
 Power Maul	파워 마울	item|community|high
 Attention!	차렷!	ability|translated|high
-Servitude	예속	ability|translated|high
-Security	치안	system|translated|high
 Sharpshooter	명사수	ability|translated|high
-Claw	발톱	item|translated|high
-Kick	발차기	ability|translated|high
 area of effect	효과 범위	system|translated|high
 rending damage	절단 피해	system|translated|mid
 Go down	내려가기	system|translated|high
 Hekatarii Blade	헤카타리 칼날	item|translated|mid
-Mechadendrite	메카덴드라이트	item|community|mid
 Shield Bash	방패 강타	ability|translated|high
-Survivor	생존자	ability|translated|high
 parry reduction	막기 감소	system|translated|high
 For the Emperor!	황제를 위하여!	ability|translated|high
-Furious	격노	ability|translated|mid
 Miraculous Fusion Reactor	기적의 핵융합로	item|translated|high
-Restoration	복구	system|translated|high
 Run and Gun	기동 사격	ability|translated|high
-Stratagem	책략	system|translated|high
 Starway Atlas	성간 항로 지도	item|translated|mid
-Conviction	신념	system|translated|high
 melee range	근접 사거리	system|translated|high
 attack limit per turn	턴당 공격 횟수 제한	system|translated|high
 hull integrity	선체 내구도	system|translated|high
@@ -178,73 +107,49 @@ Navy Officer	해군 장교	ability|namu:Warhammer 40,000: Rogue Trader|high
 Open the door	문 열기	system|translated|high
 Death Waltz	죽음의 왈츠	ability|translated|high
 firing arc	사격각	system|translated|high
+parries	막기	system|style|high
 Arc Rifle	아크 라이플	item|community|high
-Melting	융해	system|translated|high
-Dash	질주	ability|translated|high
 Expose Weakness	약점 노출	ability|translated|high
 cannot attack	공격 불가	system|translated|high
 action point	행동력	system|style|high
 Examine the body	시신 조사	system|translated|high
 The Rack	고문대	item|translated|high
 Go up	올라가기	system|translated|high
-Inspire	고무	ability|community|high
 Last Volley	최후의 일제 사격	ability|translated|high
-Sacrifice	희생	item|translated|high
 physical damage	물리 피해	system|translated|high
-Elite	정예	system|translated|high
 Voidship Ram	공허선 충각 돌격	ability|translated|high
-Range	사거리	system|translated|high
 Enforcer Carapace	인포서 카라페이스 아머	item|style|high
-Reputation	평판	system|translated|high
 Flak Vest	플랙 조끼	item|style|high
 Single Shot	단발 사격	system|translated|high
 Sniper Rifle	저격소총	item|translated|high
 Heavy Armour	중갑	system|translated|high
-Suppression	제압	ability|translated|high
 Heavy Rock Saw	중형 암석 절단톱	item|translated|high
-Swing	휘두르기	ability|translated|high
 Activate the elevator	승강기 작동	system|translated|high
 Melta Torpedoes	멜타 어뢰	item|style|high
 Orchestrated Firestorm	일제 화력 공세	ability|translated|mid
-Priority	우선권	system|translated|high
 extra turns	추가 턴	system|translated|high
 deadeye shot	정밀 사격	system|translated|mid
 ranged weapon	원거리 무기	item|translated|high
 (TGH bonus / 2)	(강인함 보너스 / 2)	system|style|high
-Fangs	송곳니	item|translated|high
 Sanctioned Psyker	인가 사이커	ability|namu:Warhammer 40,000: Rogue Trader|high
-Revenge	복수	ability|translated|high
 Holo-Field	홀로 필드	system|community|high
 Starboard	우현	system|translated|high
 Humanity's Finest	인류의 정예	ability|translated|high
 Steady Superiority	흔들림 없는 우위	ability|translated|mid
-Bite	물어뜯기	ability|translated|high
-Inspired	고무됨	system|translated|high
 Stimm	자극제	item|translated|high
 Bite!	물어!	ability|translated|high
-Loyalty	충성	ability|translated|high
-Stronghold	요새	ability|translated|high
-Combi-Tool	다용도 공구	item|translated|high
-Medikit	구급상자	item|translated|high
 Death Sentence	사형 선고	ability|translated|high
 PF	수익 지수	system|style|high
-Destroyer	파괴자	ability|translated|high
 Reactivate	재가동	ability|translated|high
-Trap	함정	system|translated|high
 full cover	완전 엄폐	system|translated|high
 lance weapons	랜스 무기	item|style|high
-Devastating	파괴적	system|translated|mid
 Hand Flamer	핸드 플레이머	item|community|high
-Scream	비명	ability|translated|high
-Defender	수호자	item|translated|high
 Dismantling Attack	분쇄 공격	ability|translated|mid
 Subductor	서브덕터	ability|community|high
 Heretical — Adherent	이단 — 추종자	system|translated|high
-Knife	단검	item|translated|high
 Analyse Enemies	적 분석	ability|translated|high
 Emperor's Wrath	황제의 분노	ability|translated|high
 Magnarail Blast	마그나레일 포격	ability|translated|mid
-Auspex	오스펙스	item|community|high
 Finest Hour!	최고의 순간!	ability|translated|high
 War Hymn	전쟁 찬가	ability|translated|high
 Bring It Down!	쓰러뜨려라!	ability|translated|high
@@ -259,8 +164,6 @@ acceleration and braking	가속과 제동	system|translated|high
 fresh injury	새 부상	system|translated|high
 Characteristic bonus	능력치 보너스	system|translated|high
 Lightning Arc	번개 줄기	ability|translated|high
-Slam	내려치기	ability|translated|high
-Castigating	징벌	system|translated|mid
 Ship Components	함선 부품	system|translated|high
 Grenadier	척탄병	ability|translated|high
 Machine Spirit Communion	기계령 교감	ability|translated|high
@@ -271,73 +174,49 @@ Melta Charge	멜타 폭약	item|style|high
 Curse of the Wulfen	울펜의 저주	ability|translated|high
 Heavy Stubber	헤비 스터버	item|style|high
 Ministorum Priest	미니스토룸 사제	ability|style|high
-Discipline	군율	ability|translated|mid
 Heretical — Zealot	이단 — 광신자	system|translated|high
-Petition	청원서	item|translated|high
-Tyrant	폭군	item|translated|high
 Chronicle of Fates	운명의 연대기	item|translated|mid
-Autopistol	오토피스톨	item|community|high
 Heroic Inspiration	영웅의 고무	ability|translated|high
-Barrage	집중 포화	ability|translated|high
 Examine the device	장치 조사하기	system|translated|high
 Plasma Explosion	플라스마 폭발	ability|translated|high
 Wild Hunt	야생 사냥	ability|translated|high
 Field Medic	야전 의무병	ability|translated|high
 Iconoclast — Zealot	인습타파 — 광신자	system|translated|mid
 Psychic Shriek	사이킥 비명	ability|translated|high
-Witness	목격자	system|translated|high
 Frontline	전방	ability|translated|high
-Insight	통찰	system|translated|high
-Rear	후방	ability|translated|high
 You. Serve Me.	너는 나를 섬겨라.	ability|translated|high
 heroic acts	영웅적 행동	system|style|high
 Infusing	주입	system|translated|mid
-Convictions	신념	system|translated|high
 Foehammer	적쇄추	item|translated|mid
 Mark of Fate	운명의 낙인	ability|translated|high
 Splinter Rifle	스플린터 라이플	item|community|high
-Unforgiving	무자비	ability|translated|high
-Contracts	계약	system|translated|high
 Plasma Torpedoes	플라스마 어뢰	item|translated|high
-Soaring	비상	system|translated|high
 Transonic Wave	천음속 파동	ability|translated|mid
 Forced Repentance	강제 참회	ability|translated|high
 Press the Advantage	승기 굳히기	ability|translated|high
 Steady Hand	흔들림 없는 손	ability|translated|high
 Forceful Strike	강력한 일격	ability|translated|high
-Protecting	보호 중	system|translated|high
-Vigilant	철저한 경계	ability|translated|mid
-Aid	돕기	system|translated|mid
 Dark Pact	어둠의 계약	ability|translated|high
-Fortune	행운	ability|translated|high
-Provocation	도발	ability|translated|high
 Strafe	기습 비행	ability|translated|mid
-Waiting	대기	system|translated|high
 Raining Blood	피의 비	ability|translated|high
 Take and Hold	점령 사수	ability|translated|high
-Webber	웨버	item|community|mid
 At All Costs!	어떤 대가를 치르더라도!	ability|translated|high
 Death Whisper	죽음의 속삭임	ability|translated|high
 Back in the Fight	전투 복귀	ability|translated|high
 Defensive Stance	방어 태세	ability|translated|high
 In My Sights	조준선 안에	ability|translated|mid
-Salvation	구원	ability|translated|high
 Blade Shard	칼날 파편	item|translated|high
 Devourer	포식자	ability|translated|high
 The One Star	유일한 별	item|translated|high
-Consign	위탁	ability|translated|low
 Fellowship (FEL)	친화력(FEL)	system|style|high
 Kill them!	놈들을 죽여라!	ability|translated|high
 Plasma Cannon	플라스마 캐논	item|community|high
-Shattered	산산조각	system|translated|mid
 To Me!	내게로!	ability|translated|high
 attack per turn	턴당 공격 횟수	system|translated|high
 single shots	단발 사격	system|translated|high
 internal fires	함내 화재	system|translated|high
 Backline	후방	ability|translated|high
 Duelling Tactics	결투 전술	ability|translated|high
-Guidance	인도	ability|translated|high
-Macro-Cannon	마크로 캐논	item|community|high
 Rapid Fire	속사	ability|translated|high
 Syphon Life	생명력 흡수	ability|translated|high
 Word of the Emperor	황제의 말씀	ability|translated|high
@@ -349,7 +228,6 @@ Gunslinger	총잡이	ability|translated|high
 Regeneration	재생	ability|translated|high
 Tempestus Carapace	템페스투스 카라페이스 아머	item|style|high
 Combat Master	전투의 달인	ability|translated|high
-Efficiency	효율	system|translated|high
 Revel in Slaughter	학살의 희열	ability|translated|high
 Ricochet	도탄	system|translated|high
 The Ruin	파멸	item|translated|high
@@ -358,13 +236,9 @@ Herald Servo-Skull	전령 서보 스컬	item|translated|high
 Force Couple (Enemy)	우력 (적)	ability|translated|low
 Heretical — Votary	이단적 — 신봉자	system|translated|mid
 Unyielding Guard	불굴의 수호	ability|translated|high
-Armour-Piercing	장갑 관통	ability|translated|high
 Daring Breach	과감한 돌파	ability|translated|high
 Force Field	역장	ability|translated|high
-Intervention	개입	ability|translated|high
 Versatility	다재다능	ability|namu:Warhammer 40,000: Rogue Trader/등장인물|high
-Desolation	황폐화	ability|translated|high
-Intimidation	위협	ability|translated|high
 Vision of Death	죽음의 환영	ability|translated|high
 Auto Stimulant	자동 자극제	item|translated|high
 Dogmatic — Zealot	교조적 — 광신자	system|translated|high
@@ -376,21 +250,14 @@ acceleration phase	가속 단계	system|translated|high
 melee superiority	근접 우세	system|translated|high
 His Tarot	황제의 타로	item|community|high
 piercing damage	관통 피해	system|translated|high
-Advance	진격	ability|translated|high
 Blood Feast	피의 향연	item|translated|high
-Catch	포획	ability|translated|mid
-Crossfire	교차 사격	ability|translated|high
 Examine the area	주변 조사	system|translated|high
 Heavy Bolter	헤비 볼터	item|community|high
 Machine Spirit Banishment	기계령 추방	ability|style|high
-Provisions	식량	system|translated|high
 Ship Posts	함선 보직	system|translated|high
 The Final Order	최후의 명령	ability|translated|high
 Base Skill: Medicae	기초 기술: 의술	ability|translated|high
-Castigator	징벌자	ability|translated|mid
-Crippled	불구	system|translated|high
 Death, Oblivion	죽음, 망각	system|translated|high
-Eviscerator	에비서레이터	item|community|high
 Power Pick	파워 곡괭이	item|translated|high
 Shield of Faith	신앙의 방패	system|translated|high
 The Exploder	폭파자	item|translated|high
@@ -398,7 +265,6 @@ Aeldari Chainsword	엘다리 체인소드	item|style|high
 Blood Oath	피의 맹세	ability|translated|high
 Cautious Approach	신중한 접근	ability|translated|high
 Danse Macabre	죽음의 무도	ability|translated|high
-Disarm	무장 해제	system|translated|high
 Examine the corpse	시체 조사	system|translated|high
 Heavy Xenomesh	중형 제노스 망사 갑옷	item|translated|mid
 Mark-100 Augur Array	마크 100 오거 탐지 장치	item|translated|mid
@@ -407,17 +273,13 @@ Blood Phial	혈액병	item|translated|high
 Climb down	타고 내려가기	system|translated|high
 Dark Blessing	어둠의 축복	ability|translated|high
 Disgusting!	역겨워!	system|translated|high
-Exemplar	귀감	ability|translated|mid
 Holy Gifts	성스러운 선물	item|translated|high
 Arc Grenade	전격 수류탄	ability|translated|high
-Bloodthirst	피의 갈증	ability|translated|high
 Climb up	올라가기	system|translated|high
 Dark Prayer	어둠의 기도	ability|translated|high
 Dogmatic — Adherent	교조주의 — 추종자	system|translated|high
-Extermination	섬멸	ability|translated|high
 Hot on the Trail	맹렬한 추적	ability|translated|high
 Master Cannoneer	포술의 달인	ability|translated|high
-Relentless	가차없는 맹공	ability|translated|mid
 Space Battle	우주 전투	system|translated|high
 Vox-Thief	복스 도둑	item|translated|mid
 Archeotech Compass	아키오테크 나침반	item|translated|high
@@ -425,8 +287,6 @@ Bloody Retribution	피의 응징	item|translated|high
 Combat Experience	전투 경험	system|translated|high
 Dogmatic — Votary	교조 — 헌신자	system|translated|high
 Extrapolation	외삽	ability|translated|mid
-Ignite	발화	ability|translated|high
-Mercenaries	용병	system|translated|high
 Remove the obstacle	장애물 제거	system|translated|high
 Spinner's Breastplate	실잣는 자의 흉갑	item|translated|mid
 The Pyre	장작더미	item|translated|mid
@@ -447,20 +307,16 @@ Inevitable Retribution	피할 수 없는 응보	ability|translated|high
 Penetration	관통력	system|translated|high
 The Ripper	분쇄자	item|translated|high
 Warp Jump	워프 도약	system|style|high
-Combat-Ready	전투 준비 완료	system|translated|high
 Death, Agony	죽음, 고통	system|translated|mid
 Emperor Protects!	황제께서 지켜주신다!	ability|translated|high
-Galvanisation	전기 자극	system|translated|low
 Kabalite Armour	카발라이트 아머	item|community|mid
 Power Blade	파워 블레이드	item|community|high
 Strongpoint	방어 거점	ability|translated|high
 The Roar	포효	item|translated|high
 Warp Relay	워프 중계	ability|translated|mid
 Avenge Me!	내 원수를 갚아라!	ability|translated|high
-Carnage	대학살	ability|translated|high
 Craft Bay	함재기 격납고	item|translated|high
 Death, Ashes	죽음, 잿더미	system|translated|mid
-Endure	인내	ability|translated|high
 Get off Me!	물러서라!	ability|translated|high
 Last Stand	최후의 저항	item|translated|high
 Power Claymore	파워 클레이모어	item|translit|high
@@ -476,7 +332,6 @@ deflection negation	피해 감소 무시	system|translated|high
 partial cover	부분 엄폐	system|translated|high
 Agility (AGI)	민첩 (AGI)	system|style|high
 Blinding Shot	실명 사격	ability|translated|high
-Cleave	가르기	ability|translated|high
 Death Synergy	죽음의 상승효과	ability|translated|mid
 Harsh Shove	거친 밀치기	ability|translated|high
 Landing...	착함 중...	system|translated|high
@@ -485,22 +340,16 @@ Reanimation Protocol	리애니메이션 프로토콜	ability|community|high
 Sit down	앉기	system|translated|high
 Torpedo Control	어뢰 통제	ability|translated|high
 Warp Burn	워프 화상	system|style|high
-Cleansing	정화	ability|translated|high
 Death Sphere	죽음의 구체	item|translated|high
-Flash	섬광	item|translated|mid
 Growl!	으르렁!	ability|translated|high
 Shuriken Pistol	슈리켄 피스톨	item|community|high
 The Dark Marchesa	암흑의 후작부인	item|translated|mid
 The Unstoppable One	막을 수 없는 자	ability|translated|high
 Void Fury	공허의 분노	system|style|high
-Ambush	매복	ability|translated|high
 Blinding Strike	실명 타격	ability|translated|high
 Combat Locus Stratagem	전투 거점 전술	ability|translated|mid
 Death Warden	죽음의 파수꾼	ability|translated|high
-Linchpin	핵심 인물	ability|translated|mid
 Meltagun	멜타건	item|style|high
-Optimisation	최적화	ability|translated|high
-Stun	기절	system|style|high
 The Emperor Protects	황제께서 보우하신다	ability|translated|high
 Warp Channeller	워프 매개자	ability|translated|mid
 Apprehend!	체포해!	ability|translated|high
@@ -509,26 +358,18 @@ Confident Approach	자신만만한 접근	ability|translated|high
 Death Warrant	사형 선고	ability|translated|high
 Fulminating Shot	폭렬 사격	ability|translated|mid
 Heroic Sacrifice	영웅적 희생	ability|translated|high
-Overload	과부하	ability|translated|high
-Reliquary	성유물함	system|translated|high
-Sweep	휩쓸기	ability|translated|high
 The Guardian Crown	수호자의 왕관	item|translated|high
 Warp Mist	워프 안개	system|style|high
 Armoured Bodyglove	방탄 밀착복	item|translated|high
 Break Their Ranks!	대열을 무너뜨려라!	ability|translated|high
-Counter-Attack	반격	ability|translated|high
 Death Whispered Your Name	죽음이 속삭인 이름	ability|translated|high
 Furious Recital	격노의 낭송	ability|translated|high
 Mark of Corruption	타락의 표식	ability|translated|high
 Mind Bond	정신 결속	ability|translated|high
 Scourging Strikes	징벌의 일격	ability|translated|high
-Undaunted	불굴	ability|translated|high
 Where It Hurts	급소 공략	ability|translated|high
-Artificial	인공물	system|translated|mid
-Displacement	위치 이동	ability|translated|mid
 Glimmer-Pattern Void Shield Array	글리머형 보이드 실드 배열기	item|translated|mid
 Iconoclast — Adherent	인습타파 — 추종자	system|translated|high
-Martyrdom	순교	ability|translated|high
 Move, Move, Move!	이동, 이동, 이동!	ability|translated|high
 Perception (PER)	지각(PER)	system|style|high
 Take Aim!	조준!	ability|translated|high
@@ -536,7 +377,6 @@ The Last Flash	최후의 섬광	item|translated|high
 Unyielding Beacon	불굴의 봉화	ability|translated|high
 Whiplash	채찍질	ability|translated|mid
 Assault Onslaught	돌격 맹공	ability|translated|mid
-Chainaxe	체인 액스	item|community|high
 Death Blast	죽음의 폭발	ability|translated|high
 In-Trenched	참호 엄폐	system|translated|mid
 Pistol Shot	권총 사격	ability|translated|high
@@ -548,14 +388,10 @@ Death Grip	죽음의 손아귀	item|translated|high
 Fellowship +5	친화력 +5	system|style|high
 Plasma Shot	플라스마 사격	ability|translated|high
 Shadow Lance	그림자 랜스	item|style|high
-Terrified	극심한 공포	system|translated|high
 Venom Blade	맹독검	item|translated|high
 Wrath of Saint Drusus	성 드루수스의 분노	item|translated|high
-Awakened	각성	system|translated|high
 Death Hymn	죽음의 찬가	item|translated|high
-Fervour	열의	ability|translated|high
 Greatsword	대검	item|translated|high
-Insatiable	끝없는 갈증	item|translated|mid
 Master of Etherics	에테릭스 마스터	ability|translit|low
 Shield Pulse	보호막 파동	ability|translated|high
 The Ashen Breath	잿빛 숨결	item|translated|high
@@ -566,29 +402,22 @@ Death Rattle	죽음의 신음	system|translated|high
 Grisly Adjudication	참혹한 심판	ability|translated|high
 Master of Manoeuvres	기동의 달인	ability|translated|high
 Obstruct Vision	시야 방해	ability|translated|high
-Premonition	예감	ability|translated|high
 Shield Swing	방패 휘두르기	ability|translated|high
 The Course Untravelled	미답의 항로	ability|translated|high
 Vital Component Extraction	핵심 부품 적출	ability|translated|mid
-Assassins	어쌔신	ability|community|mid
 Reloading	재장전	system|translated|high
 attacks per turn	턴당 공격 횟수	system|translated|high
 experience points	경험치	system|translated|high
-Officers	오피서	ability|style|high
 VMP	함선 이동력	system|translated|high
-Operatives	오퍼러티브	ability|style|high
 deadeye shots	정밀 사격	system|translated|mid
 ranged weapons	원거리 무기	item|translated|high
 Bladedancers	블레이드댄서	ability|translit|mid
 Navigator's insight	내비게이터의 통찰	system|translated|high
 level up	레벨 상승	system|translated|high
-Executioners	처형자	ability|translated|high
-Warriors	워리어	ability|style|high
 medium armour	중형 방어구	item|translated|mid
 Master Tacticians	마스터 택티션	ability|namu:Warhammer 40,000: Rogue Trader|high
 effective range	유효 사거리	system|translated|high
 power damage	동력 피해	system|translated|mid
-Soldiers	솔져	ability|style|high
 light armour	경갑	item|translated|high
 movement point	이동력	system|style|high
 ultimate ability	궁극기	ability|translated|high
@@ -603,43 +432,41 @@ torpedo salvo	어뢰 일제 발사	system|translated|high
 Ranged area attacks	원거리 범위 공격	system|translated|high
 Vanguards	뱅가드	ability|community|mid
 augmented fingers	증강 손가락	item|translated|high
+galvanising	증강 과부하	system|translated|low
 machine damage	기계 피해	system|translated|mid
 skill test	기술 판정	system|translated|high
 warp engine	워프 엔진	item|community|high
-Rending	절단	system|translated|mid
 anomalous zone	이상 지대	system|translated|high
 melee combat	근접 전투	system|translated|high
 Grand Strategists	그랜드 스트래티지스트	ability|namu:Warhammer 40,000: Rogue Trader|high
-Piercing	관통	system|translated|high
 Tarot	타로	item|community|high
 asteroid field	소행성 지대	system|translated|high
 proximity fuse	근접 신관	item|translated|high
 temporary wound	임시 체력	system|style|high
 His sacred Tarot	그분의 신성한 타로	item|translated|high
-Overseers	오버시어	ability|community|high
 Psychosomatic trauma	심신 외상	system|translated|mid
 augmented finger	증강 손가락	item|translated|high
 critical hit chance, and critical damage	치명타 확률 및 치명타 피해	system|translated|high
 half cover	반엄폐	system|translated|high
+immobilises	이동 불가 부여	system|translated|high
 master cogitator	중앙 코기테이터	item|translated|high
 neural augmetic	신경 증강장치	item|translated|high
 old injury	오래된 부상	system|translated|high
+overexerted	탈진	system|translated|mid
 positive effects	이로운 효과	system|translated|high
 torpedo launchers	어뢰 발사관	item|translated|high
 God-Emperor's Tarot	신황제의 타로	item|style|high
 His sacred cards	황제의 성스러운 카드	item|translated|high
-Power	역장	system|translated|mid
-Waystones	영혼석	item|community|mid
 archeotech device	아키오테크 장치	item|style|high
 damage calculation	피해 계산	system|translated|high
+degrades	손상된다	system|style|high
 friendly fire	아군 오사	system|translated|high
 implant ports	이식물 연결 단자	item|translated|high
 master work log cogitator	주 작업 일지 코기테이터	item|translated|low
+overpenetrate	관통한다	system|translated|mid
 psychic phenomenon	사이킥 현상	system|style|high
 ultimate abilities	궁극기	ability|translated|high
-Bursts	연사	system|style|high
 Exemplars	모범자	ability|translated|mid
-Impact	충격	system|translated|high
 Melee attackers	근접 공격자	system|translated|high
 Weapon Skills	근접술	system|style|high
 burst attack	연사 공격	system|style|high
@@ -647,6 +474,7 @@ firing zones	사격 구역	system|translated|high
 internal fire	함내 화재	system|translated|high
 mechadendrite tentacles	메카덴드라이트 촉수	item|community|mid
 old injuries	오래된 부상	system|translated|high
+overpenetrated	과관통된	system|translated|high
 ranged area attack	원거리 범위 공격	system|translated|high
 spirit stone	스피릿 스톤	item|community|high
 void movement point	공허 이동력	system|style|high

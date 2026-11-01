@@ -1,0 +1,363 @@
+1	마크 "오퍼러티브"
+2	마크 "아치 밀리턴트"
+3	마크 "어새신"
+4	마크 "워리어"
+5	마크 "헌터"
+6	마크 "오피서"
+7	전기 자극
+8	마크 "솔져"
+9	마크 "전략가"
+10	마크 "전술가"
+11	마크 "뱅가드"
+12	이 효과가 1중첩될 때마다 이 생명체가 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g}가 15% 증가한다.\n<i>이 효과는 생명체의 신체 개조물로 인해 발생하며, 제거할 수 없다.</i>
+13	페룸 상툼
+14	마크 I
+15	마크 II
+16	사용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 3 감소한다.
+17	왼쪽
+18	사용자가 반지형 소형 무기를 전투당 1회 대신 {g|Encyclopedia:Round}라운드{/g}당 1회 사격할 수 있다.
+19	사용자는 부적을 장착할 수 없다.
+20	사용자가 {uip|Range|ea9d6dd442d34403a3e4228ba6178a5d}칸 이내의 아군을 자신에게 끌어당긴다. 해당 아군이 사용자보다 크면, 대신 사용자가 해당 아군에게 끌려간다.
+21	우력 (아군)
+22	사용자가 {uip|Range|fa6bb19dd177482f8308e57bb1538c5a}칸 이내의 적에게 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 15 준다. 그 후 해당 적에게 끌려간다. 사용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장착하고 있다면 해당 적을 공격한다.
+23	파괴적 접근
+24	<u>(1 + {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g} / 2)</u>
+25	사용자가 {g|f:5c7909d3a860457a811e3bff1e57b509}파괴적 접근{/g} 능력을 얻는다.\n이 능력은 사용자가 대상 적에게 끌려간 후, 근접 무기를 장착하고 있다면 그 무기로 해당 적을 공격하게 한다.\n적을 처치하면 {g|f:5c7909d3a860457a811e3bff1e57b509}파괴적 접근{/g}의 재사용 대기시간이 초기화된다.
+26	사용자가 {uip|Range|ea9d6dd442d34403a3e4228ba6178a5d}칸 이내의 적에게 {g|Encyclopedia:ImpactDamage}충돌 피해{/g}를 1 주고 자신에게 끌어당긴다. 해당 적이 사용자보다 크면, 대신 사용자가 해당 적에게 끌려간다. 사용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장착하고 있다면 해당 적을 공격한다.
+27	우력 (적)
+28	사용자가 {uip|Range|ea8fc10fdb544dbf9b8e25c0f1defc13}칸 이내의 적에게 {g|Encyclopedia:ImpactDamage}충돌 피해{/g}를 1 주고 자신에게 끌어당긴다. 해당 적이 사용자보다 크면, 대신 사용자가 해당 적에게 끌려간다. 사용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장착하고 있다면 해당 적을 공격한다. 무기를 두 개 장착하고 있다면 두 무기로 모두 공격하지만, 각 무기가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 50% 감소한다.
+29	사용자가 {g|f:edd1a35b92d64bad9aaa09bbaa522797}우력 (적){/g}과 {g|f:cd63f0732da44952a78f7f79e50c737f}우력 (아군){/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.\n{g|f:edd1a35b92d64bad9aaa09bbaa522797}우력 (적){/g}은 끌어당기기가 끝난 후, 사용자가 근접 무기를 장착하고 있다면 그 무기로 대상 적을 공격하게 한다. 무기를 두 개 장착하고 있다면 두 무기로 모두 공격하지만, 각 무기가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 50% 감소한다.\n두 능력 중 하나를 사용하면 두 능력 모두 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 적용된다.
+30	공압 돌격 갈고리
+31	<u>(2 + {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g} / 3)</u>
+32	사용자가 {g|f:3f08aba9f5a64736b31da1e449da0d05}우력 (적){/g}과 {g|f:cd63f0732da44952a78f7f79e50c737f}우력 (아군){/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.\n{g|f:3f08aba9f5a64736b31da1e449da0d05}우력 (적){/g}은 끌어당기기가 끝난 후, 사용자가 근접 무기를 장착하고 있다면 그 무기로 대상 적을 공격하게 한다.\n두 능력 중 하나를 사용하면 두 능력 모두 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 적용된다.
+33	사용자가 {g|f:3f08aba9f5a64736b31da1e449da0d05}우력 (적){/g}과 {g|f:cd63f0732da44952a78f7f79e50c737f}우력 (아군){/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.\n{g|f:3f08aba9f5a64736b31da1e449da0d05}우력 (적){/g}은 끌어당기기가 끝난 후, 사용자가 근접 무기를 장착하고 있다면 그 무기로 대상 적을 공격하게 한다.\n두 능력 중 하나를 사용하면 두 능력 모두 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 적용된다.\n각 능력의 행동력 소모량이 1 감소한다.
+34	사용자의 근접술이 10% 감소한다.
+35	오그린의 악력
+36	사용자가 이 손에 양손 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장착할 수 있다(지팡이와 암석 절단톱 제외).
+37	사용자가 이 손에 양손 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장착할 수 있다(지팡이와 암석 절단톱 제외).\n이 손에 든 무기로 근접 공격 시 주는 피해가 5% 증가한다.
+38	사용자는 이 손에 든 양손 무기로 기본 공격만 할 수 있다.\n사용자가 중상을 입어도 이 신체 보강물은 오작동하지 않지만, 사용자의 최대 명중률이 5% 감소한다.
+39	원격 소생기
+40	<u>대상이 잃은 체력의 15%</u>
+41	구급상자와 자극제의 사용 사거리가 {unit_stat|WarhammerStrength|bonus} 증가한다.\n구급상자로 아군의 {g|Encyclopedia:HitPoints}체력{/g}을 회복하면, 체력을 {uip|Heal|a19ae99565a345c4acdfb67b287faebf}만큼 추가로 회복한다.\n자극제를 사용하면 체력을 {uip|Heal|a19ae99565a345c4acdfb67b287faebf} 회복한다.
+42	구급상자와 자극제의 사용 사거리가 {unit_stat|WarhammerStrength|bonus} 증가한다.\n구급상자와 자극제의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다.\n구급상자로 아군의 {g|Encyclopedia:HitPoints}체력{/g}을 회복하면, 체력을 {uip|Heal|f4a1137ff9bd4c7a92f000bdd80a7fe8}만큼 추가로 회복한다.\n자극제를 사용하면 체력을 {uip|Heal|f4a1137ff9bd4c7a92f000bdd80a7fe8} 회복한다.
+43	사용자의 근접술과 사격술이 5% 감소한다.
+44	구급상자와 자극제의 사용 사거리가 {unit_stat|WarhammerFellowship|bonus} 증가한다.\n구급상자로 아군의 {g|Encyclopedia:HitPoints}체력{/g}을 회복하면, 체력을 {uip|Heal|a19ae99565a345c4acdfb67b287faebf}만큼 추가로 회복한다.\n자극제를 사용하면 체력을 {uip|Heal|a19ae99565a345c4acdfb67b287faebf} 회복한다. 또한 해당 아군에게 그 아군의 {g|Encyclopedia:Resolve}결의{/g}만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 부여한다.
+45	구급상자와 자극제의 사용 사거리가 {unit_stat|WarhammerStrength|bonus} 증가한다.\n구급상자로 아군의 {g|Encyclopedia:HitPoints}체력{/g}을 회복하면, 체력을 {uip|Heal|0987bac05d5a4a6c940efcd927a1cf19}만큼 추가로 회복한다.\n자극제를 사용하면 체력을 {uip|Heal|0987bac05d5a4a6c940efcd927a1cf19} 회복한다.\n대상이 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 안에 있으면, 이 수치가 {unit_stat|WarhammerIntelligence|bonus} 증가한다.
+46	사용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 3 증가한다.
+47	생체공학 팔 이식물
+48	<u>(0.5 × {g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} − {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+49	{g|Encyclopedia:Round}라운드{/g}당 2회, 반경 8칸 이내이면서 사용자의 {g|Encyclopedia:LineOfSight}시야{/g}에 있는 적이 아군에게 피해를 줄 때마다, 해당 적이 1라운드 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다.
+50	이 생명체의 근접술과 사격술이 1라운드 동안 각각 10 감소한다. 최대 2회 중첩된다.
+51	이 신체 보강물의 능력을 사용할 때마다 사용자의 근접술과 사격술이 1라운드 동안 각각 10 감소한다. 최대 2회 중첩된다.
+52	대상은 강인함 저항 판정에 실패하면 1라운드 동안 {g|f:0e44d2c723ef4c9295142503888aa5fc}진정{/g} 효과를 받는다. 대상이 자신의 다음 턴 시작 전에 피해를 받으면 {g|f:0e44d2c723ef4c9295142503888aa5fc}진정{/g}이 제거된다.\n이렇게 {g|f:0e44d2c723ef4c9295142503888aa5fc}진정{/g}이 제거되면 대상은 {g|f:a07e7b49ead74e5aabae72858414928e}조기 각성{/g} 효과를 얻는다. 라운드가 끝나기 전에 {g|f:0e44d2c723ef4c9295142503888aa5fc}진정{/g}이 제거되지 않으면 대상은 {g|f:a07e7b49ead74e5aabae72858414928e}조기 각성{/g}을 얻지 않는다.\n사용자는 전투가 끝날 때까지 {g|f:b626505e8c944ca3ab68e4008fedce89}피로{/g} 1중첩을 받는다.
+53	이 생명체는 1{g|Encyclopedia:Turn}턴{/g} 동안 아무 행동도 할 수 없다.\n피해를 받으면 이 효과가 제거되고, 이 생명체가 {g|f:a07e7b49ead74e5aabae72858414928e}조기 각성{/g}을 얻는다.
+54	진정
+55	이 생명체의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 {uip|stats|a07e7b49ead74e5aabae72858414928e} 증가한다.
+56	조기 각성
+57	<u>(10 × {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
+58	대상의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 각각 5 감소한다. 최대 6회 중첩된다.\n캐릭터의 {g|Encyclopedia:SoulMarkCorruption}이단적{/g} 등급이 추종자 이상이면 영향을 받지 않는다.
+59	이머티리움의 차가운 포옹
+60	사용자가 공격할 때마다 대상 주위 반경 3칸 이내의 모든 유닛이 {g|f:8f9bac2e470942e4874a50926bff5e73}이머티리움의 차가운 포옹{/g} 효과를 받는다.
+61	저주받은 자의 손
+62	공격할 때마다 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 1 증가한다.
+63	턴이 끝날 때까지 사용자가 공격할 때마다 대상 주위 반경 5칸 이내의 모든 유닛이 {g|f:8f9bac2e470942e4874a50926bff5e73}이머티리움의 차가운 포옹{/g} 3중첩을 받는다.\n사용자는 전투가 끝날 때까지 {g|f:8f4a66a1c9674e2b9016f79cc73f58a6}당혹{/g} 1중첩을 받는다.
+64	오른쪽
+65	이 생명체가 죽으면 폭발하여 반경 3칸 이내의 모든 생명체에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 30%로 {g|Encyclopedia:ToxicDamage}독성 피해{/g}를 {uip|Damage|9ffde7adf91e4dd6b2f6fe90e7ebfc1e}(최소 1) 준다.
+66	사용자가 이 손에 든 무기로 공격하면 {g|Encyclopedia:ToxinEffect}중독{/g}을 {uip|Toxin|9f9e6d9c89804ae185b1b87ceba004b3}단계 부여하고 {g|f:1b7dfda30e5e4c9d87dcfd0bb9cfefe8}독성 포화{/g} 효과를 부여한다.\n{g|Encyclopedia:Prey}사냥감{/g}에게는 이 {g|Encyclopedia:DamageGlossary}피해{/g}가 2배가 된다.
+67	화학자 전투 주입기
+68	<u>(캐릭터 레벨 / 6)</u>
+69	사용자가 이 손에 든 무기로 공격하면 {g|Encyclopedia:ToxinEffect}중독{/g}을 {uip|Toxin|7369c964be18443db5c990fb8332e14e}단계 부여하고 {g|f:1b7dfda30e5e4c9d87dcfd0bb9cfefe8}독성 포화{/g} 효과를 부여한다.
+70	사용자가 이 손에 든 무기로 공격하면 {g|Encyclopedia:ToxinEffect}중독{/g}을 {uip|Toxin|0b96dbee74e84c8d866307a8fbf85338}단계 부여하고 {g|f:1b7dfda30e5e4c9d87dcfd0bb9cfefe8}독성 포화{/g} 효과를 부여한다.
+71	<u>(캐릭터 레벨 / 5)</u>
+72	이 생명체가 죽으면 폭발하여 반경 3칸 이내의 모든 생명체에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 30%로 {g|Encyclopedia:ToxicDamage}독성 피해{/g}를 {uip|Damage|1b7dfda30e5e4c9d87dcfd0bb9cfefe8}(최소 1) 준다.
+73	독성 포화
+74	<u>(대상의 {g|Encyclopedia:ToxinEffect}중독{/g} 단계 / 2)</u>
+75	사용자의 사격술이 10% 감소한다.
+76	1{g|Encyclopedia:Round}라운드{/g} 동안 사용자가 이 손에 든 무기로 공격하면 {g|Encyclopedia:ToxinEffect}중독{/g}을 {unit_stat|WarhammerToughness|bonus}단계 추가로 부여하고, {g|f:1b7dfda30e5e4c9d87dcfd0bb9cfefe8}독성 포화{/g} 효과의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 3배가 된다.\n사용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시 사용자는 중독 {uip|ToxinSelf|b06a441417434f2f9bc6317283920d37}단계를 받고, 즉시 이 효과의 피해를 추가로 한 번 받는다.
+77	<u>(4 × {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
+78	사용자가 이 손에 든 무기로 공격하면 {g|Encyclopedia:ToxinEffect}중독{/g}을 {uip|Toxin|ca558ef4fa53439da50353ceeaa5fc72}단계 부여하고 중첩되는 {g|f:1b7dfda30e5e4c9d87dcfd0bb9cfefe8}독성 포화{/g} 효과를 부여한다.
+79	<u>(캐릭터 레벨 / 8)</u>
+80	이 생명체가 죽으면 폭발하여 반경 3칸 이내의 모든 생명체에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 30%로 {g|Encyclopedia:ToxicDamage}독성 피해{/g}를 {uip|Damage|99450542c2a94224bdc65708c38cfac4}(최소 1) 준다.
+81	<u>({g|f:1b7dfda30e5e4c9d87dcfd0bb9cfefe8}독성 포화{/g} 중첩 수 × 대상의 {g|Encyclopedia:ToxinEffect}중독{/g} 단계 / 5)</u>
+82	사용자 주위 반경 3칸 이내에서 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g} 효과를 받는 모든 유닛은 사용자 자신을 제외하고 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|37ca77c5cff34656a0a949d3aa37bfe6}%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|Damage|37ca77c5cff34656a0a949d3aa37bfe6} 받는다.
+83	전류 공명
+84	수치는 선택한 {g|Encyclopedia:AugmentsFullGlossary}신체 보강물{/g}에 따라 결정된다.
+85	전류 유도기
+86	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}을 부여한다.\n이 효과는 효과를 받는 생명체와 인접한 모든 생명체에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|169cbd9c211c42f9bf5f4c0e7b67ab7b}%로 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|169cbd9c211c42f9bf5f4c0e7b67ab7b} 주며, 사용자에게는 이 효과로 주는 피해의 2배를 준다.
+87	사용자 주위 반경 3칸 이내에서 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g} 효과를 받는 모든 유닛은 사용자 자신을 제외하고 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|6c7def955d1341429544addea4f98113}%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|Damage|6c7def955d1341429544addea4f98113} 받는다.
+88	무기 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}을 부여한다. 이 효과는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|353735efe162410a8c720ef26ad6bd1b}%로 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|3f52842cd8774f2392b68a40916670ef} 준다.
+89	<u>(3 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+90	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g})</u>
+91	무기 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}을 부여한다.\n이 효과는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|eee6b4e4fe5141c5bd529f260c8184de}%로 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|eee6b4e4fe5141c5bd529f260c8184de} 준다.
+92	<u>(7 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+93	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g})</u>
+94	전투 중 사용자는 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g} 효과를 받는다. 이 효과는 제거할 수 없다.
+95	무기 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}을 부여한다.\n이 효과는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|3f52842cd8774f2392b68a40916670ef}%로 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|3f52842cd8774f2392b68a40916670ef} 준다. 다른 생명체가 사용자에게 적용된 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g} 효과로 피해를 받을 때마다 사용자가 {g|f:2606d221cbd84502957939547b6f4d21}전술적 우위{/g} 1중첩을 얻는다.
+96	사용자 주위 반경 3칸 이내에서 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g} 효과를 받는 모든 유닛은 사용자 자신을 제외하고 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|46db7d244e84490d991b238b4b5cf837}%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|Damage|46db7d244e84490d991b238b4b5cf837} 받는다.
+97	사용자가 이 손에 양손 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장착할 수 있다(지팡이와 암석 절단톱 제외).\n사용자가 왼손에 원거리 무기를 들고 있으면, 이 손에 든 양손 무기로 {g|Encyclopedia:AttacksPerTurn}턴당 첫 공격{/g} 시 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다.
+98	사용자가 이 손에 양손 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장착할 수 있다.
+99	사용자가 {g|Encyclopedia:Round}라운드{/g}마다 처음으로 원거리 무기로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시키면, {g|Encyclopedia:ActionPoints}행동력{/g}을 소모하지 않고 소지품에서 무작위 수류탄 하나를 대상이 있는 칸에 던진다.\n수류탄 투척 사거리가 30 증가한다.
+100	탄도 동기화기
+101	사용자는 소모품을 사용할 수 없다.\n사용자가 {g|f:b6a0edb0040f450a8a0c85c1300d6548}오른팔 불구{/g} 상태인 동안, 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 장착한 수류탄 중 무작위로 하나를 현재 위치한 칸에 던진다.
+102	이 생명체의 {g|Encyclopedia:Characteristic}능력치{/g}가 {uip|Stats|678380188cb646a68a153703638c9f55} 감소한다.
+103	참회의 낙인
+104	<u>(사용자의 {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급 × {g|f:678380188cb646a68a153703638c9f55}참회의 낙인{/g} 중첩 수)</u>
+105	사용자가 이 손에 든 무기로 공격하여 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 전투가 끝날 때까지 {g|f:678380188cb646a68a153703638c9f55}참회의 낙인{/g} 1중첩을 부여한다.
+106	의인의 손
+107	이 손에 든 무기로 공격 시 {g|Encyclopedia:MaxHitChance}최대 명중률{/g}이 10% 감소한다.
+108	사용자가 반경 3칸 이내의 모든 생명체에게 {g|f:678380188cb646a68a153703638c9f55}참회의 낙인{/g} 1중첩을 부여한다.
+109	<u>({g|Encyclopedia:SkillLogic}논리{/g} / 5)</u>
+110	<u>(1 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
+111	에오건은 방어구를 장착할 수 없다.
+112	에오건의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 {uip|ArmorBonus|cdd522da57e84708933db6908f8b79ea}% 증가하고, {g|Encyclopedia:Deflection}피해 감소{/g}가 2 증가한다.
+113	소형 전류 감옥
+114	<u>({g|Encyclopedia:SkillLogic}논리{/g} / 4)</u>
+115	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
+116	<u>{g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스</u>
+117	에오건의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 {uip|ArmorBonus|c8eff4d26a3e4411974fbeb4f5494f0f}% 증가하고, {g|Encyclopedia:Deflection}피해 감소{/g}가 {uip|DeflectionBonus|c8eff4d26a3e4411974fbeb4f5494f0f} 증가한다.\n에오건의 턴 시작 시 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 중첩 수가 {uip|INT|c8eff4d26a3e4411974fbeb4f5494f0f}보다 많으면, 1라운드 동안 이 보너스가 2배가 된다.
+118	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 3)</u>
+119	에오건이 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 중첩을 얻을 수 있게 된다.\n전투 시작 시 에오건이 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 1중첩을 얻는다.
+120	독기 정화 도관
+121	<u>{g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스</u>
+122	에오건이 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 중첩을 얻을 수 있게 된다.\n전투 시작 시 에오건이 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 2중첩을 얻는다.
+123	축성된 독기 정화 도관
+124	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 2)</u>
+125	에오건은 망토나 장화를 장착할 수 없다.
+126	에오건이 {g|f:823b70d6ab9349b2a1e2b1bbbe4798e2}전류장{/g} 능력을 얻는다.\n에오건의 {g|Encyclopedia:SkillLogic}논리{/g}가 {uip|LogicBonuss|b836bde711ec44379330e442a48704be} 증가한다.
+127	운동력 도관
+128	에오건이 {g|f:823b70d6ab9349b2a1e2b1bbbe4798e2}전류장{/g} 능력을 얻는다.\n에오건의 논리가 {uip|LogicBonuss|2567694d8ff449b3b3f341ebb42e836e} 증가하고, 기술 활용이 {uip|TechUseBonus|2567694d8ff449b3b3f341ebb42e836e} 증가한다.
+129	{g|Encyclopedia:CharacterLevel}<u>캐릭터 레벨</u>{/g}
+130	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 2)</u>
+131	축성된 운동력 도관
+132	파스칼이 받는 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}가 25% 증가한다.
+133	파스칼이 {g|f:0b8058ef3f33406faebea94ee7967d66}기계령 추방{/g} 능력을 얻는다.
+134	축전 노드
+135	파스칼의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 11 증가하고, 주는 피해가 {uip|LogicDamage|affa20abaee0491b8b1bec789d6a3809}% 증가한다. {g|Encyclopedia:HitPoints}체력{/g}이 100% 미만인 생명체를 상대로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 20% 증가한다. 파스칼이 강조 표시된 각 칸에서 하는 첫 공격은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않는다.\n이 효과는 파스칼이 강조 표시된 칸에 있을 때만 활성화된다.
+136	<u>({g|Encyclopedia:SkillLogic}논리{/g} / 5)</u>
+137	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
+138	파스칼은 {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}갈비뼈 골절{/g} 상태가 되지 않는다.\n파스칼이 강조 표시된 칸 밖에 있으면 대신 {g|f:f24d26752b6f47cfb35f177b4358c247}단절된 인터페이스{/g} 효과를 받는다.
+139	파스칼이 메카덴드라이트를 사용할 수 있게 된다.\n파스칼의 {g|Encyclopedia:Turn}턴{/g} 시작 시 주위 반경 8칸 이내의 {uip|CellNumber|097b2edaba2f489f9860392afe562972}개 칸이 강조 표시된다(이 중 한 칸은 반드시 주위 반경 3칸 이내에 있어야 한다).\n파스칼이 이 칸 중 하나에 있으면 {g|f:affa20abaee0491b8b1bec789d6a3809}신경 고통 탐침{/g} 효과를 받는다. 파스칼이 이 각 칸에서 하는 첫 공격은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않는다.
+140	신경 고통 탐침
+141	이 효과는 캐릭터가 강조 표시된 칸 밖에 있을 때만 활성화된다. 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 11 감소하고, 주는 피해가 {uip|LogicDamage|f24d26752b6f47cfb35f177b4358c247}% 감소한다. {g|Encyclopedia:HitPoints}체력{/g}이 100% 미만인 생명체를 상대로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 20% 감소한다.
+142	단절된 인터페이스
+143	전투가 끝날 때까지 모든 아군 캐릭터가 이 효과를 얻는다. 아군의 {g|Encyclopedia:Turn}턴{/g} 시작 시 해당 아군에게도 칸이 강조 표시된다. 아군이 이 칸 중 하나에 있으면 {g|f:affa20abaee0491b8b1bec789d6a3809}신경 고통 탐침{/g} 효과를 받는다. 해당 칸 밖에 있으면 {g|f:f24d26752b6f47cfb35f177b4358c247}단절된 인터페이스{/g} 효과를 받는다.
+144	파스칼이 보유한 메카덴드라이트 하나당 파스칼에게 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 주는 공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 10% 증가한다. 해당 메카덴드라이트는 다음과 같다.\n-<indent=5%>{g|f:215371a91c7047abb0fc1acbbbbcf63c}조작용 메카덴드라이트{/g}</indent>\n-<indent=5%>{g|f:bde399f936324b8e9fc7b950a0cdd2ff}사격용 메카덴드라이트{/g}</indent>\n-<indent=5%>{g|f:de49d9600eeb4e9fb8a0adab3c46a260}의료용 메카덴드라이트{/g}</indent>\n-<indent=5%>{g|f:0e0d989a49294bafa1ffb4fd8b8a8bff}탐지용 메카덴드라이트{/g}</indent>\n-<indent=5%>{g|f:e4c59223308e4235846c7f6688486437}다목적 메카덴드라이트{/g}</indent>
+145	파스칼이 메카덴드라이트를 사용할 수 있게 된다.
+146	중심축 강화
+147	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 4)</u>
+148	파스칼이 전투 중 처음으로 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 받으면 해당 피해가 100% 증가한다.
+149	파스칼이 {g|f:95cdd5f42ef5480d9fadd9e0acee641b}기계령 교감{/g} 능력을 얻는다.\n파스칼의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}이 {uip|TechUseBonus|48c593a5caff4e75b1bbf2a076dc2df4} 증가한다.
+150	생체기계 골격 연결부
+151	아벨라드 주위 반경 3칸 이내의 아군 하나당 아벨라드가 주는 피해가 {uip|AllyCountDamage|2001c9618db8434f82225b37892bce46}% 증가한다.
+152	<u>(5 × {g|f:2001c9618db8434f82225b37892bce46}집사장의 단안경{/g} 중첩 수)</u>
+153	아벨라드 주위 반경 3칸 이내에서 아직 전투 중인 아군 하나당 아벨라드가 주는 피해가 5% 증가한다.
+154	집사장의 단안경
+155	아벨라드의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:LineOfSight}시야{/g}에 아군 캐릭터가 없으면, 아벨라드가 주는 피해가 10% 감소한다.
+156	전투 시작 시 파스칼(현재 파티에 파스칼이 없으면 무작위 아군)이 {g|f:bee0d96b40b84f5da78bc3c9f41ec1fa}지원선{/g} 효과를 얻는다.\n에오건이 {g|f:bee0d96b40b84f5da78bc3c9f41ec1fa}지원선{/g} 효과를 받는 아군과 직선 또는 대각선상에 있고 해당 아군이 에오건의 {g|Encyclopedia:LineOfSight}시야{/g}에 있으면, 에오건의 {g|Encyclopedia:WarhammerPerception}지각{/g}을 제외한 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 {unit_stat|WarhammerPerception|bonus} 증가한다.\n에오건이 이 위치에서 {g|Encyclopedia:Turn}턴{/g}을 시작하면 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 1중첩도 얻는다.\n이 효과는 해당 아군이 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태여도 적용된다.
+157	지원선 오거 배열
+158	안구에 삽입된 지원선 {g|Encyclopedia:AugmentsFullGlossary}신체 보강물{/g}이 아군의 위치를 감시한다.
+159	에오건이 이 생명체와 직선 또는 대각선상에 있으면 보너스를 얻는다.\n이 효과는 이 생명체가 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태여도 적용된다.
+160	지원선
+161	에오건이 {g|f:bee0d96b40b84f5da78bc3c9f41ec1fa}지원선{/g} 효과를 받는 아군이 받은 피해의 30%를 {g|Encyclopedia:MentalDamage}정신 피해{/g}로 받는다.
+162	모든 아군 캐릭터가 {g|f:bee0d96b40b84f5da78bc3c9f41ec1fa}지원선{/g}을 얻는다. 중첩되지 않는다.\n에오건의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 영구적으로 10 감소한다. 적의 공격이 에오건에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 에오건이 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 30%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|Damage|288d109443a6496592a9b14b88993522} 추가로 받는다.
+163	<u>(3 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
+164	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
+165	<u>(2 × {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 중첩 수)</u>
+166	무기의 최대 사거리가 {uip|Range|4edad61ca05849d69e544082933792ae} 증가한다. 원거리 공격이 주는 피해가 {uip|Damage|4edad61ca05849d69e544082933792ae}% 증가한다.\n{g|Encyclopedia:RangeAreaAttacksGlossary}원거리 범위 공격{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 1 감소한다.
+167	장거리 전투 감지기
+168	원거리 무기로 공격한 후 에오건이 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 50%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {unit_stat|WarhammerIntelligence|bonus} 받는다.\n에오건이 {g|f:30820d5aef9b4251af7579722dc95307}뇌진탕{/g} 상태인 동안 원거리 공격의 최대 사거리가 3 감소한다.
+169	에오건이 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다. 전투가 끝날 때까지 {g|f:4f13e446713f440bbc30e8d216bc9f1e}이동 불가{/g} 상태가 유지되는 동안, 공격 시 {g|Encyclopedia:LineOfSight}시야{/g}를 무시하고 무기의 최대 사거리가 100 증가한다.
+170	<u>{g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스</u>
+171	<u>{g|Encyclopedia:WarhammerPerception}지각{/g} 보너스</u>
+172	솔로몬의 {g|Encyclopedia:Turn}턴{/g} 시작 시 사이버 마스티프가 {g|Encyclopedia:LineOfSight}시야{/g}에 없거나 패밀리어가 비활성화되어 있으면, 솔로몬의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 5 감소한다.
+173	사이버 마스티프의 상태에 따라 다음 효과가 적용된다.\n-<indent=5%>{g|f:e16934c3dbf44cb997c684a6ddce7575}체포 중{/g}이면 솔로몬의 {g|Encyclopedia:Turn}턴{/g} 시작 시 주는 피해가 {uip|DamageBonus|38f5e9e8ab2f43b8aa356dbc89b821ba}% 증가한다.</indent>\n-<indent=5%>{g|f:a63088cd6402424b8ec0c508e5143083}보호 중{/g}이면 솔로몬의 턴 시작 시 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 {uip|ArmorBonus|38f5e9e8ab2f43b8aa356dbc89b821ba}% 증가한다.</indent>\n-<indent=5%>{g|f:11251c47c7b14a87824cffe48ea6374d}전투 모드: 대기{/g} 상태이면 솔로몬의 턴 시작 시 {g|Encyclopedia:MovementPoints}이동력{/g}이 2 증가한다.</indent>\n이 효과는 사이버 마스티프가 솔로몬의 {g|Encyclopedia:LineOfSight}시야{/g}에 있을 때만 활성화된다.
+174	주인 연결 바이저
+175	방어 관통 20%로 충돌 피해를 <u>(8~10)</u> 준다.\n이 능력을 사용하기 전에 자이가 아군에게 부여한 {g|Encyclopedia:ExtraTurn}추가 턴{/g} 하나당 이 능력이 주는 피해와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 {uip|BonusDamage|e86fc99b6dd24e4a8b6657e252b85901}% 증가한다. 추가 {g|Encyclopedia:Turn}턴{/g}은 이 능력을 마지막으로 사용한 시점부터 계산한다. 이 능력이 주는 피해는 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막을 수 없다.\n이 능력은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않는다.
+176	차가운 복수
+177	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 × {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
+178	이 효과가 1중첩될 때마다 {g|f:e86fc99b6dd24e4a8b6657e252b85901}차가운 복수{/g}의 피해와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 {uip|BonusDamage|8202650d26924bb8aee774adbf520e30}% 증가한다.
+179	사전 준비
+180	자이가 {g|f:e86fc99b6dd24e4a8b6657e252b85901}차가운 복수{/g} 능력을 얻는다.
+181	먹여 주는 손
+182	사용자가 {g|f:e86fc99b6dd24e4a8b6657e252b85901}차가운 복수{/g}를 사용할 때마다 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:FatiguedEffect}피로{/g} 1중첩을 받는다.
+183	솔로몬과 인접한 대상 생명체는 −{uip|SavingThrowBonus|088db872df394b1aaa71781354c48a5b} 불이익을 받고 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다.\n{g|Encyclopedia:Test}판정{/g}에 실패하면 해당 생명체는 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 되고, 솔로몬에게 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}로 취급된다. 그 후 솔로몬의 {g|Encyclopedia:Turn}턴{/g}이 끝난다.\n대상 생명체가 판정에 성공하면 아무 효과도 없으며, 솔로몬의 턴도 끝나지 않는다.
+184	강제 담보
+185	<u>({g|Encyclopedia:SkillCoercion}위협{/g} / 3)</u>
+186	이 생명체는 솔로몬에게 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}로 취급된다.
+187	솔로몬이 {g|f:088db872df394b1aaa71781354c48a5b}강제 담보{/g} 능력을 얻는다.
+188	참회의 손
+189	솔로몬이 {g|f:088db872df394b1aaa71781354c48a5b}강제 담보{/g}를 사용할 때마다 자신의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된다.
+190	반중력 충전
+191	사용자가 1칸 이동할 때마다 {g|f:3a3202273a334a989eee9d85b2df93f0}반중력 충전{/g} 1중첩을 얻는다.\n사용자의 중첩 수가 {unit_stat|WarhammerAgility|bonus}이 되면 모든 중첩이 제거되고 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 1중첩을 얻는다.\n사용자는 {g|f:6338756ef76148369f50bc5d6d48ac4a}다리 불구{/g} 효과를 받지 않는다.
+192	중력 코어 회로
+193	사용자의 {g|Encyclopedia:MovementPoints}이동력{/g}이 2 감소한다.
+194	사용자가 즉시 {g|Encyclopedia:MovementPoints}이동력{/g}을 {unit_stat|WarhammerIntelligence|bonus} 얻는다.\n사용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시 전투가 끝날 때까지 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된다.
+195	{g|Encyclopedia:Round}라운드{/g}당 1회, 적이 에오건의 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g}에 들어오거나 에오건이 적과 인접한 상태로 {g|Encyclopedia:Turn}턴{/g}을 마치면 반경 8칸 이내의 무작위 칸으로 순간이동한다.\n에오건은 {g|f:6338756ef76148369f50bc5d6d48ac4a}다리 불구{/g} 효과에 면역이 된다.
+196	위치 이동 환영
+197	순간이동 후 사용자는 −20 불이익을 받고 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 하며, 실패하면 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다. {g|Encyclopedia:Test}판정{/g}에 성공하면 대신 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된다.
+198	에오건이 {g|f:2f52f83899674c80a11b1ffcf5d98486}위치 이동{/g} {g|Encyclopedia:Ability}능력{/g}을 얻지만, 순간이동할 때마다 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 {uip|Damage|98561505af6f4f3db5d0186f211917a1} 받는다.
+199	<u>({g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%)</u>
+200	에오건이 즉시 대상 칸으로 순간이동한다.
+201	위치 이동
+202	에오건이 아군 캐릭터를 대상으로 지정해 해당 아군의 {g|Encyclopedia:Characteristic}능력치{/g}를 {uip|Stats|de5efb5d30254f5d90a121f284c17a7d} 감소시키고, {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g}를 {uip|UPE|de5efb5d30254f5d90a121f284c17a7d}중첩 얻는다.\n! 대상당 1회만 사용할 수 있다(에오건 자신에게는 여러 번 사용할 수 있다).
+203	핵심 부품 적출
+204	-<indent=5%> 에오건의 지능이 70 미만이면 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} +1중첩</indent>\n-<indent=5%> 에오건의 지능이 <u>(70~109)</u>이면 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} +2중첩</indent>\n-<indent=5%> 에오건의 지능이 110 이상이면 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} +3중첩</indent>
+205	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g} / 5)</u>
+206	에오건이 {g|f:de5efb5d30254f5d90a121f284c17a7d}핵심 부품 적출{/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.
+207	적출 노드
+208	이 생명체의 {g|Encyclopedia:Characteristic}능력치{/g}가 감소하고, 에오건은 더 이상 이 생명체를 {g|f:de5efb5d30254f5d90a121f284c17a7d}핵심 부품 적출{/g} {g|Encyclopedia:Ability}능력{/g}의 대상으로 지정할 수 없다.
+209	핵심 부품 결손
+210	에오건이 자신의 {g|Encyclopedia:Turn}턴{/g} 동안 {g|f:de5efb5d30254f5d90a121f284c17a7d}핵심 부품 적출{/g}을 사용하지 않았다면, 턴 종료 시 자신을 대상으로 사용한다.
+211	전투가 끝날 때까지 {g|f:de5efb5d30254f5d90a121f284c17a7d}핵심 부품 적출{/g}의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 없어지고 적을 대상으로 지정할 수 있지만, 사용할 때마다 에오건이 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 {uip|Damage|fc71d3c279394a6f9f28a3e5c01da3ab} 받는다.
+212	<u>{g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 중첩 수</u>
+213	이디라의 행동으로 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발동할 때마다 {uip|IgnoreChance|756503152b154609a675f2d786bcdea0}% 확률로 발동하지 않는다.
+214	<u>(10 + {g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g})</u>
+215	회색 두건
+216	1{g|Encyclopedia:Round}라운드{/g} 동안 데몬의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}당 대상의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g}, {g|Encyclopedia:WarhammerStrength}근력{/g}이 각각 10 감소하고, {g|Encyclopedia:Resolve}결의{/g}가 2 감소한다.
+217	워프의 공포
+218	이디라가 {g|f:423e91ce057d4e2489043ded7306f3e2}워프의 참상{/g} 효과를 받고 있다면, 해당 효과가 제거되고 대신 {g|f:52dd645abf5b43f2a93a325f402fb183}워프의 공포{/g} 효과를 받는다.
+219	반경 4칸 이내의 아군이 공격으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 사용자가 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 1중첩을 얻는다.\n장착 해제하면 이 신체 보강물은 사라진다.
+220	방전 외피
+221	사용자의 최대 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 0%가 된다.
+222	전투가 끝날 때까지 이 신체 보강물의 효과가 발동할 때마다 사용자가 {g|f:ce28ef2855c54dc8a41c2398646b4259}고통의 화신{/g} 1중첩도 얻는다. {g|Encyclopedia:DamageGlossary}피해{/g}를 받은 아군의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이면, 사용자가 {g|f:d228419784924585898297e8f5fbf0fd}다시 꿰맨 살점{/g} 1중첩도 얻는다.
+223	이 효과가 1중첩될 때마다 에오건의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 7 감소한다.
+224	다시 꿰맨 살점
+225	이 효과가 1중첩될 때마다 에오건이 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 {unit_stat|WarhammerIntelligence|bonus}% 증가한다.
+226	고통의 화신
+227	{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 1중첩당 에오건이 주는 에너지 및 {g|Encyclopedia:ShockDamage}감전 피해{/g}가, 모든 보정치를 적용한 후 이 효과로 인해 에오건이 추가로 받는 감전 {g|Encyclopedia:DamageGlossary}피해{/g}만큼 증가한다.
+228	전기 통합 격실
+229	에오건이 감전 피해 또는 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}를 줄 때마다 주위 반경 2칸 이내의 모든 생명체에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 50%로 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|Damage|2f4804b02eee4e03936aaf87e5c5b97e} 추가로 준다.
+230	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g} × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+231	{g|Encyclopedia:Turn}턴{/g}이 끝날 때까지 이 신체 보강물의 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 받는 생명체도 이 효과를 한 번 발동하여, 자신 주위 반경 2칸 이내의 생명체에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다. 새로 영향을 받은 대상에게서는 이 효과가 다시 발동하지 않는다.
+232	자이의 {g|Encyclopedia:HitPoints}체력{/g}이 100% 미만이면 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 50% 확률로 {g|Encyclopedia:BleedingEffect}출혈{/g}(7)을 받는다.\n자이가 {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}갈비뼈 골절{/g} 상태가 되는 즉시, 출혈 상태가 아니라면 출혈(7)을 받는다. {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}갈비뼈 골절{/g} 상태인 동안 출혈과 {g|Encyclopedia:ToxinEffect}중독{/g}으로 받는 피해가 100% 증가한다.
+233	자이의 {g|Encyclopedia:HitPoints}체력{/g}이 30% 미만이면 {g|Encyclopedia:ActionPoints}행동력{/g}이 1 증가한다.
+234	폐포 직조망
+235	이식물이 완벽하게 작동한다.
+236	고작 목 이식물에 거금을 쏟아붓는 건 어리석다고 할지도 모른다. 하지만 자이 헤이다리는 이프리트의 공주가 평범한 목 이식물을 달고 다니는 건 품위에 맞지 않는다고 받아칠 것이다.
+237	자이의 경추 노드
+238	자이가 {g|Encyclopedia:BleedingEffect}출혈{/g}과 {g|Encyclopedia:ToxinEffect}중독{/g}으로 받는 피해가 50% 감소한다. 이 효과들로는 자이의 {g|Encyclopedia:HitPoints}체력{/g}이 0 미만으로 떨어지지 않는다.
+239	호흡기 화학 필터
+240	자이는 {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}갈비뼈 골절{/g} 상태가 되지 않는다.\n전투 시작 시 {g|Encyclopedia:BleedingEffect}출혈{/g}(4)을 받는다.
+241	사용자가 반경 3칸 이내의 대상에게 단일 대상 공격을 할 때마다 직후 이 신체 보강물로 사격한다. {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Penetration|86c125fb2c7c4b43bc2a92dc79081813}%로 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}를 {uip|Damage|86c125fb2c7c4b43bc2a92dc79081813} 준다.\n대상이 {g|Encyclopedia:Prey}사냥감{/g}으로 지정되어 있으면 이 공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 35% 증가한다.
+242	집속 방출기
+243	<u>캐릭터 레벨</u>
+244	사용자가 반경 3칸 이내의 대상에게 단일 대상 공격을 할 때마다 직후 이 신체 보강물로 사격한다. {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Penetration|0998422eefc74e1f984449fea7ce1354}%로 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}를 {uip|Damage|0998422eefc74e1f984449fea7ce1354} 준다.
+245	<u>(3 × {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
+246	<u>(25 + 캐릭터 레벨)</u>
+247	사용자가 반경 3칸 이내의 대상에게 단일 대상 공격을 할 때마다 직후 이 신체 보강물로 사격한다. {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Penetration|556c21a347f3447082409ae5a1a8b7aa}%로 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}를 {uip|Damage|556c21a347f3447082409ae5a1a8b7aa} 준다.
+248	사용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 10% 감소한다.
+249	사용자가 이 신체 보강물로 전기 자극 공격을 하여 1{g|Encyclopedia:Round}라운드{/g} 동안 지면이 녹아내린 구역을 생성하고, 구역 내 모든 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물을 파괴한다. 이 구역 안의 생명체는 엄폐를 이용할 수 없고 {g|Encyclopedia:BurningEffect}화상{/g} {uip|Burning|8052f618d19c4121884323f14ca54f8e}단계를 받는다.\n사용자는 전투가 끝날 때까지 {g|f:8f4a66a1c9674e2b9016f79cc73f58a6}당혹{/g} 1중첩을 받는다.
+250	<u>(4 × {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
+251	사용자가 반경 3칸 이내의 대상에게 단일 대상 공격을 할 때마다 직후 이 신체 보강물로 {g|Encyclopedia:BurstAttacksGlossary}연사{/g}한다. {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Penetration|54bc9cc07a394f11b3abf5d01543b08f}%로 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}를 {unit_stat|WarhammerPerception|bonus} 준다.
+252	이 {g|Encyclopedia:AugmentsFullGlossary}신체 보강물{/g}은 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}을 {g|Encyclopedia:RicochetFullGlossary}도탄{/g}으로 대체한다.
+253	탄도 계산기
+254	사용자는 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격을 할 수 없다.
+255	사용자의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 3 증가한다.
+256	생체공학 안구 이식물
+257	사용자의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 3 감소한다.
+258	사용자가 공격이 아닌 능력을 사용할 때마다 {g|f:715ec983856741c7a2ac9cc6c552b5a2}협동{/g} 효과를 받는 모든 아군이 {g|f:203ee372474748a19f5a96a538d23c1d}협력의 우위{/g} 1중첩을 얻는다.
+259	협동
+260	전투 시작 시 무작위 아군 2명이 {g|f:715ec983856741c7a2ac9cc6c552b5a2}협동{/g} 효과를 얻는다.
+261	전술 분석기
+262	{g|f:715ec983856741c7a2ac9cc6c552b5a2}협동{/g} 효과를 받는 아군이 피해를 받을 때마다 사용자도 그 피해의 25%만큼 피해를 받는다.
+263	다음에 {g|f:715ec983856741c7a2ac9cc6c552b5a2}협동{/g} 효과를 받는 아군이 {g|f:203ee372474748a19f5a96a538d23c1d}협력의 우위{/g} 중첩을 얻으면, 중첩 수와 관계없이 {g|f:715ec983856741c7a2ac9cc6c552b5a2}협동{/g} 효과를 받는 다른 아군도 이 효과 1중첩을 얻는다.\n사용자가 이 능력을 사용할 때마다 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DisturbedEffect}동요{/g} 1중첩을 받는다. 중첩된다.
+264	2{g|Encyclopedia:Round}라운드{/g} 동안 이 캐릭터가 주는 피해가 {uip|dmg %|203ee372474748a19f5a96a538d23c1d}% 증가하고, 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 {uip|stats|203ee372474748a19f5a96a538d23c1d} 증가한다. 최대 6회 중첩된다.
+265	협력의 우위
+266	<u>(1 × {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
+267	<u>(2 × {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
+268	사용자가 자신의 {g|Encyclopedia:Turn}턴{/g} 동안 이동했다면, 사용자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스 10당 현재 위치에 인접한 무작위 칸에 전술 환영이 1개 나타난다.\n전술 환영의 {g|Encyclopedia:HitPoints}체력{/g}은 1이며, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, 방패 막기, {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}를 할 수 없다.\n전술 환영을 파괴한 적은 {g|Encyclopedia:Exploit}약점{/g} {unit_stat|WarhammerIntelligence|bonus}중첩을 받는다.
+269	대뇌 홀로 안구
+270	사용자가 자신의 {g|Encyclopedia:Turn}턴{/g} 동안 이동했다면, 턴을 시작한 칸에 전술 환영이 1개 나타나 1{g|Encyclopedia:Round}라운드{/g} 동안 유지된다. 사용자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스 10당 현재 위치에 인접한 무작위 칸에 전술 환영이 1개 더 나타난다.\n전술 환영의 {g|Encyclopedia:HitPoints}체력{/g}은 1이며, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, 방패 막기, {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}를 할 수 없다.
+271	사용자의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 10% 감소한다.
+272	{g|Encyclopedia:CharacterLevel}<u>캐릭터 레벨</u>{/g}
+273	사용자가 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 3회 사용할 수 있는 {g|f:1061649559ed40f2bc253acd1ad9a9c7}환영 투사{/g} 능력을 얻는다.\n또한 전투가 끝날 때까지 {g|f:8f4a66a1c9674e2b9016f79cc73f58a6}당혹{/g} 1중첩을 받는다.
+274	대상 칸에 전술 환영이 나타나 1{g|Encyclopedia:Round}라운드{/g} 동안 유지된다.
+275	환영 투사
+276	전술 환영
+277	사용자가 자신의 {g|Encyclopedia:Turn}턴{/g} 동안 이동했다면, 각 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 전술 환영이 1개 나타나 1{g|Encyclopedia:Round}라운드{/g} 동안 유지된다. 사용자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스 10당 현재 위치에 인접한 무작위 칸에 전술 환영이 1개 더 나타난다.\n전술 환영의 {g|Encyclopedia:HitPoints}체력{/g}은 1이며, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, 방패 막기, {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}를 할 수 없다.
+278	사용자가 자신의 {g|Encyclopedia:Turn}턴{/g} 동안 이동했다면, 턴을 시작한 칸에 전술 환영이 1개 나타나 1{g|Encyclopedia:Round}라운드{/g} 동안 유지된다. 사용자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스 10당 현재 위치에 인접한 무작위 칸에 전술 환영이 1개 더 나타난다.\n전술 환영의 {g|Encyclopedia:HitPoints}체력{/g}은 1이며, 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}, 방패 막기로 막을 수 없고, {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}를 할 수 없다.\n사용자의 전술 환영은 모든 적의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 된다.
+279	관성 윤활기
+280	성유 유출
+281	<u>(55 − 사용자의 캐릭터 레벨)</u>
+282	전투 중 사용자가 이동하면 지나간 모든 칸에 기름 구역이 생성된다. 이 구역은 2{g|Encyclopedia:Round}라운드{/g} 동안 유지된다.\n적이 진입하면 +{uip|DC|6322558474614e31a0e611bf7799d7f9} {g|Encyclopedia:Bonus}보너스{/g}(최소 0)를 받고 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 하며, 실패하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다. 그 후 해당 칸의 기름이 제거된다.
+283	전투 중 사용자가 이동하면 지나간 모든 칸에 기름 구역이 생성된다. 이 구역은 2{g|Encyclopedia:Round}라운드{/g} 동안 유지된다.\n적이 진입하면 +{uip|DC|6b0a35dc57fa455a99658b1092feba43} {g|Encyclopedia:Bonus}보너스{/g}(최소 0)를 받고 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 하며, 실패하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다. 아군은 기름이 있는 칸을 이동할 때 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않는다. 생명체가 진입하면 해당 칸의 기름이 제거된다.
+284	사용자의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 25% 감소한다.
+285	전투가 끝날 때까지 기름이 있는 칸에 진입한 적은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 −5% {g|Encyclopedia:Penalty}불이익{/g}도 받는다. 중첩된다.\n사용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시 전투가 끝날 때까지 감속 상태가 된다.
+286	전투 중 사용자가 이동하면 지나간 모든 칸에 기름 구역이 생성된다. 이 구역은 2{g|Encyclopedia:Round}라운드{/g} 동안 유지된다.\n적이 진입하면 +{uip|DC|2b385735a44746e0b2fbaa2b68ef0b49} {g|Encyclopedia:Bonus}보너스{/g}(최소 0)를 받고 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다. {g|Encyclopedia:Test}판정{/g}에 실패하면 해당 적은 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다. 판정에 성공하면 사용자가 해당 적의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 된다. 그 후 해당 칸의 기름이 제거된다.
+287	운동 반사기
+288	사용자가 {g|Encyclopedia:Round}라운드{/g}마다 처음 세 번의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때 공격자에게 {g|f:22d6c1b32a6d47f4899a370e28cf16f9}발차기{/g}를 사용한다.\n이 반격에는 {g|Encyclopedia:CareerVeteranGlossary}아치 밀리턴트{/g} {g|Encyclopedia:Talent}재능{/g}이 영향을 주지 않는다.
+289	사용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 공격자에게 {g|f:22d6c1b32a6d47f4899a370e28cf16f9}발차기{/g}를 사용한다.\n이 반격에는 {g|Encyclopedia:CareerVeteranGlossary}아치 밀리턴트{/g} {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}이 영향을 주지 않는다.
+290	사용자의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 15% 감소한다.
+291	1{g|Encyclopedia:Round}라운드{/g} 동안 사용자에게 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 이 신체 보강물의 반격이 발동한다. 이 효과가 끝나면 사용자는 전투가 끝날 때까지 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다.
+292	사용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 방패를 장착하고 있다면 공격자에게 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}를 사용한다. 
+293	위상 발진기
+294	사용자가 적을 통과해 이동할 수 있다. 이동 경로에 있는 각 생명체는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 30%의 {g|Encyclopedia:ImpactDamage}충돌 피해{/g}를 {uip|Damage|66a9d5ea6e034de9944f90d42e352987} 받는다.
+295	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Bonus}보너스{/g} × 5)</u>
+296	사용자가 아군과 적을 통과해 이동할 수 있다. 이동 경로에 있는 각 생명체는 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 {uip|Damage|3a99ff1fc4d941fbbe9bb2820a1e6f55} 받는다.
+297	사용자의 {g|Encyclopedia:Parry}막기{/g}가 25% 감소한다.
+298	사용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 사용자가 통과해 이동한 각 적은 2배의 {g|Encyclopedia:DamageGlossary}피해{/g}를 받고 2칸 {g|Encyclopedia:PushGlossary}밀려남{/g} 상태가 된다.\n사용자의 턴 종료 시 전투가 끝날 때까지 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된다.
+299	사용자가 아군과 적을 통과해 이동할 수 있다. 이동 경로에 있는 각 생명체는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 20%의 {g|Encyclopedia:ImpactDamage}충돌 피해{/g}를 {uip|Damage|c1c53475a0234ba29d036f16b9a51659} 받는다. {g|f:9b09708aa0c244a6bc4a8e46d69c5884}질주{/g} 사용 중에는 이 {g|Encyclopedia:DamageGlossary}피해{/g}가 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시한다.
+300	사용자가 아군과 적을 통과해 이동할 수 있다. 이동 경로에 있는 각 생명체는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 30%의 {g|Encyclopedia:ImpactDamage}충돌 피해{/g}를 {uip|Damage|000d41d069204fa98ee5394c060f71ab} 받는다. 사용자는 {g|f:2606d221cbd84502957939547b6f4d21}전술적 우위{/g} 3중첩도 얻는다.
+301	사용자가 다음 공격을 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}한다. 그 후 이 효과가 제거되고 {g|f:a2a18602d2004e19b979cd6d4e5d91ef}관성 반동{/g} 효과를 받는다.
+302	운동 가속
+303	사용자가 다음 공격의 {g|Encyclopedia:DodgeGlossary}회피{/g}에 자동으로 실패한다. 그 후 {g|f:6338756ef76148369f50bc5d6d48ac4a}다리 불구{/g} 상태가 아니라면 이 효과가 제거되고 {g|f:f455dc1c487a44fc9e0e8010024a031a}운동 가속{/g} 효과를 얻는다.
+304	관성 반동
+305	전투 시작 시 사용자가 {g|f:f455dc1c487a44fc9e0e8010024a031a}운동 가속{/g} 효과를 얻는다.
+306	{g|f:f455dc1c487a44fc9e0e8010024a031a}운동 가속{/g} 효과가 제거되면 사용자가 {g|f:a2a18602d2004e19b979cd6d4e5d91ef}관성 반동{/g} 효과를 받는다.\n로그 트레이더만 장착할 수 있다.
+307	{g|f:a2a18602d2004e19b979cd6d4e5d91ef}관성 반동{/g} 효과가 제거되고 사용자가 {g|f:f455dc1c487a44fc9e0e8010024a031a}운동 가속{/g} 효과를 얻는다.\n1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:a2a18602d2004e19b979cd6d4e5d91ef}관성 반동{/g} 효과가 사용자의 {g|Encyclopedia:DodgeGlossary}회피{/g}를 자동으로 실패하게 하지 않는다.\n1라운드 후 사용자는 전투가 끝날 때까지 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다.
+308	사용자가 {g|f:7e79642d9cdd442cb014809f1b4973a0}도약 기동{/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.
+309	유압 추진기
+310	사용자가 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않고 {uip|Distance|7e79642d9cdd442cb014809f1b4973a0}칸 이내의 칸으로 도약한다.
+311	도약 기동
+312	<u>(1 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 3)</u>
+313	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+314	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+315	<u>(10 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+316	착지 시 {uip|Chance|c5798a6a51a64085bf31d5db4f40c7cc}% 확률(최대 100%)로 사용자가 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되고, 인접한 모든 생명체에게 방어 관통 {uip|Pen|c5798a6a51a64085bf31d5db4f40c7cc}%로 감전 피해를 {uip|Damage|c5798a6a51a64085bf31d5db4f40c7cc} 준다.
+317	사격이 착용자 대신 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 공격자가 {g|Encyclopedia:Exploit}약점{/g} 3중첩을 받는다.\n착용자는 엄폐 중이 아닐 때도 엄폐 중인 것처럼 엄폐 효율이 {uip|Cover|3b270aa2bd61498baeb8f78789b30014}% 증가한다(최대 50%).
+318	<u>(4 × 사용자의 이동력)</u>
+319	사용자의 기본 부분 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}이 기본 완전 엄폐 효율과 같아진다.\n사용자는 엄폐 중이 아닐 때 엄폐 효율이 {uip|Cover|1fd1336cfe1541aab3ce8357d8730989}% 증가한다(최대 50%).
+320	적응형 서보 지지대
+321	사용자의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 15% 감소한다.
+322	사용자의 {g|Encyclopedia:MovementPoints}이동력{/g}이 1 증가한다.
+323	생체공학 다리 이식물
+324	사용자의 {g|Encyclopedia:Parry}막기{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}가 3% 감소한다.
+325	사용자가 반경 4칸 이내의 적을 통과해 반대편 칸으로 질주하고 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 한다.\n이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않으며, 이 공격은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않는다.
+326	격노의 돌격
+327	사용자가 {g|f:453162d5db644e25a5b22e598128ce0e}격노의 돌격{/g} 능력을 얻는다.
+328	두개골 분쇄기
+329	사용자가 {g|f:453162d5db644e25a5b22e598128ce0e}격노의 돌격{/g}을 사용할 때마다 {g|Encyclopedia:BleedingEffect}출혈{/g} {uip|bleed|02c674fff8f34bc3a880d726638a4a73}단계를 받고, 즉시 이 효과의 피해를 추가로 한 번 받는다.
+330	<u>(캐릭터 레벨 / 2)</u>
+331	사용자가 반경 4칸 이내의 모든 적에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 한다.\n사용자는 출혈 {uip|bleed|02c674fff8f34bc3a880d726638a4a73}단계를 받고, 즉시 이 효과의 피해를 추가로 한 번 받는다.
+332	<u>(30 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
+333	사용자가 포스 소드와 사이커 지팡이로 공격하면 기본 {g|Encyclopedia:DamageGlossary}피해{/g}의 {uip|Damage|bab2df33e1684f20b5d41f20c8334e56}%만큼 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 추가로 준다.
+334	사이 축전기
+335	사용자는 포스 소드와 사이커 지팡이가 부여하는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g} 외에는 사이킥 능력을 사용할 수 없다.
+336	사용자가 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|52882ea3bd6841a7823665a4a8bbd7f4} 준다. 그 후 이 {g|Encyclopedia:Ability}능력{/g}이 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 발동시킨다.
+337	<u>((2 × {g|Encyclopedia:PsyRating}사이 등급{/g}) × {g|Encyclopedia:VeilThickness}베일 손상{/g})</u>
+338	원격 계측 로지스 분석기
+339	<u>{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수</u>
+340	대상이 사용자의 무기 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 사용자가 해당 대상에게 가하는 다음 공격의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 {uip|Damage|fe63fa43f7a7420e9d79a41317ea357b} 증가하고, 해당 공격은 회피할 수 없게 된다.
+341	<u>(2 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+342	대상이 사용자의 무기 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 사용자가 해당 대상에게 가하는 다음 공격의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 {uip|Damage|ac47e00cf76b4e64a23077cf53e6b660} 증가하고, 해당 공격은 회피할 수 없게 된다.
+343	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 2)</u>
+344	<u>(3 × {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
+345	사용자의 의지력이 10% 감소한다.
+346	<u>({g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수 / 2)</u>
+347	대상이 사용자의 무기 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 사용자가 해당 대상에게 가하는 다음 공격의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 {uip|Damage|8b7da9040fec4181ac4d6598e9394263} 증가하고, 해당 공격은 회피할 수 없게 된다.\n사용자가 아군에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여할 때마다 해당 아군도 이 효과를 얻는다.
+348	대상이 사용자의 무기 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 사용자가 해당 대상에게 가하는 다음 공격의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 {uip|Damage|8b7da9040fec4181ac4d6598e9394263} 증가하고, 해당 공격은 회피할 수 없게 된다.\n사용자는 자신의 전투 전술 구역 안에 있는 아군에게도 이 효과를 부여한다.
+349	사용자의 무기 {g|Encyclopedia:DamageGlossary}피해{/g} 계산 시 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {g|Encyclopedia:WarhammerStrength}근력{/g}보다 높으면 지능을, {g|Encyclopedia:WarhammerPerception}지각{/g}이 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}보다 높으면 지각을 해당 {g|Encyclopedia:Characteristic}능력치{/g} 대신 사용한다.
+350	<u>({g|Encyclopedia:SkillTechUse}기술 활용{/g} / 5)</u>
+351	사용자의 무기 피해 계산 시 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {g|Encyclopedia:WarhammerStrength}근력{/g}보다 높으면 지능을, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}보다 높으면 사격술을 해당 {g|Encyclopedia:Characteristic}능력치{/g} 대신 사용한다.\n사용자가 {g|Encyclopedia:Prey}사냥감{/g}을 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}하면 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 {uip|Pen|47e2502cae69411689d491291a9fbf43}% 증가한다.
+352	대뇌 변환기
+353	사용자의 무기 {g|Encyclopedia:DamageGlossary}피해{/g} 계산 시 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {g|Encyclopedia:WarhammerStrength}근력{/g}보다 높으면 지능을, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}보다 높으면 사격술을 해당 {g|Encyclopedia:Characteristic}능력치{/g} 대신 사용한다.
+354	<u>({g|Encyclopedia:SkillLoreXenos}지식(제노스){/g} / 5)</u>
+355	<u>({g|Encyclopedia:SkillLoreImperium}지식(제국){/g} / 5)</u>
+356	<u>({g|Encyclopedia:SkillLoreWarp}지식(워프){/g} / 5)</u>
+357	사용자의 무기 {g|Encyclopedia:DamageGlossary}피해{/g} 계산 시 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {g|Encyclopedia:WarhammerStrength}근력{/g}보다 높으면 지능을, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}보다 높으면 사격술을 해당 {g|Encyclopedia:Characteristic}능력치{/g} 대신 사용한다.\n사용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이 제노스에게 주는 피해가 {uip|Xenos|b1ec2d35c67747699b9684d6b93a5731}%, 인간에게 주는 피해가 {uip|Imperium|b1ec2d35c67747699b9684d6b93a5731}%, 데몬에게 주는 피해가 {uip|Warp|b1ec2d35c67747699b9684d6b93a5731}% 증가한다.
+358	사용자의 강인함이 10% 감소한다.
+359	<u>{g|f:2606d221cbd84502957939547b6f4d21}전술적 우위{/g} 중첩 수</u>
+360	사용자의 무기 {g|Encyclopedia:DamageGlossary}피해{/g} 계산 시 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {g|Encyclopedia:WarhammerStrength}근력{/g}보다 높으면 지능을, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}보다 높으면 사격술을 해당 {g|Encyclopedia:Characteristic}능력치{/g} 대신 사용한다.\n사용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {uip|INT|e957f0ad0c0144f29f2340ce3134aad2} 증가한다.
+361	사용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 3 증가한다.
+362	생체공학 신경 이식물
+363	사용자의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 3 감소한다.
