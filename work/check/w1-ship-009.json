@@ -14,6 +14,7 @@
  {"n": 85, "code": "glossary", "detail": "pushing -> 밀치기 not found"},
  {"n": 89, "code": "glossary", "detail": "damaged -> 피해를 입음 not found"},
  {"n": 91, "code": "glossary", "detail": "Aid -> 돕기 not found"},
+ {"n": 93, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
  {"n": 102, "code": "length", "detail": "ratio 0.23 (ko 6 / en 26 chars, allowed 0.25-1.60)"},
  {"n": 106, "code": "length", "detail": "ratio 0.24 (ko 6 / en 25 chars, allowed 0.25-1.60)"},
  {"n": 107, "code": "glossary", "detail": "energy -> 에너지 not found"},
@@ -76,8 +77,9 @@
  {"n": 236, "code": "no_hangul", "detail": "no Hangul in the output"},
  {"n": 237, "code": "no_hangul", "detail": "no Hangul in the output"},
  {"n": 244, "code": "glossary", "detail": "Vigilant -> 철저한 경계 not found"},
+ {"n": 256, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
+ {"n": 257, "code": "glossary", "detail": "Traders of House Gaprak -> 갭락 가문의 상인들 not found"},
  {"n": 262, "code": "glossary", "detail": "Warriors -> 워리어 not found"},
- {"n": 270, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
  {"n": 270, "code": "glossary", "detail": "Servant -> 하인 not found"},
  {"n": 271, "code": "glossary", "detail": "Melting -> 융해 not found"},
  {"n": 276, "code": "glossary", "detail": "Strike -> 타격 not found"},
@@ -112,7 +114,7 @@
  {"n": 341, "code": "glossary", "detail": "Aid -> 돕기 not found"},
  {"n": 343, "code": "glossary", "detail": "Warriors -> 워리어 not found"},
  {"n": 343, "code": "glossary", "detail": "Sisters -> 수녀 not found"},
- {"n": 345, "code": "glossary", "detail": "Warriors -> 워리어 not found"},
  {"n": 345, "code": "glossary", "detail": "Soldiers -> 솔져 not found"},
+ {"n": 345, "code": "glossary", "detail": "Warriors -> 워리어 not found"},
  {"n": 345, "code": "glossary", "detail": "Endure -> 인내 not found"}
 ]}

@@ -26,7 +26,7 @@
 26	<u>{g|Encyclopedia:CareerLeaderGlossary}오피서{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스</u>
 27	{g|Encyclopedia:CareerLeaderGlossary}오피서{/g}의 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:Overexerted}탈진{/g} 상태가 아닌 무작위 아군에게 {g|f:9c78e44bf8ff44a9afff8370c673c9ad}지휘의 목소리{/g}를 사용합니다. 이 아군은 탈진 효과를 받지 않으며 다시 {g|f:9c78e44bf8ff44a9afff8370c673c9ad}지휘의 목소리{/g}의 대상이 될 수 있습니다.
 28	각인된 말
-29	{g|Encyclopedia:CareerLeaderGlossary}오피서{/g}가 매 {g|Encyclopedia:Round}라운드{/g}에 처음으로 아군에게 {g|Encyclopedia:Ability}능력{/g}을 사용하면 해당 아군은 +{unit_stat|WarhammerWillpower|bonus}의 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.
+29	{g|Encyclopedia:CareerLeaderGlossary}오피서{/g}가 아군에게 {g|Encyclopedia:Ability}능력{/g}을 사용할 때 해당 아군을 대상으로 이번 {g|Encyclopedia:Round}라운드{/g}에 처음 사용하는 것이라면, 해당 아군은 +{unit_stat|WarhammerWillpower|bonus}의 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.
 30	용기 고취
 31	<u>{g|Encyclopedia:CareerLeaderGlossary}오피서{/g}의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스</u>
 32	{g|f:ac05887b146a49e6b707fa17494f8a5c}권위의 기운{/g}이 대상의 {g|Encyclopedia:Resolve}결의{/g}만큼 즉시 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 부여합니다.
@@ -41,7 +41,7 @@
 41	{g|Encyclopedia:CareerLeaderGlossary}오피서{/g}가 공격할 때마다 전투 종료 시까지 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +5 증가합니다.
 42	지휘관의 돌격
 43	<u>(2 + {g|Encyclopedia:CareerLeaderGlossary}오피서{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스 / 2)</u>
-44	다음에 사용하는 {g|Encyclopedia:CareerLeaderGlossary}오피서{/g} {g|Encyclopedia:Career}아키타입{/g} {g|Encyclopedia:Ability}능력{/g}이 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여하지 않는 능력이면 오피서도 그 효과를 받습니다.
+44	다음에 사용하는 {g|Encyclopedia:CareerLeaderGlossary}오피서{/g} {g|Encyclopedia:Career}아키타입{/g} {g|Encyclopedia:Ability}능력{/g} 중 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여하지 않는 첫 능력은 오피서에게도 효과가 적용됩니다.
 45	목격하라
 46	{g|Encyclopedia:CareerLeaderGlossary}오피서{/g}가 대상에게 {g|Encyclopedia:MovementPoints}이동력{/g}을 부여하는 {g|Encyclopedia:Ability}능력{/g}을 사용할 때마다 오피서도 그 절반만큼 이동력을 얻습니다.
 47	행군
@@ -177,7 +177,7 @@
 177	{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 {g|Encyclopedia:LineOfSight}시야{/g} 내의 아군을 선택하여 {g|f:90f1c90ae52342fda66f67d43e988286}미끼{/g} 효과를 {uip|2PERBonus|09793f5510a840f1858079051560828e}중첩 부여합니다.
 178	살아 있는 미끼
 179	<u>(2 + 사역마의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-180	사이버 이글이 {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g} 중이라면 적이 {g|f:90f1c90ae52342fda66f67d43e988286}미끼{/g} 효과를 받는 아군을 공격할 때마다 이 효과의 중첩을 이용해 공격자에게 무기 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다. 효과가 발동하면 해당 아군에게서 이 효과의 중첩이 1 감소합니다.
+180	사이버 이글이 {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g} 중이라면 적이 {g|f:90f1c90ae52342fda66f67d43e988286}미끼{/g} 효과를 받는 아군을 공격할 때마다 사이버 이글이 이 효과의 중첩마다 공격자에게 무기 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다. 효과가 발동하면 해당 아군에게서 이 효과의 중첩이 1 감소합니다.
 181	미끼 보호
 182	{g|f:1e22c265a12744cc95a03d26b6c3cef9}시야 방해를 받는{/g} 적이 자신의 아군을 공격할 때 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 +{uip|DodgeReductionBonus|716db50043764b14802c71e4774d6010}% 증가하고, +{uip|WarpDamage|716db50043764b14802c71e4774d6010}의 추가 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 줍니다. 이 워프 피해는 사이버 이글의 프로토콜 피해 보너스에 따라 증가합니다.
 183	파멸의 그림자
@@ -235,9 +235,9 @@
 235	측면 기동
 236	{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 이 생명체를 공격할 때마다 {g|f:e16934c3dbf44cb997c684a6ddce7575}체포 중{/g}인 사이버 마스티프가 자원 소모 없이 이 생명체에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가하며, 피해는 50% 감소합니다. 이 생명체가 사이버 마스티프로부터 벗어나려 하면 사이버 마스티프가 {uip|StopChance|e16934c3dbf44cb997c684a6ddce7575}% 확률로 이동을 취소시킵니다. 이 생명체가 사이버 마스티프로부터 1칸보다 멀리 이동하면 사이버 마스티프가 따라가 공격합니다(이 생명체의 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않고 이동합니다).
 237	체포당함
-238	{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당한{/g} 대상을 공격할 때마다 이 사이버 마스티프가 자원 소모 없이 해당 대상에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가하며, 피해는 50% 감소합니다. 대상이 사이버 마스티프로부터 벗어나려 하면 사이버 마스티프가 {uip|StopChance|e16934c3dbf44cb997c684a6ddce7575}% 확률로 이동을 취소시킵니다. 대상이 사이버 마스티프로부터 1칸보다 멀리 이동하면 사이버 마스티프가 따라가 공격합니다(이 생명체의 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않고 이동합니다).
+238	{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당한{/g} 대상을 공격할 때마다 이 사이버 마스티프가 자원 소모 없이 해당 대상에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가하며, 피해는 50% 감소합니다. 대상이 사이버 마스티프로부터 벗어나려 하면 사이버 마스티프가 {uip|StopChance|e16934c3dbf44cb997c684a6ddce7575}% 확률로 이동을 취소시킵니다. 대상이 사이버 마스티프로부터 1칸보다 멀리 이동하면 사이버 마스티프가 따라가 공격합니다(대상의 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않고 이동합니다).
 239	체포 중
-240	{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 {g|Encyclopedia:LineOfSight}시야{/g} 내의 적을 선택합니다. 사이버 마스티프가 즉시 해당 적에게 달려갑니다. {g|Encyclopedia:MovementPoints}이동력{/g}이 부족하면 최대한 가까이 이동합니다. 지정한 대상에게 도달하면 사이버 마스티프가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가해 +50% 증가한 피해를 주고 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당함{/g} 효과를 부여합니다. 이 효과는 적과 사이버 마스티프가 서로 인접한 동안 또는 다른 명령을 내릴 때까지 지속됩니다.\n이 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}마다 여러 번 사용할 수 있지만, 같은 {g|Encyclopedia:Round}라운드{/g}에 다시 사용할 때마다 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 +1 증가합니다.
+240	{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 {g|Encyclopedia:LineOfSight}시야{/g} 내의 적을 선택합니다. 사이버 마스티프가 즉시 해당 적에게 달려갑니다. {g|Encyclopedia:MovementPoints}이동력{/g}이 부족하면 최대한 가까이 이동합니다. 지정한 대상에게 도달하면 사이버 마스티프가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가해 +50% 증가한 피해를 주고 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당함{/g} 효과를 부여합니다. 이 효과는 적과 사이버 마스티프가 서로 인접한 동안 지속되며, 다른 명령을 내리면 종료됩니다.\n이 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}마다 여러 번 사용할 수 있지만, 같은 {g|Encyclopedia:Round}라운드{/g}에 다시 사용할 때마다 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 +1 증가합니다.
 241	체포해!
 242	<u>((사역마의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} + 사역마의 {g|Encyclopedia:WarhammerStrength}근력{/g}) / 3)</u>
 243	{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 공격받을 때마다 사이버 마스티프가 {uip|Mastiff STR Bonus|582bb17c04754121b4b31647865dfd32}의 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다. 중첩됩니다.\n사이버 마스티프가 임시 체력을 보유한 동안 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}, 주는 {g|Encyclopedia:DamageGlossary}피해{/g}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}가 +{uip|Mastiff tHP|582bb17c04754121b4b31647865dfd32}% 증가합니다.
@@ -275,7 +275,7 @@
 275	<u>(오버시어의 {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급 + 사역마의 {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
 276	사이버 마스티프가 공격으로 피해를 줄 때마다 {g|f:6cf8cf0920bd461aa5bddb4d45d49649}광란 상태{/g} 효과를 +<u>(준 피해 / 25)</u>중첩 얻습니다. 최대 100회 중첩됩니다.
 277	사이버 야수의 광란
-278	사이버 마스티프가 치명적인 피해를 받을 때 {g|f:6cf8cf0920bd461aa5bddb4d45d49649}흉포함{/g} 중첩이 30을 초과하면 가동 상태를 유지하고 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|RestoredWounds|6cf8cf0920bd461aa5bddb4d45d49649} 회복합니다.
+278	사이버 마스티프가 치명적인 피해를 받을 때 {g|f:6cf8cf0920bd461aa5bddb4d45d49649}광란 상태{/g} 중첩이 30을 초과하면 가동 상태를 유지하고 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|RestoredWounds|6cf8cf0920bd461aa5bddb4d45d49649} 회복합니다.
 279	광란 상태
 280	<u>({g|f:6cf8cf0920bd461aa5bddb4d45d49649}광란 상태{/g} 중첩 수 × 오버시어의 {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급)</u>
 281	사이버 마스티프가 {g|f:66e7b370e32b43118315ab0fd24a7f0d}약점{/g}이 있는 대상을 공격하면 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}와 동일한 피해 보너스를 얻습니다. 공격 시 대상의 {g|f:66e7b370e32b43118315ab0fd24a7f0d}약점{/g}이 모두 제거됩니다.\n오버시어가 {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g} 상태로 {g|Encyclopedia:Turn}턴{/g}을 시작하면 사이버 마스티프가 1{g|Encyclopedia:Round}라운드{/g} 동안 +{uip|Overseer INT Bonus|ce95a986c4044c0ca07fd0db9915388c}의 {g|Encyclopedia:MovementPoints}이동력{/g}을 얻고, {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 +{uip|Overseer PER Bonus|ce95a986c4044c0ca07fd0db9915388c}% 증가합니다.\n오버시어가 완전 엄폐 상태로 턴을 시작하면 이 보너스가 두 배로 증가합니다.
@@ -310,10 +310,10 @@
 310	탄약 가방
 311	사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당한{/g} 적 또는 {g|f:7d75105e9e224ceab784932c12a26757}보호받는{/g} 아군과 인접한 적에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 핵심 {g|Encyclopedia:Characteristic}능력치{/g}가 +1 증가합니다. 전투 종료 시까지 지속되며 중첩됩니다.
 312	전투 모드: 공포
-313	사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당한{/g} 적에게 공격을 연속으로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 피해가 +{uip|Damage|c3cffc6b88cb47f3867b194fbcdb8b03} 증가합니다. 중첩됩니다. {g|f:078bea05041540fa87a53b93d639f243}체포해!{/g}를 다시 사용하면 중첩이 초기화됩니다.
+313	사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당한{/g} 적에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 이후 명중하는 공격의 피해가 +{uip|Damage|c3cffc6b88cb47f3867b194fbcdb8b03} 증가합니다. 중첩됩니다. {g|f:078bea05041540fa87a53b93d639f243}체포해!{/g}를 다시 사용하면 중첩이 초기화됩니다.
 314	사슬 아가리
 315	<u>사역마의 {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스</u>
-316	사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당한{/g} 적에게 공격을 연속으로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 피해가 +{uip|Damage|c406fc4338014f25bf5cbc7234685e5e} 증가합니다. 중첩됩니다. {g|f:078bea05041540fa87a53b93d639f243}체포해!{/g}를 다시 사용하면 중첩이 초기화됩니다.
+316	사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포당한{/g} 적에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 이후 명중하는 공격의 피해가 +{uip|Damage|c406fc4338014f25bf5cbc7234685e5e} 증가합니다. 중첩됩니다. {g|f:078bea05041540fa87a53b93d639f243}체포해!{/g}를 다시 사용하면 중첩이 초기화됩니다.
 317	{g|f:f39e0e323f314259b3e7510b110d3a4b}체포당한{/g} 적이 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}에게 받는 피해가 +{uip|Stat|cb6744a50f65438a8f20fd90efdbaff1}% 증가합니다.
 318	집요한 추격
 319	<u>(2 × {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>

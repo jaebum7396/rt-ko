@@ -1,7 +1,11 @@
 {"errors": [],
 "warnings": [
+ {"n": 10, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
  {"n": 12, "code": "glossary", "detail": "Under My Protection -> 나의 보호 아래 not found"},
  {"n": 13, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 19, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
+ {"n": 22, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
+ {"n": 28, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
  {"n": 34, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 38, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 39, "code": "glossary", "detail": "People -> 사람들/인구 not found"},

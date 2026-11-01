@@ -1,8 +1,12 @@
 {"errors": [],
 "warnings": [
- {"n": 8, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
  {"n": 10, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 12, "code": "glossary", "detail": "Light of the Emperor -> 황제의 빛 not found"},
+ {"n": 28, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
+ {"n": 29, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
+ {"n": 30, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
+ {"n": 31, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
+ {"n": 33, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
  {"n": 46, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
  {"n": 68, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 72, "code": "glossary", "detail": "People -> 사람들/인구 not found"},

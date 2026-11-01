@@ -1,4 +1,4 @@
-1	아치 밀리턴트의 망토
+1	아크 밀리턴트의 망토
 2	착용자가 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 무기{/g}로 치명타를 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 전투 종료 시까지 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +{unit_stat|WarhammerStrength|bonus} 증가합니다.
 3	의태 섬유가 착용자의 색을 주변 환경에 맞춥니다. 이 망토를 착용하면 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +10% 증가합니다.
 4	카멜레올린 망토
@@ -119,7 +119,7 @@
 119	대전략가의 외투
 120	착용자가 이전에 사용한 것과 다른 {g|Encyclopedia:Stratagem}책략{/g}을 사용하거나 처음으로 책략을 사용하면, 1{g|Encyclopedia:Round}라운드{/g} 동안 착용자의 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역이 부여하는 모든 {g|Encyclopedia:Bonus}보너스{/g}가 +5% 증가합니다. 이 효과는 중첩되지 않습니다.
 121	<u>(1 + {g|f:7f7d109653f24774939f758d094b8812}다재다능{/g} 중첩 수)</u>
-122	{g|Encyclopedia:DirectDamage}직접 피해{/g}를 제외한 모든 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|Damage|c6af4d981ffe4a46ac8c1fa9891ec337}% 감소합니다.
+122	{g|Encyclopedia:DirectDamage}직접 피해{/g}를 제외하고 받는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|Damage|c6af4d981ffe4a46ac8c1fa9891ec337}% 감소합니다.
 123	몬케이 가죽 망토
 124	착용자가 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 장막 효과를 얻습니다. 이 효과는 중첩되지 않습니다.\n<i>장막</i>: 장막 효과가 있는 동안 착용자가 공격 대상이 되면 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}합니다. 이후 장막 효과가 제거됩니다.
 125	그림자 망토
@@ -224,7 +224,7 @@
 224	굳건한 장화
 225	착용자와 인접한 아군은 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되지 않으며 강제 이동 효과에 면역이 됩니다.
 226	착용자가 원거리 공격 후 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 근접 공격의 대상은 −15 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 합니다. 실패하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
-227	아치 밀리턴트의 장화
+227	아크 밀리턴트의 장화
 228	착용자가 한 번의 공격으로 적 2명 이상을 처치하면 해당 공격으로 착용자의 {g|Encyclopedia:MovementPoints}이동력{/g}이 전부 소모되지 않습니다.
 229	전쟁광 장화
 230	바람 질주 장화
@@ -290,7 +290,7 @@
 290	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
 291	이 장화의 착용자는 {g|Encyclopedia:Parry}막기{/g}가 +{uip|Parry|116f8ed237df4e4bbabfaf9175eb7121}% 증가하고 실패한 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Test}판정{/g}을 재굴림합니다.
 292	개량형 경량 장화
-293	이 장화의 착용자가 경량 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} 장비를 착용하면 {g|Encyclopedia:Parry}막기{/g}가 +{unit_stat|WarhammerStrength|bonus}% 증가합니다.
+293	이 장화의 착용자가 경량 {g|Encyclopedia:WarhammerArmourGlossary}방어구{/g}를 착용하면 {g|Encyclopedia:Parry}막기{/g}가 +{unit_stat|WarhammerStrength|bonus}% 증가합니다.
 294	경량 장화
 295	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
 296	{g|f:e7836ee2419b46d68da401547aaf630c}발차기{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 0이 되고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|437b8247ae98465491ab35193f77e47d} 증가합니다.
@@ -363,7 +363,7 @@
 363	사이버 마스티프의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +15 증가하고, 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +150% 증가합니다.\n사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포된{/g} 대상에게 하는 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}은 항상 대상의 이동을 취소합니다.\n{g|f:f39e0e323f314259b3e7510b110d3a4b}체포된{/g} 대상에 대한 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|Crit|2cf043106e4e42a6b5c1b49ac70f760a}% 증가합니다.
 364	살아 있는 덫
 365	<u>(4 × {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-366	사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +10 증가하고, 주는 피해가 +150% 증가합니다. {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 사이버 이글의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Dodge|cdd71475a76f46adb072f009748e5c1a}% 증가합니다.\n사이버 이글이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 근접 공격을 회피하면 해당 적은 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 가장 적은 공격으로 인접한 무작위 아군을 즉시 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키며, 이 공격은 반드시 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 됩니다.
+366	사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +10 증가하고, 주는 피해가 +150% 증가합니다. {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 사이버 이글의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Dodge|cdd71475a76f46adb072f009748e5c1a}% 증가합니다.\n사이버 이글이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 근접 공격을 회피하면 해당 적은 {g|Encyclopedia:ActionPoints}행동력{/g} 소모가 가장 적은 공격을 자신과 인접한 무작위 아군에게 즉시 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키며, 이 공격은 반드시 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 됩니다.
 367	폐소공포증
 368	사이버 마스티프의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +10 증가하고, 주는 피해가 +100% 증가합니다.\n{g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:Turn}턴{/g} 종료 시 사이버 마스티프가 적과 인접해 있으면 오버시어가 전투 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}를 +1 얻습니다. 오버시어가 {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자라면 무작위 능력치에 +2 보너스도 얻습니다. 중첩됩니다.
 369	지배와 제거
@@ -393,7 +393,7 @@
 393	집중 괴롭히기
 394	<u>(2 × {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
 395	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
-396	사이버 마스티프가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +150% 증가합니다.\n{g|f:7d75105e9e224ceab784932c12a26757}보호받는{/g} 아군이 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막을 때마다 사이버 마스티프가 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +{uip|THP|69f357995ff74dc0bd37ea1657a919c7} 얻고 1{g|Encyclopedia:Round}라운드{/g} 동안 주는 피해가 +{uip|Damage|69f357995ff74dc0bd37ea1657a919c7}% 증가합니다. 중첩되지 않습니다.\n{g|f:78e7771b7c974111887e762d5e999a11}지켜라!{/g}를 한 {g|Encyclopedia:Turn}턴{/g}에 여러 번 사용할 수 있지만, 같은 라운드에 추가로 사용할 때마다 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 +1 증가합니다.
+396	사이버 마스티프가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +150% 증가합니다.\n{g|f:7d75105e9e224ceab784932c12a26757}보호받는{/g} 아군이 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막을 때마다 사이버 마스티프가 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +{uip|THP|69f357995ff74dc0bd37ea1657a919c7} 얻고 주는 피해가 +{uip|Damage|69f357995ff74dc0bd37ea1657a919c7}% 증가합니다. 중첩되지 않습니다.\n{g|f:78e7771b7c974111887e762d5e999a11}지켜라!{/g}를 한 {g|Encyclopedia:Turn}턴{/g}에 여러 번 사용할 수 있지만, 같은 라운드에 추가로 사용할 때마다 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 +1 증가합니다.
 397	보호 본능
 398	<u>(3 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
 399	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 3)</u>

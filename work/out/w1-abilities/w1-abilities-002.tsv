@@ -19,7 +19,7 @@
 19	워드 베어러
 20	데몬의 {g|f:9f073e3858ab46dc90e16957a3081e78}현현{/g}이 사용되어도 이 개체는 원동력을 잃거나 해로운 효과를 받지 않습니다.
 21	다크 어포슬의 후원
-22	워프의 농간으로부터 영혼을 보호하는 인가 의식을 거치지 않은 사이커입니다. 대신 속박되지 않은 마술적 재능을 지니고 있습니다.
+22	워프의 농간으로부터 영혼을 보호하는 인가 의식을 거치지 않았지만, 속박되지 않은 마술적 재능을 지닌 사이커입니다.
 23	비인가 사이커
 24	자이가 양손에 무기를 들고 싸우면 두 번째 손으로 하는 공격에는 추가 {g|Encyclopedia:ActionPoints}행동력{/g}이 들지 않습니다(해당 {g|Encyclopedia:Round}라운드{/g}에서 먼저 공격한 손의 반대쪽 손을 뜻합니다).
 25	총잡이
@@ -33,7 +33,7 @@
 33	이 개체는 {g|f:2c4d692f28fe47e3a65f45a914c5189b}마그나레일 포격{/g}과 {g|f:09c4605a50c74262aec197ec9f9a9d58}천음속 파동{/g}을 포함한 에오건의 원거리 공격에 피해를 받지 않습니다.\n에오건이 이 개체를 대상으로 가하는 모든 단일 대상 원거리 공격은 근처의 무작위 적에게 도탄됩니다. 해당 공격의 피해와 치명타 확률이 +{uip|DamageIncrease|e6926d919c6d4246b1feb2ff8d7611fc}% 증가합니다.
 34	<u>(에오건의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} / 2)</u>
 35	<u>(에오건의 {g|Encyclopedia:SkillTechUse}기술 활용{/g} / 3)</u>
-36	에오건의 공격에 명중당한 적은 전투 종료 시까지 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g}가 +15% 증가합니다. 중첩되지 않습니다.
+36	에오건의 공격에 맞은 적은 전투 종료 시까지 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g}가 +15% 증가합니다. 중첩되지 않습니다.
 37	에너지 손실
 38	에오건은 행동력을 1 소모할 때마다 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g}를 +1중첩 얻습니다.\n이 중첩은 {g|f:823b70d6ab9349b2a1e2b1bbbe4798e2}전류장{/g} 등 에오건의 고유 능력을 발동하는 데 사용됩니다.\n중첩마다 에오건이 가하는 모든 에너지 피해와 감전 피해가 +{uip|DamageBonus|eb08585fc2cb4ae28ef4637c72f8ca47}% 증가합니다.
 39	위치 에너지
@@ -69,8 +69,8 @@
 69	에오건이 신체 보강물을 하나 이상 장착한 인접 아군을 대상으로 체력을 {uip|HealAmount|66a1334321bc4000b9c19ee35614538d} 회복시킵니다(최대 {uip|HealLimit|66a1334321bc4000b9c19ee35614538d}).\n<i>이 능력을 사용하려면 에오건에게 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g}가 최소 <b>2중첩</b> 있어야 하며, 사용 후 해당 중첩이 제거됩니다.</i>\n! 전투당 1회만 사용할 수 있습니다.
 70	수리 메카덴드라이트
 71	<u>(에오건의 {g|Encyclopedia:SkillMedicae}의술{/g})</u>
-72	<u>(에오건의 기술 활용 / 10 × 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
-73	<u>(에오건의 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g} 중첩 수 + 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+72	<u>(에오건의 기술 활용 / 10 × 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
+73	<u>(에오건의 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g} 중첩 수 + 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 74	고전압
 75	에너지 벽이 차지하는 칸을 통과하는 아군은 +{uip|BonusMP|52fe1454f6054f119ddafd9941b3950c} 이동력을 얻습니다(라운드당 1회).\n에너지 벽을 통과하는 적은 {uip|BonusMP|52fe1454f6054f119ddafd9941b3950c}의 감전 피해를 받습니다(최대 {uip|MaxDamage|52fe1454f6054f119ddafd9941b3950c}).
 76	<u>(에오건의 {g|Encyclopedia:SkillLogic}논리{/g} / 20)</u>
@@ -81,14 +81,14 @@
 81	에오건은 자신을 대상으로 {g|f:5bfccf14d8604ae1a041fb347fb8f19f}쓰러뜨려라!{/g} 능력을 사용할 수 있습니다. 이 경우 1{g|Encyclopedia:Round}라운드{/g} 동안 자신의 {g|Encyclopedia:Resolve}결의{/g}가 −100% 감소합니다.\n{g|Encyclopedia:ActionPoints}행동력{/g}을 얻는 대신 추가 공격을 할 수 있습니다. 이 능력의 효과를 받는 동안 에오건의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}이 +{uip|StatBonus|fb3769f45c4b4429aeb5c6323be7b8fa} 증가합니다.
 82	경두개 자극
 83	<u>감소한 결의</u>
-84	에오건은 적을 대상으로 {g|f:5bfccf14d8604ae1a041fb347fb8f19f}쓰러뜨려라!{/g} 능력을 사용할 수 있습니다. 이 경우 1{g|Encyclopedia:Round}라운드{/g} 동안 자신의 {g|Encyclopedia:Resolve}결의{/g}가 −100% 감소합니다.\n대상은 즉시 가장 가까운 개체를 공격합니다(다른 적을 우선시합니다). 그 후 대상의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 −{uip|ResolveLowered|b9936af246d44bb19c8bc8167b891714} 감소합니다. {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 효과를 받는 대상은 강력한 적이 아니라면 1라운드 동안 {g|Encyclopedia:Stun}기절{/g}합니다. 해당 효과를 받지 않는 대상은 대신 1라운드 동안 {g|Encyclopedia:PerplexedEffect}당혹{/g}이 +1중첩 부여됩니다.\n각 대상은 전투당 1회만 이 능력의 영향을 받을 수 있습니다.
+84	에오건은 적을 대상으로 {g|f:5bfccf14d8604ae1a041fb347fb8f19f}쓰러뜨려라!{/g} 능력을 사용할 수 있습니다. 이 경우 1{g|Encyclopedia:Round}라운드{/g} 동안 자신의 {g|Encyclopedia:Resolve}결의{/g}가 −100% 감소합니다.\n대상은 즉시 가장 가까운 개체를 공격합니다(다른 적을 우선시합니다). 그 후 대상의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 −{uip|ResolveLowered|b9936af246d44bb19c8bc8167b891714} 감소합니다. {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 효과를 받는 대상은 강력한 적이 아니라면 1라운드 동안 {g|Encyclopedia:Stun}기절{/g}합니다. 해당 효과를 받지 않는 대상은 대신 1라운드 동안 {g|Encyclopedia:PerplexedEffect}당혹{/g}이 +1중첩 부여됩니다.\n각 대상은 전투당 1회만 이 능력의 영향을 받을 수 있습니다.
 85	전기 경련 요법
 86	<u>감소한 결의</u>
 87	해당 라운드에 {g|f:4644d27aca624059883392696c49456d}전격 타격{/g}으로 피해를 받은 개체는 자신의 턴 종료 시 그 피해를 다시 받습니다.
 88	전도
 89	{g|f:d751b596af79422796fb0da9a27dec47}옴니시아의 축복{/g} 효과를 받는 개체의 치명타 확률이 +{uip|BonusCritChance|c49f6ede0ecd44f1aa996e9300513c17}% 증가합니다.\n이 개체를 대상으로 하는 공격의 치명타 확률은 −{uip|BonusCritChance|c49f6ede0ecd44f1aa996e9300513c17}% 감소합니다.
 90	기계신의 가호
-91	<u>(3 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+91	<u>(3 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 92	자신의 턴 시작 시 에오건에게 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g}가 {uip|EnergySpent|e2892494765548f984b6173cb7f1b340}중첩 이상 있으면 +1 행동력을 얻습니다.
 93	잉여 에너지
 94	<u>지능 보너스</u>
@@ -188,7 +188,7 @@
 188	함대 전투 훈련
 189	{g|f:b9f9ef145708451f81283a73c16c527d}충격 대비{/g} 효과가 부여되면 영향받은 각 아군이 즉시 {g|Encyclopedia:ActionPoints}행동력{/g} 0, {g|Encyclopedia:MovementPoints}이동력{/g} {unit_stat|WarhammerToughness|bonus}의 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻고, 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 효율이 +30% 증가합니다.
 190	엄폐하라!
-191	해군 장교가 반경 2칸 이내의 적들을 2칸 밖으로 {g|Encyclopedia:PushGlossary}밀치기{/g} 합니다.
+191	해군 장교가 반경 2칸 이내의 적들을 자신에게서 멀어지는 방향으로 2칸만큼 {g|Encyclopedia:PushGlossary}밀치기{/g} 합니다.
 192	물러서라!
 193	{g|f:b9f9ef145708451f81283a73c16c527d}충격 대비{/g} 효과가 지속되는 동안 해군 장교는 {g|f:282940ecb99948a28adc9cb60374223b}물러서라!{/g} 능력을 {g|Encyclopedia:Round}라운드{/g}당 1회 사용할 수 있으며, 장교의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} 대상은 −10 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 194	물러서라!
@@ -228,18 +228,18 @@
 228	조준 프로토콜
 229	<u>(5 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
 230	<u>(10 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-231	파스칼과 {g|f:de49d9600eeb4e9fb8a0adab3c46a260}의료용 메카덴드라이트{/g} 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩이 합계 10 이상이면 해당 능력을 다시 사용할 수 있습니다.
+231	파스칼과 {g|f:de49d9600eeb4e9fb8a0adab3c46a260}의료용 메카덴드라이트{/g} 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩이 합계 10 이상이면 해당 능력을 다시 사용할 수 있습니다.
 232	육신과 금속의 융합
 233	파스칼의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이 공격받은 모든 적에게 {g|f:95cdd5f42ef5480d9fadd9e0acee641b}기계령 교감{/g} 효과를 부여합니다.
 234	근접 스캔
 235	이제 {g|f:95c75fde7c314366b771bcd0b116feee}조작기 밀치기{/g}가 파스칼과 대상 양쪽 모두에 인접한 다른 적들에게도 피해를 가하고 {g|Encyclopedia:PushGlossary}밀치기{/g}를 합니다.
 236	강화 서보 구동장치
-237	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + 테크 프리스트의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
-238	<u>(2 × ({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수))</u>
+237	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + 테크 프리스트의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
+238	<u>(2 × ({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수))</u>
 239	<u>(5 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
 240	<u>(10 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
 241	<u>(테크 프리스트의 {g|Encyclopedia:SkillTechUse}기술 활용{/g} / 3)</u>
-242	1{g|Encyclopedia:Round}라운드{/g} 동안 대상이 가하는 피해가 −{uip|DamageReduction|0b8058ef3f33406faebea94ee7967d66}% 감소합니다.\n대상은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1{g|Encyclopedia:Turn}턴{/g} 동안 {g|Encyclopedia:Stun}기절{/g}합니다.\n대상이 {g|f:ed0acc1731834a89bda8cc52ec769e3d}육신 거부{/g} 또는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 특성을 지녔거나 기계 장치 또는 기계라면, 방어 관통 {uip|Penetration|0b8058ef3f33406faebea94ee7967d66}%로 {uip|Damage|0b8058ef3f33406faebea94ee7967d66}의 감전 피해를 받고 −{uip|Penetration|0b8058ef3f33406faebea94ee7967d66} 불이익을 받아 {g|Encyclopedia:Test}판정{/g}합니다.
+242	1{g|Encyclopedia:Round}라운드{/g} 동안 대상이 가하는 피해가 −{uip|DamageReduction|0b8058ef3f33406faebea94ee7967d66}% 감소합니다.\n대상은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1{g|Encyclopedia:Turn}턴{/g} 동안 {g|Encyclopedia:Stun}기절{/g}합니다.\n대상이 {g|f:ed0acc1731834a89bda8cc52ec769e3d}육신 거부{/g} 또는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 특성을 지녔거나 기계 장치 또는 기계라면, 방어 관통 {uip|Penetration|0b8058ef3f33406faebea94ee7967d66}%로 {uip|Damage|0b8058ef3f33406faebea94ee7967d66}의 감전 피해를 받고 −{uip|Penetration|0b8058ef3f33406faebea94ee7967d66} 불이익을 받아 {g|Encyclopedia:Test}판정{/g}합니다.
 243	기계령 추방
 244	파스칼의 공격과 {g|f:197b8a8a12b0442db7ffee1067cf3d97}약점 노출{/g} 능력의 효과는 {g|f:95cdd5f42ef5480d9fadd9e0acee641b}기계령 교감{/g} 효과를 받는 적을 상대할 때, 해당 적에게 {g|Encyclopedia:Exploit}약점{/g}이 +<u>(2 + 대상의 {g|f:e6ed7e168bfb4adb9fc73fb07b5e7020}경련{/g} 중첩 수)</u>중첩 더 있는 것처럼 보너스를 얻습니다.
 245	약점을 드러내는 교감
@@ -250,7 +250,7 @@
 250	파스칼이 플라스마 또는 멜타 무기를 사용할 때마다 해당 무기로 가하는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|be49079e9e4c4f2aa84d04d8440e1859}% 증가합니다. 중첩됩니다.\n파스칼이 1{g|Encyclopedia:Round}라운드{/g} 동안 사격하지 않으면 모든 중첩을 잃습니다.
 251	과충전 프로토콜
 252	<u>(5 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-253	파스칼은 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}와 {g|Encyclopedia:ParryReduction}막기 감소{/g}가 +{uip|DodgeParryReduction|ef6a2442104a4768b0ef26c8a66b1201}% 증가합니다.\n적이 파스칼의 공격에 {g|Encyclopedia:DodgeGlossary}회피{/g} 또는 {g|Encyclopedia:Parry}막기{/g}를 성공하면 해당 적에게 가하는 다음 근접 공격에는 {g|Encyclopedia:Bonus}보너스{/g}가 두 배로 적용됩니다.
+253	파스칼은 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}와 {g|Encyclopedia:ParryReduction}막기 감소{/g}가 +{uip|DodgeParryReduction|ef6a2442104a4768b0ef26c8a66b1201}% 증가합니다.\n적이 파스칼의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}에 성공하면 해당 적에게 가하는 다음 근접 공격에는 {g|Encyclopedia:Bonus}보너스{/g}가 두 배로 적용됩니다.
 254	예측 프로토콜
 255	<u>(15 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
 256	파스칼이 {g|f:95cdd5f42ef5480d9fadd9e0acee641b}기계령 교감{/g} 효과를 받는 동안 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 가하는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|5701e2340b9249f48bb57f51b6ad4848}% 증가하고 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +{uip|PenetrationBonus|5701e2340b9249f48bb57f51b6ad4848}% 증가합니다.
@@ -263,7 +263,7 @@
 263	<i>참고:</i> 피해를 가하는 사이커 능력은 무기 공격으로 간주하여 일반적인 {g|Encyclopedia:Turn}턴{/g}당 공격 횟수 제한에 포함되며, 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}를 증가시키는 {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}의 모든 혜택을 받습니다. 예를 들어 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g} 능력을 사용하는 솔져는 피해를 가하는 사이커 능력을 턴당 두 번 사용할 수 있으며, 오퍼러티브의 {g|f:502b9195c84c42c5b180f3f63ed7955c}적 분석{/g} 능력은 공격용 사이커 능력의 피해에도 영향을 줍니다.
 264	사이커는 두려움과 불신의 대상이지만 제국에는 귀중한 자산입니다. 아뎁투스 아스트라 텔레파시카는 사이킥 능력자를 모집하고 식별하며 분류하는 역할을 맡습니다. 혹독한 인가 의식에서 어떻게든 살아남은 가장 강력한 이들은 전장에 복무하도록 선발됩니다. 인가 사이커의 정신은 워프의 힘을 다루는 자들이 직면하는 수많은 위험에 맞서도록 단련되어 있습니다. 당신은 인류를 섬길 자격을 인정받은 이들 중 하나로, 워프의 위험에서 기적적으로 살아남았습니다.
 265	인가 사이커
-266	바이오맨서는 정신력으로 생체 에너지와 생리 작용을 조작하는 데 특화되어 있습니다. 육신의 지배자로서 자신의 몸은 물론 아군과 적의 몸까지 의지대로 변형하고 영향을 미치는 법을 익힙니다.
+266	바이오맨서는 정신력으로 생체 에너지와 생리 작용을 조작하는 데 특화되어 있습니다. 육신의 지배자로서 자신의 몸은 물론 아군과 적의 몸까지 의지대로 변형하거나 그 상태에 영향을 미치는 법을 익힙니다.
 267	인가 사이커 — 바이오맨서
 268	디바이너는 은하의 숨겨진 과거를 밝혀내고 아직 일어나지 않은 사건의 흐름을 알아내려 합니다. 이 능력으로 뒤틀린 이머티리움의 가닥들을 들여다보며 원하는 답을 찾고, 때로는 운명의 결말 자체에 영향을 미치기도 합니다.
 269	인가 사이커 — 디바이너
@@ -284,7 +284,7 @@
 284	신성한 의식
 285	사이커가 모든 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 +<u>(3 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u> {g|Encyclopedia:Bonus}보너스{/g}를 얻으며, {g|Encyclopedia:Stun}기절{/g}하거나 다른 이유로 행동할 수 없는 상태에서도 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 수 있습니다.
 286	오르토프록시
-287	사이커가 아군의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}, 내비게이터 능력, {g|Encyclopedia:Career}교리{/g} {g|Encyclopedia:Ability}능력{/g} 중 하나라도 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 받으면 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +5 증가합니다. 이와 같은 능력의 효과를 추가로 하나씩 받을 때마다 이 {g|Encyclopedia:Bonus}보너스{/g}가 +2 증가합니다. 이 {g|Encyclopedia:Talent}재능{/g}으로 얻은 의지력 보너스가 15보다 높으면 {g|Encyclopedia:PsyRating}사이 등급{/g}에도 +1 보너스를 얻습니다.
+287	사이커가 아군의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}, 내비게이터 능력, {g|Encyclopedia:Career}교리{/g} {g|Encyclopedia:Ability}능력{/g} 중 하나의 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}라도 받으면 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +5 증가합니다. 이와 같은 능력의 효과를 추가로 하나씩 받을 때마다 이 {g|Encyclopedia:Bonus}보너스{/g}가 +2 증가합니다. 이 {g|Encyclopedia:Talent}재능{/g}으로 얻은 의지력 보너스가 15보다 높으면 {g|Encyclopedia:PsyRating}사이 등급{/g}에도 +1 보너스를 얻습니다.
 288	황금 옥좌의 도구
 289	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 10 이하인 동안 사이커의 {g|Encyclopedia:Resolve}결의{/g}가 +{uip|ResolveBonus|5f569e5e1dbe4271aa3b22f3cbf69e8c} 증가합니다.
 290	고요한 정신
@@ -380,7 +380,7 @@
 380	영웅적 행동이나 필사의 결단을 처음 사용하면 모든 파티원에게 각각 {g|f:2f93d13e3d734f1982a8424c22c372ef}안녕과 번영{/g} 또는 {g|f:8e9345fed2dd42d3b22665d2cfab5f85}단호한 심판{/g} 효과가 부여됩니다. 효과는 전투당 1회 발동하며 전투 종료 시까지 지속됩니다. 한 효과가 발동하면 다른 효과는 발동할 수 없습니다.
 381	이 캐릭터가 +<u>(3 × 결의)</u>의 임시 체력을 얻습니다.
 382	안녕과 번영
-383	캐릭터의 행동력이 −1 감소합니다. 자신의 턴 시작 시 적당한 양의 정신 피해를 받습니다. −10 불이익을 받는 의지력 저항 판정에 성공하면 해당 피해가 감소합니다.
+383	캐릭터의 행동력이 −1 감소합니다. 자신의 턴 시작 시 중간 정도의 정신 피해를 받습니다. −10 불이익을 받는 의지력 저항 판정에 성공하면 해당 피해가 감소합니다.
 384	찢긴 영혼
 385	이 효과의 중첩마다 모든 능력치가 −5 감소하고 받는 공격의 치명타 확률이 +5% 증가합니다. 최대 5회 중첩됩니다. 또한 이 캐릭터는 자신의 턴 시작 시 1% 확률로 1라운드 동안 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.
 386	파멸의 예감

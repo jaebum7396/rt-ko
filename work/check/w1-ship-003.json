@@ -2,7 +2,6 @@
 "warnings": [
  {"n": 2, "code": "glossary", "detail": "order -> 명령/교단/명령/교단 not found"},
  {"n": 3, "code": "glossary", "detail": "Command -> 명령 not found"},
- {"n": 3, "code": "glossary", "detail": "Throne -> 황금 옥좌 not found"},
  {"n": 3, "code": "glossary", "detail": "Body -> 몸/시체/몸/시체 not found"},
  {"n": 4, "code": "glossary", "detail": "wound -> 체력 not found"},
  {"n": 4, "code": "glossary", "detail": "turn -> 턴 not found"},

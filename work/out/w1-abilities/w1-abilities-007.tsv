@@ -93,13 +93,13 @@
 93	<u>(4 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 94	사이커가 {g|Encyclopedia:BurningEffect}화상{/g} 상태일 때 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1, {g|Encyclopedia:Resolve}결의{/g}가 +2 증가합니다. 화염 {g|Encyclopedia:DamageGlossary}피해{/g}를 받아도 사이커의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 감소하지 않습니다.
 95	꺼지지 않는 불길
-96	한 전투에서 사이커가 생명체 8마리를 처치하거나 생명체 8마리에게 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시킬 때마다 다음 공격(공격형 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g} 포함)의 비용이 0 {g|Encyclopedia:ActionPoints}행동력{/g}이 되며, {g|Encyclopedia:Turn}턴{/g}당 공격 횟수 제한에 포함되지 않습니다.
+96	한 전투에서 사이커가 처치하거나 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시킨 생명체가 8마리에 이를 때마다 다음 공격(공격형 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g} 포함)의 비용이 0 {g|Encyclopedia:ActionPoints}행동력{/g}이 되며, {g|Encyclopedia:Turn}턴{/g}당 공격 횟수 제한에 포함되지 않습니다.
 97	내면의 불꽃
 98	방어구 융해 (방어도 불이익)
 99	방어구 융해 (피해 감소 불이익)
 100	적이 사이커에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 입을 때마다 해당 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −5% 감소합니다. 적의 방어도가 이미 0이라면 대신 {g|Encyclopedia:Deflection}피해 감소{/g}가 −1 감소합니다.
 101	방어구 융해
-102	사이커가 부여한 모든 지속 {g|Encyclopedia:DamageGlossary}피해{/g} 효과가 {uip|Chance|25d44ec9def7447e9548469634168275}%의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}을 얻습니다. 모든 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g} {g|Encyclopedia:Bonus}보너스{/g}가 이 확률을 증가시킵니다.
+102	사이커가 부여한 모든 지속 {g|Encyclopedia:DamageGlossary}피해{/g} 효과가 {uip|Chance|25d44ec9def7447e9548469634168275}%의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}을 얻습니다. 모든 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g} {g|Encyclopedia:Bonus}보너스{/g}가 이 확률을 증가시킵니다.
 103	거대한 불길의 불씨
 104	<u>(5 + 5 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 105	사이커가 불꽃 투사체 {uip|Count|8a759cdc2b754309b1fb75397798fbf1}개를 쏟아내며, 각각 <u>({uip|DamageMin|8a759cdc2b754309b1fb75397798fbf1}~{uip|DamageMax|8a759cdc2b754309b1fb75397798fbf1})</u>의 피해를 줍니다. 투사체는 60% 확률로 중앙 경로를 따라 날아가며, 40% 확률로 측면 경로 중 하나로 빗나갑니다. 투사체에 2개 이상 맞은 생명체는 {g|f:b91a3b9afb9147848d8167dbcf16d092}워프 화상{/g} 효과를 받습니다.
@@ -255,7 +255,7 @@
 255	죽음의 환영
 256	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 적 하나를 지목하여 처단을 맹세합니다. 선택한 적을 향한 블레이드 댄서의 다음 공격은 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 막을 수 없습니다. 이 공격으로 대상을 처치하면 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|Heal|590c990c1d684fd09ae883754d28a8ac} 회복하고, {g|Encyclopedia:ActionPoints}행동력{/g} +1과 이번 {g|Encyclopedia:Turn}턴{/g}의 추가 공격 1회를 얻습니다.\n이 {g|Encyclopedia:Ability}능력{/g}은 턴당 여러 번 사용할 수 있지만, {g|Encyclopedia:ActionPoints}행동력{/g} +1과 추가 공격은 {g|Encyclopedia:Round}라운드{/g}당 한 번만 얻습니다.
 257	피의 맹세
-258	블레이드댄서는 빠르고 치명적인 검의 달인으로, 신속한 연속 타격에 특화되어 있으며 체력 일부를 희생해 근접 전투 능력을 강화할 수 있습니다. 막기와 회피로 적의 공격을 피하거나 반격하기 전에 빠르게 자리를 옮기며 싸웁니다. 원거리 공격까지 막아낼 수 있습니다.\n주요 분야: 근접, 검, 이동, 회피, 막기.
+258	블레이드댄서는 빠르고 치명적인 검의 달인으로, 신속한 연속 타격에 특화되어 있으며 체력 일부를 희생해 근접 전투 능력을 강화할 수 있습니다. 막기와 회피로 적의 공격을 피하거나 적이 반격하기 전에 빠르게 자리를 옮기며 싸웁니다. 원거리 공격까지 막아낼 수 있습니다.\n주요 분야: 근접, 검, 이동, 회피, 막기.
 259	블레이드 댄서
 260	블레이드 댄서가 원하는 방향을 바라보고 즉시 턴을 종료합니다. 다음 턴 시작 시까지 이동하지 않고 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있으며, 모든 강제 이동에 면역이 됩니다. 또한 선택한 방향에서 오는 공격에 대한 {g|Encyclopedia:Parry}막기{/g}가 +20% 증가하고, 인접한 아군을 향한 공격도 막을 수 있습니다. <b>칼날의 장막</b> 효과를 받는 동안에는 해당 방향에서 오는 원거리 공격도 막을 수 있습니다(원거리 범위 공격 제외). 원거리 공격의 막기 확률은 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}과 같은 방식으로 계산하며, 이때 공격자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}은 해당 공격의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 같은 것으로 취급합니다. 이렇게 공격을 막으면 선택한 방향의 적 하나에게 튕겨낼 수 있습니다. 튕겨낼 확률은 해당 공격에 대한 블레이드 댄서의 막기 확률의 절반입니다.\n! 이 {g|Encyclopedia:Ability}능력{/g}은 검을 장비해야 사용할 수 있습니다.
 261	칼날의 장막
@@ -278,7 +278,7 @@
 278	<u>(20 + 2 × {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스)</u>
 279	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 아군 하나를 선택합니다. 전투 종료 시까지 해당 아군을 이미 공격한 적에게 블레이드 댄서가 공격하면 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CriticalChance|3774147440ac412a876725b9b2b24682}%, 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|CriticalDamage|3774147440ac412a876725b9b2b24682}% 증가합니다.\n이 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}당 여러 번 사용할 수 있지만, {g|Encyclopedia:Bonus}보너스{/g}는 중첩되지 않습니다.
 280	복수의 맹세
-281	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 자신의 {g|Encyclopedia:Turn}턴{/g}을 시작한 칸으로 즉시 돌아갑니다. 이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않습니다. 이번 턴에 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용했다면, 해당 {g|Encyclopedia:Ability}능력{/g}으로 이동한 모든 경로를 역순으로 되짚습니다.
+281	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 자신의 {g|Encyclopedia:Turn}턴{/g}을 시작한 칸으로 즉시 돌아갑니다. 이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않습니다. 이번 턴에 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용했다면, 이동하면서 해당 {g|Encyclopedia:Ability}능력{/g}의 모든 사용을 역순으로 반복합니다.
 282	곡예의 경지
 283	<u>{g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>
 284	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 공격을 {g|Encyclopedia:Parry}막기{/g}로 막아낼 때마다 다음 {g|f:de2fa09b36314b2dafe09c3e8354d214}검무{/g}의 공격 횟수가 +1 증가합니다. 이 효과는 최대 {uip|agiB|7d51ba40347341b38cd181fb18097edb}회 중첩됩니다.

@@ -38,7 +38,7 @@
 38	피해 감소는 적의 공격이 캐릭터에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 차감되는 {g|Encyclopedia:DamageGlossary}피해{/g}량을 결정합니다.
 39	피해 감소
 40	피해 감소 무시
-41	대부분의 무기에는 적 방어구의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 딸린 피해 감소 수치를 낮춰 공격 효율을 높이는 <b>{g|Encyclopedia:Deflection}피해 감소{/g} 무시</b> 수치가 있습니다. 이 수치는 공격 {g|Encyclopedia:DamageGlossary}피해{/g} 계산에 영향을 줍니다.\n<b>피해 감소 무시</b> 수치는 무기 설명에 표시됩니다.
+41	대부분의 무기에는 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어구{/g}가 제공하는 피해 감소 수치를 낮춰 공격 효율을 높이는 <b>{g|Encyclopedia:Deflection}피해 감소{/g} 무시</b> 수치가 있습니다. 이 수치는 공격 {g|Encyclopedia:DamageGlossary}피해{/g} 계산에 영향을 줍니다.\n<b>피해 감소 무시</b> 수치는 무기 설명에 표시됩니다.
 42	일행의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 25 미만일 때만 <b>필사의 결단</b>을 사용할 수 있습니다. 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이면 원동력 75에서도 사용할 수 있습니다. 체력이 20% 미만이면 원동력 100에서도 필사의 결단을 사용할 수 있습니다.\n필사의 결단을 사용하면 전투가 끝날 때까지 해당 캐릭터의 {g|Encyclopedia:Resolve}결의{/g}가 0으로 감소합니다.\n각 캐릭터는 전투당 1회, {g|Encyclopedia:HeroicAct}영웅적 행동{/g}과 필사의 결단 중 하나만 사용할 수 있습니다. 일행 전체가 {g|Encyclopedia:Round}라운드{/g}당 사용할 수 있는 필사의 결단은 1회뿐입니다.
 43	필사의 결단
 44	적의 난이도 단계는 아이콘에 I부터 VII까지의 숫자로 표시됩니다. 난이도 단계가 높을수록 강한 적입니다. 장비가 변변찮은 비천한 농노는 난이도 단계 I에 해당하겠지만, 난이도 단계 VII의 적은 누구든 실로 무시무시한 상대입니다.
@@ -48,7 +48,7 @@
 48	어뢰는 직격 시 대상에게 온전한 피해를 줍니다. 빗나가 근접 신관으로 폭발하거나 수동으로 폭파하면 반경 1칸에 감소한 피해를 줍니다. 직격 확률은 대상의 {g|Encyclopedia:EvasionSpace}회피{/g}와 피격을 피하기 위해 사용 중인 능력에 따라 달라집니다. 어뢰 폭발 공격은 절대 빗나가지 않지만 직격보다 피해가 적습니다.
 49	어뢰 명중
 50	회피
-51	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 및 {g|Encyclopedia:Range}원거리{/g} 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}를 피하는 데 도움이 되는 수치입니다.\n공격받은 캐릭터는 무기 종류와 관계없이 자동으로 회피를 시도합니다. 기본 회피 확률은 <b><u>(30 + 대상의 {g|Encyclopedia:WarhammerAgility}민첩{/g} − 공격자의 {g|Encyclopedia:DodgeReduction}회피 감소{/g})</u>%</b>입니다. 대상의 회피 또는 공격자의 회피 감소에 {g|Encyclopedia:Bonus}보너스{/g}나 불이익을 주는 {g|Encyclopedia:Ability}능력{/g}과 효과에 따라 최종 회피 확률이 달라집니다. 원거리 공격의 기본 회피 감소는 공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 수치와 같습니다. 근접 공격은 공격자의 민첩 수치 절반만큼 기본 회피 감소가 추가로 증가합니다.\n원거리 무기의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 회피할 때는 최대 3칸까지 이동하여 효과 범위를 벗어나야 회피에 성공합니다. 어떤 이유로든 효과 범위를 벗어나지 못하면 자동으로 스침 {g|Encyclopedia:HitSequenceGlossary}명중{/g} 피해를 받습니다.
+51	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 및 {g|Encyclopedia:Range}원거리{/g} 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}를 피하는 데 도움이 되는 수치입니다.\n공격받은 캐릭터는 무기 종류와 관계없이 자동으로 회피를 시도합니다. 기본 회피 확률은 <b><u>(30 + 대상의 {g|Encyclopedia:WarhammerAgility}민첩{/g} − 공격자의 {g|Encyclopedia:DodgeReduction}회피 감소{/g})</u>%</b>입니다. 대상의 회피 또는 공격자의 회피 감소에 {g|Encyclopedia:Bonus}보너스{/g}나 불이익을 주는 {g|Encyclopedia:Ability}능력{/g}과 효과에 따라 최종 회피 확률이 달라집니다. 원거리 공격의 기본 회피 감소는 공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 수치와 같습니다. 근접 공격은 공격자의 민첩 수치 절반만큼 기본 회피 감소가 추가로 증가합니다.\n원거리 무기의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 회피할 때는 최대 3칸까지 이동하여 효과 범위를 벗어나야 회피에 성공합니다. 어떤 이유로든 효과 범위를 벗어나지 못하면 자동으로 {g|Encyclopedia:HitSequenceGlossary}스침{/g} 피해를 받습니다.
 52	캐릭터의 공격을 적이 {g|Encyclopedia:DodgeGlossary}회피{/g}할 확률을 얼마나 낮추는지 결정하는 수치입니다. 수치가 높을수록 공격이 효과적입니다.\n기본 <b>회피 감소</b>는 {g|Encyclopedia:Range}원거리{/g} 공격의 경우 <b><u>공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g}</u>%</b>, {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}의 경우 <b><u>(공격자의 지각 + 공격자의 {g|Encyclopedia:WarhammerAgility}민첩{/g} / 2)</u>%</b>입니다. 이 수치는 공격에 사용하는 무기의 {g|Encyclopedia:Bonus}보너스{/g}, 효과나 {g|Encyclopedia:Ability}능력{/g}이 주는 보너스와 불이익 등 여러 요인에 따라 달라집니다.
 53	회피 감소
 54	상부 장착 무기를 설치할 수 있는 공허선 구역입니다.
@@ -77,7 +77,7 @@
 77	이 가스 및 먼지 구름 안에서는 함선의 조준과 사격 성능이 감소합니다. 구름이 함선의 위치를 가려 적이 명중시키기도 어려워집니다. 로그 트레이더의 기함은 속도도 감소합니다.\n회피: +30%\n기동성: −1\n속도: −3 (로그 트레이더의 기함만 해당)\n명중률: −25%\n사거리: −3
 78	하이퍼링크는 강조 표시된 용어에 관한 추가 정보를 제공합니다.
 79	하이퍼링크
-80	특정 상황에서는 캐릭터가 <b>스침 {g|Encyclopedia:HitSequenceGlossary}명중{/g}</b>으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 수 있습니다. 예를 들어 {g|Encyclopedia:Range}원거리{/g} 범위 공격의 {g|Encyclopedia:AreaOfEffect}효과 범위{/g} 안에서 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중인 캐릭터가 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Test}판정{/g}에 실패하거나 범위를 벗어나지 못하면, 반드시 <b>스침</b> 피해를 받습니다.
+80	특정 상황에서는 캐릭터가 <b>{g|Encyclopedia:HitSequenceGlossary}스침{/g}</b>으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 수 있습니다. 예를 들어 {g|Encyclopedia:Range}원거리{/g} 범위 공격의 {g|Encyclopedia:AreaOfEffect}효과 범위{/g} 안에서 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중인 캐릭터가 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Test}판정{/g}에 실패하거나 범위를 벗어나지 못하면, 반드시 <b>스침</b> 피해를 받습니다.
 81	스침
 82	대상의 매 {g|Encyclopedia:Turn}턴{/g} 시작 시, 대상은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시하는 {g|Encyclopedia:RendingDamage}절단 피해{/g}를 <b><u>({g|Encyclopedia:Lethality}치사율{/g} / 10)</u></b> 받습니다.
 83	대출혈
@@ -105,7 +105,7 @@
 105	랜스 무장
 106	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 고유 수치로, {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} 중 더 높은 수치와 같습니다.
 107	치사율
-108	경갑 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 공격을 더 잘 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있게 하지만, 중형 방어구나 {g|Encyclopedia:HeavyArmour}중갑{/g}보다 막아 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 훨씬 적습니다.
+108	{g|Encyclopedia:WarhammerArmourGlossary}경갑{/g}을 착용하면 공격을 더 잘 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있지만, 중형 방어구나 {g|Encyclopedia:HeavyArmour}중갑{/g}보다 막아 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 훨씬 적습니다.
 109	경갑
 110	다른 캐릭터가 시야에 들어오면 해당 캐릭터에게 {g|Encyclopedia:Range}원거리{/g} 공격을 하거나 {g|Encyclopedia:Ability}능력{/g}을 사용할 수 있습니다. 시야는 대상 캐릭터로 이어지는 선으로 표시됩니다.
 111	시야
@@ -119,9 +119,9 @@
 119	최대 명중률
 120	캐릭터의 최대 {g|Encyclopedia:HitPoints}체력{/g}은 {g|Encyclopedia:WarhammerToughness}강인함{/g}에 따라 결정됩니다. 강인함 {g|Encyclopedia:Bonus}보너스{/g} 1점당 체력이 +10% 증가합니다.
 121	최대 체력
-122	중형 방어구의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}했을 때 더 많은 {g|Encyclopedia:DamageGlossary}피해{/g}를 막아 주지만, 기동성과 공격 {g|Encyclopedia:DodgeGlossary}회피{/g} 능력을 감소시킵니다.
+122	{g|Encyclopedia:WarhammerArmourGlossary}중형 방어구{/g}는 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}했을 때 더 많은 {g|Encyclopedia:DamageGlossary}피해{/g}를 막아 주지만, 기동성과 공격 {g|Encyclopedia:DodgeGlossary}회피{/g} 능력을 감소시킵니다.
 123	중형 방어구
-124	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 전투에서 주변의 아군이 적보다 많으면, 더 많은 아군 한 명당 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 큰 생명체를 공격할 때 이 이점을 얻으려면 해당 생명체를 적대하는 인원이 2명을 초과하여 둘러싸야 합니다.
+124	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 전투에서 주변의 아군이 적보다 많으면, 아군과 적의 수 차이 1명당 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 큰 생명체를 공격할 때 이 이점을 얻으려면 해당 생명체를 적대하는 인원이 2명을 초과하여 둘러싸야 합니다.
 125	근접 우세
 126	{g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}의 한 유형으로, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시합니다. 유기체 대상의 신경계에 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 모든 수단으로 발생합니다. 기계나 물리적 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물 같은 무기물 대상은 면역입니다.
 127	정신 피해

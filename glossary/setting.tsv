@@ -57,7 +57,7 @@ Theodora von Valancius	테오도라 폰 발란시우스	setting|namu:Warhammer 4
 Falco	팔코	setting|translit|mid
 Eurac V	유락 V	setting|community|mid
 Eufrates II	유프라테스 2	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
-Cognisance Fleet	코그니선스 함대	setting|translit|low
+Cognisance Fleet	코그니전스 함대	setting|translit|low
 Lady Cassia	카시아 아가씨	setting|style|mid
 Foulstone	파울스톤	setting|community|high
 Opticon-22	옵티콘-22	setting|translit|mid
@@ -70,7 +70,7 @@ High Factotum	하이 팩토텀	setting|translit|mid
 Seberian von Valancius	세베리안 폰 발란시우스	setting|translit|mid
 Children of Asuryan	아수리안의 자손들	setting|translated|mid
 Undying Emperor	불멸의 황제	setting|translated|high
-Fabricator-Censor	파브리케이터 센서	setting|translit|mid
+Fabricator-Censor	패브리케이터 센서	setting|translit|mid
 Lexmechanic	렉스메카닉	setting|community|high
 Fellowship of the Void	보이드 공동체	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 Kasballica Mission	카스발리카 임무단	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
@@ -86,7 +86,7 @@ Holy Terra	신성 테라	setting|community|high
 Baleful Howl	베일풀 하울	setting|translit|low
 Calixis Sector	칼릭시스 섹터	setting|namu:Warhammer 40,000 Roleplay|high
 Space Wolf	스페이스 울프	setting|style|high
-House Gaprak	갭락 가문	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
+House Gaprak	가프락 가문	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 Archmagos	아치 마고스	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 Triasomata	트리아소마타	setting|translit|mid
 Eklendyl	에클렌딜	setting|translit|low
@@ -101,7 +101,7 @@ Cold Trader	콜드 트레이더	setting|namu:콜드 트레이더|high
 Furibundus	푸리분두스	setting|translit|mid
 Black Heart	블랙 하트	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 Vladaym Tocara	블라다임 토카라	setting|translit|low
-Exalt-117	엑잘트-117	setting|translit|mid
+Exalt-117	이그졸트-117	setting|translit|mid
 Santiel's Pride	산티엘의 긍지	setting|translated|mid
 Mercatum Tabula Officiale	메르카툼 타불라 오피키알레	setting|translit|low
 Archmagos Amarnat	아치마고스 아마르나트	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
@@ -117,7 +117,7 @@ Warrant Chamber	영장 보관실	setting|translated|high
 Lady Molles-Secundas	몰레스 세쿤다스 님	setting|translit|low
 Astropathic Choir	아스트로패스 성가대	setting|translated|mid
 Adeptus Ministorum	아뎁투스 미니스토룸	setting|style|high
-Amsanct	암상트	setting|translit|low
+Amsanct	암상크트	setting|translit|low
 Adeptus Amasecus	아뎁투스 아마세쿠스	setting|translit|low
 Rykadi Philia	리카디 필리아	setting|translit|mid
 Webway Gate	웹웨이 게이트	setting|community|high
@@ -208,9 +208,9 @@ Chaos Space Marine	카오스 스페이스 마린	setting|community|high
 Bloodstained Proselytes	피로 물든 개종자들	setting|translated|mid
 God-Emperor Himself	신황제 폐하 친히	setting|style|high
 Isimond Sauerback	이시몬드 사우어백	setting|translit|low
-Governor Drivestem	드리브스템 총독	setting|translit|low
+Governor Drivestem	드라이브스템 총독	setting|translit|low
 Lord" Molles	영주" 몰레스	setting|translit|low
-Zacchary Weisz	자카리 바이스	setting|translit|low
+Zacchary Weisz	재커리 바이스	setting|translit|low
 Schola Progenium	스콜라 프로제니움	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 Sinisthoria	시니스토리아	setting|translit|mid
 Anatomical Opera	해부학 오페라	setting|translated|mid
@@ -350,7 +350,7 @@ Servitude Imperpituis	세르비투데 임페르피투이스	setting|translit|low
 The Maw	대아귀	setting|translated|low
 Haemonculus Tervantias	해몬쿨루스 테르반티아스	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|mid
 Einrich Monteg	아인리히 몬테그	setting|translit|low
-Toriana Gaprak	토리아나 갭락	setting|translit|mid
+Toriana Gaprak	토리아나 가프락	setting|translit|mid
 Holy Throne	성스러운 옥좌	setting|translated|high
 Void Shadows	공허의 그림자	other|translated|high
 Impostor Hunt	사칭자 사냥	setting|translated|mid
@@ -366,7 +366,7 @@ Maiden World	메이든 월드	setting|community|high
 Denz Bellardo	덴즈 벨라르도	setting|translit|mid
 Port Wander	포트 원더	setting|community|mid
 Grantis	그란티스	setting|translit|mid
-Arch-Militant Vedka Dunawski	아치 밀리턴트 베드카 두나프스키	setting|translit|low
+Arch-Militant Vedka Dunawski	아크 밀리턴트 베드카 두나프스키	setting|translit|low
 Liege Tocara	영주 토카라	setting|translit|mid
 Leads-Ahead	앞장서는 자	setting|translated|mid
 Abominable Intelligence	혐오지성	setting|community|high
@@ -374,7 +374,7 @@ Inscribia Vultur	인스크리비아 불투르	setting|translit|low
 Young-ho Sohn	손영호	setting|translit|high
 Chartist Vessel	칙허 상선	setting|translated|mid
 Brother Twilight	트와일라이트 형제	setting|translit|low
-Magos Exalt	마고스 엑잘트	setting|translit|mid
+Magos Exalt	마고스 이그졸트	setting|translit|mid
 Ancient Bunker	고대 벙커	setting|translated|high
 The Infinite	무한자	setting|community|high
 Brother Ulfar	울파르 형제	setting|style|high
@@ -473,7 +473,7 @@ Nightmare Driver	악몽의 조종자	setting|translated|mid
 Sirocco	시로코	setting|translit|high
 Gordei Skatov	고르데이 스카토프	setting|translit|mid
 Reverend Gravik	그라비크 사제	setting|translit|mid
-Sister Juth	시스터 주스	setting|translit|low
+Sister Juth	시스터 주쓰	setting|translit|low
 Grand Council	대평의회	setting|translated|mid
 Rogue Trader Winterscale	로그 트레이더 윈터스케일	setting|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 Atlas Reach	아틀라스 리치	setting|translit|mid

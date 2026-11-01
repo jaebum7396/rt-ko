@@ -17,3 +17,5 @@ __pycache__/
 work/glossary_run/
 # 옵션판 아스트라 실행 폴더
 work/variants/*/run/
+# 검수 실행 폴더
+work/review/

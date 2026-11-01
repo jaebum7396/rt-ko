@@ -1,5 +1,6 @@
 {"errors": [],
 "warnings": [
+ {"n": 1, "code": "glossary", "detail": "Arch-Militant's Cape -> 아치 밀리턴트의 망토 not found"},
  {"n": 19, "code": "glossary", "detail": "Charge -> 돌진 not found"},
  {"n": 22, "code": "glossary", "detail": "Charge -> 돌진 not found"},
  {"n": 35, "code": "glossary", "detail": "Skill -> 기량 not found"},
@@ -13,6 +14,7 @@
  {"n": 193, "code": "glossary", "detail": "Strike -> 타격 not found"},
  {"n": 210, "code": "glossary", "detail": "effect -> 효과 not found"},
  {"n": 218, "code": "glossary", "detail": "Power -> 파워/위력/파워/위력 not found"},
+ {"n": 227, "code": "glossary", "detail": "Arch-Militant's Boots -> 아치 밀리턴트의 장화 not found"},
  {"n": 239, "code": "glossary", "detail": "PER -> 지각 not found"},
  {"n": 241, "code": "glossary", "detail": "PER -> 지각 not found"},
  {"n": 250, "code": "glossary", "detail": "PER -> 지각 not found"},

@@ -165,10 +165,10 @@
 165	옴니시아의 손길
 166	{g|Encyclopedia:Round}라운드{/g}당 1회, 착용자가 아크 라이플을 처음 발사하거나 {g|f:2c4d692f28fe47e3a65f45a914c5189b}마그나레일 포격{/g} 또는 {g|f:09c4605a50c74262aec197ec9f9a9d58}천음속 파동{/g}을 처음 사용하면 {g|Encyclopedia:ActionPoints}행동력{/g}을 +1 회복합니다.
 167	전하 수집기
-168	<u>({g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수 × {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g} 중첩 수)</u>
+168	<u>({g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수 × {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g} 중첩 수)</u>
 169	턴 종료 시까지 착용자의 근접 공격이 추가로 +{uip|Damage|bb2cd5c2559b403a94ef064d34b24b3d}의 감전 피해를 줍니다.\n이 능력은 착용자가 근접 무기를 장착했을 때만 활성화됩니다.\n<i>이 능력을 사용하려면 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g}가 최소 <b>1중첩</b> 있어야 하며, 사용 후 제거됩니다.</i>
 170	에너지 집중
-171	<u>({g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수 × ({g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g} 중첩 수 + 1))</u>
+171	<u>({g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수 × ({g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g} 중첩 수 + 1))</u>
 172	착용자가 추가로 +{uip|Damage|8125408b1a014e40aab96c7d3069d92f}의 감전 피해를 줍니다.
 173	착용자의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}이 +15 증가하고 {g|f:bb2cd5c2559b403a94ef064d34b24b3d}에너지 집중{/g} {g|Encyclopedia:Ability}능력{/g}을 얻습니다.
 174	마니풀리의 다용도 공구
@@ -351,7 +351,7 @@
 351	착용자의 원거리 공격 대상이 −10 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 해당 공격이 대상에게 {g|f:1711d1c36c8f40a9a8cb557515d0f31f}탈진{/g}을 부여합니다.
 352	적 탐지기
 353	이 공격은 <u>(10~14)</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 주며 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 40%입니다.
-354	멜타 사격을 한 발 발사하는 반지형 무기입니다.\n전투당 1회만 사용할 수 있습니다.
+354	멜타 단발 사격을 하는 반지형 무기입니다.\n전투당 1회만 사용할 수 있습니다.
 355	멜타 반지
 356	메트로놈
 357	착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않으면 다음 턴에 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 +10 증가합니다.
@@ -446,6 +446,6 @@
 446	전투 중 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 제외한 첫 턴에 착용자는 {g|Encyclopedia:PsyRating}사이 등급{/g}만큼 추가 공격 횟수를 얻습니다.
 447	워프 쇄도의 브로치
 448	탈진의 기도문
-449	착용자의 단일 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 대상이 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Test}판정{/g}에 실패할 경우 2라운드 동안 {g|Encyclopedia:FatiguedEffect}피로{/g}, {g|Encyclopedia:DisturbedEffect}동요{/g}, {g|Encyclopedia:PerplexedEffect}당혹{/g}을 +1중첩 부여합니다. 중첩됩니다.
+449	착용자의 단일 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}했을 때 대상이 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Test}판정{/g}에 실패하면, 대상에게 2라운드 동안 {g|Encyclopedia:FatiguedEffect}피로{/g}, {g|Encyclopedia:DisturbedEffect}동요{/g}, {g|Encyclopedia:PerplexedEffect}당혹{/g}을 각각 +1중첩 부여합니다. 중첩됩니다.
 450	사냥감 탐지기
 451	전투 시작 시 {g|f:802d21391d2f4573bfff126023df39bb}사냥감 추적{/g} 사용 횟수를 소모하지 않고 {g|Encyclopedia:HitPoints}체력{/g}이 가장 높은 적에게 {g|Encyclopedia:Prey}사냥감{/g} 효과를 부여하며, 해당 적을 처치하면 {g|f:802d21391d2f4573bfff126023df39bb}사냥감 추적{/g} {g|Encyclopedia:Bonus}보너스{/g}를 두 배로 얻습니다.

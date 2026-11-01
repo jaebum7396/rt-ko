@@ -14,20 +14,20 @@
 14	절연의 기도
 15	이 캐릭터가 아크 라이플로 대상을 명중시킬 때마다 {g|f:e0905afb8bc4403797f2b3a667c707e5}잔류 전하{/g}를 +1중첩 얻습니다. 10중첩에 도달하면 즉시 아크 라이플로 추가 공격을 할 수 있습니다. 효과가 발동하면 중첩이 제거됩니다.
 16	잔류 전하
-17	사용자가 수류탄을 사용할 때마다 <u>(수류탄 피해의 10% × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>만큼 추가 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 줍니다.
+17	사용자가 수류탄을 사용할 때마다 <u>(수류탄 피해의 10% × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>만큼 추가 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 줍니다.
 18	전하 분배
-19	<u>{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수</u>
+19	<u>{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수</u>
 20	사용자가 자신의 {g|Encyclopedia:Turn}턴{/g} 동안 이동하지 않으면 다음 턴 시작 시 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +{uip|WS&BSGranted|858001cc93974c8da24aaa0d02c453aa} 증가합니다. 중첩되지 않습니다.
 21	에너지 축적
 22	<u>(5 × 장착한 {g|Encyclopedia:AugmentsFullGlossary}신체 개조물{/g} 수)</u>
-23	{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩으로 받는 추가 피해가 중첩당 10%로 감소합니다.
+23	{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩으로 받는 추가 피해가 중첩당 10%로 감소합니다.
 24	고강도 저항
 25	대뇌 피질 삽입부에 {g|Encyclopedia:AugmentsFullGlossary}신체 보강물{/g}을 장착한 사용자는 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시킬 때마다 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}를 +2 얻습니다.
 26	대뇌 피질 삽입부에 {g|Encyclopedia:AugmentsFullGlossary}신체 보강물{/g}을 장착한 사용자는 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시킬 때마다 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}를 +2 얻습니다.
 27	계산된 결의
 28	{g|Encyclopedia:AugmentsFullGlossary}신체 보강물{/g}에 {g|Encyclopedia:AugmentsOverdriveFullGlossary}증강 과부하{/g}를 적용하면 사용자의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 1{g|Encyclopedia:Round}라운드{/g} 동안 +{uip|BaseDamageGranted|45449e93227647d2acc6dc38437ed1f0}% 증가합니다.
 29	잔류 동력
-30	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+30	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 31	전투 첫 {g|Encyclopedia:Round}라운드{/g} 동안 사용자는 {g|Encyclopedia:Deflection}피해 감소{/g}를 +{uip|DeflectionFirstTurn|420670148c0941c88c9730debf8fa4ca} 얻습니다. 신체 삽입부의 {g|Encyclopedia:AugmentsFullGlossary}신체 개조물{/g}은 2개로 간주합니다.
 32	금속 외피
 33	<u>(2 × 장착한 {g|Encyclopedia:AugmentsFullGlossary}신체 개조물{/g} 수)</u>
@@ -224,7 +224,7 @@
 224	엘다리 무기 숙련
 225	드루카리 무기를 사용할 수 있습니다.
 226	드루카리 무기 숙련
-227	{g|Encyclopedia:CareerFighterGlossary}워리어{/g}가 {g|Encyclopedia:SkillMedicae}의술{/g} {g|Encyclopedia:Skills}기술{/g} 없이도 구급상자를 사용할 수 있습니다. 또한 워리어에게 구급상자를 사용할 때마다 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 +{unit_stat|WarhammerToughness|bonus} 회복합니다.
+227	{g|Encyclopedia:CareerFighterGlossary}워리어{/g}가 {g|Encyclopedia:SkillMedicae}의술{/g} {g|Encyclopedia:Skills}기량{/g} 없이도 구급상자를 사용할 수 있습니다. 또한 워리어에게 구급상자를 사용할 때마다 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 +{unit_stat|WarhammerToughness|bonus} 회복합니다.
 228	야전 의무병
 229	중화기에 필요한 {g|Encyclopedia:WarhammerStrength}근력{/g} 수치가 25 감소합니다.
 230	중화기 숙련
@@ -246,7 +246,7 @@
 246	{g|Encyclopedia:CareerFighterGlossary}워리어{/g}가 이번 {g|Encyclopedia:Turn}턴{/g}에 아직 공격하지 않았다면 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|BonusArmour|8f5993cab35844cd8e0efbadc1c5dcbe}% 증가합니다.\n{g|f:4955b43454f6488f82892e166c76c995}돌진{/g}과 {g|f:f6d693dbff0d44eb9590684241e63ef3}베기{/g}는 이 {g|Encyclopedia:Bonus}보너스{/g}에 영향을 주지 않습니다.
 247	방어 태세
 248	<u>(10 + 2 × {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
-249	{g|Encyclopedia:CareerFighterGlossary}워리어{/g}의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}은 인접한 칸에 아군이 없는 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 추가로 +{unit_stat|WarhammerAgility|bonus} 줍니다.
+249	{g|Encyclopedia:CareerFighterGlossary}워리어{/g}의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}은 인접한 칸에 자기 편이 없는 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 추가로 +{unit_stat|WarhammerAgility|bonus} 줍니다.
 250	황폐화
 251	워리어의 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g} 또는 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상이 가하는 공격에 대해, 워리어의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 1라운드 동안 +<u>(5 + 2 × 강인함 보너스)</u>% 증가합니다.
 252	무장 해제
@@ -272,7 +272,7 @@
 272	<u>(2 + {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
 273	{g|Encyclopedia:CareerFighterGlossary}워리어{/g} 주변 반경 1칸 내의 적 하나당, 적들이 워리어에게 가하는 원거리 공격({g|Encyclopedia:AreaOfEffect}범위 공격{/g} 포함)의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}에 −10%의 불이익이 적용됩니다. 최대 3회 중첩됩니다.
 274	살아 있는 방패
-275	{g|f:93d58dfeb6c648858c130e0a902f6ed6}강력한 일격{/g}으로 {g|Encyclopedia:PushGlossary}밀려남{/g} 상태가 된 적은 사물이나 다른 적과 충돌하면 {g|Encyclopedia:DamageGlossary}피해{/g}를 추가로 +{unit_stat|WarhammerStrength|bonus} 받습니다.
+275	{g|f:93d58dfeb6c648858c130e0a902f6ed6}강력한 일격{/g}의 {g|Encyclopedia:PushGlossary}밀려남{/g}으로 적이 사물이나 다른 적과 충돌하면 {g|Encyclopedia:DamageGlossary}피해{/g}를 추가로 +{unit_stat|WarhammerStrength|bonus} 받습니다.
 276	막강한 강타
 277	{g|f:f6d693dbff0d44eb9590684241e63ef3}베기{/g}를 사용할 때마다 전투 종료 시까지 {g|f:f6d693dbff0d44eb9590684241e63ef3}베기{/g}가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1 증가합니다.
 278	칼날의 폭풍

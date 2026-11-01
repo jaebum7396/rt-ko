@@ -1,12 +1,16 @@
 {"errors": [],
 "warnings": [
+ {"n": 21, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
  {"n": 27, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 43, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
  {"n": 43, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 45, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 60, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 96, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
  {"n": 121, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 159, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 186, "code": "glossary", "detail": "Holy Inquisition -> 신성 이단심문소 not found"},
  {"n": 194, "code": "glossary", "detail": "speaker -> voice not found"},
- {"n": 202, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"}
+ {"n": 202, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 223, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"}
 ]}

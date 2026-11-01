@@ -2,6 +2,7 @@
 "warnings": [
  {"n": 23, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 27, "code": "glossary", "detail": "Infernus Guild -> 인페르누스 길드 not found"},
+ {"n": 27, "code": "glossary", "detail": "Arch-Militant -> 아치 밀리턴트 not found"},
  {"n": 32, "code": "glossary", "detail": "Nerves of Steel -> 강철 신경 not found"},
  {"n": 32, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 71, "code": "glossary", "detail": "order -> 명령/교단 not found"},

@@ -1,6 +1,5 @@
 {"errors": [],
 "warnings": [
- {"n": 7, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
  {"n": 12, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 36, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
  {"n": 50, "code": "glossary", "detail": "Power -> 파워/위력 not found"},

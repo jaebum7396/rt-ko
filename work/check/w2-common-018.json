@@ -2,6 +2,8 @@
 "warnings": [
  {"n": 5, "code": "glossary", "detail": "Awaiting Orders -> 명령 대기 not found"},
  {"n": 13, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 19, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
+ {"n": 21, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
  {"n": 65, "code": "length", "detail": "ratio 0.24 (ko 7 / en 29 chars, allowed 0.25-1.60)"},
  {"n": 92, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 101, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
@@ -9,7 +11,6 @@
  {"n": 132, "code": "length", "detail": "ratio 0.24 (ko 9 / en 38 chars, allowed 0.25-1.60)"},
  {"n": 138, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 165, "code": "glossary", "detail": "Kasballican -> 카스발리카의 not found"},
- {"n": 175, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
  {"n": 175, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
  {"n": 185, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 188, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
@@ -23,6 +24,6 @@
  {"n": 227, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 239, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
  {"n": 239, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
- {"n": 307, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
- {"n": 307, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"}
+ {"n": 262, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
+ {"n": 307, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
 ]}

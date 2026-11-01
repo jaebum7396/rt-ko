@@ -5,7 +5,7 @@
  {"n": 78, "code": "length", "detail": "ratio 0.24 (ko 5 / en 21 chars, allowed 0.25-1.60)"},
  {"n": 87, "code": "length", "detail": "ratio 0.13 (ko 2 / en 15 chars, allowed 0.25-1.60)"},
  {"n": 91, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 156, "code": "glossary", "detail": "critical hit chance -> 치명타 확률 not found"},
+ {"n": 156, "code": "glossary", "detail": "hit -> 명중 not found"},
  {"n": 184, "code": "glossary", "detail": "Power -> 파워/위력/파워/위력 not found"},
  {"n": 193, "code": "glossary", "detail": "damaged -> 피해를 입음 not found"},
  {"n": 193, "code": "glossary", "detail": "effect -> 효과 not found"},

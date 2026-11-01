@@ -14,6 +14,8 @@
  {"n": 323, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
  {"n": 326, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 332, "code": "length", "detail": "ratio 0.24 (ko 5 / en 21 chars, allowed 0.25-1.60)"},
+ {"n": 357, "code": "glossary", "detail": "Arch-Militant -> 아치 밀리턴트 not found"},
+ {"n": 359, "code": "glossary", "detail": "Arch-Militant -> 아치 밀리턴트 not found"},
  {"n": 384, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 399, "code": "glossary", "detail": "order -> 명령/교단 not found"}
 ]}

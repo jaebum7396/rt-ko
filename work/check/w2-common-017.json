@@ -1,6 +1,7 @@
 {"errors": [],
 "warnings": [
  {"n": 39, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 66, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
  {"n": 70, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 71, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 80, "code": "glossary", "detail": "order -> 명령/교단 not found"},
@@ -13,6 +14,8 @@
  {"n": 157, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 180, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 183, "code": "length", "detail": "ratio 0.18 (ko 3 / en 17 chars, allowed 0.25-1.60)"},
+ {"n": 204, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
+ {"n": 207, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
  {"n": 239, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 252, "code": "glossary", "detail": "The Path -> 길 not found"},
  {"n": 287, "code": "glossary", "detail": "order -> 명령/교단 not found"},

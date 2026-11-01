@@ -88,7 +88,7 @@
 88	탄도 추적
 89	솔져가 한 발 사격할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +1 증가합니다.
 90	기민함
-91	솔져의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceBonus|bcdbde555de5492abae33d0dc285c956}% 증가합니다. 공격 순간 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 보호받는 상대에게는 이 {g|Encyclopedia:Bonus}보너스{/g}가 두 배로 적용됩니다.
+91	솔져의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceBonus|bcdbde555de5492abae33d0dc285c956}% 증가합니다. 공격 순간 솔져가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 방어하고 있는 적을 공격하면 이 {g|Encyclopedia:Bonus}보너스{/g}가 두 배로 적용됩니다.
 92	예측 불가
 93	<u>(3 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
 94	{g|Encyclopedia:HitPoints}체력{/g}이 가득 차 있으면 솔져의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +10, {g|Encyclopedia:MovementPoints}이동력{/g}이 +2 증가합니다.
@@ -106,23 +106,23 @@
 106	총기 숙련 (강화 IV)
 107	엘다리는 초자연적인 민첩성을 지녔으며 아키타입과 관계없이 {g|Encyclopedia:WarhammerAgility}민첩{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}, {g|Encyclopedia:SkillAwareness}인지{/g}를 성장시킬 수 있습니다.\n또한 {g|Encyclopedia:DodgeGlossary}회피{/g} 확률이 +15%, {g|Encyclopedia:InitiativeGlossary}우선권{/g}이 +2 증가합니다.
 108	아수리안의 자손
-109	{g|Encyclopedia:WarhammerAgility}민첩{/g}(민첩)은 캐릭터의 재빠른 움직임, 반사 신경, 균형 감각을 나타냅니다. 민첩이 높으면 정교한 폭발물을 능숙하게 다루거나 험한 지형에서도 균형을 유지할 수 있습니다. {g|Encyclopedia:InitiativeGlossary}우선권{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g} 확률, 반응 능력이 향상됩니다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 사용하면 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 민첩의 절반과 같아집니다.\n폭파 기술에도 영향을 줍니다.
+109	{g|Encyclopedia:WarhammerAgility}민첩{/g}(AGI)은 캐릭터의 재빠른 움직임, 반사 신경, 균형 감각을 나타냅니다. 민첩이 높으면 정교한 폭발물을 능숙하게 다루거나 험한 지형에서도 균형을 유지할 수 있습니다. {g|Encyclopedia:InitiativeGlossary}우선권{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g} 확률, 반응 능력이 향상됩니다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 사용하면 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 민첩의 절반과 같아집니다.\n폭파 기술에도 영향을 줍니다.
 110	민첩 +5
 111	사격술 +5
-112	{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}(사격술)은 모든 {g|Encyclopedia:Range}원거리{/g} 무기의 명중 정확도를 나타내며 연사 시 탄도를 결정합니다. 사격술이 높은 캐릭터는 총격전이나 소규모 교전에서 두려운 상대가 되는 숙련된 사수입니다. 무기의 유효 사거리 내 원거리 공격 기본 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}은 <u>(30 + 사격술)</u>%입니다.
+112	{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}(BS)은 모든 {g|Encyclopedia:Range}원거리{/g} 무기의 명중 정확도를 나타내며 연사 시 탄도를 결정합니다. 사격술이 높은 캐릭터는 총격전이나 소규모 교전에서 두려운 상대가 되는 숙련된 사수입니다. 무기의 유효 사거리 내 원거리 공격 기본 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}은 <u>(30 + 사격술)</u>%입니다.
 113	친화력(FEL)은 다른 존재와 교류하고 속이거나 매혹하거나 친분을 쌓는 능력입니다. 친화력이 높으면 붙임성 없는 하인 무리에게 다가갈 방법을 찾거나 간교한 상인과도 손쉽게 거래할 수 있습니다.\n{g|Encyclopedia:SkillPersuasion}설득{/g}, {g|Encyclopedia:SkillCoercion}위협{/g}, {g|Encyclopedia:SkillCommerce}상업{/g} 기술에도 영향을 줍니다.
 114	친화력 +5
-115	{g|Encyclopedia:WarhammerIntelligence}지능{/g}(지능)은 캐릭터의 통찰력, 이성, 지식을 나타냅니다. 지능 보너스 1당 {g|Encyclopedia:BurstAttacksGlossary}연사{/g}가 아닌 {g|Encyclopedia:Range}원거리{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}의 피해가 +5% 증가합니다.\n{g|Encyclopedia:SkillLoreImperium}지식(제국){/g}, 지식(워프), 지식(제노스), 논리, 의술, 기술 활용 기술에도 영향을 줍니다.
+115	{g|Encyclopedia:WarhammerIntelligence}지능{/g}(INT)은 캐릭터의 통찰력, 이성, 지식을 나타냅니다. 지능 보너스 1당 {g|Encyclopedia:BurstAttacksGlossary}연사{/g}가 아닌 {g|Encyclopedia:Range}원거리{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}의 피해가 +5% 증가합니다.\n{g|Encyclopedia:SkillLoreImperium}지식(제국){/g}, 지식(워프), 지식(제노스), 논리, 의술, 기술 활용 기술에도 영향을 줍니다.
 116	지능 +5
-117	{g|Encyclopedia:WarhammerPerception}지각{/g}(지각)은 주변을 얼마나 잘 감지하는지 나타냅니다. 지각이 높으면 언더하이브의 늘 어지러운 거리에서도 떨어진 볼터 탄피를 찾아내거나 누군가 거짓말을 하는지 알아챌 수 있습니다.\n{g|Encyclopedia:SkillAwareness}인지{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 주며, 자신의 공격에 대한 적의 {g|Encyclopedia:DodgeGlossary}회피{/g} 확률을 감소시킵니다.
+117	{g|Encyclopedia:WarhammerPerception}지각{/g}(PER)은 주변을 얼마나 잘 감지하는지 나타냅니다. 지각이 높으면 언더하이브의 늘 어지러운 거리에서도 떨어진 볼터 탄피를 찾아내거나 누군가 거짓말을 하는지 알아챌 수 있습니다.\n{g|Encyclopedia:SkillAwareness}인지{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 주며, 자신의 공격에 대한 적의 {g|Encyclopedia:DodgeGlossary}회피{/g} 확률을 감소시킵니다.
 118	지각 +5
-119	{g|Encyclopedia:WarhammerStrength}근력{/g}(근력)은 캐릭터의 육체적인 힘을 나타냅니다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}에 영향을 주며 더 무거운 물건을 들 수 있게 합니다. 근력 보너스 1당 한손 근접 무기 피해가 +5%, 양손 근접 무기 피해가 +10% 증가합니다.\n{g|Encyclopedia:SkillAthletics}운동{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 줍니다.
+119	{g|Encyclopedia:WarhammerStrength}근력{/g}(STR)은 캐릭터의 육체적인 힘을 나타냅니다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}에 영향을 주며 더 무거운 물건을 들 수 있게 합니다. 근력 보너스 1당 한손 근접 무기 피해가 +5%, 양손 근접 무기 피해가 +10% 증가합니다.\n{g|Encyclopedia:SkillAthletics}운동{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 줍니다.
 120	근력 +5
-121	{g|Encyclopedia:WarhammerToughness}강인함{/g}(강인함)은 고통을 견디고 독소, 유독한 환경, 질병과 그 밖의 신체적 이상에 저항하는 능력을 나타냅니다. 해로운 신체 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}에 저항할 확률과 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}을 증가시킵니다. 강인함 보너스 1당 체력이 +10% 증가합니다.\n{g|Encyclopedia:SkillCarouse}주량{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 줍니다.
+121	{g|Encyclopedia:WarhammerToughness}강인함{/g}(TGH)은 고통을 견디고 독소, 유독한 환경, 질병과 그 밖의 신체적 이상에 저항하는 능력을 나타냅니다. 해로운 신체 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}에 저항할 확률과 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}을 증가시킵니다. 강인함 보너스 1당 체력이 +10% 증가합니다.\n{g|Encyclopedia:SkillCarouse}주량{/g} {g|Encyclopedia:Skills}기술{/g}에도 영향을 줍니다.
 122	강인함 +5
 123	근접술 +5
-124	{g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}(근접술)은 모든 근접 전투에 대한 숙련도를 나타냅니다. 자신의 {g|Encyclopedia:Parry}막기{/g} 확률을 증가시키고 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 적의 막기 확률을 감소시킵니다. 근접 전투에서 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 확률도 증가시킵니다.
-125	{g|Encyclopedia:WarhammerWillpower}의지력{/g}(의지력)은 워프의 공포와 우주의 두려움, 코로누스 공역에서 마주칠 끔찍한 적들을 견디는 능력을 나타냅니다. 의지력이 높으면 군중을 통제하거나 이단자를 심문할 수 있습니다.\n해로운 정신 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}와 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 저항할 확률도 증가시킵니다.
+124	{g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}(WS)은 모든 근접 전투에 대한 숙련도를 나타냅니다. 자신의 {g|Encyclopedia:Parry}막기{/g} 확률을 증가시키고 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 적의 막기 확률을 감소시킵니다. 근접 전투에서 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 확률도 증가시킵니다.
+125	{g|Encyclopedia:WarhammerWillpower}의지력{/g}(WP)은 워프의 공포와 우주의 두려움, 코로누스 공역에서 마주칠 끔찍한 적들을 견디는 능력을 나타냅니다. 의지력이 높으면 군중을 통제하거나 이단자를 심문할 수 있습니다.\n해로운 정신 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}와 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 저항할 확률도 증가시킵니다.
 126	의지력 +5
 127	대전략가
 128	<u>({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
@@ -175,7 +175,7 @@
 175	개인 전투 구역
 176	한 {g|Encyclopedia:Turn}턴{/g}에 처음 사용한 {g|Encyclopedia:Stratagem}책략{/g}을 {g|Encyclopedia:ActionPoints}행동력{/g} 0으로 한 번 더 사용할 수 있습니다.
 177	개전 전략
-178	{g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 구역 내 아군이 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 보호받는 상대에게 가하는 공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceBonus|e76b4151d3554a369e3801ba27a6a9b6}% 증가합니다.
+178	{g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 구역 내 아군이 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 방어하고 있는 적을 공격할 때 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceBonus|e76b4151d3554a369e3801ba27a6a9b6}% 증가합니다.
 179	치명타 구역
 180	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
 181	{g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 구역 내 아군은 1{g|Encyclopedia:Round}라운드{/g} 동안 적에게 가장 낮은 순위의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 됩니다.
@@ -224,7 +224,7 @@
 224	{g|f:807137df735b46858a3e562b49bb89b1}압도 책략{/g}으로 강제되는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 −{uip|ResistancePenalty|2758369cb14a43cdb72df3e7d1aad9cb} {g|Encyclopedia:Penalty}불이익{/g}이 적용됩니다.
 225	위압 구역
 226	<u>(5 + 2 × ({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
-227	{g|f:631bcfc164274b6382daace38b7ce951}요새 책략{/g}의 효과를 받는 아군은 {g|Encyclopedia:Injury}부상{/g}을 입을 때마다 대신 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +{uip|TemporaryWounds|bb601b2b4d404a219b33426afcf1d783} 얻습니다.
+227	{g|f:631bcfc164274b6382daace38b7ce951}요새 책략{/g}의 효과를 받는 아군은 {g|Encyclopedia:Injury}부상{/g}을 입을 상황이 될 때마다 부상 대신 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +{uip|TemporaryWounds|bb601b2b4d404a219b33426afcf1d783} 얻습니다.
 228	극복 구역
 229	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
 230	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 하나를 선택합니다. 대전략가의 다음 턴 시작 시, 대전략가를 제외한 구역 내 모든 아군은 {g|Encyclopedia:ActionPoints}행동력{/g} 1과 {g|Encyclopedia:MovementPoints}이동력{/g} 2를 가진 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻습니다.\n선택한 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에서 처치된 적 하나당 이 행동력이 +1(최대 3), 이동력이 +2(최대 6) 증가합니다.\n전투 종료 시까지 대전략가의 이동력이 1로 감소합니다.
@@ -300,12 +300,12 @@
 300	진격 지원
 301	모든 아군은 아군의 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +25% 증가하고, 아군에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −25% 감소하며, 아군에게 가하는 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}의 추가 피해가 −50% 감소합니다.
 302	아군 협동
-303	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}은 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만인 대상에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +12% 증가하고, 체력이 50% 미만인 대상의 체력 회복량이 +20% 증가합니다.
+303	{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}은 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만인 대상에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +12% 증가하고, 체력이 50% 미만인 대상을 치료할 때 체력 회복량이 +20% 증가합니다.
 304	죽음의 문턱
 305	{g|f:7989c6e3109841329aee9e4546138395}승기 굳히기{/g}가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}를 무시합니다.
 306	확고한 우위
 307	영웅의 고무 — 목표 지정
-308	전투 중 처음으로 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}이 사용된 후, 마스터 택티션이 다음에 사용하는 {g|Encyclopedia:Career}아키타입{/g} 능력은 전투 종료 시까지 이후 모든 사용에 필요한 {g|Encyclopedia:ActionPoints}행동력{/g}이 0으로 감소합니다.
+308	전투 중 처음으로 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}이 사용된 후, 마스터 택티션이 다음에 사용하는 {g|Encyclopedia:Career}아키타입{/g} 능력은 그 이후부터 전투 종료 시까지 사용할 때마다 필요한 {g|Encyclopedia:ActionPoints}행동력{/g}이 0으로 감소합니다.
 309	영웅의 고무
 310	영웅의 고무 — 마무리
 311	영웅의 고무 — 고무
@@ -335,14 +335,14 @@
 335	최우선 목표
 336	대상이 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다. 또한 이 효과 1중첩마다 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g}가 +20% 증가합니다.
 337	경련
-338	이 {g|Encyclopedia:Ability}능력{/g}은 아군과 적 모두에게 영향을 줍니다.\n<i>아군:</i> 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Recoil}반동{/g}이 절반으로 감소합니다. 1라운드 동안 아군의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Percent|a01295a67a9a46579e46c3073d6a9aa9}% 증가합니다.\n<i>적:</i> 1라운드 동안 회피가 −{uip|Percent|a01295a67a9a46579e46c3073d6a9aa9}% 감소합니다. 적이 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 전투 종료 시까지 {g|f:e6ed7e168bfb4adb9fc73fb07b5e7020}경련{/g}이 +1중첩 적용됩니다. 대상에게 {g|f:ed0acc1731834a89bda8cc52ec769e3d}육신 거부{/g} 또는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 특성이 있거나 대상이 기계 장치 또는 기계라면, 판정에 −{uip|Penalty|a01295a67a9a46579e46c3073d6a9aa9} {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.
+338	이 {g|Encyclopedia:Ability}능력{/g}은 아군과 적 모두에게 영향을 줍니다.\n<i>아군:</i> 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Recoil}반동{/g}이 절반으로 감소합니다. 1라운드 동안 아군의 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|Percent|a01295a67a9a46579e46c3073d6a9aa9}% 증가합니다.\n<i>적:</i> 1라운드 동안 회피가 −{uip|Percent|a01295a67a9a46579e46c3073d6a9aa9}% 감소합니다. 적이 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 전투 종료 시까지 {g|f:e6ed7e168bfb4adb9fc73fb07b5e7020}경련{/g}이 +1중첩 적용됩니다. 대상에게 {g|f:ed0acc1731834a89bda8cc52ec769e3d}육신 거부{/g} 또는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 특성이 있거나 대상이 기계 장치 또는 기계라면, 판정에 −{uip|Penalty|a01295a67a9a46579e46c3073d6a9aa9} {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.
 339	기계령 교감
 340	<u>테크 프리스트의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>
-341	<u>(2 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g} + 테크 프리스트의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+341	<u>(2 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g} + 테크 프리스트의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 342	<u>(1 + 테크 프리스트의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
 343	<u>(테크 프리스트의 {g|Encyclopedia:SkillTechUse}기술 활용{/g} / 2)</u>
 344	<u>({g|Encyclopedia:SkillMedicae}의술{/g} / 5)</u>
-345	전투 종료 시까지 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 효과로 대상이 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g} 증가량이 중첩당 −5% 감소합니다.
+345	전투 종료 시까지 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 효과로 대상이 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g} 증가량이 중첩당 −5% 감소합니다.
 346	<i>피해:</i>
 347	<i>관통력:</i>
 348	<u>관통력</u>
@@ -351,7 +351,7 @@
 351	테크 프리스트의 시스템에 직접 연결된 추가 서보 스컬이 {g|Encyclopedia:WarhammerPerception}지각{/g}을 +10 증가시킵니다.
 352	탐지용 메카덴드라이트
 353	조작용 메카덴드라이트
-354	<u>({g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + 테크 프리스트의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+354	<u>({g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + 테크 프리스트의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 355	<u>(5 × 테크 프리스트의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
 356	기계령과 소통하는 온갖 도구를 갖춘 메카덴드라이트입니다. {g|Encyclopedia:SkillTechUse}기술 활용{/g}과 {g|Encyclopedia:SkillDemolition}폭파{/g}가 +10 증가합니다.
 357	다용도 메카덴드라이트

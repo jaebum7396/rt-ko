@@ -2,8 +2,10 @@
 "warnings": [
  {"n": 7, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 11, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 20, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
  {"n": 29, "code": "glossary", "detail": "Cold Blood -> 냉혈 not found"},
  {"n": 125, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"},
+ {"n": 143, "code": "glossary", "detail": "Fabricator-Censor -> 파브리케이터 센서 not found"},
  {"n": 156, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 156, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 189, "code": "glossary", "detail": "Mercy -> 자비/머시 not found"},

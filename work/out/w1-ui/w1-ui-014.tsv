@@ -86,7 +86,7 @@
 86	고철과 함선 수리
 87	우주 전투 효과
 88	전투 중인 공허선 하나가 새로운 효과를 얻었습니다! 함선 위에 커서를 올리면 효과와 아이콘이 함선 위에 표시됩니다.\n효과를 자세히 알아보려면 {g|Encyclopedia:SpaceBattleInitiativeGlossary}우선권{/g} 패널의 효과 아이콘에 커서를 올리십시오.
-89	공역 변두리의 미지의 구역으로 도약했습니다.\n차원 관문이 닫혀 현재 코로누스 공역의 나머지 지역과 단절되었습니다. 이전 항성계로 돌아가거나 그곳으로 가는 항로를 개척할 수 없습니다. 보호령 관리도 불가능하며 세력의 무역 담당자와 연락할 방법도 없습니다.\n돌아갈 길은 없고, 앞을 제외한 다른 곳을 살펴봐도 소용없습니다. 지도에 표시된 미지의 구역의 새 항성계로 항로를 개척하고, 피할 수 없는 운명을 향해 나아가십시오.
+89	공역 변두리의 미지의 구역으로 도약했습니다.\n차원 관문이 닫혀 현재 코로누스 공역의 나머지 지역과 단절되었습니다. 이전 항성계로 돌아가거나 그곳으로 가는 항로를 개척할 수 없습니다. 보호령 관리도 불가능하며 세력의 무역 담당자와 연락할 방법도 없습니다.\n돌아갈 길은 없으니 앞을 향해 나아가야 합니다. 지도에서 미지의 구역에 있는 새 항성계로 항로를 개척하고, 피할 수 없는 운명을 향해 나아가십시오.
 90	차원 관문 너머
 91	워해머 40,000: 로그 트레이더의 이야기는 {g|Encyclopedia:KoronusExpanse}코로누스 공역{/g}이라는 광대한 우주 공간에서 펼쳐집니다. 이 구역은 수많은 항성계로 이루어져 있으며, 그중 여러 곳을 방문하게 됩니다. 공역을 탐험하며 미지의 항성계로 이어지는 항로를 찾아 공허를 누비고, 더 많은 항로를 발견하게 됩니다.\n지금 보고 있는 것은 그중 한 항성계의 지도입니다.
 92	각 항성계에는 상호작용할 수 있는 대상이 있으며, 주요 지점으로 표시됩니다. 함선을 주요 지점으로 이동시킨 다음 해당 지점을 {mouse_icon|LeftMouse} 클릭하면 사건을 시작하거나 행성 화면을 열 수 있습니다.
@@ -163,7 +163,7 @@
 163	간파한 함정
 164	이 개체가 전투 중 각 적을 처음 공격하면 해당 적은 지각 판정을 합니다. 실패하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:7bb93df02d9942258b1acdb60e6eb3f7}협동 함정{/g} 효과를 받습니다. 판정에 성공하거나 이전에 적용된 {g|f:7bb93df02d9942258b1acdb60e6eb3f7}협동 함정{/g}의 지속 시간이 끝나면 해당 적은 더 이상 이 효과를 받지 않습니다.\n이 개체는 아군의 공격을 항상 {g|Encyclopedia:DodgeGlossary}회피{/g}합니다.
 165	협동 함정
-166	진스틸러 교단원이 무슨 짓을 할 수 있는지는 직접 저지르거나 너무 가까이 다가가기 전까지는 알 수 없습니다.
+166	진스틸러 교단원이 무슨 짓을 할 수 있는지는 그자가 행동에 나서거나 여러분이 너무 가까이 다가가기 전까지는 알 수 없습니다.
 167	교단의 매복
 168	이 개체는 {g|f:423e91ce057d4e2489043ded7306f3e2}워프의 공포{/g}에 면역을 얻습니다.\n{g|Encyclopedia:WarpDamage}워프 피해{/g}를 입거나 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g} 또는 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}의 영향을 받을 때마다 어둠의 축복을 +1중첩 얻습니다.
 169	어둠의 축복
@@ -200,7 +200,7 @@
 200	대사이킥 모듈 "일식"
 201	이 개체 주변 반경 3칸 이내의 모든 개체는 네크론, 기계, 이단심문소 요원을 제외하고 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 각각 20 감소합니다.
 202	사이킥 억제기
-203	1{g|Encyclopedia:Round}라운드{/g} 동안 대상의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g}, {g|Encyclopedia:WarhammerStrength}근력{/g}이 데몬의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}당 5 감소하고, {g|Encyclopedia:Resolve}결의{/g}가 1 감소합니다.
+203	1{g|Encyclopedia:Round}라운드{/g} 동안 데몬의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}당 대상의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g}, {g|Encyclopedia:WarhammerStrength}근력{/g}이 각각 5, {g|Encyclopedia:Resolve}결의{/g}가 1 감소합니다.
 204	워프의 공포
 205	사역마는 하나만 장착할 수 있습니다
 206	케룹
@@ -230,7 +230,7 @@
 230	중량 산업용 해머
 231	이 개체는 횟수 제한 없이 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 할 수 있습니다.
 232	격노
-233	이 개체의 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
+233	이 개체의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 대상은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 234	육중한 강타
 235	이 개체는 {g|Encyclopedia:MentalDamage}정신 피해{/g}에 면역이며 {g|Encyclopedia:Stun}기절{/g}, {g|Encyclopedia:PushGlossary}밀려남{/g}, {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되지 않습니다.
 236	타고난 회복력
@@ -238,11 +238,11 @@
 238	분노 폭발
 239	1{g|Encyclopedia:Round}라운드{/g} 동안 이 개체의 공격 {g|Encyclopedia:DamageGlossary}피해{/g}가 증가합니다.
 240	유전적 우월함
-241	이 개체의 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 {g|f:94e08cadeca1429198279f26c1045b00}교차 사격에 노출{/g} 효과를 받습니다.
+241	이 개체의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 대상은 {g|f:94e08cadeca1429198279f26c1045b00}교차 사격에 노출{/g} 효과를 받습니다.
 242	교차 사격
-243	이 개체는 모든 {g|Encyclopedia:ActionPoints}행동력{/g}을 소모하고 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 다음 효과를 얻습니다.\n-<indent=5%>이 개체의 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 −40 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.</indent>\n-<indent=5%>이 개체가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}는 50% 미만으로 감소하지 않습니다.</indent>
-244	이 개체의 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 −40 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다. 이 개체가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}는 50% 미만으로 감소하지 않습니다.
-245	이 개체가 각 {g|Encyclopedia:Round}라운드{/g}에 처음으로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하면 반경 8칸 이내에서 {g|f:3558858b09334f7f802d3a124c91a88b}교차 사격{/g} 특성을 가진 모든 적이 이 개체를 추가로 공격합니다.
+243	이 개체는 모든 {g|Encyclopedia:ActionPoints}행동력{/g}을 소모하고 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 다음 효과를 얻습니다.\n-<indent=5%>이 개체의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 대상은 −40 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.</indent>\n-<indent=5%>이 개체가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}는 50% 미만으로 감소하지 않습니다.</indent>
+244	이 개체의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 대상은 −40 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다. 이 개체가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}는 50% 미만으로 감소하지 않습니다.
+245	각 {g|Encyclopedia:Round}라운드{/g}에 처음으로 이 개체에게 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 반경 8칸 이내에서 {g|f:3558858b09334f7f802d3a124c91a88b}교차 사격{/g} 특성을 가진 모든 적이 이 개체를 추가로 공격합니다.
 246	교차 사격에 노출
 247	앰불 어미가 지면을 거세게 내리쳐 무른 지면 위의 모든 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
 248	진동

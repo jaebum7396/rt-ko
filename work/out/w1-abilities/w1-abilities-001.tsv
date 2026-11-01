@@ -40,7 +40,7 @@
 40	에클레시아키 고위 성직자의 뒤를 이을 자격을 인정받았습니다.
 41	가드맨들과 함께 성소 행성을 지켜내고 그 공로로 높은 훈장을 받았습니다.
 42	눈부신 영광
-43	인류가 잃어버린 여러 행성으로 통하는 워프 항로를 처음 개척한 함선의 주인이었습니다. 그 항로는 이제 되찾았습니다.
+43	소유한 함선이 인류가 잃어버린 여러 행성으로 이어지는 워프 항로를 최초로 항해했습니다. 현재 그 항로는 다시 확보되었습니다.
 44	행성 총독으로 임명된 뒤, 법의 안팎을 가리지 않고 유용한 인맥을 쌓아 살아남았습니다.
 45	이머티리움을 항해하던 중 홀로 워프 균열을 막아 순례선을 구했습니다.
 46	임페리얼 가드 연대의 영웅적인 공격을 지휘해 이단자들이 점거한 요새의 성문을 돌파했습니다.
@@ -67,12 +67,12 @@
 67	임페리얼 월드
 68	코모라는 워프와 현실 우주 사이에 존재하는 수수께끼의 미궁 차원, 웹웨이 깊숙이 숨겨진 헤아릴 수 없이 광대한 영역입니다. 엘다리 중에서도 잔혹하고 치명적인 제노스 세력인 드루카리의 중심 거점으로, 이곳에서 드루카리는 현실 우주를 약탈할 계획을 세우고 서로를 겨냥한 끝없는 음모를 꾸밉니다.
 69	어둠의 도시 코모라
-70	크래프트월드는 한때 위대하고 번성했던 아수랴니의 생존자들을 싣고 공허의 어둠을 항해하는 거대한 함선입니다. 각각이 사이킥 공학의 경이로운 산물이자 자급자족하는 거처입니다. 오랜 세월 다른 동족들과 고립된 채 살아온 탓에 크래프트월드 주민들 사이에는 저마다 고유한 문화까지 생겨났습니다.
+70	크래프트월드는 한때 위대하고 번성했던 아수랴니의 생존자들을 싣고 공허의 어둠을 항해하는 거대한 함선입니다. 각각이 사이킥 공학의 경이로운 산물이자 자급자족하는 거처입니다. 오랜 세월 다른 동족들과 떨어져 고립된 채 살아온 탓에 크래프트월드 주민들 사이에는 저마다 고유한 문화까지 생겨났습니다.
 71	크래프트월드 크루다라크
 72	데스 월드에서는 동식물은 물론, 때로는 환경 자체가 인간의 생명을 위협하는 공격적이고 파괴적인 모습을 띱니다. 개척하기가 극도로 어렵지만, 많은 데스 월드에는 귀중한 자원이 있어 이를 채취하려면 행성 표면에 전초기지나 그 밖의 인류 거점이 필요합니다. 이런 혹독한 환경은 은하에서도 손꼽히게 강인하고 끈질긴 주민들을 길러냅니다. 시련을 이겨내지 못하는 이들은 일찍 목숨을 잃습니다.
 73	전투당 1회, 데스 월드 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}이 30% 미만으로 떨어지면 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 +20%만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.\n또한 출처에 관계없이 임시 체력이 1 이상이면 {g|Encyclopedia:DodgeGlossary}회피{/g}와 방어도에 +20% 보너스를 얻습니다.
 74	생존 본능
-75	데스 월드 캐릭터는 {g|Encyclopedia:BleedingEffect}출혈{/g} 효과가 있거나 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 50% 이하인 대상을 상대로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +15% 증가합니다.
+75	데스 월드 캐릭터는 {g|Encyclopedia:BleedingEffect}출혈{/g} 효과가 있거나 체력이 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 50% 이하인 대상을 상대로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +15% 증가합니다.
 76	잔혹한 사냥꾼
 77	데스 월드 캐릭터는 도끼, 망치, 라스 무기의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +10% 증가합니다.
 78	믿음직한 무기
@@ -169,7 +169,7 @@
 169	레이라 행성은 코로누스 공역 깊숙한 곳에 있습니다. 오랫동안 제국과 연락이 끊긴 뒤, 주민들은 이단에 빠져 생존과 안녕을 위해 주술과 금지된 지식에 의존하게 되었습니다.
 170	버림받은 행성
 171	[자료 삭제//기밀//누락]
-172	[불명 기원//홈월드]
+172	[불명 오리진//홈월드]
 173	공허 태생은 공허선 내부나 고대 궤도 위성에서 태어난 인간입니다. 평생 공허선에서 살아온 이들은 현실을 뒤틀어 놓는 워프 항해 과정과 저중력 또는 무중력 환경에 어느 정도 익숙해져 있습니다. 대개 얼굴이 수척하고 피부가 창백합니다. 가벼운 기형이 있거나 말투, 걸음걸이, 전반적인 외모가 기묘해 다른 이들과 구별되기도 합니다.
 174	공허 태생
 175	공허 태생 캐릭터는 실패한 공격, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:Characteristic}능력치{/g}, 기량 {g|Encyclopedia:Test}판정{/g}을 성공 확률 20%로 다시 굴릴 수 있습니다. 이 확률은 해당 판정의 기본 성공 확률을 넘을 수 없습니다.\n또한 공허 태생 캐릭터를 상대로 적이 회피나 막기 판정에 성공해도 20% 확률로 실패합니다.
@@ -229,7 +229,7 @@
 229	<u>(10 + 아르비테이터의 위협 / 10)</u>
 230	<u>(10 + 아르비테이터의 강인함 보너스)</u>
 231	<u>(아르비테이터의 위협 / 5)</u>
-232	아르비테이터나 사역마의 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 적은 1{g|Encyclopedia:Round}라운드{/g} 동안 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 {uip|Damage|2533d30143ec4008ae7c1b0c0919a3ad}% 감소합니다. 중첩되지 않습니다.
+232	아르비테이터나 사역마의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 적은 1{g|Encyclopedia:Round}라운드{/g} 동안 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 {uip|Damage|2533d30143ec4008ae7c1b0c0919a3ad}% 감소합니다. 중첩되지 않습니다.
 233	징벌받은 자!
 234	<u>(10 + 아르비테이터의 {g|Encyclopedia:SkillCoercion}위협{/g} / 20)</u>
 235	이 생명체는 아르비테이터의 샷건 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|e9fc0a90ebe8458a86c9b7db9f6770b3}% 증가합니다.
@@ -267,8 +267,8 @@
 267	아르비테이터가 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}이나 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}을 사용하면, 전투가 끝날 때까지 {g|Encyclopedia:SkillCoercion}위협{/g}이 +{uip|Coercion|3227585cd33e4cd6b7cb24f2c23492be}, {g|Encyclopedia:BlockChance}방패 막기{/g}가 +{unit_stat|WarhammerWillpower|bonus}% 증가합니다.
 268	법의 기둥
 269	<u>(10 + 2 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
-270	아르비테이터가 한손 충격봉이나 한손 파워 마울을 장착하면 {g|Encyclopedia:Parry}막기{/g}가 +10% 증가하고, 이 무기로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킨 적의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 전투가 끝날 때까지 10 감소합니다(중첩되지 않습니다). 또한 이 무기의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +25% 증가합니다.
-271	아르비테이터의 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 적은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
+270	아르비테이터가 한손 충격봉이나 한손 파워 마울을 장착하면 {g|Encyclopedia:Parry}막기{/g}가 +10% 증가하고, 이 무기로 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킨 적의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 전투가 끝날 때까지 10 감소합니다(중첩되지 않습니다). 또한 이 무기의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +25% 증가합니다.
+271	아르비테이터의 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 적은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 272	정의의 흔들림 없는 손
 273	엎드려라!
 274	사용하면 1{g|Encyclopedia:Round}라운드{/g} 동안 아스트라 밀리타룸 지휘관과 아군이 아군의 공격으로 피해를 받지 않으며, 능력 발동 이후 자신들이 공격한 적에게 주는 피해가 +{uip|DamageBonus|e6a279ca5979435fbb0d39d9d60d7f8a}% 증가합니다. 전투에 아스트라 밀리타룸 지휘관이 여러 명 있어도 효과는 중첩되지 않습니다.\n! 전투당 1회만 사용할 수 있습니다.
@@ -361,7 +361,7 @@
 361	<u>(2 + {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
 362	{g|f:9b090810169e4a42b22afd5995d3720d}데스 컬트 어쌔신{/g}의 아군과 공격 대상이 모두 피로 뒤덮인 칸에 서 있으면, 해당 아군이 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|2agiB|64cf497f9dd64631b348f31668e7b957}% 증가합니다.
 363	피의 춤
-364	폰 발란시우스 기함 깊숙한 곳에 형성된 죽음 교단의 {g|Encyclopedia:CareerAssassinGlossary}어쌔신{/g}들은 불멸의 황제를 섬기는 의무를 맹세했습니다. 전투 중 움직임은 죽음과 추는 춤과 같고, 손에 쥔 칼날은 신앙의 무기이며, 살육은 신성한 사명입니다. 자신이 흘리거나 남에게서 흘려낸 피는 황제께 바치는 의식의 제물이 됩니다.
+364	폰 발란시우스 기함 깊숙한 곳에 형성된 죽음 교단의 {g|Encyclopedia:CareerAssassinGlossary}어쌔신{/g}들은 불멸의 황제를 섬기는 의무를 다할 것을 맹세했습니다. 전투 중 움직임은 죽음과 추는 춤과 같고, 손에 쥔 칼날은 신앙의 무기이며, 살육은 신성한 사명입니다. 자신이 흘린 피와 타인에게서 취한 피는 황제께 바치는 의식의 제물이 됩니다.
 365	데스 컬트 어쌔신
 366	{g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g} 또는 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g} 효과를 받는 생명체는 {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}이 부여될 때마다 해당 효과가 +1중첩 추가됩니다.
 367	핏줄을 열어라

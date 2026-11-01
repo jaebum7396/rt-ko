@@ -1,9 +1,11 @@
 {"errors": [],
 "warnings": [
  {"n": 3, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 14, "code": "glossary", "detail": "Arch-Militant -> 아치 밀리턴트 not found"},
  {"n": 55, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
- {"n": 68, "code": "glossary", "detail": "Warrant -> 무역 영장/무역 영장 not found"},
+ {"n": 83, "code": "glossary", "detail": "Zacchary Weisz -> 자카리 바이스 not found"},
  {"n": 99, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 163, "code": "glossary", "detail": "Arch-Militant -> 아치 밀리턴트 not found"},
  {"n": 167, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 170, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
  {"n": 198, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},

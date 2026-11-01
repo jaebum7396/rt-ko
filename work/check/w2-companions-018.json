@@ -2,6 +2,7 @@
 "warnings": [
  {"n": 4, "code": "glossary", "detail": "Get out -> 나가기 not found"},
  {"n": 15, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 42, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
  {"n": 45, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 54, "code": "glossary", "detail": "No Star -> 항성 없음 not found"},
  {"n": 82, "code": "glossary", "detail": "Power -> 파워/위력 not found"},

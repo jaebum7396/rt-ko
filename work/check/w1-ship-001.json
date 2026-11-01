@@ -1,8 +1,11 @@
 {"errors": [],
 "warnings": [
  {"n": 2, "code": "glossary", "detail": "Artificial -> 인공물 not found"},
+ {"n": 6, "code": "glossary", "detail": "Cognisance Fleet Tech-Squadron -> 코그니선스 함대 기술 전대 not found"},
  {"n": 60, "code": "glossary", "detail": "Reputation -> 평판 not found"},
  {"n": 81, "code": "glossary", "detail": "spirit -> 기계령 not found"},
+ {"n": 132, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
+ {"n": 133, "code": "glossary", "detail": "Gapraks' Fortune -> 갭락 가문의 행운 not found"},
  {"n": 143, "code": "glossary", "detail": "Inspire -> 고무 not found"},
  {"n": 150, "code": "glossary", "detail": "Oath of Vengeance -> 복수의 맹세 not found"},
  {"n": 154, "code": "glossary", "detail": "order -> 명령/교단/명령/교단 not found"},

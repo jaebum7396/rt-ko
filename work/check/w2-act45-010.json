@@ -1,7 +1,6 @@
 {"errors": [],
 "warnings": [
  {"n": 19, "code": "glossary", "detail": "Only the Best -> 최정예 not found"},
- {"n": 41, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
  {"n": 53, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 110, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"},
  {"n": 110, "code": "glossary", "detail": "People -> 사람들/인구 not found"},

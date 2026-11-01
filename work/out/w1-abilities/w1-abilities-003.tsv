@@ -63,7 +63,7 @@
 63	<u>(1 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
 64	약점
 65	통찰
-66	매 턴 시작 시 오퍼러티브가 자신의 {g|Encyclopedia:LineOfSight}시야{/g} 내 모든 적에게 {g|Encyclopedia:Exploit}약점{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +1중첩 부여합니다.\n오퍼러티브가 약점이 중첩된 대상을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 공격의 피해가 +<u>(5 × 지각 보너스)</u>% 증가합니다. 대상의 약점 하나당 피해가 추가로 10% 증가합니다. 공격 후 대상의 약점을 모두 제거합니다.
+66	매 턴 시작 시 오퍼러티브가 자신의 {g|Encyclopedia:LineOfSight}시야{/g} 내 모든 적에게 {g|Encyclopedia:Exploit}약점{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +1중첩 부여합니다.\n오퍼러티브가 약점이 중첩된 대상에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 공격의 피해가 +<u>(5 × 지각 보너스)</u>% 증가합니다. 대상의 약점 하나당 피해가 추가로 10% 증가합니다. 공격 후 대상의 약점을 모두 제거합니다.
 67	적 분석
 68	적 분석(기이한 시야)
 69	다음에 {g|Encyclopedia:Exploit}약점{/g}이 부여된 대상을 공격할 때 대상의 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}과 방패 막기가 −<u>(15 + ({unit_stat|WarhammerPerception|bonus} / 3) × 약점 중첩 수)</u>% 감소합니다. 해당 공격의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +<u>(15 + ({unit_stat|WarhammerPerception|bonus} / 3) × 약점 중첩 수)</u>% 증가합니다.
@@ -156,7 +156,7 @@
 156	가벼운 상처
 157	캐릭터를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼은 대상이 캐릭터의 아군에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −40% 감소합니다.
 158	이목 집중
-159	캐릭터의 근접 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 적은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 캐릭터의 다음 턴 시작 시까지 캐릭터를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼습니다.
+159	캐릭터의 근접 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 적은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 캐릭터의 다음 턴 시작 시까지 캐릭터를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼습니다.
 160	치명적인 위협
 161	캐릭터가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 포함해 일반적으로 회피할 수 없는 공격도 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있습니다.
 162	번개 같은 반사 신경
@@ -208,7 +208,7 @@
 208	섬멸
 209	이번 전투에서 캐릭터가 새로운 적에게 피해를 줄 때마다 전투 종료 시까지 주는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 +3% 증가합니다.
 210	대재앙
-211	캐릭터에게 인접한 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기 장비 적이 추가될 때마다 받던 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} −10 {g|Encyclopedia:Penalty}불이익{/g}이 사라집니다. 대신 모든 공격에서 인접한 적 하나당 근접술 +10을 얻습니다.
+211	캐릭터에게 인접한 적 중 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장비한 적이 추가될 때마다 받던 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} −10 {g|Encyclopedia:Penalty}불이익{/g}이 사라집니다. 대신 모든 공격에서 인접한 적 하나당 근접술 +10을 얻습니다.
 212	압도적인 우세
 213	캐릭터가 부여한 {g|Encyclopedia:ExtraTurn}추가 턴{/g}에 행동하는 아군이 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +15% 증가합니다.
 214	열성적인 부하
@@ -283,9 +283,9 @@
 283	신출귀몰
 284	1라운드 동안 적의 공격에서 어새신의 {g|Encyclopedia:PriorityTarget}우선 표적{/g} 순위가 가장 낮아집니다. 또한 어새신이 공격할 때까지 지속되는 {g|f:670419fc312d4ee2b2298d03af22e0c2}신출귀몰{/g} 효과를 얻습니다.
 285	신출귀몰한 그림자
-286	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:LineOfSight}시야{/g} 내 적 하나를 선택하고, 자신과 가장 가까운 쪽에 {g|Encyclopedia:Opening}빈틈{/g}을 추가로 표시합니다. 어새신의 턴 종료 시까지 이 추가 빈틈을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키지 않으면 사라집니다.
+286	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:LineOfSight}시야{/g} 내 적 하나를 선택하고, 자신과 가장 가까운 쪽에 {g|Encyclopedia:Opening}빈틈{/g}을 추가로 표시합니다. 어새신의 턴 종료 시까지 이 추가 빈틈에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키지 않으면 사라집니다.
 287	빈틈 조준
-288	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}은 각 적의 한쪽 면에서 {g|Encyclopedia:Opening}빈틈{/g} 하나를 발견합니다.\n<i>빈틈</i>: 어새신이 빈틈을 명중시킬 때마다({g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 제외) 대상의 <u>{g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%</u>만큼 추가 피해를 줍니다.\n공격 후 빈틈은 적의 반대쪽으로 이동합니다. 어새신의 턴 동안 명중시키지 않은 각 적의 빈틈은 어새신의 다음 턴 시작 시 해당 적의 무작위 방향으로 이동합니다.
+288	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}은 각 적의 한쪽 면에서 {g|Encyclopedia:Opening}빈틈{/g} 하나를 발견합니다.\n<i>빈틈</i>: 어새신이 빈틈에 공격을 명중시킬 때마다({g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 제외) 대상의 <u>{g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%</u>만큼 추가 피해를 줍니다.\n공격 후 빈틈은 적의 반대쪽으로 이동합니다. 어새신의 턴 동안 공격을 명중시키지 않은 각 적의 빈틈은 어새신의 다음 턴 시작 시 해당 적의 무작위 방향으로 이동합니다.
 289	빈틈 탐색
 290	적의 {g|Encyclopedia:Characteristic}능력치{/g}, 보너스, 불이익이 반영되기 전 어새신의 현재 기본 {g|Encyclopedia:Lethality}치사율{/g}입니다.\n어새신의 기본 치사율은 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} 중 높은 값과 같습니다.
 291	기본 치사율
@@ -313,7 +313,7 @@
 313	타격 태세
 314	{g|Encyclopedia:CareerAssassinGlossary}어쌔신{/g}은 주요 대상의 미세한 약점까지 찾아내 수단과 방법을 가리지 않고 처단하는 달인입니다.\n주요 특화: 높은 {g|Encyclopedia:DamageGlossary}피해{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g}, 위협 제거, 치고 빠지기.
 315	어새신
-316	이 생물이 어새신에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하거나 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 맞을 확률이 +7% 증가합니다.
+316	어새신이 이 생물에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 확률과 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 확률이 +7% 증가합니다.
 317	방심
 318	어새신의 턴 시작 시 어새신을 {g|Encyclopedia:LineOfSight}시야{/g}에 두지 않은 모든 적에게 어새신의 턴 종료 시까지 {g|f:9872e38c87be4e4eb15dbc9fd5c53649}방심{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 부여합니다.
 319	매복
@@ -344,7 +344,7 @@
 344	어새신에게 인접한 적이 1명 이하일 때 어새신에게 인접한 칸으로 이동하는 적은 −{uip|ResistancePenalty|39a30ee0e035405ea0823dd98dafea7c} 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면, 가능한 경우 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되며 자신의 다음 턴 시작 시까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.
 345	거리 유지
 346	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
-347	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Opening}빈틈{/g}을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 전투 종료 시까지 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|abb1af6ec9944442b4d815aadfa61db8}% 증가합니다. 중첩됩니다.
+347	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Opening}빈틈{/g}에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 전투 종료 시까지 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|abb1af6ec9944442b4d815aadfa61db8}% 증가합니다. 중첩됩니다.
 348	연쇄 살육
 349	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 2)</u>
 350	어새신의 턴 종료 시 이 생물의 {g|Encyclopedia:LineOfSight}시야{/g}에 어새신이 없으면 어새신이 현재 사용하는 무기의 최대 기본 피해의 {uip|WeaponDamagePercent|7bec62f15dc440748fb6d510e9b13f85}%만큼 피해를 받습니다.
@@ -360,19 +360,19 @@
 360	고독한 살인자
 361	{g|f:7daf9f9d4c3d44ccaeebb0b9a7725b54}죽음의 무도{/g}가 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 추가로 +{unit_stat|WarhammerAgility|bonus} 줍니다.
 362	죽음의 회전무
-363	매 라운드에 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Lethality}치사율{/g} 100 이상인 공격으로 대상을 처음 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 공격에 소모한 {g|Encyclopedia:ActionPoints}행동력{/g}을 즉시 돌려받습니다.
+363	매 라운드에 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Lethality}치사율{/g} 100 이상인 공격을 대상에게 처음 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 공격에 소모한 {g|Encyclopedia:ActionPoints}행동력{/g}을 즉시 돌려받습니다.
 364	치명적인 효율
-365	어새신이 {g|Encyclopedia:Opening}빈틈{/g}을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 +{g|Encyclopedia:Lethality}<u>치사율</u>{/g}% 확률로 <u>대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 5%</u>만큼 추가 피해를 줍니다.
+365	어새신이 {g|Encyclopedia:Opening}빈틈{/g}에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 +{g|Encyclopedia:Lethality}<u>치사율</u>{/g}% 확률로 <u>대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 5%</u>만큼 추가 피해를 줍니다.
 366	완벽한 빈틈
 367	매 {g|Encyclopedia:Turn}턴{/g}에 처음 사용하는 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 0이 됩니다.
 368	전문가의 안목
-369	어새신이 {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|f:372208cc0f434c17abfb5140e8806ebc}대출혈{/g} 중 하나라도 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}가 부여된 적을 상대로 {g|Encyclopedia:Lethality}치사율{/g} +15를 얻습니다. 각 효과마다 보너스를 얻지만 최대 치사율 +45를 넘을 수 없습니다.
+369	어새신이 {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|f:372208cc0f434c17abfb5140e8806ebc}대출혈{/g} 중 하나 이상의 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}가 부여된 적을 상대로 {g|Encyclopedia:Lethality}치사율{/g} +15를 얻습니다. 각 효과마다 보너스를 얻지만 최대 치사율 +45를 넘을 수 없습니다.
 370	우위 선점
 371	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|f:670419fc312d4ee2b2298d03af22e0c2}신출귀몰{/g} 상태이면 턴 종료 시까지 {g|Encyclopedia:MovementPoints}이동력{/g} +4와 {g|Encyclopedia:Lethality}치사율{/g} +10을 얻습니다.
 372	신출귀몰한 속도
 373	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:HitPoints}체력{/g}이 가득 찬 적을 공격할 때마다 자신의 다음 턴 종료 시까지 해당 적을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +20%를 얻습니다.
 374	온전한 자를 노리는 눈
-375	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적의 {g|Encyclopedia:Opening}빈틈{/g}을 맞히지 않고 적을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 자신의 다음 턴 시작 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g} +{uip|DodgeBonus|6835d43cba1d460f8b2ab0cb2bf31730}%를 얻습니다.
+375	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적의 {g|Encyclopedia:Opening}빈틈{/g}을 맞히지 않고 적에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 자신의 다음 턴 시작 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g} +{uip|DodgeBonus|6835d43cba1d460f8b2ab0cb2bf31730}%를 얻습니다.
 376	한 수 앞서기
 377	<u>(2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
 378	어새신이 현재 무기로 적을 공격합니다. 이 공격은 빗나가지 않으며 피해가 +50% 증가합니다. 또한 대상이 잃은 {g|Encyclopedia:HitPoints}체력{/g}의 25%만큼 추가 피해를 줍니다.\n이 공격에서는 어새신의 {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:DodgeReduction}회피 감소{/g}, 방어 관통, {g|Encyclopedia:ParryReduction}막기 감소{/g}가 두 배가 됩니다.\n전투 종료 시까지 어새신이 받는 피해가 +100% 증가합니다.
@@ -383,7 +383,7 @@
 383	처단(강화 I)
 384	{g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g}의 추가 {g|Encyclopedia:DamageGlossary}피해{/g}가 대상이 잃은 {g|Encyclopedia:HitPoints}체력{/g}의 25%에서 45%로 증가합니다.
 385	처단(강화 II)
-386	전투 종료 시까지 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Opening}빈틈{/g}을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 {g|Encyclopedia:TemporaryWounds}임시 체력{/g} +{uip|Lethality|fbe8ea3f3a2e4ce2b7ea337bda40bbd2}(소수점 이하 버림)을 얻습니다.
+386	전투 종료 시까지 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Opening}빈틈{/g}에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 {g|Encyclopedia:TemporaryWounds}임시 체력{/g} +{uip|Lethality|fbe8ea3f3a2e4ce2b7ea337bda40bbd2}(소수점 이하 버림)을 얻습니다.
 387	처단(강화 III)
 388	<u>({g|Encyclopedia:Lethality}치사율{/g} / 15)</u>
 389	{g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g} 공격으로 대상을 처치하면 대상 주변 반경 3칸 내 모든 적에게 {g|Encyclopedia:DisturbedEffect}동요{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +2중첩 부여합니다. 해당 적들은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다.

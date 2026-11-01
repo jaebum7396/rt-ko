@@ -10,6 +10,7 @@
  {"n": 104, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 117, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 141, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 143, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
  {"n": 148, "code": "glossary", "detail": "Hunting Down -> 사냥감 추적 not found"},
  {"n": 148, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 148, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
@@ -18,7 +19,9 @@
  {"n": 184, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 186, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
  {"n": 201, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 209, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
  {"n": 209, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 213, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
  {"n": 213, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 216, "code": "glossary", "detail": "Body -> 몸/시체 not found"}
 ]}

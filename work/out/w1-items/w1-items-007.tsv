@@ -131,7 +131,7 @@
 131	뼈분쇄 마울
 132	이 도끼가 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 전투 종료 시까지 이 도끼의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 25% 증가합니다.
 133	대학살
-134	{g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 없습니다. {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 전투 종료 시까지 모든 원천에서 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +15% 증가합니다. 중첩되지 않습니다.
+134	{g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 없습니다. {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 전투 종료 시까지 받는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 +15% 증가합니다. 중첩되지 않습니다.
 135	성 드루수스의 분노
 136	이 무기의 {g|Encyclopedia:PushGlossary}밀치기{/g}로 적을 밀어낼 때 주는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 +100% 증가합니다.
 137	사용자는 이 무기로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가하면 <b>마르케사의 갈증</b> +1중첩을, 대상을 처치하면 +3중첩을 얻습니다. 5중첩에 도달하면 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 추가 공격을 얻습니다. 이 효과가 발동하면 모든 중첩이 제거됩니다.
@@ -333,7 +333,7 @@
 333	치명적인 연발총
 334	분쇄자
 335	의식용 단검
-336	이 단검은 {g|Encyclopedia:ProneEffect}넘어짐{/g} 또는 {g|Encyclopedia:Stun}기절{/g} 상태인 대상에게 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 100%입니다.\n사용자가 이 단검으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가하면 대상과 그 반경 4칸 이내의 모두는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 경우 가장 가까운 대상을 한 번 공격합니다.
+336	이 단검은 {g|Encyclopedia:ProneEffect}넘어짐{/g} 또는 {g|Encyclopedia:Stun}기절{/g} 상태인 대상에게 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 100%입니다.\n사용자가 이 단검으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가하면 대상과 그 반경 4칸 이내의 모두는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 경우 가장 가까운 대상을 한 번 공격합니다.
 337	이 썬더 해머는 적의 {g|Encyclopedia:Deflection}피해 감소{/g} 1당 {g|Encyclopedia:DamageGlossary}피해{/g}를 +3 더 주고, 적을 1{g|Encyclopedia:Turn}턴{/g} 동안 기절시킬 확률이 +10%씩 중첩하여 증가합니다.\n{g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하면 이 효과를 무효화합니다.\n<i>철퇴와 해머는 적을 {g|Encyclopedia:PushGlossary}밀어내는{/g} 특수 공격을 사용할 수 있습니다.</i>
 338	울부짖는 천둥
 339	이 무기는 {g|f:3c11c05ae18d4d4a992308b584a388ab}천공 타격{/g}이라는 특수 공격을 사용할 수 있습니다.
@@ -360,7 +360,7 @@
 360	이 소총은 대상에게 {g|Encyclopedia:FatiguedEffect}피로{/g}와 {g|Encyclopedia:SlowedEffect}감속{/g}을 부여합니다.
 361	이 무기가 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 대상이 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:FatiguedEffect}피로{/g}를 +1중첩 부여합니다.
 362	자유의 약속
-363	한때 네메사이트의 고귀한 손에 들려 있던 이 스터브 리볼버는 억압받는 수많은 이에게 거짓된 자유를 약속했습니다.
+363	한때 네메사이트의 고귀한 손에 들려 있던 이 스터브 리볼버는 억압받는 수많은 이에게 자유를 주겠다는 헛된 약속을 했습니다.
 364	사용자 주변의 모든 인접 칸에 적용되는 추가 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 얻습니다.\n<indent=5%>효과 범위 내 대상 한 명당 {g|Encyclopedia:DamageGlossary}피해{/g} +1</indent>
 365	이 썬더 해머의 {g|Encyclopedia:PushGlossary}밀치기{/g} 공격으로 발생하는 모든 충돌의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +300% 증가합니다.\n이 썬더 해머에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 모든 대상은 +10 {g|Encyclopedia:Bonus}보너스{/g}를 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 366	이 플레이머의 공격은 {g|Encyclopedia:BurningEffect}화상{/g}과 같은 수준의 {g|Encyclopedia:ToxinEffect}중독{/g}도 부여합니다.
@@ -378,7 +378,7 @@
 378	피의 스승
 379	이 마울로 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 하면 연기 구름이 생성됩니다. 해당 범위에 들어오는 모든 개체는 −{uip|Penalty|0eaf58bc6d7d487e8b78c6a2c31bd2fb} 불이익을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다.\n-<indent=5%>강인함 {g|Encyclopedia:Test}판정{/g}에 실패하면 대상은 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:BlindedEffect}실명{/g} 상태가 됩니다.</indent>\n-<indent=5%>근력 판정에 실패하면 2라운드 동안 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 됩니다.</indent>\n-<indent=5%>의지력 판정에 실패하면 2라운드 동안 {g|Encyclopedia:DisturbedEffect}동요{/g} 상태가 됩니다.</indent>
 380	피의 성례
-381	매 {g|Encyclopedia:Turn}턴{/g} 이 무기로 처음 사용하는 {g|f:2162ce26f6db4cd1b748a4105c364ddb}폭렬 사격{/g}, {g|f:027e75ab89364049b844a720feca85ec}참혹한 심판{/g}, {g|f:def7164545244af28d52cd38d0502525}이중 슬러그 사격{/g}은 {g|Encyclopedia:ActionPoints}행동력{/g}을 1 소모하고 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 추가로 +{uip|Critical Hit Chance|08e2ca4d59134bb58ca1e5fa7221eb58}% 증가합니다.
+381	매 {g|Encyclopedia:Turn}턴{/g} 이 무기로 사용하는 {g|f:2162ce26f6db4cd1b748a4105c364ddb}폭렬 사격{/g}, {g|f:027e75ab89364049b844a720feca85ec}참혹한 심판{/g}, {g|f:def7164545244af28d52cd38d0502525}이중 슬러그 사격{/g} 중 첫 번째 공격은 {g|Encyclopedia:ActionPoints}행동력{/g}을 1 소모하고 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 추가로 +{uip|Critical Hit Chance|08e2ca4d59134bb58ca1e5fa7221eb58}% 증가합니다.
 382	피의 철야
 383	<u>({g|Encyclopedia:SkillCoercion}위협{/g} / 5)</u>
 384	<u>{g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g}</u>
@@ -442,7 +442,7 @@
 442	정당한 권리
 443	사용자가 매 {g|Encyclopedia:Round}라운드{/g} 처음으로 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 대상을 처치하면 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 이 무기의 무료 원거리 공격을 +1회 얻습니다.
 444	아르비테스 하완 장착 적쇄추
-445	전투 중 어느 개체든 {g|Encyclopedia:BurningEffect}화상{/g}으로 치명적인 피해를 받을 때마다 사용자는 1{g|Encyclopedia:Round}라운드{/g} 동안 이 무기로 피해를 +30% 더 줍니다. 중첩되지 않습니다.
+445	전투 중 어느 개체든 {g|Encyclopedia:BurningEffect}화상{/g} 피해로 사망할 때마다 사용자는 1{g|Encyclopedia:Round}라운드{/g} 동안 이 무기로 피해를 +30% 더 줍니다. 중첩되지 않습니다.
 446	장의사
 447	플레이머와 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 체인 무기를 결합한 무기입니다. 체인 무기 덕분에 이 무기로 {g|Encyclopedia:Parry}막기{/g}를 할 수 있습니다. 사용자의 근접 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}도 +25% 증가합니다.
 448	빈딕터 플레이머

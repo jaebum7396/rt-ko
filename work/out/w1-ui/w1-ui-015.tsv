@@ -8,7 +8,7 @@
 8	(막기)
 9	이 캐릭터는 이 효과를 부여한 사이버 마스티프의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 됩니다.
 10	주 표적
-11	사이버 마스티프의 공격 대상은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 실패하면 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, 성공하면 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 됩니다.\n또한 사이버 마스티프가 대상을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 {g|f:b4abe53c3f894c1fb2c58d137c806279}갈기갈기{/g} 효과를 부여합니다.
+11	사이버 마스티프의 공격 대상은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 실패하면 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, 성공하면 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 됩니다.\n또한 사이버 마스티프가 대상에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 {g|f:b4abe53c3f894c1fb2c58d137c806279}갈기갈기{/g} 효과를 부여합니다.
 12	힘줄 절단
 13	사이버 마스티프는 항상 이동하지 않고 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}하며 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 효과를 받지 않습니다. {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g}에서 공격받으면 즉시 반격합니다.
 14	야수의 날렵함
@@ -110,7 +110,7 @@
 110	이 생명체의 공격은 적의 활력을 빼앗습니다. 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 대상은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 실패하면 전투 종료 시까지 {g|Encyclopedia:FatiguedEffect}피로{/g} 효과가 1중첩 부여됩니다.
 111	탈진의 타격
 112	촉수 내려치기
-113	크토노스 페인 엔진이 체력을 회복하고 전투 종료 시까지 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +10, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} +10, {g|Encyclopedia:DamageGlossary}피해{/g} +10%를 얻습니다. 이 {g|Encyclopedia:Bonus}보너스{/g}는 중첩됩니다. 대상은 사격술, 근접술, {g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}에 영구적인 −50% 불이익을 받습니다. 이 {g|Encyclopedia:Ability}능력{/g}의 대상이 두 번째로 되면 사망합니다.
+113	크토노스 페인 엔진이 체력을 회복하고 전투 종료 시까지 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +10, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} +10, {g|Encyclopedia:DamageGlossary}피해{/g} +10%를 얻습니다. 이 {g|Encyclopedia:Bonus}보너스{/g}는 중첩됩니다. 대상은 사격술, 근접술, {g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}에 영구적인 −50% 불이익을 받습니다. 이 {g|Encyclopedia:Ability}능력{/g}의 대상이 두 번 되면 사망합니다.
 114	활력 박탈
 115	이 생명체의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 증가합니다.
 116	생명 에너지
@@ -323,7 +323,7 @@
 323	시조가 살아 있는 동안 모든 아군이 {g|f:8b792feec7fb4f86a42ef59ff1e9920d}광란의 헌신{/g} 효과를 받습니다.
 324	너머에서 온 힘
 325	정신 지배
-326	시조의 대상은 −40 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항{/g} 판정을 합니다. 실패하면 2{g|Encyclopedia:Round}라운드{/g} 동안 아군과 싸우도록 강제됩니다. {g|f:c24f558c424947de8d1ecb834526d841}극심한 공포{/g} 효과를 받는 대상에게만 사용할 수 있습니다.
+326	시조가 지정한 대상은 −40 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항{/g} 판정을 합니다. 실패하면 2{g|Encyclopedia:Round}라운드{/g} 동안 강제로 아군과 싸우게 됩니다. {g|f:c24f558c424947de8d1ecb834526d841}극심한 공포{/g} 효과를 받는 대상에게만 사용할 수 있습니다.
 327	이 생명체가 대상을 향해 도약하고 착지하며 발톱으로 강력한 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 가해 인접한 모든 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다. {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 적은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 328	강력한 도약
 329	이 생명체는 시조의 지배를 받고 있습니다.\n이 효과는 구급상자나 {g|f:e8e9fbe8696e4820b84c733ceba629af}다시 전장으로!{/g}, {g|f:f51d5d8fdc8e49c4828c0180868e0be9}활력 부여{/g}, {g|f:1161a6715442449da47157aa60274a42}재생{/g} {g|Encyclopedia:Ability}능력{/g}으로 제거할 수 있습니다.
@@ -381,7 +381,7 @@
 381	이 생명체의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 남은 {g|Encyclopedia:HitPoints}체력{/g}에 따라 달라집니다.\n-<indent=5%>체력 70% 초과 — 방어도 30%</indent>\n-<indent=5%>체력 70~40% — 방어도 20%</indent>\n-<indent=5%>체력 40% 미만 — 방어도 10%</indent>\n또한 받는 피해가 50% 감소합니다(에너지, 감전, {g|Encyclopedia:WarpDamage}워프 피해{/g}에는 적용되지 않습니다).
 382	질긴 가죽
 383	{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}과 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 20 감소합니다.
-384	이 생명체의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 40 증가합니다. 에너지, 감전, {g|Encyclopedia:WarpDamage}워프 피해{/g}를 제외한 받는 피해가 30% 감소합니다.
+384	이 생명체의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 40 증가합니다. 받는 피해가 30% 감소하지만, 에너지, 감전, {g|Encyclopedia:WarpDamage}워프 피해{/g}에는 적용되지 않습니다.
 385	이 생명체가 앞발로 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막을 수 없는 {g|Encyclopedia:Devastating}파괴적{/g}인 일격을 가합니다. 대상은 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 386	강력한 앞발 타격
 387	이 생명체는 전투 종료 시까지 추가 {g|Encyclopedia:MovementPoints}이동력{/g}과 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수{/g} +1을 얻습니다. 중첩되지 않습니다.\n이 생명체의 {g|Encyclopedia:HitPoints}체력{/g}이 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 80% 미만으로 떨어지면 사용할 수 있습니다.
@@ -423,7 +423,7 @@
 423	{g|f:c64d0c490ac8402eb5a966344e3924c0}대전차 포탄{/g}만 리만 러스 전차에 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 수 있습니다. 한번 손상되면 내구도를 회복할 수 없습니다. 전차는 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}과 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻을 수 없습니다. 이로운 효과와 해로운 효과를 포함한 대부분의 효과에 면역입니다.
 424	전차 장갑판
 425	배틀 캐논
-426	이 포탄은 살아 있는 대상을 즉사시킵니다. {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 없습니다. 포탄을 발사하면 전차의 {g|Encyclopedia:Turn}턴{/g}이 종료됩니다.\n<i>전차에 이 포탄이 {g|f:e333333dfe6040b7bf9acfab8b450264}장전 완료{/g} 상태여야 합니다!</i>
+426	이 포탄은 살아 있는 대상을 즉사시킵니다. {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 없습니다. 포탄을 발사하면 전차의 {g|Encyclopedia:Turn}턴{/g}이 종료됩니다.\n<i>전차에 이 포탄이 {g|f:e333333dfe6040b7bf9acfab8b450264}장전 완료{/g}된 상태여야 합니다!</i>
 427	철갑유탄
 428	{g|f:5bc82ef262b34734a959acea5e2d43dd}발톱 낙인{/g}이 찍힌 적을 공격합니다. 낙인이 찍힌 대상을 중심으로 3×3칸 범위에 100의 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다. 피해는 범위 내 모든 생명체에게 똑같이 나뉘어 적용됩니다.
 429	운명의 폭발
@@ -434,7 +434,7 @@
 434	이 생명체는 {g|f:709bfea931f946e2a71c1ed32f28532a}운명의 폭발{/g}의 대상이 될 수 있습니다.
 435	운명의 낙인
 436	찢어발기는 발톱
-437	새벽의 칼날이 모든 {g|Encyclopedia:DamageGlossary}피해{/g}에 면역이 됩니다. 전장에 있는 데몬 중 하나가 이 면역을 유지합니다. 새벽의 칼날이 피해를 받으려 하면, 대신 <b>기만의 방패</b>의 근원을 지닌 데몬이 모습을 드러냅니다.
+437	새벽의 칼날이 모든 {g|Encyclopedia:DamageGlossary}피해{/g}에 면역이 됩니다. 전장에 있는 데몬 중 하나가 이 면역을 유지합니다. 새벽의 칼날이 피해를 받을 상황이 되면, 대신 <b>기만의 방패</b>의 근원을 지닌 데몬이 모습을 드러냅니다.
 438	기만의 방패
 439	이 생명체가 사망하면 새벽의 칼날이 {g|f:6eb900acbd654e2680f8f072a9f86cb5}기만의 방패{/g}를 잃습니다.
 440	기만의 근원
@@ -465,7 +465,7 @@
 465	시간 회귀
 466	크로노맨서 주변에서는 시간이 기묘하게 흐릅니다. {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻을 때마다 제한 시간이 30초로 설정됩니다.
 467	인과율 균열
-468	이 생명체가 모든 원인으로 받는 피해가 100% 증가합니다.
+468	이 생명체가 받는 모든 피해가 100% 증가합니다.
 469	크로노맨서가 살아 있는 동안 모든 플레이드 원은 {g|f:9bf3eae4e5f64aeca996df0742a478cd}시간의 징벌{/g} 효과를 받습니다.
 470	시간의 징벌
 471	크로노맨서는 금속으로 이루어져 있어 네크론 플레이드 원을 끌어들이지 않습니다.
@@ -477,7 +477,7 @@
 477	크로노맨서는 전투 중 자신의 첫 {g|Encyclopedia:Turn}턴{/g} 시작 시 항상 {g|f:100829bd43eb4b0285906a77fb6fb61b}오벨리스크 보호{/g}를 사용합니다. 이후 다음 턴부터 {g|f:43d5df84c9784721a5fefdcb512bd5d6}오벨리스크 하이퍼페이즈{/g} 시전을 시작합니다.\n크로노맨서가 죽으면 모든 네크론 오벨리스크가 파괴됩니다.
 478	오벨리스크 연결
 479	오벨리스크 보호
-480	이 오벨리스크는 {g|f:9e96c09deef54bc89a0fe5d17545df51}활성화{/g}될 때까지 모든 원인으로 받는 피해가 50% 감소합니다.
+480	이 오벨리스크는 {g|f:9e96c09deef54bc89a0fe5d17545df51}활성화{/g}될 때까지 받는 모든 피해가 50% 감소합니다.
 481	비활성 오벨리스크
 482	크로노맨서가 무작위 오벨리스크 3개를 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:63f6eec4ea38409b926bd1a8429dd5a5}하이퍼페이즈{/g} 상태로 만듭니다.
 483	오벨리스크 하이퍼페이즈

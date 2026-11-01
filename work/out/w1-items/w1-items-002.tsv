@@ -3,12 +3,12 @@
 3	경광 엄폐물
 4	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 10)</u>
 5	전투 시작 시 착용자는 {g|f:152b9cb5ecef4a5cbd402e2fd3ade6b8}경광 엄폐물 투사{/g} {g|Encyclopedia:Ability}능력{/g}의 사용 횟수를 {uip|Charges|9b89d418269b476d8d5c82afb5dfffb7}회 얻습니다.
-6	부분 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}가 사용자의 피{g|Encyclopedia:HitSequenceGlossary}명중{/g}률을 낮추지 않습니다.
+6	부분 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}는 적의 공격이 사용자에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 확률을 낮추지 않습니다.
 7	전투 자극제를 사용해도 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 받지 않습니다.\n자신을 대상으로 전투 자극제를 사용하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:670419fc312d4ee2b2298d03af22e0c2}신출귀몰{/g} 효과를 얻습니다.
 8	적응형 혈액 여과기
 9	전투 자극제를 사용해도 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 받지 않습니다.
 10	전투 자극제를 사용해도 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 받지 않습니다.\n자극제 사용에 드는 {g|Encyclopedia:ActionPoints}행동력{/g}이 1 감소합니다.
-11	사용자는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g}을 3중첩 얻습니다.
+11	사용자는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g}을 3중첩 얻습니다.
 12	전투 자극제를 사용해도 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 받지 않습니다.\n사용자가 아군에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여하면, 해당 아군은 그 {g|Encyclopedia:Turn}턴{/g}에 자극제를 사용해도 해로운 효과를 받지 않습니다.
 13	{g|Encyclopedia:AreaOfEffect}효과 범위{/g} 내 대상에게 {g|Encyclopedia:BleedingEffect}출혈{/g}을 {uip|Bleeding|627dbcb27be64dc68101d57cdea9b15a}단계, {g|Encyclopedia:BurningEffect}화상{/g}을 {uip|Burning|627dbcb27be64dc68101d57cdea9b15a}단계, {g|Encyclopedia:ToxinEffect}중독{/g}을 {uip|Toxin|627dbcb27be64dc68101d57cdea9b15a}단계 추가로 부여합니다.\n사용자의 출혈(대출혈 제외), 화상(워프 화상과 영혼 화상 제외), 중독을 제거하지만, 사용자는 {uip|Damage|627dbcb27be64dc68101d57cdea9b15a}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 받습니다.
 14	<u>(사용자의 {g|Encyclopedia:BleedingEffect}출혈{/g} 단계(대출혈 제외))</u>
@@ -19,10 +19,10 @@
 19	<u>{g|f:7f7d109653f24774939f758d094b8812}다재다능{/g} 중첩 수</u>
 20	착용자의 공격은 사용하는 무기 종류에 따라 보너스를 얻습니다.\n-<indent=5%>멜타 및 플라스마 무기 공격의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 {uip|Value|0f4b1986d7084a838920648e221c7768}% 증가합니다.</indent>\n-<indent=5%>볼터 및 실탄 무기 공격의 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 확률이 {uip|Value|0f4b1986d7084a838920648e221c7768}% 증가합니다.</indent>\n-<indent=5%>라스 및 플레이머 무기 공격의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 {uip|Value|0f4b1986d7084a838920648e221c7768}% 증가합니다.</indent>\n-<indent=5%>체인 및 원시 무기 공격의 {g|Encyclopedia:ParryReduction}막기 감소{/g}가 {uip|Value|0f4b1986d7084a838920648e221c7768}% 증가합니다.</indent>\n-<indent=5%>포스 및 파워 무기 공격의 {g|Encyclopedia:DeflectionNegation}피해 감소 무시{/g}가 {uip|Value2|0f4b1986d7084a838920648e221c7768} 증가합니다.</indent>\n-<indent=5%>특수 무기 공격 시 무작위 일반 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 1{g|Encyclopedia:Round}라운드{/g} 동안 부여할 확률이 {uip|Value|0f4b1986d7084a838920648e221c7768}% 증가합니다.</indent>
 21	무기 최적화 장치
-22	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
-23	<u>{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수</u>
+22	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
+23	<u>{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수</u>
 24	사용자의 공격은 사용하는 무기 종류에 따라 보너스를 얻습니다.\n-<indent=5%>멜타 및 플라스마 무기 공격의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 {uip|Value|4c369dab8f8b45379196373ac26f666e}% 증가합니다.</indent>\n-<indent=5%>볼터 및 실탄 무기 공격의 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 확률이 {uip|Value|4c369dab8f8b45379196373ac26f666e}% 증가합니다.</indent>\n-<indent=5%>라스 및 플레이머 무기 공격의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 {uip|Value|4c369dab8f8b45379196373ac26f666e}% 증가합니다.</indent>\n-<indent=5%>체인 및 원시 무기 공격의 {g|Encyclopedia:ParryReduction}막기 감소{/g}가 {uip|Value|4c369dab8f8b45379196373ac26f666e}% 증가합니다.</indent>\n-<indent=5%>포스 및 파워 무기 공격의 {g|Encyclopedia:DeflectionNegation}피해 감소 무시{/g}가 {uip|Value2|4c369dab8f8b45379196373ac26f666e} 증가합니다.</indent>\n-<indent=5%>특수 무기 공격 시 무작위 일반 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 1{g|Encyclopedia:Round}라운드{/g} 동안 부여할 확률이 {uip|Value|4c369dab8f8b45379196373ac26f666e}% 증가합니다.</indent>
-25	사용자는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g}을 3중첩 얻습니다.
+25	사용자는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g}을 3중첩 얻습니다.
 26	{g|Encyclopedia:Turn}턴{/g} 종료 시까지 무기 종류와 관계없이 이 {g|Encyclopedia:AugmentsFullGlossary}신체 보강물{/g}의 모든 보너스가 적용됩니다.\n사용자는 자신의 턴 종료 시 전투 종료 시까지 지속되는 피로를 1중첩 받습니다.
 27	<u>(35 × 사용자의 {g|Encyclopedia:Traumas}중상{/g} 수)</u>
 28	<u>(70 × 사용자의 {g|Encyclopedia:Traumas}중상{/g} 수)</u>
@@ -39,16 +39,16 @@
 39	<u>(75 × 사용자의 {g|Encyclopedia:Traumas}중상{/g} 수)</u>
 40	<u>(사용자의 {g|Encyclopedia:FatiguedEffect}피로{/g} 중첩 수 × 사용자의 {g|Encyclopedia:Traumas}중상{/g} 수)</u>
 41	사용자가 주는 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 {uip|Melee|4b31f1364ad44cb495b94abbfd39b5ff}%, 원거리 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 {uip|Ranged|4b31f1364ad44cb495b94abbfd39b5ff}% 증가합니다.\n사용자가 받는 피해가 {uip|DR|4b31f1364ad44cb495b94abbfd39b5ff}% 감소합니다.
-42	사용자는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g}을 3중첩 얻습니다.\n사용자가 {g|Encyclopedia:Traumas}중상{/g}을 입어도 이 신체 보강물은 활성 상태를 유지합니다.
+42	사용자는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g}을 3중첩 얻습니다.\n사용자가 {g|Encyclopedia:Traumas}중상{/g}을 입어도 이 신체 보강물은 활성 상태를 유지합니다.
 43	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 2)</u>
 44	피하 보상 장치
-45	매 {g|Encyclopedia:Round}라운드{/g}에 사용자가 처음으로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하면 1라운드 동안 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 {uip|THP|5bd6da4f96974ca29df16a5b5f7dd9ef} 얻습니다. 공격을 {g|Encyclopedia:BlockChance}차단{/g}하거나 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막아도 발동합니다. 중첩되지 않습니다.
+45	매 {g|Encyclopedia:Round}라운드{/g}에 사용자에게 처음으로 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1라운드 동안 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 {uip|THP|5bd6da4f96974ca29df16a5b5f7dd9ef} 얻습니다. 공격을 {g|Encyclopedia:BlockChance}차단{/g}하거나 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막아도 발동합니다. 중첩되지 않습니다.
 46	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 2)</u>
-47	매 {g|Encyclopedia:Round}라운드{/g}에 사용자가 처음 세 번 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당할 때마다 1라운드 동안 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 {uip|THP|973431c8057843328c04e74a9338df7d} 얻습니다. 공격을 {g|Encyclopedia:BlockChance}차단{/g}하거나 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막아도 발동합니다. 중첩되지 않습니다.
-48	사용자는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g}을 3중첩 얻습니다.
+47	매 {g|Encyclopedia:Round}라운드{/g}에 사용자에게 처음 세 번 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 1라운드 동안 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 {uip|THP|973431c8057843328c04e74a9338df7d} 얻습니다. 공격을 {g|Encyclopedia:BlockChance}차단{/g}하거나 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막아도 발동합니다. 중첩되지 않습니다.
+48	사용자는 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g}을 3중첩 얻습니다.
 49	사용자는 1{g|Encyclopedia:Round}라운드{/g} 동안 현재 {g|Encyclopedia:HitPoints}체력{/g}만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.\n이 임시 체력을 잃으면 전투 종료 시까지 지속되는 피로를 1중첩 받습니다.
 50	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 3)</u>
-51	사용자가 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 {uip|THP|fdbac6922400427e92a08d56391ce24c} 얻습니다. 공격을 {g|Encyclopedia:BlockChance}차단{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막아도 발동합니다. 중첩되지 않습니다.
+51	사용자에게 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 {uip|THP|fdbac6922400427e92a08d56391ce24c} 얻습니다. 공격을 {g|Encyclopedia:BlockChance}차단{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막아도 발동합니다. 중첩되지 않습니다.
 52	<u>피해 감소</u>
 53	<u>({g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} / 3)</u>
 54	<u>({g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} / 2)</u>
@@ -56,7 +56,7 @@
 56	갈바닉 카라페이스
 57	사용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 {uip|Armour|e868dbb0274243ccb24e8402397ee2ff}%를, {g|Encyclopedia:Deflection}피해 감소{/g}는 {unit_stat|WarhammerToughness|bonus}을 초과할 수 없습니다.
 58	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Bonus}보너스{/g} × 10)</u>
-59	사용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 제공하는 갑옷이 폭발하여 반경 3칸 내 모든 생명체에게 {uip|Damage|ecf41086be2743f2857ff0dceac7a920}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 줍니다.\n전투 종료 시까지 사용자의 방어도와 {g|Encyclopedia:Deflection}피해 감소{/g}는 0을 초과할 수 없습니다.
+59	사용자의 {g|Encyclopedia:WarhammerArmourGlossary}갑옷{/g}이 폭발하여 반경 3칸 내 모든 생명체에게 {uip|Damage|ecf41086be2743f2857ff0dceac7a920}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 줍니다.\n전투 종료 시까지 사용자의 방어도와 {g|Encyclopedia:Deflection}피해 감소{/g}는 0을 초과할 수 없습니다.
 60	<u>(({g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} + {g|Encyclopedia:Deflection}피해 감소{/g}) × 5)</u>
 61	사용자의 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 3 증가합니다.
 62	생체공학 몸통 이식물
@@ -73,7 +73,7 @@
 73	2라운드 동안 {g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻고, {g|Encyclopedia:WarhammerIntelligence}지능{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g}에 −10의 불이익을 받습니다.
 74	사용자는 {g|Encyclopedia:ActionPoints}행동력{/g}을 1 얻고 모든 공격과 공격 {g|Encyclopedia:Ability}능력{/g}의 재사용 대기시간을 즉시 초기화합니다. 사용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시 전투 종료 시까지 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다.
 75	요구 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자\n사용자는 {g|Encyclopedia:BleedingEffect}출혈{/g}(6)을 받습니다. 출혈 상태인 동안 사용자의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 100% 증가합니다.
-76	사용자의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 15 증가하고, {g|Encyclopedia:DamageGlossary}피해{/g}를 주거나 받을 때마다 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 10% 증가합니다. 이 효과는 2{g|Encyclopedia:Turn}턴{/g} 동안 지속되며, 이후 사용자는 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다.
+76	사용자의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 15 증가하고, {g|Encyclopedia:DamageGlossary}피해{/g}를 주거나 받을 때마다 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}이 10% 증가합니다. 이 효과는 2{g|Encyclopedia:Turn}턴{/g} 동안 지속되며, 이후 사용자는 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다.
 77	전투 쾌락 자극제
 78	사용자는 임시 체력을 모두 잃고 1라운드 동안 잃은 임시 체력만큼 근접 피해가 증가합니다.
 79	진홍빛 도취제
@@ -205,7 +205,7 @@
 205	아르비테스 수갑
 206	그저 장신구에 불과하지만, 이 복스 호각 소리를 들으면 사역마들이 이상한 행동을 보입니다. 그래도 전투 능력에는 영향을 주지 않습니다.
 207	복스 호각
-208	황제의 진정한 종이라면 인류의 적들을 향한 증오는 죽음마저 초월합니다. 이단자와의 불리한 전투에서 전사한 이 커미사르의 두개골에는 마지막 전투 함성을 재생하는 복스 중계기가 내장되어 있습니다.
+208	황제의 진정한 종이 품은 인류의 적들을 향한 증오는 죽음마저 초월합니다. 이단자와의 불리한 전투에서 전사한 이 커미사르의 두개골에는 마지막 전투 함성을 재생하는 복스 중계기가 내장되어 있습니다.
 209	용맹한 커미사르의 두개골
 210	봉건 판금 갑옷
 211	<b>방어구 기본 속성</b>: 착용자의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 80보다 높으면 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 15% 증가합니다.\n<b>출신 행성 속성</b>: 민첩이 15 증가합니다.
@@ -351,7 +351,7 @@
 351	무덤 연꽃의 선물
 352	착용자가 적을 처치할 때마다 {g|f:9395d6c10694470f8c8ea3c74c7e09c7}목을 노려라{/g}의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 초기화됩니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:WarhammerStrength}근력{/g}이 25 증가합니다.
 353	펜리스의 힘 갑옷
-354	팽 어디에도 비길 자 없었네{br}\n아르눌프의 힘과 흥겨움에.{br}\n강한 손으로 괴물을 쓰러뜨리고,{br}\n웃음으로 헬윈터의 혹한을 몰아냈네.{br}\n스칼!{br}
+354	힘과 흥겨움으로 아르눌프에 비길 자{br}\n팽 어디에도 없었네.{br}\n강한 손으로 괴물을 쓰러뜨리고,{br}\n웃음으로 헬윈터의 혹한을 몰아냈네.{br}\n스칼!{br}
 355	마법의 룬으로 뒤덮이고 아이언 프리스트의 축성을 받은 갑옷입니다. 울프 가드의 명예로운 전사, 울파르 형제의 소유입니다.
 356	<u>({g|Encyclopedia:SkillAwareness}인지{/g} / 10)</u>
 357	<u>({g|Encyclopedia:SkillLoreXenos}지식(제노스){/g} / 10)</u>
@@ -369,10 +369,10 @@
 369	스스로를 맑은 목소리의 예언자라 칭했던 경건한 신자의 뼈로 장식한 성스러운 갑옷입니다.
 370	<u>(3 + 착용자의 {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급)</u>
 371	<u>({g|Encyclopedia:SkillLoreImperium}지식(제국){/g} / 10)</u>
-372	착용자의 모든 공격 {g|Encyclopedia:Ability}능력{/g}에 드는 {g|Encyclopedia:ActionPoints}행동력{/g}이 1 증가하지만 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 20% 증가합니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 {uip|Armour|316d01893b674779a75f89b5de397d88}% 증가합니다.
+372	착용자의 모든 공격 {g|Encyclopedia:Ability}능력{/g}에 드는 {g|Encyclopedia:ActionPoints}행동력{/g}이 1 증가하지만 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}이 20% 증가합니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 {uip|Armour|316d01893b674779a75f89b5de397d88}% 증가합니다.
 373	불굴의 갑옷
 374	<u>(2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-375	착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 전투 시 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 {uip|CritChance|1144f936b5e14273b7d60367992364a8}% 증가합니다.\n<b>방어구 기본 속성</b>: 인간 적에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 10% 증가합니다.
+375	착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 전투 시 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}이 {uip|CritChance|1144f936b5e14273b7d60367992364a8}% 증가합니다.\n<b>방어구 기본 속성</b>: 인간 적에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 10% 증가합니다.
 376	압축 카라페이스 아머
 377	<u>({g|Encyclopedia:SkillLoreImperium}지식(제국){/g} / 10)</u>
 378	<b>방어구 기본 속성</b>: 방어도가 {uip|Armour|88c4c2fedc84403796580d7e85a03c7d}% 증가합니다.\n<b>추가 속성</b>: 지각이 10 증가합니다.
@@ -417,22 +417,22 @@
 417	절망의 갑옷
 418	집사장의 든든한 카라페이스 아머
 419	<u>(2 × 착용자의 {g|Encyclopedia:Deflection}피해 감소{/g})</u>
-420	착용자가 공격받을 때마다 공격자의 착용자 대상 치명타 확률이 {uip|CritRed|7f49924fd83944638d5dfc93a693b779}% 감소합니다.\n<b>방어구 기본 속성</b>: 착용자의 강인함이 75보다 높으면 {g|Encyclopedia:Deflection}피해 감소{/g}가 3 증가합니다.
+420	착용자가 공격받을 때마다 해당 공격의 치명타 확률이 {uip|CritRed|7f49924fd83944638d5dfc93a693b779}% 감소합니다.\n<b>방어구 기본 속성</b>: 착용자의 강인함이 75보다 높으면 {g|Encyclopedia:Deflection}피해 감소{/g}가 3 증가합니다.
 421	늑골 방호복
 422	착용자가 범위 공격과 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 30% 감소합니다.\n<b>방어구 기본 속성</b>: 인간 적에 대한 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 20% 증가합니다.
 423	중형 공허 방호복
 424	<u>(착용자의 총 {g|Encyclopedia:HitPoints}체력{/g} / 4)</u>
-425	착용자가 {uip|Wounds|f5809de6da7e407b95e15f8f7154a4d8} 이상의 피해를 받으면 이 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 제공하는 갑옷이 에너지를 방출하여 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내 모든 대상에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 10%로 <u>(20~25)</u>의 {g|Encyclopedia:PowerDamage}동력 피해{/g}를 줍니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:WarhammerStrength}근력{/g}이 25 증가합니다.
+425	착용자가 {uip|Wounds|f5809de6da7e407b95e15f8f7154a4d8} 이상의 피해를 받으면 이 {g|Encyclopedia:WarhammerArmourGlossary}갑옷{/g}이 에너지를 방출하여 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내 모든 대상에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 10%로 <u>(20~25)</u>의 {g|Encyclopedia:PowerDamage}동력 피해{/g}를 줍니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:WarhammerStrength}근력{/g}이 25 증가합니다.
 426	성스러운 파워 아머
 427	착용자가 {uip|Wounds|f5809de6da7e407b95e15f8f7154a4d8} 이상의 피해를 받으면 이 갑옷이 에너지를 방출하여 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내 적에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 10%로 <u>(25~30)</u>의 {g|Encyclopedia:PowerDamage}동력 피해{/g}를 줍니다.\\n<b>방어구 기본 속성</b>: {g|Encyclopedia:WarhammerStrength}근력{/g}이 30 증가합니다.
 428	<b>방어구 기본 속성</b>:\n<indent=5%>{g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} +{uip|Armour|45d920f667354737be5efb18e0ddc6df}%</indent>\n<indent=5%>{g|Encyclopedia:SkillTechUse}기술 활용{/g} +{uip|TechUse|45d920f667354737be5efb18e0ddc6df}</indent>
 429	성스러운 의복
 430	<u>({g|Encyclopedia:SkillLogic}논리{/g} / 10)</u>
-431	<u>(2 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+431	<u>(2 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 432	옴니시아의 신봉자들이 축복했습니다.
 433	<b>방어구 기본 속성</b>: 착용자의 민첩이 50보다 높으면 {g|Encyclopedia:DodgeGlossary}회피{/g}가 10% 증가합니다.\n<b>추가 속성</b>: {g|Encyclopedia:WarhammerToughness}강인함{/g}이 15 증가합니다.
 434	실잣는 자의 흉갑
-435	착용자가 근접 공격을 하면 이 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 제공하는 갑옷이 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내 모든 대상에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 5%로 <u>(10~15)</u>의 {g|Encyclopedia:PiercingDamage}관통 피해{/g}를 줍니다.\n<b>방어구 기본 속성</b>: 착용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 65보다 높으면 {g|Encyclopedia:Deflection}피해 감소{/g}가 3 증가합니다.
+435	착용자가 근접 공격을 하면 이 {g|Encyclopedia:WarhammerArmourGlossary}갑옷{/g}이 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내 모든 대상에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 5%로 <u>(10~15)</u>의 {g|Encyclopedia:PiercingDamage}관통 피해{/g}를 줍니다.\n<b>방어구 기본 속성</b>: 착용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 65보다 높으면 {g|Encyclopedia:Deflection}피해 감소{/g}가 3 증가합니다.
 436	인큐버스 칼날 갑옷
 437	착용자가 적을 처치하면 {g|Encyclopedia:ActionPoints}행동력{/g}을 1 회복합니다({g|Encyclopedia:Round}라운드{/g}당 1회).\n<b>방어구 기본 속성</b>: 착용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 70보다 높으면 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 15% 증가합니다.
 438	카스르킨 갑옷
@@ -454,7 +454,7 @@
 454	{g|f:9b090810169e4a42b22afd5995d3720d}데스 컬트 어쌔신{/g}의 {g|f:DeathCultAssassin_Bloodstained_AllyBuff}피의 축복{/g}이 8중첩 이상이면 행동력이 1, {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수{/g}가 1 증가합니다.\n<b>방어구 기본 속성</b>: 착용자가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중이 아니면 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 10% 증가합니다.
 455	착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 이동했다면 이 카라페이스 아머가 {g|Encyclopedia:Deflection}피해 감소{/g}를 1, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 10% 증가시킵니다.\n<b>방어구 기본 속성</b>: 인간 적에 대한 피해 감소가 2 증가합니다.
 456	강화 공허선 선원 갑옷
-457	요구 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 광신도.\n전투 내내 파티원 누구도 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된 적이 없다면 이 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 제공하는 갑옷의 착용자는 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 면역이 됩니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 방어도가 15% 증가합니다.
+457	요구 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 광신도.\n전투 내내 파티원 누구도 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된 적이 없다면 이 {g|Encyclopedia:WarhammerArmourGlossary}갑옷{/g}의 착용자는 {g|Encyclopedia:HitSequenceGlossary}치명타{/g}에 면역이 됩니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}에 대한 방어도가 15% 증가합니다.
 458	<u>({g|Encyclopedia:SkillMedicae}의술{/g} / 4)</u>
 459	착용자가 전투 중 중상을 입을 때마다 체력이 0보다 높으면 즉시 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|Heal|3e54949b6a89465fa52cd37fb7fa7889} 회복합니다.\n<b>방어구 기본 속성</b>: 착용자의 근접술이 55보다 높으면 {g|Encyclopedia:DodgeGlossary}회피{/g}가 10% 증가합니다.
 460	소리 없는 죽음
@@ -477,9 +477,9 @@
 477	착용자가 한 {g|Encyclopedia:Turn}턴{/g}에 3칸 이상 이동하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DodgeGlossary}회피{/g}가 20% 증가합니다.
 478	착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 이동하지 않았다면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}이 20% 증가합니다. 한 턴에 3칸 이상 이동하면 1라운드 동안 {g|Encyclopedia:DodgeGlossary}회피{/g}가 20% 증가합니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}에 대한 회피가 20% 증가합니다.
 479	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스 / 2)</u>
-480	착용자가 다음 지속 피해 효과 중 하나 이상을 받는 동안 이 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 제공하는 갑옷이 매 라운드 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|Wounds|4dff23a7cc4d430b91bfa8b1b5cfc20d} 회복합니다: {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}.\n<b>방어구 기본 속성</b>: 드루카리가 아닌 적에 대한 방어도가 10% 증가합니다.
+480	착용자가 다음 지속 피해 효과 중 하나 이상을 받는 동안 이 {g|Encyclopedia:WarhammerArmourGlossary}갑옷{/g}이 매 라운드 착용자의 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|Wounds|4dff23a7cc4d430b91bfa8b1b5cfc20d} 회복합니다: {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}.\n<b>방어구 기본 속성</b>: 드루카리가 아닌 적에 대한 방어도가 10% 증가합니다.
 481	레이스본 직조 전투복
-482	착용자는 공격 직전에 보유한 {g|Encyclopedia:MovementPoints}이동력{/g} 1당 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 3 증가합니다(최대 +30). 이 {g|Encyclopedia:Bonus}보너스{/g}는 중첩되며 착용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 지속됩니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:DodgeGlossary}회피{/g}가 10% 증가합니다.
+482	착용자가 공격할 때마다 공격 직전에 보유한 {g|Encyclopedia:MovementPoints}이동력{/g} 1당 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 3 증가합니다(최대 +30). 이 {g|Encyclopedia:Bonus}보너스{/g}는 중첩되며 착용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 지속됩니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:DodgeGlossary}회피{/g}가 10% 증가합니다.
 483	숨겨진 약속의 갑옷
 484	착용자가 공격을 {g|Encyclopedia:BlockChance}방어{/g}할 때마다 인접한 모든 생명체는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 1중첩 받습니다.\n<b>방어구 기본 속성</b>: 원거리 공격에 대한 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 10% 증가합니다.
 485	강철 의지의 갑옷
@@ -495,7 +495,7 @@
 495	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스 + {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
 496	전투 중 착용자의 {g|Encyclopedia:HitPoints}체력{/g}이 처음으로 0이 되면 즉시 체력을 {uip|Wounds|2314620f28d146a0ad4b8f9e69df6731} 회복하여 전투를 계속하며, {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 100 얻습니다.\n<b>방어구 기본 속성</b>: 원거리 공격에 대한 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 15% 증가합니다.
 497	최후의 저항 갑옷
-498	착용자의 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 대상은 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.\n<b>방어구 기본 속성</b>: 착용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 70보다 높으면 {g|Encyclopedia:Deflection}피해 감소{/g}가 3 증가합니다.
+498	착용자의 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 대상은 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.\n<b>방어구 기본 속성</b>: 착용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 70보다 높으면 {g|Encyclopedia:Deflection}피해 감소{/g}가 3 증가합니다.
 499	코로누스 공역 원수의 갑옷
 500	착용자는 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않으며 적을 통과하여 이동할 수 있습니다.\n매 {g|Encyclopedia:Turn}턴{/g} 착용자의 첫 공격은 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않고 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않지만, 주는 피해가 50% 감소합니다.\n<b>방어구 기본 속성</b>: {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 10% 증가합니다.
 501	유령 살해자 밀착복

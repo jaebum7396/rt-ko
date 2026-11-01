@@ -29,7 +29,7 @@
 29	피의 의식의 우상
 30	이 능력은 비지어에게 다음 공격이 명중하면 한 번 적용되는 {g|f:7217d9629e534111a993a2cce0bcf0e4}피의 비{/g} 효과를 부여합니다.
 31	비지어의 다음 공격이 명중하면 대상 뒤로 부채꼴 범위에 피가 튑니다. 적이 해당 칸으로 이동할 때마다 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g}가 +1중첩 부여됩니다. 또한 이 공격은 비지어에게 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}을 +1중첩 부여하고, 대상에게 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g}를 +1중첩 부여합니다. 이 효과들은 2라운드 동안 지속됩니다.
-32	이 데스 컬트 신도의 공격에 명중당한 각 대상은 −30 불이익을 받는 강인함 저항 판정에 실패하면 {g|Encyclopedia:BleedingEffect}출혈{/g} (5), {g|Encyclopedia:ToxinEffect}중독{/g} (5), {g|Encyclopedia:BurningEffect}화상{/g} (5) 중 하나를 무작위로 받습니다.
+32	이 데스 컬트 신도의 공격에 맞은 각 대상은 −30 불이익을 받는 강인함 저항 판정에 실패하면 {g|Encyclopedia:BleedingEffect}출혈{/g} (5), {g|Encyclopedia:ToxinEffect}중독{/g} (5), {g|Encyclopedia:BurningEffect}화상{/g} (5) 중 하나를 무작위로 받습니다.
 33	신성한 주입물
 34	이 데스 컬트 신도는 공격이 명중할 때마다 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}을 +1중첩 얻고, 대상에게 {g|f:4fe436747a7849759de6b83cdc774b7e}피투성이{/g}를 +1중첩 부여합니다.
 35	핏빛 실
@@ -93,13 +93,13 @@
 93	<u>({g|Encyclopedia:WarhammerStrength}근력{/g} 보너스 / 2)</u>
 94	사용자가 공격받으면 반격합니다(매 {g|Encyclopedia:Round}라운드{/g} 최대 {uip|Count|0eaa3dfaf2cf49109eef844b9477cd5a}회). 아군은 사용자의 공격을 항상 {g|Encyclopedia:DodgeGlossary}회피{/g}합니다.
 95	유선 신경 증폭기
-96	<u>(사용자의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+96	<u>(사용자의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 97	적이 사용자의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g} 또는 {g|Encyclopedia:BlockChance}방패 막기{/g}에 성공하면, 사용자가 해당 적에게 가하는 다음 공격은 회피, 막기, 방패 막기가 불가능해지고 기본 피해가 +{uip|Damage|d631acbb9e10424c88f2974f7c075207} 증가합니다.
 98	다중 스레드 원격 측정 로지스 분석기
 99	사용자는 공격할 때마다 −{uip|DC|9240ed9f123d4fa69f44e9c24d6e1b35} 불이익을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:ToxinEffect}중독{/g} 수준이 +{uip|Toxin|9240ed9f123d4fa69f44e9c24d6e1b35} 증가하고 즉시 해당 중독 피해를 한 번 더 받습니다.
 100	{g|Encyclopedia:CharacterLevel}<u>캐릭터 레벨</u>{/g}
 101	<u>(5 × {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-102	사용자는 {g|Encyclopedia:Traumas}중상{/g}을 입지 않습니다. {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g}으로 인해 받는 추가 피해가 중첩당 10%로 감소합니다.
+102	사용자는 {g|Encyclopedia:Traumas}중상{/g}을 입지 않습니다. {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g}으로 인해 받는 추가 피해가 중첩당 10%로 감소합니다.
 103	재생 매트릭스
 104	사용자가 {g|Encyclopedia:Injury}부상{/g}을 입으면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Stun}기절{/g} 상태가 됩니다.
 105	폭스워커
@@ -233,7 +233,7 @@
 233	운명의 타격
 234	이 크리처는 자신의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 준 {g|Encyclopedia:DamageGlossary}피해{/g}만큼 {g|Encyclopedia:HitPoints}체력{/g}을 회복합니다.
 235	피의 희생
-236	이 크리처의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 지옥불로 벼려졌습니다.\n{g|Encyclopedia:Deflection}피해 감소{/g} +10\n방어도 +50%
+236	이 크리처의 {g|Encyclopedia:WarhammerArmourGlossary}갑옷{/g}은 지옥불로 벼려졌습니다.\n{g|Encyclopedia:Deflection}피해 감소{/g} +10\n방어도 +50%
 237	지옥불로 벼린 갑옷
 238	대상이 +<u>(최대 {g|Encyclopedia:HitPoints}체력{/g} / 2)</u> {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.
 239	어둠의 계약
@@ -284,7 +284,7 @@
 284	특화된 훈련과 헤아릴 수 없이 많은 전장 경험으로 이 크리처의 {g|Encyclopedia:Characteristic}능력치{/g}가 증가합니다.
 285	데스워치 캡틴
 286	사이버 마스티프
-287	사이버 마스티프는 튼튼하고 강력한 사역체입니다. 아군이든 적이든 지정된 대상을 따라다니는 것이 주된 역할입니다. {g|f:3311f1213a1e452c874ce2cde5c03f59}체포해!{/g} {g|Encyclopedia:Ability}능력{/g}으로 적을 추격하고 고립시킬 수 있으며, 원거리 무기를 사용하는 대상과 사이커에게 특히 효과적입니다. 사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포된{/g} 대상과 인접해 있으면 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 해당 대상을 공격할 때마다 함께 공격합니다. 대상이 도망치려 하면 사이버 마스티프가 저지하려 합니다. 대상을 쓰러뜨린 후에는 사이버 마스티프에게 새 명령을 내리는 것을 잊지 마십시오. 명령을 {g|f:7e87f215637d45dfb80d7291177ed6c8}대기{/g}하고 있을 테니까요!\n{g|f:78e7771b7c974111887e762d5e999a11}지켜라!{/g} 능력은 사이버 마스티프를 든든한 경호원으로 만듭니다. 보호하는 아군을 따라다니며 감히 그 아군에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키는 적을 공격합니다.\n사역체를 직접 조종하고 싶지 않다면 {g|f:11251c47c7b14a87824cffe48ea6374d}전투 모드: 대기{/g}를 사용하십시오. 사이버 마스티프가 알아서 가장 가까운 대상을 공격합니다! {g|f:1bdeaab7c66c44a09357141ff127f5ba}으르렁!{/g}은 범위 내 적들을 약화시켜 주는 피해를 감소시키고, {g|f:b1ad536a308a4cb49e0c1c4d31c3ee25}물어!{/g}와 {g|f:05a10418b81049198fb5d792ca346f2f}달려!{/g}는 기동성을 높여 적진을 돌파하는 데 도움이 됩니다.
+287	사이버 마스티프는 튼튼하고 강력한 사역체입니다. 아군이든 적이든 지정된 대상을 따라다니는 것이 주된 역할입니다. {g|f:3311f1213a1e452c874ce2cde5c03f59}체포해!{/g} {g|Encyclopedia:Ability}능력{/g}으로 적을 추격하고 고립시킬 수 있으며, 원거리 무기를 사용하는 대상과 사이커에게 특히 효과적입니다. 사이버 마스티프가 {g|f:f39e0e323f314259b3e7510b110d3a4b}체포된{/g} 대상과 인접해 있으면 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}가 해당 대상을 공격할 때마다 함께 공격합니다. 대상이 도망치려 하면 사이버 마스티프가 저지하려 합니다. 대상을 쓰러뜨린 후에는 사이버 마스티프에게 새 명령을 내리는 것을 잊지 마십시오. 명령을 {g|f:7e87f215637d45dfb80d7291177ed6c8}대기{/g}하고 있습니다!\n{g|f:78e7771b7c974111887e762d5e999a11}지켜라!{/g} 능력은 사이버 마스티프를 든든한 경호원으로 만듭니다. 보호하는 아군을 따라다니며 감히 그 아군에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키는 적을 공격합니다.\n사역체를 직접 조종하고 싶지 않다면 {g|f:11251c47c7b14a87824cffe48ea6374d}전투 모드: 대기{/g}를 사용하십시오. 사이버 마스티프가 알아서 가장 가까운 대상을 공격합니다! {g|f:1bdeaab7c66c44a09357141ff127f5ba}으르렁!{/g}은 범위 내 적들을 약화시켜 주는 피해를 감소시키고, {g|f:b1ad536a308a4cb49e0c1c4d31c3ee25}물어!{/g}와 {g|f:05a10418b81049198fb5d792ca346f2f}달려!{/g}는 기동성을 높여 적진을 돌파하는 데 도움이 됩니다.
 288	사이버 마스티프
 289	강력한 물어뜯기
 290	베어내는 발톱
@@ -296,7 +296,7 @@
 296	<u>({g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 2)</u>
 297	사이버 마스티프 발톱
 298	사이버 이글
-299	사이버 이글은 상공에서 전장을 감시하고 적을 교란하기에 적합한 민첩한 도구입니다. {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g} 중에는 기존 {g|Encyclopedia:Ability}능력{/g} 대신 더욱 강력한 형태의 능력을 사용할 수 있습니다.\n{g|f:9cea4a0c57c448f7a90c44998745bf96}시야 방해{/g} 능력은 적들이 서로의 무기로 서로를 파괴하게 합니다. 날렵하게 {g|f:53135057d69647a7854e578c5ef40bba}시야를 방해하는{/g} 사이버 이글이 적을 도발해 자신을 향해 사격하게 만들며, 이 사격은 해당 적의 아군에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 확률이 높아집니다.\n적들이 밀집해 있으면 {g|f:40bc0f9310894ee2ace0d60daafa3c19}실명 타격{/g}으로 적의 능력을 크게 제한할 수 있습니다. {g|f:95c502e72a6743d1ad0cbadf13051225}기습 비행{/g}은 피해를 주면서 적진을 가로질러 이동하는 데 도움이 됩니다. 마지막으로 {g|f:ce847cb6b6074a528eaf4cc4479d4db0}살아 있는 미끼{/g}는 이 사역체를 무자비한 포식자로 만듭니다.\n이 사역체를 직접 조종하고 싶지 않다면 {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g}하게 두십시오. {g|Encyclopedia:HitPoints}체력{/g}을 회복하며 공격할 기회를 기다립니다.
+299	사이버 이글은 상공에서 전장을 감시하고 적을 교란하기에 적합한 민첩한 도구입니다. {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g} 중에는 기존 {g|Encyclopedia:Ability}능력{/g} 대신 더욱 강력한 형태의 능력을 사용할 수 있습니다.\n{g|f:9cea4a0c57c448f7a90c44998745bf96}시야 방해{/g} 능력은 적들이 각자의 무기로 서로를 공격하게 합니다. 날렵하게 {g|f:53135057d69647a7854e578c5ef40bba}시야를 방해하는{/g} 사이버 이글이 적을 도발해 자신을 향해 사격하게 만들며, 이 사격은 해당 적의 아군에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 확률이 높아집니다.\n적들이 밀집해 있으면 {g|f:40bc0f9310894ee2ace0d60daafa3c19}실명 타격{/g}으로 적의 능력을 크게 제한할 수 있습니다. {g|f:95c502e72a6743d1ad0cbadf13051225}기습 비행{/g}은 피해를 주면서 적진을 가로질러 이동하는 데 도움이 됩니다. 마지막으로 {g|f:ce847cb6b6074a528eaf4cc4479d4db0}살아 있는 미끼{/g}는 이 사역체를 무자비한 포식자로 만듭니다.\n이 사역체를 직접 조종하고 싶지 않다면 {g|f:ec56854df2e84ef196a49079a43b5211}비상{/g}하게 두십시오. {g|Encyclopedia:HitPoints}체력{/g}을 회복하며 공격할 기회를 기다립니다.
 300	날카로운 발톱
 301	사이버 이글의 핵심 {g|Encyclopedia:Characteristic}능력치{/g}는 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이며, +{uip|LVLKey|8091a95e83504474a7a2a20bfd270d2b} 보너스를 얻습니다. 나머지 능력치는 +{uip|LVLOther|8091a95e83504474a7a2a20bfd270d2b} 보너스를 얻습니다.
 302	사이버 이글: 핵심 능력치
@@ -414,7 +414,7 @@
 414	분열
 415	이 크리처가 {g|Encyclopedia:DamageGlossary}피해{/g}를 주면 대상에게 저주를 걸어 해당 대상이 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 받을 확률을 높입니다.\n저주받은 대상의 다음 공격도 반드시 치명타로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}합니다.
 416	저주를 부르는 자
-417	이 크리처에게 가하는 다음 공격은 저주받은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 흡수됩니다. 공격한 적도 저주를 받아 다음에 받는 공격이 치명타로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}합니다.
+417	이 크리처에게 가하는 다음 공격은 저주받은 {g|Encyclopedia:WarhammerArmourGlossary}갑옷{/g}에 흡수됩니다. 공격한 적도 저주를 받아 다음에 받는 공격이 치명타로 {g|Encyclopedia:HitSequenceGlossary}명중{/g}합니다.
 418	저주받은 갑옷
 419	적이 {g|Encyclopedia:CareerFighterGlossary}워리어{/g}를 공격할 때마다 워리어가 해당 적에게 가하는 다음 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이 +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:DamageGlossary}피해{/g}를 추가로 줍니다. 중첩되지 않지만 같은 적이나 다른 적에게 다시 공격받으면 재발동할 수 있습니다.
 420	경멸
@@ -430,7 +430,7 @@
 430	적을 처치할 때마다 {g|Encyclopedia:HitPoints}체력{/g}을 회복합니다.
 431	피의 향연
 432	고문자의 오라
-433	명중하는 공격 두 번 중 한 번은 받는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}를 무효화합니다.
+433	공격이 두 번 명중할 때마다 두 번째 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}를 전부 무효화합니다.
 434	위상 전환
 435	이 크리처는 자신의 턴 직후 아군에게 추가 {g|Encyclopedia:Turn}턴{/g}을 부여합니다.
 436	명령
@@ -449,7 +449,7 @@
 449	이 크리처는 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 때마다 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 증가합니다.
 450	고통의 애호가
 451	영체의 불꽃
-452	테크 프리스트는 전투당 1회 메카덴드라이트로 아군의 {g|Encyclopedia:HitPoints}체력{/g}을 회복할 수 있습니다.\n{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 효과로 인해 대상이 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g} 증가량이 전투 종료 시까지 중첩당 −5% 감소합니다.\n해당 아군은 +<u>(6 + {uip|Heal|3a3b073676b24e7ead880363fef1bbaf} + 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u> 체력을 회복합니다.
+452	테크 프리스트는 전투당 1회 메카덴드라이트로 아군의 {g|Encyclopedia:HitPoints}체력{/g}을 회복할 수 있습니다.\n{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 효과로 인해 대상이 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g} 증가량이 전투 종료 시까지 중첩당 −5% 감소합니다.\n해당 아군은 +<u>(6 + {uip|Heal|3a3b073676b24e7ead880363fef1bbaf} + 대상의 {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u> 체력을 회복합니다.
 453	의료용 메카덴드라이트
 454	조작용 메카덴드라이트가 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내의 적을 공격하여 최대 2칸 {g|Encyclopedia:PushGlossary}밀쳐내고{/g} {uip|Damage|215371a91c7047abb0fc1acbbbbcf63c} 피해를 줍니다. 이 공격의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}은 {uip|Penetration|215371a91c7047abb0fc1acbbbbcf63c}%입니다.
 455	조작기 밀치기
@@ -468,7 +468,7 @@
 468	보복
 469	{g|Encyclopedia:CareerLeaderGlossary}오피서{/g}와 {g|f:9c78e44bf8ff44a9afff8370c673c9ad}지휘의 목소리{/g} 효과를 받는 아군은 이번 전투에서 아직 행동하지 않은 적에게 +{uip|DamageBonus|58073019ae10412e9509b6ac97006bf1}% {g|Encyclopedia:DamageGlossary}피해{/g}를 추가로 줍니다.
 470	선제권 장악
-471	솔져가 즉시 숨 가쁨 효과를 제거합니다. 전투 종료 시까지 다음 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.\n-<indent=5%>{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +10.</indent>\n-<indent=5%>{g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g} +{uip|BonusCritDamage|530b6d2cefef42f180b90c7bdbb99f90}%.</indent>\n-<indent=5%>치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g} +{unit_stat|WarhammerAgility|bonus}%.</indent>\n이 {g|Encyclopedia:Ability}능력{/g}은 솔져가 적 3명을 처치한 후 사용할 수 있습니다. 처치 수는 {g|Encyclopedia:Round}라운드{/g}가 바뀌어도 초기화되지 않습니다.
+471	솔져가 즉시 숨 가쁨 효과를 제거합니다. 전투 종료 시까지 다음 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.\n-<indent=5%>{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +10.</indent>\n-<indent=5%>{g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g} +{uip|BonusCritDamage|530b6d2cefef42f180b90c7bdbb99f90}%.</indent>\n-<indent=5%>{g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g} +{unit_stat|WarhammerAgility|bonus}%.</indent>\n이 {g|Encyclopedia:Ability}능력{/g}은 솔져가 적 3명을 처치한 후 사용할 수 있습니다. 처치 수는 {g|Encyclopedia:Round}라운드{/g}가 바뀌어도 초기화되지 않습니다.
 472	학살의 희열
 473	솔져의 모든 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}은 자신의 반경 3칸 이내에 있는 적에게 사용할 때 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +{uip|DamageBonus|82483452ef5c4ab69ac78eb05dc6771b}% 증가하고 {g|Encyclopedia:Deflection}피해 감소{/g} {uip|DeflectionPenetration|82483452ef5c4ab69ac78eb05dc6771b}을 무시합니다.
 474	지근거리 사격

@@ -1,5 +1,5 @@
 1	마크 "오퍼러티브"
-2	마크 "아치 밀리턴트"
+2	마크 "아크 밀리턴트"
 3	마크 "어새신"
 4	마크 "워리어"
 5	마크 "헌터"
@@ -10,7 +10,7 @@
 10	마크 "택티션"
 11	마크 "뱅가드"
 12	이 효과의 중첩마다 이 개체가 받는 {g|Encyclopedia:ShockDamage}감전 피해{/g}가 +15% 증가합니다.\n<i>이 효과는 해당 개체의 신체 개조물로 발생하며 제거할 수 없습니다.</i>
-13	페룸 상툼
+13	페룸 상크툼
 14	마크 I
 15	마크 II
 16	사용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 −3 감소합니다.
@@ -45,7 +45,7 @@
 45	구급상자와 자극제의 사용 사거리가 +{unit_stat|WarhammerStrength|bonus} 증가합니다.\n구급상자로 아군의 {g|Encyclopedia:HitPoints}체력{/g}을 회복하면 체력을 +{uip|Heal|0987bac05d5a4a6c940efcd927a1cf19} 더 회복합니다.\n자극제를 사용하면 체력을 {uip|Heal|0987bac05d5a4a6c940efcd927a1cf19} 회복합니다.\n대상이 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 영역 안에 있다면 이 수치가 +{unit_stat|WarhammerIntelligence|bonus} 증가합니다.
 46	사용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +3 증가합니다.
 47	생체공학 팔 이식물
-48	<u>(0.5 × {g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} − {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+48	<u>(0.5 × {g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} − {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 49	{g|Encyclopedia:Round}라운드{/g}당 2회, 반경 8칸 이내이면서 사용자의 {g|Encyclopedia:LineOfSight}시야{/g}에 있는 적이 아군에게 피해를 주면 해당 적이 1라운드 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다.
 50	이 개체의 근접술과 사격술이 1라운드 동안 각각 −10 감소합니다. 최대 2회 중첩됩니다.
 51	이 신체 보강물의 능력을 사용할 때마다 사용자의 근접술과 사격술이 1라운드 동안 각각 −10 감소합니다. 최대 2회 중첩됩니다.
@@ -86,10 +86,10 @@
 86	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}을 부여합니다.\n이 효과는 영향을 받는 개체에 인접한 모든 개체에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|169cbd9c211c42f9bf5f4c0e7b67ab7b}%의 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|169cbd9c211c42f9bf5f4c0e7b67ab7b} 주며, 사용자에게는 이 효과의 피해를 2배로 줍니다.
 87	사용자 주변 반경 3칸 이내에서 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}의 영향을 받는 모든 유닛은 사용자를 제외하고 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|6c7def955d1341429544addea4f98113}%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|Damage|6c7def955d1341429544addea4f98113} 받습니다.
 88	무기 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}을 부여합니다. 이 효과는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|353735efe162410a8c720ef26ad6bd1b}%의 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|3f52842cd8774f2392b68a40916670ef} 줍니다.
-89	<u>(3 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+89	<u>(3 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 90	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g})</u>
 91	무기 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}을 부여합니다.\n이 효과는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|eee6b4e4fe5141c5bd529f260c8184de}%의 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|eee6b4e4fe5141c5bd529f260c8184de} 줍니다.
-92	<u>(7 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+92	<u>(7 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 93	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g})</u>
 94	전투 중 사용자는 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g} 효과를 받습니다. 이 효과는 제거할 수 없습니다.
 95	무기 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g}을 부여합니다.\n이 효과는 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {uip|Pen|3f52842cd8774f2392b68a40916670ef}%의 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|3f52842cd8774f2392b68a40916670ef} 줍니다. 사용자에게 적용된 {g|f:37ca77c5cff34656a0a949d3aa37bfe6}전류 공명{/g} 효과로 다른 개체가 피해를 받을 때마다 사용자가 {g|f:2606d221cbd84502957939547b6f4d21}전술적 우위{/g}를 +1중첩 얻습니다.
@@ -169,8 +169,8 @@
 169	에오건이 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다. 전투가 끝날 때까지 {g|f:4f13e446713f440bbc30e8d216bc9f1e}이동 불가{/g} 상태를 유지하는 동안 공격 시 {g|Encyclopedia:LineOfSight}시야{/g}를 무시하며 무기의 최대 사거리가 +100 증가합니다.
 170	<u>{g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스</u>
 171	<u>{g|Encyclopedia:WarhammerPerception}지각{/g} 보너스</u>
-172	솔로몬의 {g|Encyclopedia:Turn}턴{/g} 시작 시 사이버 마스티프가 {g|Encyclopedia:LineOfSight}시야{/g} 안에 없거나 사역마가 비활성화되어 있으면 솔로몬의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 −5 감소합니다.
-173	사이버 마스티프의 상태에 따라 다음 효과를 얻습니다.\n-<indent=5%>{g|f:e16934c3dbf44cb997c684a6ddce7575}체포 중{/g}이면 솔로몬의 {g|Encyclopedia:Turn}턴{/g} 시작 시 주는 피해가 +{uip|DamageBonus|38f5e9e8ab2f43b8aa356dbc89b821ba}% 증가합니다.</indent>\n-<indent=5%>{g|f:a63088cd6402424b8ec0c508e5143083}보호 중{/g}이면 솔로몬의 턴 시작 시 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|ArmorBonus|38f5e9e8ab2f43b8aa356dbc89b821ba}% 증가합니다.</indent>\n-<indent=5%>{g|f:11251c47c7b14a87824cffe48ea6374d}전투 모드: 대기{/g} 상태이면 솔로몬의 턴 시작 시 {g|Encyclopedia:MovementPoints}이동력{/g}을 +2 얻습니다.</indent>\n이 효과는 사이버 마스티프가 솔로몬의 {g|Encyclopedia:LineOfSight}시야{/g} 안에 있을 때만 활성화됩니다.
+172	솔로모른의 {g|Encyclopedia:Turn}턴{/g} 시작 시 사이버 마스티프가 {g|Encyclopedia:LineOfSight}시야{/g} 안에 없거나 사역마가 비활성화되어 있으면 솔로모른의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 −5 감소합니다.
+173	사이버 마스티프의 상태에 따라 다음 효과를 얻습니다.\n-<indent=5%>{g|f:e16934c3dbf44cb997c684a6ddce7575}체포 중{/g}이면 솔로모른의 {g|Encyclopedia:Turn}턴{/g} 시작 시 주는 피해가 +{uip|DamageBonus|38f5e9e8ab2f43b8aa356dbc89b821ba}% 증가합니다.</indent>\n-<indent=5%>{g|f:a63088cd6402424b8ec0c508e5143083}보호 중{/g}이면 솔로모른의 턴 시작 시 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|ArmorBonus|38f5e9e8ab2f43b8aa356dbc89b821ba}% 증가합니다.</indent>\n-<indent=5%>{g|f:11251c47c7b14a87824cffe48ea6374d}전투 모드: 대기{/g} 상태이면 솔로모른의 턴 시작 시 {g|Encyclopedia:MovementPoints}이동력{/g}을 +2 얻습니다.</indent>\n이 효과는 사이버 마스티프가 솔로모른의 {g|Encyclopedia:LineOfSight}시야{/g} 안에 있을 때만 활성화됩니다.
 174	주인 연결 바이저
 175	방어 관통 20%의 충돌 피해를 <u>(8~10)</u> 줍니다.\n이 능력을 사용하기 전에 자이가 아군에게 부여한 {g|Encyclopedia:ExtraTurn}추가 턴{/g}마다 이 능력의 피해와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +{uip|BonusDamage|e86fc99b6dd24e4a8b6657e252b85901}% 증가합니다. 추가 {g|Encyclopedia:Turn}턴{/g} 횟수는 이 능력을 마지막으로 사용한 시점부터 계산합니다. 이 능력의 피해는 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막을 수 없습니다.\n이 능력은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않습니다.
 176	차가운 복수
@@ -180,13 +180,13 @@
 180	자이가 {g|f:e86fc99b6dd24e4a8b6657e252b85901}차가운 복수{/g} 능력을 얻습니다.
 181	먹여 주는 손
 182	사용자가 {g|f:e86fc99b6dd24e4a8b6657e252b85901}차가운 복수{/g}를 사용할 때마다 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:FatiguedEffect}피로{/g}가 +1중첩됩니다.
-183	솔로몬에 인접한 대상 개체는 −{uip|SavingThrowBonus|088db872df394b1aaa71781354c48a5b} 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다.\n{g|Encyclopedia:Test}판정{/g}에 실패하면 해당 개체는 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 되며 솔로몬의 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}로 취급됩니다. 이후 솔로몬의 {g|Encyclopedia:Turn}턴{/g}이 종료됩니다.\n대상 개체가 판정에 성공하면 아무 효과도 없으며 솔로몬의 턴도 종료되지 않습니다.
+183	솔로모른에 인접한 대상 개체는 −{uip|SavingThrowBonus|088db872df394b1aaa71781354c48a5b} 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다.\n{g|Encyclopedia:Test}판정{/g}에 실패하면 해당 개체는 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 되며 솔로모른의 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}로 취급됩니다. 이후 솔로모른의 {g|Encyclopedia:Turn}턴{/g}이 종료됩니다.\n대상 개체가 판정에 성공하면 아무 효과도 없으며 솔로모른의 턴도 종료되지 않습니다.
 184	강제 담보
 185	<u>({g|Encyclopedia:SkillCoercion}위협{/g} / 3)</u>
-186	이 개체는 솔로몬의 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}로 취급됩니다.
-187	솔로몬이 {g|f:088db872df394b1aaa71781354c48a5b}강제 담보{/g} 능력을 얻습니다.
+186	이 개체는 솔로모른의 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}로 취급됩니다.
+187	솔로모른이 {g|f:088db872df394b1aaa71781354c48a5b}강제 담보{/g} 능력을 얻습니다.
 188	참회의 손
-189	솔로몬이 {g|f:088db872df394b1aaa71781354c48a5b}강제 담보{/g}를 사용할 때마다 다음 {g|Encyclopedia:Turn}턴{/g}이 끝날 때까지 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 됩니다.
+189	솔로모른이 {g|f:088db872df394b1aaa71781354c48a5b}강제 담보{/g}를 사용할 때마다 다음 {g|Encyclopedia:Turn}턴{/g}이 끝날 때까지 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 됩니다.
 190	반중력 충전
 191	사용자가 한 칸 이동할 때마다 {g|f:3a3202273a334a989eee9d85b2df93f0}반중력 충전{/g}을 +1중첩 얻습니다.\n중첩 수가 {unit_stat|WarhammerAgility|bonus}이 되면 모든 중첩이 제거되고 {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g}를 +1중첩 얻습니다.\n사용자는 {g|f:6338756ef76148369f50bc5d6d48ac4a}다리 불구{/g} 효과를 받지 않습니다.
 192	중력 코어 회로
@@ -224,10 +224,10 @@
 224	다시 꿰맨 살점
 225	이 효과의 중첩마다 에오건이 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{unit_stat|WarhammerIntelligence|bonus}% 증가합니다.
 226	고통의 화신
-227	{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩마다 에오건이 주는 에너지 및 {g|Encyclopedia:ShockDamage}감전 피해{/g}가 증가합니다. 증가량은 모든 보정치를 적용한 후 이 효과로 인해 에오건이 추가로 받는 감전 {g|Encyclopedia:DamageGlossary}피해{/g}와 같습니다.
+227	{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩마다 에오건이 주는 에너지 및 {g|Encyclopedia:ShockDamage}감전 피해{/g}가 증가합니다. 증가량은 모든 보정치를 적용한 후 이 효과로 인해 에오건이 추가로 받는 감전 {g|Encyclopedia:DamageGlossary}피해{/g}와 같습니다.
 228	전기 통합 격실
 229	에오건이 감전 또는 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}를 줄 때마다 주변 반경 2칸 이내의 모든 개체에게 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} 50%의 {g|Encyclopedia:ShockDamage}감전 피해{/g}를 {uip|Damage|2f4804b02eee4e03936aaf87e5c5b97e} 줍니다.
-230	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g} × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+230	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g} × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 231	{g|Encyclopedia:Turn}턴{/g}이 끝날 때까지 이 신체 보강물의 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 받는 개체도 이 효과를 한 번 발동하여 자신의 주변 반경 2칸 이내의 개체에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다. 새로 영향을 받은 대상은 이 효과를 다시 발동하지 않습니다.
 232	자이의 {g|Encyclopedia:HitPoints}체력{/g}이 100% 미만이면 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 50% 확률로 {g|Encyclopedia:BleedingEffect}출혈{/g}(7)이 부여됩니다.\n자이에게 {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}갈비뼈 골절{/g}이 발생할 때 출혈 상태가 아니라면 즉시 출혈(7)이 부여됩니다. {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}갈비뼈 골절{/g} 상태인 동안 출혈과 {g|Encyclopedia:ToxinEffect}중독{/g}으로 받는 피해가 +100% 증가합니다.
 233	자이의 {g|Encyclopedia:HitPoints}체력{/g}이 30% 미만이면 {g|Encyclopedia:ActionPoints}행동력{/g}을 +1 얻습니다.
@@ -285,8 +285,8 @@
 285	전투가 끝날 때까지 기름이 깔린 칸에 진입하는 적은 추가로 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 −5% {g|Encyclopedia:Penalty}불이익{/g}을 받습니다. 중첩됩니다.\n사용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시 전투가 끝날 때까지 감속 상태가 됩니다.
 286	사용자가 전투 중 이동하면 지나가는 모든 칸에 기름이 깔립니다. 이 영역은 2{g|Encyclopedia:Round}라운드{/g} 동안 유지됩니다.\n적이 해당 칸에 진입하면 +{uip|DC|2b385735a44746e0b2fbaa2b68ef0b49} {g|Encyclopedia:Bonus}보너스{/g}(최소 0)를 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. {g|Encyclopedia:Test}판정{/g}에 실패하면 해당 적은 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다. 판정에 성공하면 사용자가 해당 적의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 됩니다. 이후 해당 칸의 기름이 제거됩니다.
 287	운동 반사기
-288	사용자가 {g|Encyclopedia:Round}라운드{/g}마다 처음 세 번 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때 공격자에게 {g|f:22d6c1b32a6d47f4899a370e28cf16f9}발차기{/g}를 사용합니다.\n{g|Encyclopedia:CareerVeteranGlossary}아치 밀리턴트{/g} {g|Encyclopedia:Talent}재능{/g}은 이 반격에 영향을 주지 않습니다.
-289	사용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 공격자에게 {g|f:22d6c1b32a6d47f4899a370e28cf16f9}발차기{/g}를 사용합니다.\n{g|Encyclopedia:CareerVeteranGlossary}아치 밀리턴트{/g} {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}은 이 반격에 영향을 주지 않습니다.
+288	사용자가 {g|Encyclopedia:Round}라운드{/g}마다 처음 세 번 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때 공격자에게 {g|f:22d6c1b32a6d47f4899a370e28cf16f9}발차기{/g}를 사용합니다.\n{g|Encyclopedia:CareerVeteranGlossary}아크 밀리턴트{/g} {g|Encyclopedia:Talent}재능{/g}은 이 반격에 영향을 주지 않습니다.
+289	사용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 공격자에게 {g|f:22d6c1b32a6d47f4899a370e28cf16f9}발차기{/g}를 사용합니다.\n{g|Encyclopedia:CareerVeteranGlossary}아크 밀리턴트{/g} {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}은 이 반격에 영향을 주지 않습니다.
 290	사용자의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 −15% 감소합니다.
 291	1{g|Encyclopedia:Round}라운드{/g} 동안 사용자에게 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 이 신체 보강물의 반격이 발동합니다. 이 효과가 끝나면 사용자가 전투 종료 시까지 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다.
 292	사용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 방패를 장착하고 있다면 공격자에게 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}를 사용합니다.
@@ -310,9 +310,9 @@
 310	사용자가 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않고 {uip|Distance|7e79642d9cdd442cb014809f1b4973a0}칸 이내의 칸으로 도약합니다.
 311	도약 기동
 312	<u>(1 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 3)</u>
-313	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
-314	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
-315	<u>(10 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+313	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
+314	<u>(5 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
+315	<u>(10 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 316	착지 시 {uip|Chance|c5798a6a51a64085bf31d5db4f40c7cc}% 확률(최대 100%)로 사용자가 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되며, 인접한 모든 개체에게 방어 관통 {uip|Pen|c5798a6a51a64085bf31d5db4f40c7cc}%의 감전 피해를 {uip|Damage|c5798a6a51a64085bf31d5db4f40c7cc} 줍니다.
 317	사격이 착용자 대신 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 공격자에게 {g|Encyclopedia:Exploit}약점{/g}이 +3중첩 부여됩니다.\n착용자는 엄폐하지 않은 상태에서도 엄폐한 것처럼 +{uip|Cover|3b270aa2bd61498baeb8f78789b30014}%의 엄폐 효율을 얻습니다(최대 50%).
 318	<u>(4 × 사용자의 이동력)</u>
@@ -336,14 +336,14 @@
 336	사용자가 {g|Encyclopedia:DamageGlossary}피해{/g}를 {uip|Damage|52882ea3bd6841a7823665a4a8bbd7f4} 줍니다. 이후 이 {g|Encyclopedia:Ability}능력{/g}이 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 발동시킵니다.
 337	<u>((2 × {g|Encyclopedia:PsyRating}사이 등급{/g}) × {g|Encyclopedia:VeilThickness}베일 손상{/g})</u>
 338	원격 계측 로지스 분석기
-339	<u>{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수</u>
+339	<u>{g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수</u>
 340	대상이 사용자의 무기 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 사용자가 해당 대상에게 가하는 다음 공격의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|fe63fa43f7a7420e9d79a41317ea357b} 증가하며, 해당 공격은 회피할 수 없습니다.
-341	<u>(2 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수)</u>
+341	<u>(2 × {g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수)</u>
 342	대상이 사용자의 무기 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 사용자가 해당 대상에게 가하는 다음 공격의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|ac47e00cf76b4e64a23077cf53e6b660} 증가하며, 해당 공격은 회피할 수 없습니다.
 343	<u>({g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} / 2)</u>
 344	<u>(3 × {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
 345	사용자의 의지력이 −10% 감소합니다.
-346	<u>({g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상툼{/g} 중첩 수 / 2)</u>
+346	<u>({g|f:780497b04a0944e59cb57e68bb9775c4}페룸 상크툼{/g} 중첩 수 / 2)</u>
 347	대상이 사용자의 무기 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 사용자가 해당 대상에게 가하는 다음 공격의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|8b7da9040fec4181ac4d6598e9394263} 증가하며, 해당 공격은 회피할 수 없습니다.\n사용자가 아군에게 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 부여할 때마다 해당 아군도 이 효과를 얻습니다.
 348	대상이 사용자의 무기 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 사용자가 해당 대상에게 가하는 다음 공격의 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|8b7da9040fec4181ac4d6598e9394263} 증가하며, 해당 공격은 회피할 수 없습니다.\n사용자의 전투 전술 영역 안에 있는 아군에게도 이 효과를 부여합니다.
 349	사용자의 무기 {g|Encyclopedia:DamageGlossary}피해{/g}를 계산할 때, {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {g|Encyclopedia:WarhammerStrength}근력{/g}보다 높으면 지능을 대신 사용하고 {g|Encyclopedia:WarhammerPerception}지각{/g}이 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}보다 높으면 지각을 대신 사용합니다. 각 {g|Encyclopedia:Characteristic}능력치{/g}는 개별적으로 비교합니다.

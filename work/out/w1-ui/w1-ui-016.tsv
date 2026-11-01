@@ -40,7 +40,7 @@
 40	효율적인 분해
 41	네크로더미스 판금이 후방을 제외한 모든 방향에서 받는 {g|Encyclopedia:DamageGlossary}피해{/g}를 −95% 감소시킵니다.
 42	보안의 허점
-43	반경 2칸 내 적을 향한 모든 공격의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +100% 증가합니다. 영향을 받은 모든 적은 로커스트 헤비 디스트로이어의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 됩니다.
+43	반경 2칸 내 적을 향한 모든 공격의 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +100% 증가합니다. 영향을 받은 모든 적은 로커스트 헤비 디스트로이어의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 됩니다.
 44	무기화
 45	절멸
 46	반경 12칸 내 대상으로 순간이동해 타격합니다. 대상이 −50 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} 저항 {g|Encyclopedia:Test}판정{/g}에 실패하면 <u>대상의 최대 {g|Encyclopedia:HitPoints}체력{/g}의 50%</u>만큼 {g|Encyclopedia:RendingDamage}절단 피해{/g}를 주고 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태로 만듭니다. 대상이 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하면 일반적인 무기 절단 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
@@ -50,8 +50,8 @@
 50	{g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하여 {g|f:0662909a2c0842e2bb230dc164d534a8}암호기하학 조정기{/g} 효과에 면역이 됩니다.
 51	암호기하학 안정성
 52	살육의 최후
-53	1{g|Encyclopedia:Round}라운드{/g} 동안 모든 아군의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +100% 증가합니다.\n스코르페크 로드 자신을 제외한 네크론이 셋을 초과할 때만 사용할 수 있습니다.
-54	치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +100% 증가합니다.
+53	1{g|Encyclopedia:Round}라운드{/g} 동안 모든 아군의 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +100% 증가합니다.\n스코르페크 로드 자신을 제외한 네크론이 셋을 초과할 때만 사용할 수 있습니다.
+54	치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +100% 증가합니다.
 55	발톱으로 대상을 타격합니다. 대상은 −40 불이익을 받는 강인함 저항 판정을 합니다. 판정에 실패하면 출혈 (4)을 받습니다.
 56	넓게 베기
 57	엔미틱 어나일레이터
@@ -59,7 +59,7 @@
 59	엔미틱 어나일레이터
 60	기술 역병 때문에 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 일정 확률로 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 받습니다. 확률과 효과는 다음과 같습니다.\n-<indent=5%>20% 확률로 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.</indent>\n-<indent=5%>20% 확률로 1라운드 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다.</indent>\n-<indent=5%>20% 확률로 자신의 {g|Encyclopedia:HitPoints}체력{/g}의 20%만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 받습니다.</indent>\n-<indent=5%>10% 확률로 1라운드 동안 네크로더미스 불안정 상태가 됩니다.</indent>\n-<indent=5%>5% 확률로 1라운드 동안 {g|Encyclopedia:Stun}기절{/g} 상태가 됩니다.</indent>
 61	부식성 기술 역병
-62	이 개체를 향한 공격의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g} 확률이 +50% 증가합니다.
+62	이 개체를 향한 공격의 {g|Encyclopedia:HitSequenceGlossary}치명타{/g} 확률이 +50% 증가합니다.
 63	네크로더미스 불안정
 64	이 유닛의 {g|Encyclopedia:HitPoints}체력{/g}이 다음과 같이 감소합니다.\n-<indent=5%>발전기 과부하가 이 얼음 덩어리에 적중하면 최대치의 50%로 감소합니다.</indent>\n-<indent=5%>전기 회로가 이 얼음 덩어리에 닿으면 최대치의 70%로 감소합니다.</indent>\n-<indent=5%>둘 다 일어나지 않으면 최대치의 90%로 감소합니다.</indent>
 65	혹한의 취약함
@@ -680,7 +680,7 @@
 680	타락한 마고스
 681	잔혹한 우랄론
 682	실험용 돌연변이
-683	파브리케이터 센서 큐비스 델핌
+683	패브리케이터 센서 큐비스 델핌
 684	고위 트랜스메카닉
 685	고위 엔진시어
 686	장인 헤레텍
@@ -693,7 +693,7 @@
 693	폭도 총병
 694	문지기
 695	지도자
-696	충격 보병
+696	돌격병
 697	도륙자
 698	경비병
 699	아브릴라 벤트
@@ -727,7 +727,7 @@
 727	무용수
 728	무용수
 729	오버시어
-730	토리아나 갭락
+730	토리아나 가프락
 731	검투사
 732	총독
 733	하사
@@ -742,8 +742,8 @@
 742	드라이브스템 귀족
 743	드라이브스템 귀족
 744	귀족
-745	갭락 귀족
-746	갭락 귀족
+745	가프락 귀족
+746	가프락 귀족
 747	귀족
 748	버세리안 귀족
 749	버세리안 귀족
@@ -844,7 +844,7 @@
 844	의전관
 845	젊은 감시관
 846	카미유 레기아스 이병
-847	시녀장
+847	시녀
 848	테크노맷
 849	살아남은 선원
 850	차티스트 선장 아우스테리우스 토르파스트
@@ -921,7 +921,7 @@
 921	안토니우스
 922	아스트로패스
 923	예배당 하인
-924	자카리 바이스
+924	재커리 바이스
 925	시그마-AR87
 926	마스터 헤리몬
 927	카오스의 전령 이디라
@@ -981,9 +981,9 @@
 981	살아남아라, 괴물들아!
 982	비스트마스터가 키메라에게 생존을 명령합니다.
 983	1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +20% 증가하며, 이후 {g|Encyclopedia:HitPoints}체력{/g}을 50% 회복합니다.
-984	자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 인접한 적 하나당 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 {g|Encyclopedia:Parry}막기{/g}가 +5% 증가합니다.
+984	자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 인접한 적 하나당 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}과 {g|Encyclopedia:Parry}막기{/g}가 +5% 증가합니다.
 985	전투 성향
-986	다음 {g|Encyclopedia:Turn}턴{/g} 시작 시 인접한 적의 수만큼 전투 성향 중첩을 얻습니다.{br}\n<b>전투 성향</b>:\n<indent=5%>치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g} +5%</indent>\n<indent=5%>{g|Encyclopedia:Parry}막기{/g} +5%</indent>
+986	다음 {g|Encyclopedia:Turn}턴{/g} 시작 시 인접한 적의 수만큼 전투 성향 중첩을 얻습니다.{br}\n<b>전투 성향</b>:\n<indent=5%>치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g} +5%</indent>\n<indent=5%>{g|Encyclopedia:Parry}막기{/g} +5%</indent>
 987	살갗을 벗기는 격노
 988	전투 종료 시까지 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +15% 증가합니다.
 989	{g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 떨어지면 전투 종료 시까지 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +15% 증가합니다.
@@ -1007,8 +1007,8 @@
 1007	전투당 1회, 케이케로스가 {g|Encyclopedia:HitPoints}체력{/g}을 50% 넘게 잃으면 개체 하나를 공격하고 준 {g|Encyclopedia:DamageGlossary}피해{/g}만큼 체력을 회복합니다. 대상이 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하면 대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 50%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 줍니다. 판정에 실패하면 대상의 최대 체력의 90%만큼 정신 피해를 주고 비열한 속임수 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 부여합니다.
 1008	힘이 곧 권리다!
 1009	이건 내 무대다!
-1010	치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +10%, {g|Encyclopedia:MovementPoints}이동력{/g}이 +2 증가하고 {g|Encyclopedia:Turn}턴{/g}마다 두 번 공격할 수 있습니다. 또한 최대 {g|Encyclopedia:HitPoints}체력{/g}의 50%만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.
-1011	케이케로스의 아군이 남아 있지 않으면 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +10%, {g|Encyclopedia:MovementPoints}이동력{/g}이 +2 증가하고 {g|Encyclopedia:Turn}턴{/g}마다 두 번 공격할 수 있습니다. 또한 최대 {g|Encyclopedia:HitPoints}체력{/g}의 50%만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.
+1010	치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +10%, {g|Encyclopedia:MovementPoints}이동력{/g}이 +2 증가하고 {g|Encyclopedia:Turn}턴{/g}마다 두 번 공격할 수 있습니다. 또한 최대 {g|Encyclopedia:HitPoints}체력{/g}의 50%만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.
+1011	케이케로스의 아군이 남아 있지 않으면 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +10%, {g|Encyclopedia:MovementPoints}이동력{/g}이 +2 증가하고 {g|Encyclopedia:Turn}턴{/g}마다 두 번 공격할 수 있습니다. 또한 최대 {g|Encyclopedia:HitPoints}체력{/g}의 50%만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다.
 1012	케이케로스의 공격 대상이 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:PerplexedEffect}당혹{/g}, {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 중 하나를 무작위로 부여합니다.
 1013	반칙
 1014	적응
@@ -1034,7 +1034,7 @@
 1034	{g|Encyclopedia:BleedingEffect}출혈{/g} 상태인 대상을 사격하여 <u>(12~24)</u>의 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 줍니다. 대상은 출혈 대신 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 되고, 주변 모든 개체는 출혈 (8)을 받습니다.
 1035	순수한 고통
 1036	고통 속의 번영
-1037	{g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 떨어지면 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}에 +15% {g|Encyclopedia:Bonus}보너스{/g}를 얻고 {g|Encyclopedia:BleedingEffect}출혈{/g} (8) 효과를 받습니다. 출혈 효과가 제거되면 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 다시 부여됩니다.
+1037	{g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 떨어지면 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}에 +15% {g|Encyclopedia:Bonus}보너스{/g}를 얻고 {g|Encyclopedia:BleedingEffect}출혈{/g} (8) 효과를 받습니다. 출혈 효과가 제거되면 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 다시 부여됩니다.
 1038	{g|Encyclopedia:Round}라운드{/g}마다 세 번 공격할 수 있게 되며 {g|Encyclopedia:DamageGlossary}피해{/g}에 완전히 면역이 됩니다.
 1039	광란 주입
 1040	{g|Encyclopedia:Round}라운드{/g}마다 세 번 공격할 수 있으며 {g|Encyclopedia:DamageGlossary}피해{/g}에 완전히 면역인 상태입니다.
@@ -1080,8 +1080,8 @@
 1080	불안정한 홀로 필드
 1081	대상에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 성공시킬 때마다 대상이 모든 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +5 증가합니다. 중첩됩니다.
 1082	관객의 눈물
-1083	자신의 {g|Encyclopedia:Turn}턴{/g} 직후 모든 아군 폭풍의 연희자에게 추가 턴을 부여합니다.
-1084	아군이 죽을 때마다 {g|Encyclopedia:DamageGlossary}피해{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를, 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}에 +5% 보너스를 얻습니다. 중첩됩니다.
+1083	자신의 {g|Encyclopedia:Turn}턴{/g} 직후 모든 폭풍의 연희자에게 추가 턴을 부여합니다.
+1084	아군이 죽을 때마다 {g|Encyclopedia:DamageGlossary}피해{/g}에 +2 {g|Encyclopedia:Bonus}보너스{/g}를, 치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}에 +5% 보너스를 얻습니다. 중첩됩니다.
 1085	전사자의 복수
 1086	적을 뚫고 반대편 칸으로 돌진하며 {g|Encyclopedia:DamageGlossary}피해{/g}가 −50% 감소한 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 합니다. 공격받은 적은 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 됩니다.\n-<indent=5%>대상 적은 이번 라운드에 다시 <b>돌파 베기</b> {g|Encyclopedia:Ability}능력{/g}의 대상이 될 수 없습니다.</indent>\n-<indent=5%>{g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않습니다.</indent>
 1087	돌파 베기
@@ -1096,7 +1096,7 @@
 1096	공격자의 전방과 양옆에 있는 모든 개체에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}입니다.
 1097	분쇄 타격
 1098	대상에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주고 <u>{g|Encyclopedia:WarhammerStrength}근력{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>칸만큼 {g|Encyclopedia:PushGlossary}밀치기{/g}를 가합니다.
-1099	공격자의 전방 3칸 줄에 있는 모든 개체에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}입니다.
+1099	공격자 전방에 일렬로 늘어선 3칸 내 모든 개체에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}입니다.
 1100	왕의 내려치기
 1101	하수관
 1102	애버런트가 개체를 죽일 때마다 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10 증가하고 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +20% 증가합니다. 중첩됩니다.
@@ -1145,7 +1145,7 @@
 1145	이 개체 이외의 다른 대상에 대한 {g|Encyclopedia:HitSequenceGlossary}명중{/g} 확률이 −20% 감소합니다.
 1146	{g|Encyclopedia:RangeAreaAttacksGlossary}원거리 무기{/g} 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 확률이 +50% 증가합니다.
 1147	조준 불가
-1148	치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +10%, {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 사거리가 +10 증가합니다.
+1148	치명타 {g|Encyclopedia:HitSequenceGlossary}확률{/g}이 +10%, {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 사거리가 +10 증가합니다.
 1149	매의 눈
 1150	{g|Encyclopedia:BlindedEffect}실명{/g} 상태인 대상에 대한 명중률이 +10% 증가합니다.
 1151	눈먼 자가 진실을 보리라

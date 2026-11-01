@@ -1,6 +1,6 @@
 english	korean	note
 resistance test	저항 판정	system|translated|high
-Arch-Militant	아치 밀리턴트	ability|namu:Warhammer 40,000: Rogue Trader/등장인물|high
+Arch-Militant	아크 밀리턴트	ability|namu:Warhammer 40,000: Rogue Trader/등장인물|high
 MP	이동력	system|style|high
 armour penetration	방어 관통	system|translated|high
 psy rating	사이 등급	system|translated|mid
@@ -75,7 +75,7 @@ Athletics	운동	system|translated|high
 Bloodstained	피투성이	system|translated|high
 Carouse	주량	system|translated|mid
 Shadow Field	섀도 필드	item|community|mid
-Ferrum Sanctum	페룸 상툼	system|translit|mid
+Ferrum Sanctum	페룸 상크툼	system|translit|mid
 Hunt Down the Prey	사냥감 추적	ability|translated|high
 Lore (Warp)	지식(워프)	system|translated|high
 Torpedo tubes	어뢰 발사관	item|translated|high
@@ -424,7 +424,7 @@ ultimate ability	궁극기	ability|translated|high
 Bounty Hunters	바운티 헌터	ability|namu:Warhammer 40,000: Rogue Trader|high
 critically hit	치명타	system|style|high
 positive effect	이로운 효과	system|translated|high
-Arch-Militants	아치 밀리턴트	ability|namu:Warhammer 40,000: Rogue Trader|high
+Arch-Militants	아크 밀리턴트	ability|namu:Warhammer 40,000: Rogue Trader|high
 grazing hit	스침	system|translated|high
 maximum hit chance	최대 명중률	system|translated|high
 priority targets	우선 표적	system|translated|high

@@ -153,7 +153,7 @@
 153	<u>(10 + 4 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
 154	<u>(3 + 2 × 내비게이터의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
 155	<u>(3 + 2 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
-156	이제 모든 내비게이터 능력에 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 발생할 수 있습니다. 기본 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}은 <u>(내비게이터의 {g|Encyclopedia:WarhammerPerception}지각{/g} / 2)</u>%입니다.
+156	이제 모든 내비게이터 능력에 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 발생할 수 있습니다. 기본 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}은 <u>(내비게이터의 {g|Encyclopedia:WarhammerPerception}지각{/g} / 2)</u>%입니다.
 157	열린 문의 길
 158	모든 내비게이터 능력의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChance|1b425f19327f429eb4fbfae69950b868}% 증가합니다.
 159	열린 문의 길
@@ -179,7 +179,7 @@
 179	<u>(2 × {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
 180	내비게이터로부터 최대 12칸 떨어진 지점을 지정합니다. 대상 지점 주변 반경 6칸 이내의 모든 적은 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 즉시 해당 지점을 향해 3칸 이동합니다. 대상은 {g|Encyclopedia:Stun}기절{/g} 또는 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태여도 이동합니다.
 181	호기심의 지점
-182	내비게이터가 반경 3칸의 원형 영역을 생성합니다. 무기력 효과를 받지 않는 개체가 영역 안에 있거나, 들어오거나, 안에서 자신의 {g|Encyclopedia:Turn}턴{/g}을 마치면 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 실패하면 해당 개체에게 무기력 효과가 적용됩니다.\n<i>무기력</i>:\n대상이 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.\n무기력 효과를 받은 채 1라운드가 지나면 대상은 의지력 저항 {g|Encyclopedia:Test}판정{/g}을 합니다. 성공하면 무기력이 제거됩니다. 실패하면 1라운드 동안 기절하고 무기력이 제거되며, 전투 종료 시까지 <b>무기력의 지점</b>의 추가 효과에 면역이 됩니다.
+182	내비게이터가 반경 3칸의 원형 영역을 생성합니다. 무기력 효과를 받지 않는 개체가 영역 안에 있거나, 들어오거나, 안에서 자신의 {g|Encyclopedia:Turn}턴{/g}을 마치면 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 실패하면 해당 개체에게 무기력 효과가 적용됩니다.\n<i>무기력</i>:\n대상이 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.\n무기력 효과를 받은 채 1라운드가 지나면 대상은 의지력 저항 {g|Encyclopedia:Test}판정{/g}을 합니다. 성공하면 무기력이 제거됩니다. 실패하면 1라운드 동안 기절하고 무기력이 제거되며, 이후 전투 종료 시까지 <b>무기력의 지점</b>의 모든 효과에 면역이 됩니다.
 183	무기력의 지점
 184	대상 지점 주변 반경 2칸 이내의 모든 적이 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 실패한 적은 {g|Encyclopedia:Stun}기절{/g} 또는 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태여도 즉시 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻어 자신의 아군을 공격합니다.\n같은 전투에서 적이 이 내비게이터 능력의 대상이 다시 될 때마다, 해당 능력에 대한 의지력 저항 {g|Encyclopedia:Test}판정{/g}에 중첩 가능한 +20 보너스를 얻습니다.
 185	분노의 손길
@@ -247,7 +247,7 @@
 247	반경 6칸 이내의 최대 6개 대상에게 연쇄적으로 퍼져 각각 {uip|Damage|635161f3087c4294bf39c5fefe3d01af}의 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다. 아군 대상은 무시합니다.
 248	번개 줄기 (영웅적 행동)
 249	<u>(2 × 사이커 지팡이의 위력 등급 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
-250	사이커가 대상에게 가장 가까운 아군을 공격하도록 만듭니다. 대상은 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 몸의 통제권을 되찾을 수 있습니다.
+250	사이커가 대상에게 자신과 가장 가까운 자기 편 아군을 공격하도록 만듭니다. 대상은 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 몸의 통제권을 되찾을 수 있습니다.
 251	환각
 252	사이커 전방 7칸 부채꼴 범위 내 모두가 {g|f:fa305ba4e2aa48f394608d1ccfc6d385}사이킥 비명{/g} 피해를 입고 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 판정에 실패한 모든 대상은 사이커의 다음 턴까지 {g|Encyclopedia:Stun}기절{/g}합니다.
 253	사이커가 전방 7칸 부채꼴 범위 내 모두에게 {g|f:fa305ba4e2aa48f394608d1ccfc6d385}사이킥 비명{/g} 피해를 주고 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 하게 합니다. 판정에 실패한 모든 대상은 사이커의 다음 턴까지 {g|Encyclopedia:Stun}기절{/g}합니다.
@@ -358,7 +358,7 @@
 358	다음에 대상에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하는 공격은 자동으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 됩니다.
 359	전투 중인 모든 개체(아군과 적 모두)에게 다음에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하는 공격은 자동으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 됩니다.\n이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킵니다.
 360	위탁 (필사의 결단)
-361	전투 중인 모든 적을 대상으로 하는 다음 공격은 자동으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 됩니다.
+361	전투 중인 모든 적이 각각 다음에 받는 공격은 자동으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 됩니다.
 362	위탁 (영웅적 행동)
 363	위탁
 364	다음에 대상에게 명중하는 공격은 자동으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 됩니다.\n{g|Encyclopedia:HeroicAct}영웅적 행동{/g}: 전투 중인 모든 적에게 다음에 명중하는 공격은 자동으로 치명타가 됩니다.\n{g|Encyclopedia:DesperateMeasure}필사의 결단{/g}: 전투 중인 모든 개체(아군과 적 모두)에게 다음에 명중하는 공격은 자동으로 치명타가 됩니다. 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킵니다.

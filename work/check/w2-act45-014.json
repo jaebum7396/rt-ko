@@ -1,7 +1,6 @@
 {"errors": [],
 "warnings": [
  {"n": 11, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
- {"n": 13, "code": "glossary", "detail": "Expanse -> 공역 not found"},
  {"n": 13, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 22, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 29, "code": "glossary", "detail": "People -> 사람들/인구 not found"},

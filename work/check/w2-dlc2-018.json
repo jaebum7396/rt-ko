@@ -2,7 +2,6 @@
 "warnings": [
  {"n": 1, "code": "glossary", "detail": "Proctor -> 프록터 not found"},
  {"n": 3, "code": "glossary", "detail": "Proctor -> 프록터 not found"},
- {"n": 11, "code": "glossary", "detail": "Proctor -> 프록터 not found"},
  {"n": 24, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 49, "code": "glossary", "detail": "Proctor -> 프록터 not found"},
  {"n": 53, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
@@ -21,6 +20,5 @@
  {"n": 169, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 184, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
  {"n": 184, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
- {"n": 198, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
- {"n": 263, "code": "glossary", "detail": "Proctor -> 프록터 not found"}
+ {"n": 198, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
 ]}

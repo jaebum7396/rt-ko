@@ -1,5 +1,6 @@
 {"errors": [],
 "warnings": [
+ {"n": 35, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
  {"n": 38, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
  {"n": 57, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 64, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
@@ -7,7 +8,15 @@
  {"n": 163, "code": "glossary", "detail": "Warrant -> 무역 영장/무역 영장 not found"},
  {"n": 173, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 178, "code": "glossary", "detail": "fire -> 사격/불/화염 not found"},
+ {"n": 185, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
+ {"n": 200, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
  {"n": 201, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
+ {"n": 205, "code": "glossary", "detail": "Toriana Gaprak -> 토리아나 갭락 not found"},
+ {"n": 212, "code": "glossary", "detail": "Governor Drivestem -> 드리브스템 총독 not found"},
+ {"n": 212, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
+ {"n": 243, "code": "glossary", "detail": "Toriana Gaprak -> 토리아나 갭락 not found"},
+ {"n": 253, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
+ {"n": 260, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
  {"n": 268, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 272, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 291, "code": "glossary", "detail": "People -> 사람들/인구 not found"}

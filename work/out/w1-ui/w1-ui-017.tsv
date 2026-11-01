@@ -267,9 +267,9 @@
 267	자발적 돌연변이
 268	매 {g|Encyclopedia:Round}라운드{/g}마다 돌연변이들이 무작위 워프 변이 하나를 얻습니다.
 269	워프의 손길은 매 {g|Encyclopedia:Round}라운드{/g}마다 돌연변이에게 무작위 변이를 부여합니다. 변이는 치유, {g|Encyclopedia:DamageGlossary}피해{/g}, 실명 또는 예감 효과를 부여할 수 있습니다.
-270	이 대상은 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 다른 너글의 종복보다도 빠르게 적을 타락시켜, 죽은 뒤 정신 없는 꼭두각시로 되살아나게 합니다.
+270	이 대상은 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 다른 너글의 종복보다도 빠르게 적을 타락시켜, 죽은 뒤 자아 없는 꼭두각시로 되살아나게 합니다.
 271	썩어 문드러진 거구
-272	이 대상은 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 적을 타락시켜, 죽은 뒤 정신 없는 꼭두각시로 되살아나게 합니다.
+272	이 대상은 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 적을 타락시켜, 죽은 뒤 자아 없는 꼭두각시로 되살아나게 합니다.
 273	썩어 문드러진 망자
 274	이 대상은 차원문을 통해 핑크 호러를 소환합니다.
 275	현실의 균열
@@ -364,7 +364,7 @@
 364	피의 갈증
 365	아군이 사망할 때마다 이 대상은 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻습니다. 아군의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 떨어질 때도 추가 {g|Encyclopedia:Turn}턴{/g}을 얻지만, 아군 한 명당 1회만 발동합니다.
 366	개입
-367	이 대상은 원거리 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하면 즉시 대응 사격합니다.
+367	이 대상은 원거리 공격이 자신에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 즉시 대응 사격합니다.
 368	돌려주마!
 369	놈들을 죽여라!
 370	카라엘이 지휘하는 드루카리의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +20% 증가합니다.

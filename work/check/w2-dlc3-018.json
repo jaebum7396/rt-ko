@@ -13,9 +13,15 @@
  {"n": 126, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
  {"n": 129, "code": "length", "detail": "ratio 0.24 (ko 6 / en 25 chars, allowed 0.25-1.60)"},
  {"n": 174, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 196, "code": "glossary", "detail": "Exalt-117 -> 엑잘트-117 not found"},
+ {"n": 198, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
  {"n": 199, "code": "glossary", "detail": "Body -> 몸/시체 not found"},
+ {"n": 211, "code": "glossary", "detail": "Exalt-117 -> 엑잘트-117 not found"},
+ {"n": 213, "code": "glossary", "detail": "Exalt-117 -> 엑잘트-117 not found"},
  {"n": 215, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 228, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
  {"n": 237, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
+ {"n": 252, "code": "glossary", "detail": "House Gaprak -> 갭락 가문 not found"},
+ {"n": 259, "code": "glossary", "detail": "Exalt-117 -> 엑잘트-117 not found"},
  {"n": 300, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"}
 ]}

@@ -1,5 +1,6 @@
 {"errors": [],
 "warnings": [
+ {"n": 14, "code": "glossary", "detail": "Electric Discharge -> 전기 방출 not found"},
  {"n": 24, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
  {"n": 25, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 27, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},

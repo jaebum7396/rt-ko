@@ -1,6 +1,8 @@
 {"errors": [],
 "warnings": [
- {"n": 22, "code": "glossary", "detail": "Liege Tocara -> 영주 토카라 not found"},
+ {"n": 3, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
+ {"n": 6, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
+ {"n": 15, "code": "glossary", "detail": "Cognisance Fleet -> 코그니선스 함대 not found"},
  {"n": 46, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 51, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
  {"n": 72, "code": "glossary", "detail": "order -> 명령/교단 not found"},

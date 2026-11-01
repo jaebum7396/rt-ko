@@ -1,5 +1,6 @@
 {"errors": [],
 "warnings": [
+ {"n": 5, "code": "glossary", "detail": "Zacchary Weisz -> 자카리 바이스 not found"},
  {"n": 9, "code": "glossary", "detail": "The Undying -> 불사 not found"},
  {"n": 28, "code": "glossary", "detail": "The Heartless -> 무정호 not found"},
  {"n": 28, "code": "glossary", "detail": "The Undying -> 불사 not found"},
