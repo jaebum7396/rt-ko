@@ -220,7 +220,7 @@ Inspired	고무됨	system|translated|high
 Loyalty	충성	ability|translated|high
 Stronghold	요새	ability|translated|high
 Cogicor	코지코르	setting|translit|mid
-Technomat	테크노마트	setting|translit|mid
+Technomat	테크노맷	setting|style|high
 Combi-Tool	다용도 공구	item|translated|high
 Medikit	구급상자	item|translated|high
 Destroyer	파괴자	ability|translated|high
@@ -377,7 +377,7 @@ trailed	추적당함	system|translated|mid
 Lexmechanics	렉스메카닉	setting|community|high
 Soldiers	솔져	ability|style|high
 critical	치명타	system|style|high
-technomats	테크노마트	setting|translit|low
+technomats	테크노맷	setting|style|high
 Path	길	setting|translated|mid
 auspexes	오스펙스	item|community|mid
 manufactorums	매뉴팩토룸	setting|community|mid
