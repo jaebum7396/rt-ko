@@ -74,9 +74,11 @@
 
 | 원문 | 일반판 | 해병문학체판 |
 |---|---|---|
-| "I respect you enough, Rogue Trader, to speak frankly. I would rather fight shoulder to shoulder with you than stand against you." | "자네를 존중하기에 솔직히 말하는 걸세, 로그 트레이더. 자네와 맞서기보다는 어깨를 나란히 하고 싸우고 싶네." | "악! 로그 트레이더님을 존중하니 솔직히 보고드려도 되겠습니까?! 총구를 마주하기보다 어깨를 붙이고 함께 돌격하고 싶은 것 아니겠습니까!" |
-| "Baring your fangs at me is unwise, Rogue Trader." A sinister glint of bloodlust flares in the giant's darkened eyes. | "내게 송곳니를 드러내는 건 현명하지 못하네, 로그 트레이더." 어두워진 거인의 눈에 불길한 살의가 번뜩인다. | "악! 로그 트레이더님, 제게 송곳니를 까시는 건 기열 찐빠 아닙니까?!" 거인의 어두워진 두 눈에 불길한 살의가 번쩍 솟는 것이 아닌가! |
-| He gives you a long, pensive look before he says, "You do not even know what it is you speak of, mortal." | 그가 오랫동안 생각에 잠긴 눈으로 당신을 바라보다 말한다. "필멸자여, 너는 네가 무슨 말을 하는지도 모른다." | 장고에 잠긴 시선으로 당신을 한참 살피신 해병님께서 입을 여시었다! "아쎄이, 제 입에서 무슨 소리가 나오는지도 모르나!" |
+| Halbrandt clears his throat and opens his mouth to reply, but he catches the sharp glances of Ulfar and Thorbald and swiftly changes his mind. | 할브란트가 헛기침하며 대답하려 입을 열지만, 울파르와 토르발드의 날카로운 눈초리를 보고 재빨리 생각을 바꾼다. | 할브란트 해병께서 헛기침과 함께 답하려 입을 여시었으나! 울파르와 토르발드의 날 선 눈초리를 맞자 생각부터 잽싸게 역돌격시키는 것이 아닌가! |
+| "The Deathwatch is a Chapter dedicated to the extermination of xenos. That is all I can tell you without violating my vows." | "데스워치는 제노스 말살에 헌신하는 챕터일세. 맹세를 어기지 않고 말해 줄 수 있는 건 그게 전부네." | "데스워치는 제노스 전원 용서에 헌신하는 챕터다! 아쎄이, 맹세 어기는 찐빠 없이 알려 줄 건 거기까지다!" |
+| A faint but mirthful smile appears on his gloomy face. "Kill a few xenos? I would never say no to that." | 어두운 얼굴에 희미하지만 즐거운 미소가 번진다. "제노스 몇 놈을 죽이자고? 거절할 리가 있겠나." | 침울한 낯에 희미한 기쁨의 짜세가 피어나시었다! "제노스 몇 놈을 해병수육으로? 그걸 마다할 해병이 어디 있냐!" |
+| "Death holds no fear for us, Aett-Vater. We have been eating at the same table since day one." | "우리는 죽음을 두려워하지 않네, 에트바테르. 첫날부터 한 식탁에서 먹어 온 사이거든." | "악! 에트바테르님, 죽음이 무섭겠습니까?! 첫날부터 한 식탁에서 해병푸드를 나눈 사이 아니겠습니까?!" |
+| "Comrade..." This word has a miraculous effect on the bloodthirsty warrior. | "전우..." 그 말이 피에 굶주린 전사에게 기적 같은 변화를 일으킨다. | "전우... 따흐흑…!" 그 한마디가 피에 굶주린 전사의 해병혼에 기적을 일으키는 것이 아닌가! |
 
 전체 말투표: [glossary/voices.tsv](glossary/voices.tsv) · 번역 원칙: [STYLE.md](STYLE.md)
 

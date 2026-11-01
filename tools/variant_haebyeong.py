@@ -17,7 +17,8 @@ SHARE = 110
 
 
 FIRST_SCENES = ('Ch3/Chasm/UlfarPrison', 'Ch3/CommorraghStreets/UlfarWhatTheHell')
-SCORN = re.compile(r"\b(mortal|pup|whelp|cub|little one|reek|corrupt|heretic|traitor)\b", re.I)
+SCORN = re.compile(r"\b(mortal|pup|whelp|cub|little one|reek|corrupt|heretic|traitor|unwise|warned you|threat|insult|do not utter|comeuppance|arrogant)\b", re.I)
+HOSTILE_SCENES = ('ConfrontCorruption',)  # Ulfar turns on a corrupted Rogue Trader
 
 
 def stage(speaker, path, english):
@@ -25,7 +26,7 @@ def stage(speaker, path, english):
     if speaker.startswith('Ulfar'):
         if speaker == 'UlfarInPrison' or any(x in path for x in FIRST_SCENES):
             return 'first'
-        return 'scorn' if SCORN.search(english) else 'superior'
+        return 'scorn' if SCORN.search(english) or any(x in path for x in HOSTILE_SCENES) else 'superior'
     if speaker.startswith(('Torbald', 'Regind', 'Halbrandt')):
         return 'ally'
     if speaker == 'Blood_Raven':
