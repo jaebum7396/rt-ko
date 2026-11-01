@@ -1,0 +1,125 @@
+english	count	kinds	example
+Pasqal	785	name	Sound/Barks/Companions/Pasqal_Barks_DisplayName.json
+Nuncius	377	name	DLC/DLC3/Narrative/Companion/Nuncius_name_String.json
+Zarkov	248	name	DLC/DLC3/Narrative/ExplorationEvents/Names/DeathWorld_Name_String.json
+Arch-Militant	195	encyclopedia,name	Classes/Veteran/VeteranCareer/VeteranCareerPath_.DisplayName_String.json | CareerVeteranGlossary
+Prey	164	encyclopedia,name	Encyclopedia/MechanicalGlossary/Prey_Title.json | Prey
+Assassin	137	encyclopedia,name	Classes/Assassin/AssassinCareer/AssassinCareerPath_.DisplayName_String.json | CareerAssassinGlossary
+Malice	119	name	Units/Names/Monsters/DrukhariSslyth/DrukhariSslyth_MeleeRanged_Anger_Name_String.json
+Fenris	106	name	Backgrounds/Homeworlds/Fenris/FenrisHomeworld_name_String.json
+The Undying	98	name	Units/NPC/Unique/DeathEmperor/Abilities/TheEmperor_Deathless_Feature_m_DisplayName.json
+Shadow Quarters	89	name,proper	MultiEntrance/Footfall/FootfallSlumsMultiEntranceEntry_Name.json | "The Shadow Quarters... When I was last on
+Charge	79	name	Classes/Fighter/FighterCharge_.DisplayName_.json
+Enginseer	67	encyclopedia,name	Encyclopedia/Glossary/Enginseer_Title.json | Enginseer
+Fabricator-Censor	63	encyclopedia,name	Encyclopedia/Glossary/Fabricator_Title.json | Fabricator
+Run!	57	name	Classes/Master/MasterPets/MastiffPet/MastiffAbilities/MastiffPet_Fast_Feature_.DisplayName_String.json
+Elana	52	name	DLC/DLC3/Narrative/Museion_DargonusLoop/Names/JuvennaCodename_name_String.json
+Space Wolf	51	name,proper	Units/Names/NPC/Unique/SpaceMarine/Ch04_Eufrates/SpaceMarineFight/Spacemarine_bolter_Name_String.json | Led by the ferocious Space Wolf, the Merov regiment engaged
+Focus	46	name	Spacecombat/Abilities/Microabilities/SubMA_FocusedEffortsSG_m_DisplayName.json
+Black Heart	44	proper	"The Archon of the Black Heart has fallen... Tell me, xenos,
+Archmagos Amarnat	41	proper	an alias of my mentor, the Archmagos Amarnat."
+Sire	39	name	Units/Names/NPC/Commoners/GenestealerCult/Ch04_VoidshipBridge/GenestealePatriarch_Melee_VoidshipBridge_Name_String.json
+Amsanct	35	name	DLC/DLC3/Narrative/ExplorationEvents/Names/ManipulusLaboratoryWorld_Name_String.json
+Froscher	33	name	World/Dialogs/Ch4/Footfall/Names/OldBatler_name_String.json
+Achilleas Scalander	32	proper	"Allow me to introduce Achilleas Scalander properly. In addition to his
+Search	31	name	World/Areas/Chapter_4/StryxShed_SE/StryxShed_SE_OrcWeaponPile_Settings.DisplayName_String.json
+Emperor Himself	30	proper	were a relic touched by the Emperor Himself.
+Deus Mechanicus	29	encyclopedia,proper	"O Deus Mechanicus, bestow an impulse of | Omnissiah
+Port	28	encyclopedia,name	Encyclopedia/MechanicalGlossary/PortSpace_Title.json | PortSpace
+Laria Voigtvir	26	name,proper	DLC/DLC3/Narrative/Museion_DargonusLoop/Names/LariaVoigtvir_name_String.json | "I work for Laria Voigtvir. I can be trusted."
+Reload	25	encyclopedia,name	Classes/CommonFeatures/ReloadAfterCombatAbility_m_DisplayName.json | Reload
+Athletics	24	encyclopedia,name	Encyclopedia/MechanicalGlossary/SkillAthletics_Title.json | SkillAthletics
+Cold Traders	24	proper	One, Master van Calox, even Cold Traders have standards. And mine do
+Ferrum Sanctum	23	name,proper	Augments/Augments_Metallicization_Buff_.DisplayName_String.json | the Omnissiah strengthen the Ferrum Sanctum of those who tread the thorny
+Sea of Souls	23	encyclopedia,proper	of sorts amid the tumultuous Sea of Souls, a thread to lead us home | Warp|WarpGlossary
+Evayne Winterscale	22	proper	Please, allow me to introduce Evayne Winterscale, the younger son of Calligos
+Slash	21	name	Classes/Fighter/FighterAbilities/Fighter_Slice_Ability_.DisplayName_.json
+Firestorm	20	name	Classes/Psyker/Pyromancy/Pyromancy_FireStorm_Feature_.DisplayName_String.json
+evasion	19	encyclopedia,name	EvasionSpace | Encyclopedia/MechanicalGlossary/EvasionSpace_Title.json
+Prisoner	19	name	DLC/DLC2/Narrative/PenalWorld_Solomorne/Name/PWS_Prisoner_Name_String.json
+Claw	18	name	Units/Monsters/DrukhariGrotesque/Weapon/DrukhariGrotesqueClaw_Item_m_DisplayName.json
+Amarnat Collective	18	proper	person, but duty calls the Amarnat Collective to a different mission. The
+Psyber-Raven	17	name	Encyclopedia/Glossary/CyberRaven_Title.json
+Lord Captain Theodora	17	proper	What's more, I know that Lord Captain Theodora was most adamant on the
+Restoration	16	name	GlobalMaps/Colonization/Colonization_Narrative/Projects/Strategical/PrSt10_StrategicalProject_name_String.json
+Rite of Operation	16	proper	already transferred the basic Rite of Operation to a qualified contingent in
+Death Waltz	15	name	Classes/Reaper/ReaperUltimate/ReaperUltimateFeature_.DisplayName_String.json
+Emperor's Angels	15	proper	to realise that the Emperor's Angels are mortal... Then again, who
+Saint Argenta	15	proper	to the final resting place of Saint Argenta. Now... my duty is done."
+Expose Weakness	14	name	Classes/Adept/AdeptAbilities/Adept_ExposeWeakness_Feature_.DisplayName_.json
+Zorael	14	name	DLC/DLC3/Narrative/Museion/Name/HL_BloodRaven_Name_String.json
+Yrliet Lanaevyss	14	proper	"I will speak with you, Yrliet Lanaevyss. But keep your hands where I
+Last Volley	13	name	Classes/Tactician/TacticianHeroicAct/TacticianDesperateAbility_.DisplayName_.json
+Footfall Station	13	encyclopedia,proper	don't we tell you where on Footfall Station — you know Footfall, the only | Footfall
+grox	12	encyclopedia,name	Grox | Encyclopedia/Glossary/Grox_Title.json
+Heavy Rock Saw	12	name	Weapons/Weapons/ChainSaw_Item_.DisplayName_String.json
+Swing	12	name	Weapons/Abilities/OneHandedAxe_AoEAbility_.DisplayName_String.json
+Lord Winterscale	12	proper	with this feigned nobility, Lord Winterscale." Heinrix draws his weapon
+Cogicor	11	name	DLC/DLC2/Narrative/FeudalWorld/Name/FW_Cogitator_Name_String.json
+Medicae Officer	11	name	DLC/DLC1/Narrative/Companion/CompanionQuest/DeathCultist_Q1/Names/Q1Kibellah_Medicarium_name_String.json
+Technomat	11	encyclopedia,name	Encyclopedia/Glossary/Technomat_Title.json | Technomat
+Great Beacon	11	proper	"And may fate protect the Great Beacon..."
+Auspex	10	encyclopedia,name	Encyclopedia/Glossary/Auspex_Title.json | Auspex
+Finest Hour!	10	name	Classes/Leader/LeaderUltimate/LeaderUltimateAbility_.DisplayName_.json
+Orsellio Prophecy	10	name	GlobalMaps/StarSystems/OrsellioProphecySystem_.DisplayName_.json
+War Hymn	10	name	Backgrounds/Occupations/MinistorumCrusader/MinistorumCrusaer_InnateAbility_.DisplayName_String.json
+Lady Juvenna	10	proper	remark from a friend of Lady Juvenna. You ought to learn from her
+Autopistol	9	name	Weapons/Weapons/Autopistol_Item_.DisplayName_String.json
+Enemies of Humanity	9	name	GlobalMaps/Anomalies/SpaceCombat/AeldariScouts3_anomaly_.DisplayName_String.json
+Heroic Inspiration	9	name	Classes/Tactician/TacticianTalents/TacticianTalent16Feature_.DisplayName_.json
+Petitioner	9	name	World/Dialogs/Companions/CompanionQuests/Jae/Jae_Q1/Names/AdministratumPalaceQueueMember_female_name_String.json
+Warp Apparition	9	name	Units/Names/NPC/Commoners/Human/DLC1_Ch02_AstropathicChapel/Ghost_Melee_AstropathicchapelCH2_Name_String.json
+Elias Tantanal	9	proper	According to the submission, Elias Tantanal cannot exercise his right to
+Navigators of House Orsellio	9	proper	have nothing to worry about. The Navigators of House Orsellio never lose their course."
+At All Costs!	8	name	Backgrounds/Occupations/Commissar/Commissar_InnateAbility_.DisplayName_.json
+Death Whisper	8	name	Classes/Assassin/AssassinAbilities/Assassin_DeathWhisper_Feature_.DisplayName_.json
+Ice World	8	name	GlobalMaps/StarSystemObjects/ExplorationPoints/Lair1LastStand_.Name_.json
+Old Man	8	name	World/Dialogs/Ch4/Janus_ChapterStart/Oldman_name_String.json
+Rebels	8	name	GlobalMaps/Colonization/Colonization_Narrative/Contracts/Contract22_name_String.json
+The Emperor of Mankind	8	name	Encyclopedia/ImperiumLore/EmperorGlossary_Title.json
+Worker	8	name	Units/Names/NPC/Commoners/Human/Ch02_FootfallDock/Footfall_WorkerFeMale_name_String.json
+Emelina Lichtenhart	8	proper	are, didn't you? The name of Emelina Lichtenhart. The poor singed beast... He
+Praetor Electroid	8	proper	monastery grounds without the Praetor Electroid's blessing will be regarded as
+Ark Mechanicus Hermetico	7	name,proper	GlobalMaps/Anomalies/UnknownAnomalies/Ch04_PascalQ2_ArcShip_.DisplayName_.json | since the incident on the Ark Mechanicus Hermetico which led to the //presumed
+Craftworld Crudarach	7	name	Backgrounds/Homeworlds/Craftworld/CraftworldHomeworld_name_String.json
+Force Couple (Enemy)	7	name	Augments/Arms/Left/Augment_Arm_04_Enemy_Ability_.DisplayName_String.json
+Heretical — Votary	7	name	SoulMarks/CorruptionSoulMark_3_.DisplayName_.json
+Nightmare Driver	7	name	Units/Names/NPC/Unique/Drukhari/Ch02_SantielsPride/WrackLeader_Name_String.json
+Sirocco	7	name	World/Dialogs/Companions/Romances/Jae/Names/Laserax_Sirokko_name_String.json
+Unyielding Guard	7	name	Classes/Vanguard/VanguardUltimate/VanguardUltimateAbility_.DisplayName_.json
+Gordei Skatov	7	proper	me to introduce myself. Gordei Skatov, architectural historian."
+Reverend Gravik	7	proper	absurd ghost stories. I asked Reverend Gravik to calm them down. He's the
+Archon Nazrakhei	6	name	Units/Names/NPC/Unique/Drukhari/CH05_MarazhaiBloodright/Nazrakey_Name_String.json
+Brace for Impact!	6	name	Backgrounds/Occupations/NavyOfficer/NavyOfficer_InnateAbility_.DisplayName_.json
+Combat Medicae	6	name	Classes/Soldier/SoldierFeatures/CombatMedic_.DisplayName_String.json
+Death Cult Assassin	6	name	Backgrounds/Occupations/DeathCultAssassin/DeathCultAssassin_Occupation_m_DisplayName.json
+Double Slug	6	name	Backgrounds/Occupations/Arbitrator/ArbitratorAbilities/VigilsMasteryDoublet_Ability_.DisplayName_String.json
+Firearm Mastery	6	name	Classes/Soldier/SoldierUltimate/SoldierUltimateFeature_.DisplayName_.json
+Incubus Armour	6	name	Equipment/Armour/PC/IncubusArmour_Item_.DisplayName_String.json
+Open the valve	6	name	DLC/DLC2/Narrative/BoardedShip/Name/FireThePipe_Name_String.json
+Restart Shields	6	name	Spacecombat/Abilities/AbilitiesAdditional/RestartShields_.DisplayName_.json
+Stalwart Defence	6	name	Weapons/Shields/ShieldStalwartDefenseAbility_.DisplayName_String.json
+The Rings	6	name	GlobalMaps/StarSystemObjects/ExplorationPlanetPoints/Rings/Rings_PointOfInterest_m_Name.json
+Warp Grenade	6	name	Consumables/Grenades/Grenade_Warp_.DisplayName_String.json
+Crimson Hand	6	proper	"The Crimson Hand. Marauders, heretics and
+House Drivestem	6	proper	are a minor offshoot of House Drivestem. A dozen souls, all told, and
+Magos Dominus Opticon	6	proper	Magos Dominus Opticon-22 insisted that we retake the
+Song of Trailing Blood	6	proper	"The Song of Trailing Blood tells of a path fraught with
+Assault Onslaught	5	name	Backgrounds/Occupations/Arbitrator/ArbitratorAbilities/SubductorsMasteryBreakthrough_Ability_.DisplayName_String.json
+Chainaxe	5	name	Units/NPC/Unique/SpaceMarine/Ch04_Eufrates/Weapon/CSM_CorruptedAxe_Item_m_DisplayName.json
+Death Blast	5	name	Units/Monsters/Helbrute/Abilities/Helbrute_DeathBlast_Feature_.DisplayName_String.json
+Drusus's Blessing	5	name	GlobalMaps/Anomalies/UnknownAnomalies/Ch2_SpaceFootfallVendor_.DisplayName_.json
+Governor Ruoldo	5	name	DLC/DLC2/Narrative/FeudalWorld/Name/FW_FakeGovernor_Name_String.json
+In-Trenched	5	name	Units/NPC/Unique/Human/DLC3_Exhibition/Krieg/Abilities/Krieg_Trench_Ally_Buff_.DisplayName_String.json
+Master Anjelio	5	name	DLC/DLC2/Narrative/VigilCastle/Name/VP_AstropathWitness_male_Name_String.json
+Nameless Star	5	name	GlobalMaps/StarSystems/ExplorationSystem_29_.DisplayName_.json
+Pistol Shot	5	name	Weapons/Abilities/SingleShot_PistolAbility_.DisplayName_String.json
+Servo-Gauntlets	5	name	Equipment/Gloves/Unique/DLC2/ServoGauntlets_Item_.DisplayName_String.json
+Talon	5	name	DLC/DLC2/Narrative/Misc/CompanionsFamiliarsNames/IdiraEagle_Name_String.json
+The Last Plan	5	name	Backgrounds/Occupations/Criminal/Criminal_Talent05_Feature_m_DisplayName.json
+Valve	5	name	World/Areas/Chapter_1/VoidshipLowerDecks/VoidshipLowerDecks_Crane.DisplayName_String.json
+Willpower (WP)	5	name	Encyclopedia/MechanicalGlossary/WarhammerWillpower_Title.json
+Fiery Reckoning	5	proper	"Have you ever heard the name Fiery Reckoning? From what I can tell, it is
+Jaze Martinax	5	proper	of the implantation throne, Jaze Martinax activated the vivisection
+Lost Child	5	proper	you through a field of traps. The Lost Child... you will leap into one of
+Third Dawn	5	proper	"You speak the name of the Third Dawn. You have come to me not as a

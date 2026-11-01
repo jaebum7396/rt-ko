@@ -1,0 +1,128 @@
+english	korean	category	source	confidence
+AP	행동력	system	style	high
+armour penetration	방어 관통	system	translated	high
+penalty	불이익	system	translated	high
+hit chance	명중률	system	translated	high
+melee	근접	system	translated	high
+hits	명중	system	translated	high
+PER	지각	system	style	high
+test	판정	system	translated	high
+psychic power	사이킥 능력	ability	style	high
+extra turn	추가 턴	system	translated	high
+STR	근력	system	style	high
+staggered	비틀거림	system	translated	high
+macro-cannons	매크로 캐논	item	community	high
+fire damage	화염 피해	system	translated	high
+priority target	우선 표적	system	translated	high
+Archenemy	대적	setting	translated	mid
+effect	효과	system	translated	high
+ranged attacks	원거리 공격	system	translated	high
+tests	판정	system	translated	high
+negative effects	해로운 효과	system	translated	high
+difficulty tier	난이도 단계	system	translated	high
+rate of fire	발사 수	system	translated	mid
+unconscious	의식 불명	system	translated	high
+dorsal	상부	system	translated	high
+critical hits	치명타	system	style	high
+psychic phenomena	사이킥 현상	system	style	high
+single-shot	단발 사격	system	translated	high
+Throne	황금 옥좌	setting	community	high
+parry reduction	막기 감소	system	translated	high
+augurs	오거 탐지기	item	community	mid
+implants	이식물	item	translated	high
+parries	막기	system	style	high
+augment	신체 보강물	item	translated	mid
+Expanse	공역	setting	style	high
+deadeye shot	정밀 사격	system	translated	mid
+ranged weapon	원거리 무기	item	translated	high
+lance weapons	랜스 무기	item	style	high
+acceleration and braking	가속과 제동	system	translated	high
+fresh injury	새 부상	system	translated	high
+penalties	불이익	system	translated	high
+heroic acts	영웅적 행동	system	style	high
+servitors	서비터	setting	style	high
+internal fires	함내 화재	system	translated	high
+salvo	일제 발사	system	translated	high
+She Who Thirsts	목마른 그녀	setting	namu:슬라네쉬	high
+cogitators	코기테이터	item	style	high
+lumen	루멘 조명	item	translit	mid
+Lingua-Technis	링구아-테크니스	setting	community	high
+deflection negation	피해 감소 무시	system	translated	high
+partial cover	부분 엄폐	system	translated	high
+wound	체력	system	style	high
+Drusian	드루수스 교단	setting	community	mid
+Operatives	오퍼러티브	ability	style	high
+agri-world	농업 행성	setting	community	high
+augmetic	신체 보강물	item	translated	mid
+deadeye shots	정밀 사격	system	translated	mid
+ranged weapons	원거리 무기	item	translated	high
+Astropaths	아스트로패스	setting	style	high
+Master Tacticians	마스터 택티션	ability	namu:Warhammer 40,000: Rogue Trader	high
+effective range	유효 사거리	system	translated	high
+power damage	동력 피해	system	translated	mid
+Arch-Militants	아치 밀리턴트	ability	namu:Warhammer 40,000: Rogue Trader	high
+Empyrean	엠피리언	setting	translit	low
+His	그분의	other	translated	high
+Saint Drusus mission	성 드루수스 선교단	setting	community	mid
+collision	충돌	system	translated	high
+grazing hit	스침	system	translated	high
+maximum hit chance	최대 명중률	system	translated	high
+priority targets	우선 표적	system	translated	high
+torpedo salvo	어뢰 일제 발사	system	translated	high
+Grand Strategists	그랜드 스트래티지스트	ability	namu:Warhammer 40,000: Rogue Trader	high
+Piercing	관통	system	translated	high
+Tarot	타로	item	community	high
+asteroid field	소행성 지대	system	translated	high
+doctrine	교리	ability	translated	mid
+lances	랜스	item	style	high
+proximity fuse	근접 신관	item	translated	high
+servitorised	서비터로 개조된	setting	style	high
+temporary wound	임시 체력	system	style	high
+vulnerable	취약	system	translated	high
+"Inquisition,"	이단심문소	setting	community	high
+Administratum functionary	아뎁투스 아드미니스트라툼 관리	setting	community	mid
+Astra Telepathica	아스트라 텔레파시카	setting	community	high
+Bursts	연사	system	style	high
+Exemplars	모범자	ability	translated	mid
+Him	그분	other	translated	high
+Impact	충격	system	translated	high
+Magi	마고스	setting	community	high
+Melee attackers	근접 공격자	system	translated	high
+Order of Saint Drusus	성 드루수스 교단	setting	community	mid
+Proctor-Exactant	프록터 엑잭턴트	setting	translit	low
+Ruinous Powers'	파멸의 권능의	setting	community	mid
+Sisters	수녀	setting	style	high
+Tech-Priest's	테크 프리스트의	setting	style	high
+Universal Law	보편 법칙	setting	translated	mid
+Weapon Skills	근접술	system	style	high
+archetypes	아키타입	ability	style	high
+burst attack	연사 공격	system	style	high
+craftworlds	크래프트월드	setting	community	high
+crimson-clad	진홍색 옷을 입은	other	translated	high
+data-crypts	데이터 보관소	setting	translated	mid
+direct	직접	system	translated	high
+energy	에너지	system	translated	high
+firing zones	사격 구역	system	translated	high
+giant	거인	other	translated	high
+gun metal	총기용 금속	other	translated	mid
+heretech	헤레테크	setting	community	high
+immobilise	이동 불가	system	translated	high
+internal fire	함내 화재	system	translated	high
+mechadendrite tentacles	메카덴드라이트 촉수	item	community	mid
+micro-cogitator	소형 코기테이터	item	style	high
+old injuries	오래된 부상	system	translated	high
+order	수녀회	setting	translated	high
+overpenetrated	과관통된	system	translated	high
+ranged area attack	원거리 범위 공격	system	translated	high
+servitorisation	서비터 개조	setting	style	high
+sorcerer	소서러	setting	community	high
+spirit stone	스피릿 스톤	item	community	high
+tithe grade of Solutio Extremis	솔루티오 엑스트레미스 십일조 등급	setting	translit	low
+void movement point	공허 이동력	system	style	high
+vox-cast	복스 방송	setting	community	mid
+vox-hubs	복스 중계소	item	community	mid
+vox-messages	복스 통신	setting	community	mid
+vox-station	복스 통신소	setting	community	mid
+voxes	복스 통신기	item	community	high
+xenocogitator	제노스 코기테이터	item	style	high
+xenotechnology	제노스 기술	setting	style	high

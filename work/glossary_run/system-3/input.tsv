@@ -1,0 +1,128 @@
+english	count	kinds	example
+AP	217	encyclopedia	ActionPoints
+armour penetration	155	encyclopedia	ArmourPenetration
+penalty	130	encyclopedia	Penalty
+hit chance	101	encyclopedia	HitSequenceGlossary|HitChance
+melee	95	encyclopedia	MeleeAttacksGlossary
+hits	91	encyclopedia	HitSequenceGlossary
+PER	83	encyclopedia	WarhammerPerception
+test	71	encyclopedia	Test
+psychic power	66	encyclopedia	PsykerPowersGlossary
+extra turn	61	encyclopedia	ExtraTurn
+STR	53	encyclopedia	WarhammerStrength
+staggered	50	encyclopedia	StaggeredEffect
+macro-cannons	44	encyclopedia	MacroCannonsSpace
+fire damage	41	encyclopedia	FireDamage
+priority target	37	encyclopedia	PriorityTarget
+Archenemy	33	encyclopedia	Chaos|ChaosGlossary
+effect	32	encyclopedia	CommonStatusesGlossary|CommonStatuses
+ranged attacks	31	encyclopedia	RangeAreaAttacksGlossary
+tests	30	encyclopedia	Test
+negative effects	29	encyclopedia	NegativeEffectTypesGlossary|NegativeEffect
+difficulty tier	27	encyclopedia	DifficultyTier
+rate of fire	26	encyclopedia	RateOfFire
+unconscious	25	encyclopedia	UnconsciousEffect
+dorsal	22	encyclopedia	DorsalSpace
+critical hits	21	encyclopedia	CritChancesAndCritDamageGlossary
+psychic phenomena	20	encyclopedia	PsychicPhenomena
+single-shot	19	encyclopedia	SingleRangedAttacksGlossary|SingleRangedAttacks
+Throne	17	encyclopedia	GoldenThrone|GoldenThroneGlossary
+parry reduction	17	encyclopedia	ParryReduction
+augurs	16	encyclopedia	Augur
+implants	16	encyclopedia	Augmentation
+parries	15	encyclopedia	Parry
+augment	14	encyclopedia	AugmentsFullGlossary|Augmentation|AugmentationGlossary
+Expanse	13	encyclopedia	KoronusExpanse|KoronusExpanseGlossary
+deadeye shot	12	encyclopedia	DeadeyeShot
+ranged weapon	12	encyclopedia	RangeAreaAttacksGlossary
+lance weapons	11	encyclopedia	LanceWeaponSpace
+acceleration and braking	10	encyclopedia	AccelerationBrakingSpace
+fresh injury	10	encyclopedia	Injury
+penalties	10	encyclopedia	Penalty
+heroic acts	9	encyclopedia	HeroicAct
+servitors	9	encyclopedia	Servitor
+internal fires	8	encyclopedia	InternalFiresSpace
+salvo	8	encyclopedia	TorpedoSalvoSpace
+She Who Thirsts	7	encyclopedia	Sailanthresh
+cogitators	7	encyclopedia	Cogitator
+lumen	7	encyclopedia	Lumen
+Lingua-Technis	6	encyclopedia	LinguaTechnis
+deflection negation	6	encyclopedia	DeflectionNegation
+partial cover	6	encyclopedia	DetailsOfTheCoverGlossary
+wound	6	encyclopedia	HitPoints
+Drusian	5	encyclopedia	Drusians
+Operatives	5	encyclopedia	CareerAdeptGlossary
+agri-world	5	encyclopedia	AgriWorld
+augmetic	5	encyclopedia	Augmentation
+deadeye shots	5	encyclopedia	DeadeyeShot
+ranged weapons	5	encyclopedia	RangeAreaAttacksGlossary
+Astropaths	4	encyclopedia	AstropathGlossary|Astropath
+Master Tacticians	4	encyclopedia	CareerTacticianGlossary
+effective range	4	encyclopedia	Range
+power damage	4	encyclopedia	PowerDamage
+Arch-Militants	3	encyclopedia	CareerVeteranGlossary
+Empyrean	3	encyclopedia	Warp|WarpGlossary
+His	3	encyclopedia	Emperor
+Saint Drusus mission	3	encyclopedia	Drusians
+collision	3	encyclopedia	PushGlossary
+grazing hit	3	encyclopedia	GrazingHit
+maximum hit chance	3	encyclopedia	MaxHitChance
+priority targets	3	encyclopedia	PriorityTarget
+torpedo salvo	3	encyclopedia	TorpedoSalvoSpace
+Grand Strategists	2	encyclopedia	CareerStrategistGlossary
+Piercing	2	encyclopedia	PiercingDamage
+Tarot	2	encyclopedia	ImperialTarotGlossary
+asteroid field	2	encyclopedia	AsteroidField
+doctrine	2	encyclopedia	Career
+lances	2	encyclopedia	LanceWeaponSpace
+proximity fuse	2	encyclopedia	DirectHitSpace|ProximityFuseSpace
+servitorised	2	encyclopedia	Servitor
+temporary wound	2	encyclopedia	TemporaryWounds
+vulnerable	2	encyclopedia	Vulnerable
+"Inquisition,"	1	encyclopedia	Inquisition
+Administratum functionary	1	encyclopedia	AdeptusAdministratumGlossary
+Astra Telepathica	1	encyclopedia	AdeptusAstraTelepathica
+Bursts	1	encyclopedia	BurstAttacks
+Exemplars	1	encyclopedia	CareerTiersGlossary
+Him	1	encyclopedia	Emperor
+Impact	1	encyclopedia	ImpactDamage
+Magi	1	encyclopedia	Magos
+Melee attackers	1	encyclopedia	MeleeAttacksGlossary
+Order of Saint Drusus	1	encyclopedia	Drusians
+Proctor-Exactant	1	encyclopedia	ProctorGlossary
+Ruinous Powers'	1	encyclopedia	ChaosGlossary
+Sisters	1	encyclopedia	AdeptaSororitas
+Tech-Priest's	1	encyclopedia	TechPriest
+Universal Law	1	encyclopedia	UniversalLaws
+Weapon Skills	1	encyclopedia	WarhammerWeaponSkill
+archetypes	1	encyclopedia	Career
+burst attack	1	encyclopedia	BurstAttacksGlossary
+craftworlds	1	encyclopedia	Craftworld
+crimson-clad	1	encyclopedia	AdeptusMechanicusGlossary
+data-crypts	1	encyclopedia	Cybercrypt
+direct	1	encyclopedia	DirectDamage
+energy	1	encyclopedia	EnergyDamage
+firing zones	1	encyclopedia	RangedAttack
+giant	1	encyclopedia	AdeptusAstartesGlossary
+gun metal	1	encyclopedia	Plasteel
+heretech	1	encyclopedia	Heretech
+immobilise	1	encyclopedia	ImmobilisedEffect
+internal fire	1	encyclopedia	InternalFiresSpace
+mechadendrite tentacles	1	encyclopedia	Mechadendrite
+micro-cogitator	1	encyclopedia	Cogitator
+old injuries	1	encyclopedia	Injury
+order	1	encyclopedia	AdeptaSororitas
+overpenetrated	1	encyclopedia	OverpenetrationFullGlossary
+ranged area attack	1	encyclopedia	RangeAreaAttacksGlossary
+servitorisation	1	encyclopedia	Servitor
+sorcerer	1	encyclopedia	PsykerGlossary
+spirit stone	1	encyclopedia	SpiritStone
+tithe grade of Solutio Extremis	1	encyclopedia	TitheGradeGlossary
+void movement point	1	encyclopedia	MovementPointsSpace
+vox-cast	1	encyclopedia	Vox
+vox-hubs	1	encyclopedia	Vox
+vox-messages	1	encyclopedia	Vox
+vox-station	1	encyclopedia	Vox
+voxes	1	encyclopedia	Vox
+xenocogitator	1	encyclopedia	Cogitator
+xenotechnology	1	encyclopedia	Xenos

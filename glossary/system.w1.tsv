@@ -1,0 +1,127 @@
+english	korean	note
+damage	피해	system|translated|high
+turn	턴	system|translated|high
+round	라운드	system|translated|high
+bonus	보너스	system|translated|high
+ability	능력	system|translated|high
+hit	명중	system|translated|high
+abilities	능력	ability|translated|high
+penalty	불이익	system|translated|high
+characteristics	능력치	system|translated|high
+rounds	라운드	system|translated|high
+melee	근접	system|translated|high
+resolve	결의	system|translated|high
+hits	명중	system|translated|high
+immobilised	이동 불가	system|translated|high
+test	판정	system|translated|high
+bonuses	보너스	system|translated|high
+slowed	감속	system|translated|high
+staggered	비틀거림	system|translated|high
+macro-cannons	매크로 캐논	item|community|high
+talents	재능	ability|style|high
+cooldown	재사용 대기시간	system|translated|high
+blinded	실명	system|translated|high
+perplexed	당혹	system|translated|mid
+speed	속도	system|translated|high
+dodges	회피	system|style|high
+turns	턴	system|translated|high
+characteristic	능력치	system|translated|high
+effect	효과	system|translated|high
+tests	판정	system|translated|high
+skills	기술	system|translated|high
+fatigued	피로	system|translated|high
+exploit	약점	system|translated|mid
+ranged	원거리	system|translated|high
+overpenetration	관통 사격	system|translated|high
+unconscious	의식 불명	system|translated|high
+trauma	중상	system|translated|high
+traumas	중상	system|translated|high
+pushes	밀치기	system|translated|high
+dorsal	상부	system|translated|high
+lethality	치사율	system|translated|high
+shields	보이드 실드	system|style|high
+block	방패 막기	system|translated|high
+pushed	밀려남	system|translated|high
+evasion	회피	system|style|high
+prow	함수	system|translated|high
+disturbed	동요	system|translated|mid
+single-shot	단발 사격	system|translated|high
+dodged	회피	system|style|high
+mechadendrites	메카덴드라이트	item|community|high
+damaged	피해를 입음	system|translated|high
+augurs	오거 탐지기	item|community|mid
+implants	이식물	item|translated|high
+hull	선체	system|translated|high
+parries	막기	system|style|high
+injuries	부상	system|translated|high
+manoeuvrability	기동성	system|translated|high
+recoil	반동	system|translated|high
+push	밀치기	system|translated|high
+augment	신체 보강물	item|translated|mid
+injury	부상	system|translated|high
+effects	효과	system|translated|high
+exploits	약점	system|translated|mid
+servo-skull	서보 스컬	item|community|high
+initiative	우선권	system|translated|high
+implant	이식물	item|translated|high
+parried	막기	system|style|high
+penalties	불이익	system|translated|high
+lumens	루멘	item|translit|mid
+augmetics	기계 보철	item|translated|mid
+blocks	방어	system|translated|mid
+reloads	재장전	system|translated|high
+salvo	일제 발사	system|translated|high
+comm-bead	소형 통신기	item|translated|high
+damages	피해	system|translated|high
+cogitators	코기테이터	item|style|high
+lumen	루멘 조명	item|translit|mid
+wound	체력	system|style|high
+blocked	차단	system|translated|mid
+recaf	레카프	item|style|high
+components	함선 부품	item|translated|high
+lho	로	item|translit|low
+augmetic	신체 보강물	item|translated|mid
+pushing	밀치기	system|translated|high
+trailed	추적당함	system|translated|mid
+critical	치명타	system|style|high
+auspexes	오스펙스	item|community|mid
+vox-caster	복스 캐스터	item|community|high
+collision	충돌	system|translated|high
+galvanising	증강 과부하	system|translated|low
+psy-focus	사이킥 집중기	item|translated|mid
+decay	부패	system|translated|mid
+hitting	명중	system|translated|high
+doctrine	교리	ability|translated|mid
+lances	랜스	item|style|high
+vulnerable	취약	system|translated|high
+cards	카드	item|translated|high
+fire	화염	system|translated|high
+immobilises	이동 불가 부여	system|translated|high
+mental	정신	system|translated|high
+overexerted	탈진	system|translated|mid
+stimulants	자극제	item|translated|high
+vox-bead	소형 통신기	item|translated|high
+vox-casters	복스 통신기	item|translated|high
+vox-synth	복스 음성 합성기	item|translated|mid
+xenodevice	제노스 장치	item|translated|high
+concussion	뇌진탕	system|translated|high
+degrades	손상된다	system|style|high
+dodging	회피	system|style|high
+fires	함내 화재	system|translated|high
+highlighted	강조 표시된	system|translated|high
+merchant	상인	system|translated|high
+oddities	진귀품	item|translated|mid
+overpenetrate	관통한다	system|translated|mid
+resistance	저항	system|translated|high
+vox-grille	복스 발성구	item|translated|mid
+vox-recording	복스 녹음	item|translated|high
+vox-synthesiser	복스 음성 합성기	item|translated|high
+archetypes	아키타입	ability|style|high
+direct	직접	system|translated|high
+energy	에너지	system|translated|high
+immobilise	이동 불가	system|translated|high
+micro-cogitator	소형 코기테이터	item|style|high
+overpenetrated	과관통된	system|translated|high
+vox-hubs	복스 중계소	item|community|mid
+voxes	복스 통신기	item|community|high
+xenocogitator	제노스 코기테이터	item|style|high

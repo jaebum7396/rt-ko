@@ -1,0 +1,125 @@
+english	count	kinds	example
+Abelard	635	name	Sound/Barks/Companions/Abelard_Barks_DisplayName.json
+Undying One	309	encyclopedia,proper	"Domin, the Undying One's will has led us to | EmperorGlossary
+ability	227	encyclopedia,name	Ability | Encyclopedia/MechanicalGlossary/Ability_Title.json
+Genetor	186	encyclopedia,name	Encyclopedia/Glossary/Genetor_Title.json | Genetor
+Mercy	154	name	World/Dialogs/Companions/Romances/Jae/Names/Mercy_name_String.json
+Vox Master	132	encyclopedia,proper	your captain's decisions, Vox Master?" | Vox
+Master-at-Arms	115	name	DLC/DLC1/Narrative/Bridge/Barks/Prologue/OldMasterOfDiscipline_name_String.json
+Vanguard	105	encyclopedia,name	Classes/Vanguard/VanguardCareer/Vanguard_CareerPath_.DisplayName_.json | CareerVanguardGlossary
+Webway	96	encyclopedia,name	Encyclopedia/ForbiddenLore/WebwayGlossary_Title.json | Webway
+Theodora von Valancius	87	proper	"Did you ever meet Theodora von Valancius?"
+Foulstone	74	name	GlobalMaps/StarSystemObjects/Planets/FoulstonePlanetSSObject_.DisplayName_.json
+Asuryani	66	encyclopedia,name	Encyclopedia/ForbiddenLore/AsuryaniGlossary_Title.json | Asuryani|AsuryaniGlossary
+Crucible	62	name	GlobalMaps/Colonization/Colonization_Narrative/Projects/Stage/PrStage15_StageProject_name_String.json
+Kunrad Voigtvir	56	name,proper	Units/Names/NPC/Unique/Human/Ch00_OfficersDeck/Kunrad_Name_String.json | lips once praised the name of Kunrad Voigtvir, but it is your name they
+Kharael	52	name	Units/Names/NPC/Unique/Drukhari/CH05_MarazhaiBloodright/Karael_Name_String.json
+Archmagos	49	encyclopedia,name	Encyclopedia/Glossary/Archmagos_Title.json | Archmagos
+Cold Trade	45	encyclopedia,name,proper	Encyclopedia/Glossary/ColdTrade_Title.json | stolen by hired agents of the Cold Trade on Calligos Winterscale's
+Exalt-117	43	name	DLC/DLC3/Narrative/Museion_DargonusLoop/Names/Exalt117_name_String.json
+Combat Tactics	40	name	Classes/Strategist/StrategistKeystone/Strategist_Keystone_Feature_.DisplayName_String.json
+Master van Calox	39	proper	experience for you, I see, Master van Calox. But there is nothing
+Grenade	35	name	Weapons/Weapons/GrenadeWeapon_Item_m_DisplayName.json
+Navigator's Sanctum	33	name,proper	MultiEntrance/Voidship/VoidshipNavigatorsSanctumMultiEntranceEntry_.Name_.json | "The Navigator's Sanctum is directly along the
+Infernus Master	32	proper	Majoris. At least the Infernus Master does not waste my time and
+Trazyn the Infinite	31	name,proper	DLC/DLC3/Narrative/Museion/Name/Trazyn_Name_String.json | you into the iconic vault of Trazyn the Infinite. Pursue rare artefacts,
+Magos Haneumann	30	proper	"I grieve with you, Magos Haneumann, and offer prayers to the
+Genetor Februs	29	proper	devout, are you not, Genetor Februs?"
+Master of Whispers	28	proper	instigated by the rebellious Master of Whispers, the Sector Bionica was
+Children of Redemption	26	proper	"Who are the Children of Redemption?"
+Weapons	25	name	Encyclopedia/WeaponsChapter_Title.json
+Emperor's Tarot	24	encyclopedia,name,proper	Encyclopedia/ImperiumLore/ImperialTarotGlossary_.Title_String.json | watching you divine using the Emperor's Tarot, and do you know what? I
+Nocturne of Oblivion	24	proper	"Nocturne of Oblivion, a Solitaire from a group of
+Hunt Down the Prey	23	name	Classes/Hunter/HunterAbilities/HuntDownThePrey_Feature_.DisplayName_.json
+Torpedo tubes	22	encyclopedia,name	TorpedoLaunchersSpace | Encyclopedia/MechanicalGlossary/TorpedoLaunchersSpace_Title.json
+lethality	21	encyclopedia,name	Lethality | Classes/Assassin/AssassinAbilities/Assassin_Lethality_BuffShow_m_DisplayName.json
+Vengeance	21	name	Equipment/Gloves/Unique/AvengersTacticalGauntlets_Buff_m_DisplayName.json
+Gladiator	20	name	World/Dialogs/Ch3/Chasm/Names/ArenaGladiator_name_String.json
+Aishara	19	name	World/Dialogs/Ch4/Eufrates/Names/Aishara_name_String.json
+Sinisthoria	19	name	Units/Names/NPC/Unique/Drukhari/CH05_MarazhaiBloodright/Sinistroia_Name_String.json
+Kick	18	name	Classes/Veteran/VeteranAbilities/Veteran_Kick_Feature_.DisplayName_.json
+House Sauerback	18	proper	Consequently, we demand that House Sauerback be penalised for an amount
+Shield Bash	17	name	Weapons/Shields/ShieldAttackAbility_.DisplayName_String.json
+Primordial Truth	17	proper	to see you touch upon the Primordial Truth. The rest is insignificant,
+Sergeant Malgar	16	name,proper	World/Dialogs/Ch1/RaycadMinoris/StarPort/Names/Sergeant_name_String.json | "Thanks to Sergeant Malgar's troops, we can manage the
+Seneschal Werserian	16	proper	"Seneschal Werserian, I am glad you are still with
+Imperial Knight	15	encyclopedia,name	Encyclopedia/ImperiumLore/ImperialKnightGlossary_Title.json | ImperialKnight
+Felek Orsellio	15	proper	by your faithful servant Felek Orsellio."
+manoeuvrability	14	encyclopedia,name	ManoeuvrabilitySpace | Encyclopedia/MechanicalGlossary/ManoeuvrabilitySpace_Title.json
+Imperial World	14	name	Backgrounds/Homeworlds/ImperialWorld/ImperialWorld_Homeworld_m_DisplayName_1.json
+Heriokh's Rim	14	proper	Lesson of Heriokh's Rim
+injury	13	encyclopedia,name	Injury | Units/Monsters/JungleBeast/JungleBeastCommon/Prologue/JungleBeastTheodorasPetInjure_Buff_m_DisplayName.json
+Obelisk	13	name	DLC/DLC3/Narrative/Deathworld/FlayerTemple/Names/FT_Obelisk_name_String.json
+Leman Russ	13	proper	Capture the Leman Russ
+Artisan Decabalus	12	name,proper	DLC/DLC3/Narrative/EE_OilPlatform/Name/OP_HeadXenarite_Name_String.json | leadership of now elevated Artisan Decabalus. The loss of the station was
+Orchestrated Firestorm	12	name	Classes/Tactician/TacticianHeroicAct/TacticianUltimateAbility_.DisplayName_.json
+The Reaping	12	name	GlobalMaps/Colonization/Colonization_Narrative/Projects/Resource/PrRes6_ResourceProject_name_String.json
+Priesthood of Mars	12	encyclopedia,proper	and the privileges of the Priesthood of Mars!" | AdeptusMechanicus|AdeptusMechanicusGlossary
+Death Sentence	11	name	Backgrounds/Occupations/Arbitrator/ArbitratorAbilities/ExactionCastigatorsMasteryExecute_Ability_.DisplayName_String.json
+PF	11	name	GlobalMaps/Colonization/Colonization_Narrative/UI/Colony_PF_name_short_String.json
+The Infinite Museion	11	name	DLC/DLC3/DLC3TheInfiniteMuseion_m_DisplayName.json
+Lady Vyatt	11	proper	time. I will report back when Lady Vyatt arrives."
+Cardinal Anvylas	10	name,proper	DLC/DLC2/Narrative/VigilCastle/Name/VP_CardinalWitness_male_Name_String.json | "The Rogue Trader exiled Cardinal Anvylas from Dargonus so that he
+Fireproof	10	name	Consumables/Drugs/Drug_Fireproof_.DisplayName_.json
+Regina Sauerback	10	name,proper	World/Dialogs/Ch2_VS/Dargonus/Ceremony_Coronation/Names/Ceremony_ReginaSauerbeck_name_String.json | Regina Sauerback
+Chirurgeon Majoris	10	proper	"Greetings, Your . Your Chirurgeon Majoris is at your service."
+Maiden World	10	proper	you will gain by tilling the Maiden World." Muaran tilts his head to
+Blood Angels	9	encyclopedia,name	Encyclopedia/ImperiumLore/BloodAngelsGlossary_.Title_String.json | BloodAngelsGlossary
+Field Medic	9	name	Classes/Fighter/FighterFeatures/FieldMedic_Feature_.DisplayName_String.json
+Iconoclast — Zealot	9	name	SoulMarks/HopeSoulMark_5_.DisplayName_.json
+Psychic Shriek	9	name	Classes/Psyker/PsychicScream_.DisplayName_String.json
+Witness	9	name	Classes/Assassin/AssassinTalents/Assassin_LeaveNoWitness_Buff_.DisplayName_String.json
+Heathen Stars	9	proper	by, bound for systems in the Heathen Stars — just your humdrum pirate
+Vizsier Kibellah	9	proper	the deeds of Marshal Anthar, Vizsier Kibellah asked the cards about his
+Blade Shard	8	name	DLC/DLC3/Narrative/Museion_Exhibition/Items/EX_JanusXenobladeShard_Item_Name_String.json
+Devourer	8	name	Units/Monsters/ChaosSpawn/PrologueChaosSpawn/Abilities/PrologueChaosSpawn_Devour_Ability_m_DisplayName.json
+Kabalite Warrior	8	name	Units/Names/NPC/Commoners/Drukhari/Ch03_ReavingTempestSpire/DrukhariDeviceFighter_Melee_ReavingTempestSpire_Name_String.json
+Plagued Undead	8	name	Units/Names/RandomEncounters/Ch02/NurgleAmbushZombie_RandomEncounter_Name_String.json
+Scribe	8	name	DLC/DLC1/Narrative/LowerTunnels_Default/Names/LT_Clerk_name_String.json
+The One Star	8	name	Equipment/Armour/Unique/SororitasPowerArmourFire_Item_.DisplayName_.json
+Yart	8	name	DLC/DLC1/Narrative/OfficerDeck/Names/Yart_name_String.json
+Final Order	8	proper	that, unless I revoke the Final Order, I cannot issue the next one.
+Seneschal Abelard Werserian	8	proper	Seneschal Abelard Werserian has lost some of his former
+Atlas Reach	7	name	GlobalMaps/StarSystems/AtlassianReachSystem_.DisplayName_.json
+Desolation	7	name	Classes/Fighter/FighterTalent/Desolation_Fighter_Talent_.DisplayName_String.json
+Forgotten Twins	7	name,proper	GlobalMaps/StarSystems/ForgottenTwinsSystem_.DisplayName_.json | Those would be the Forgotten Twins, Langrenn's Belt, and the
+Intimidation	7	name	Classes/Adept/AdeptAbilities/Adept_Intimidation_Ability_.DisplayName_.json
+Pict	7	encyclopedia,name	Encyclopedia/Glossary/Pict_Title.json | Pict
+Sotto's Tomb	7	name	GlobalMaps/StarSystemObjects/ExplorationPlanetPoints/TombSotto/TombSotto_PoI_m_Name.json
+Vision of Death	7	name	Classes/Psyker/Telepathy/WeaponFeature/TelepathyWeaponVisionOfDeathAbility_.DisplayName_String.json
+Imperial Law	7	proper	the iron-clad rule of Imperial Law and introduces an entirely
+Sisters of Battle	7	encyclopedia,proper	I wish to know what the Sisters of Battle do in their spare time." | AdeptaSororitasGlossary|AdeptaSororitas
+Astartia Werserian	6	name,proper	World/Dialogs/Ch2_VS/Dargonus/Ceremony_Coronation/Names/AstartiaVerserian_name_String.json | "Astartia Werserian, Your . I am the daughter
+Burning Worlds	6	name	Encyclopedia/PlanetsType/BurningPlanetType_Title.json
+Combat-Ready	6	name	DLC/DLC1/Narrative/LowerTunnels_Riot/Buffs/EnforcersAlert_buff_name_String.json
+Death, Agony	6	name	Units/NPC/Unique/DeathEmperor/Abilities/TheEmperor_PhaseBlood_Buff_m_DisplayName.json
+Emperor Protects!	6	name	Units/NPC/Unique/SpaceMarine/Ch04_Eufrates/SpaceMarineFight/Abilities/Eufrates_Spacemarine_THP__buff_m_DisplayName.json
+Galvanisation	6	name	Encyclopedia/Tutorial/AugmentsOverdriveFullGlossary_.Title_String.json
+Kabalite Armour	6	name	Equipment/Armour/PC/KabaliteArmour_Item_.DisplayName_String.json
+Power Blade	6	name	Weapons/Weapons/DeathCultPowerBladeT1CH4_Item_.DisplayName_String.json
+Sergeant Janur	6	name	DLC/DLC3/Narrative/Deathworld/SurvivorCamp/Names/SC_Janur_name_String.json
+Strongpoint	6	name	Classes/Strategist/StrategistTalents/Strategist_Talent02_Feature_.DisplayName_String.json
+The Roar	6	name	Weapons/Weapons/Unique/NeedleRifleCH2Unique1_Item_.DisplayName_String.json
+Warp Relay	6	name	Classes/Master/MasterPets/RavenPet/RavenAbilities/RavenPet_Relay_Ability_.DisplayName_String.json
+Factotum Janris Danrok	6	proper	High Factotum Janris Danrok was gravely wounded during a
+Immortal Emperor	6	proper	world, and, as is our Immortal Emperor's will, join our sacred crusade
+Merov Penal Regiment	6	proper	down as commander of the 32nd Merov Penal Regiment. It's up to you now, Your
+Theobald Orsellio	6	proper	Theobald Orsellio nods slowly. "Do not fear
+Awakened	5	name	Spacecombat/Units/Enemies/Necrons/DLC1/DLC1_NecronType2_Alarm_Buff_.DisplayName_String.json
+Chartist Captain Austerius Thorfast	5	name	Units/Names/NPC/Unique/Human/CH02_FootFallDock/Footfall_SpaceVendor_Fake_Name_String.json
+Death Hymn	5	name	Weapons/Weapons/Unique/DLC2/DeathHymnKnife_Item_.DisplayName_String.json
+Fervour	5	name	Classes/Tactician/Abilities/TacticianFervourAbility_.DisplayName_.json
+Greatsword	5	name	Weapons/Weapons/GreatSword_Item_.DisplayName_.json
+Insatiable	5	name	Weapons/Weapons/Unique/DLC2/InsatiableVindictorFlamer_Item_.DisplayName_String.json
+Master of Etherics	5	name	Spacecombat/Abilities/Microabilities/SubMA_FocusedEffortsAuspex_.DisplayName_.json
+Necron Lord	5	name	Spacecombat/Abilities/EnemyAbilities/Necron_Lord_Presence_buff_.DisplayName_String.json
+Prefect Inscribia Vultur	5	name	DLC/DLC2/Narrative/VigilCastle/Name/VP_Prefect_Hurt_Name_String.json
+Shield Pulse	5	name	Spacecombat/Abilities/Microabilities/MA_ShieldGen_ShieldsPulse_.DisplayName_.json
+The Ashen Breath	5	name	GlobalMaps/Colonization/Colonization_Narrative/Items/Items/FusionGunT1_Item_name_String.json
+The Null Directive	5	name	Classes/Master/MasterCareer/Master_Raven_TechSupport_Feature_.DisplayName_String.json
+Vespiadas	5	name	Units/Names/NPC/Unique/Human/Ch00_OfficersDeck/Navigator_Name_String.json
+Altar of Change	5	proper	is nearly complete, my lord. The Altar of Change is ready to irrevocably
+Great Regent Aaronto	5	proper	warp differently. My mentor, Great Regent Aaronto, always described his travels
+Kas Bellardo	5	proper	"Pardon me. Kas Bellardo. I have the honour of being
+Master Voigtvir	5	proper	implored them to take him to Master Voigtvir or Lady Theodora.
+Vistenza Janus Vyatt	5	proper	Vistenza Janus Vyatt ab Aram af Koronus is

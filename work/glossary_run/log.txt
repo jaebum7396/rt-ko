@@ -1,0 +1,15 @@
+12:41:45 system-1 done 57s 128 glossary.tsv
+12:41:48 lore-3 done 74s 125 glossary.tsv
+12:41:48 lore-1 done 80s 125 glossary.tsv
+12:41:54 lore-6 done 74s 125 glossary.tsv
+12:41:55 lore-7 done 73s 125 glossary.tsv
+12:41:57 lore-8 done 73s 125 glossary.tsv
+12:41:58 lore-10 done 88s 125 glossary.tsv
+12:42:01 lore-4 done 85s 125 glossary.tsv
+12:42:07 lore-5 done 89s 125 glossary.tsv
+12:42:08 lore-9 done 82s 125 glossary.tsv
+12:42:10 system-2 done 80s 128 glossary.tsv
+12:42:12 lore-2 done 100s 125 glossary.tsv
+12:42:18 system-3 done 86s 128 glossary.tsv
+12:42:57 voices-companions done 123s 28 voices.tsv
+12:47:54 voices-npc done 418s 144 voices.tsv

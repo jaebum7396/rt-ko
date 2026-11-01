@@ -56,6 +56,7 @@
 
 ## 용어집·말투표 파일 — `glossary/` (UTF-8 TSV, 첫 줄은 머리줄)
 - `setting.tsv`, `system.tsv`, `names.tsv`: `english<TAB>korean<TAB>note` — korean에 `/`로 변형을 적을 수 있다 (예: `로드 캡틴/캡틴`). note에 출처·확인 여부.
+- `system.w1.tsv`: 흔한 영어 낱말인 게임 용어(`turn`, `speed` 등) — 대사가 아닌 청크(w1)에만 넣는다.
 - `voices.tsv`: `speaker<TAB>voice` — speaker는 Strings의 `speaker` 값 그대로, voice는 말투·호칭·성격 한 줄.
 
 ## 청크 출력 — `work/out/<묶음>/<청크>.tsv`

@@ -358,7 +358,8 @@ def verify_chunks(chunks, expected):
 # ---------------------------------------------------------------------------------------------- terms
 class Glossary(object):
     """glossary/*.tsv rows (english, korean, note). voices.tsv is a per-speaker table and is only read when it
-    carries an `english` header; names.tsv is used for chunks that hold wave-2 (w2-*) text only."""
+    carries an `english` header; names.tsv is used for chunks that hold wave-2 (w2-*) text only, and *.w1.tsv
+    (common English words that are game terms, e.g. "turn") only for chunks without wave-2 text."""
 
     def __init__(self, gdir: str):
         self.rows = []                       # (file, english, korean, note, tokens)
@@ -399,6 +400,8 @@ class Glossary(object):
         for n in sorted(cand):
             fn, eng, kor, note, rtoks = self.rows[n]
             if fn == 'names.tsv' and not use_names:
+                continue
+            if fn.endswith('.w1.tsv') and use_names:   # common-word game terms: system text only, not dialogue
                 continue
             if not all(t in toks for t in rtoks):
                 continue

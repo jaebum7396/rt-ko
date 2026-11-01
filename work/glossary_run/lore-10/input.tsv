@@ -1,0 +1,125 @@
+english	count	kinds	example
+Death	536	name	World/Dialogs/Companions/Romances/Jae/Names/Laserax_Death_name_String.json
+Haemonculus	280	name	Units/Names/NPC/Commoners/Drukhari/Ch03_ReavingTempestSpire/DrukhariHaemonculus_Ranged_ReavingTempestSpire_Name_String.json
+Proctor	223	encyclopedia,name	Encyclopedia/ImperiumLore/ProctorGlossary_.Title_String.json | ProctorGlossary
+Motive Force	180	name,proper	Traps/AreaEffects/Area_ArcheotechReactor_Electricity_AbilityAreaEffect1_.DisplayName_.json | uncontrolled discharge of the Motive Force. Causing the death of the
+Thassera	149	name	DLC/DLC2/Narrative/FeudalWorld/FW_Area_Name_String.json
+Sword	130	name	Units/Monsters/DrukhariGrotesque/Weapon/DrukhariGrotesqueSword_Item_m_DisplayName.json
+Abel	112	name	World/Dialogs/Ch1/RaycadMinoris/ArcheotechReactor/Names/Avel_name_String.json
+Enforcer	102	name	DLC/DLC1/Narrative/LowerTunnels_Default/Names/LT_Enforcers_name_String.json
+resolve	94	encyclopedia,name	Resolve | Encyclopedia/MechanicalGlossary/Resolve_Title.json
+Falco	84	name	Units/Names/NPC/Unique/Human/Ch04_FootfallSewersCh04/Falco_name_String.json
+Executioner	72	encyclopedia,name	Classes/Executioner/Executioner_CareerPath_.DisplayName_String.json | CareerExecutionerGlossary
+Execute!	66	name	Units/NPC/Unique/Human/DLC3_Museion_DragonusLoop/Inquisitors/Abilities/DLC3_DL_Inquisitor_React_Feature_.DisplayName_String.json
+Grand Strategist	61	encyclopedia,name	Classes/Strategist/StrategistCareer/StrategistCareerPath_.DisplayName_String.json | CareerStrategistGlossary
+Command	55	name	Weapons/Spells/PrototypeWeaponsCritTest/DrukhariSybarite_Command_Ability_BlueprintAbility_.DisplayName_.json
+Reverend Hieronymus	52	proper	fate. It is my belief that Reverend Hieronymus is unsurpassed in his
+Demolition	47	encyclopedia,name	Encyclopedia/MechanicalGlossary/SkillDemolition_Title.json | SkillDemolition
+Xavier Calcazar	45	name,proper	World/Dialogs/Ch2_VS/Dargonus/Ceremony_Coronation/Names/LordInquisitor_name_String.json | "Yes, quite right. X.C. — Xavier Calcazar."
+Activate	42	name	World/Dialogs/Ch3/ReavingTempestSpire/MapObjects/SecretBridgeController_DisplayName_String.json
+Noble	40	name	Backgrounds/Occupations/Nobility/Nobility_Occupation_.DisplayName_.json
+Data-Slate	37	encyclopedia,name	Encyclopedia/Glossary/TestEntry3_Title.json | Dataslate
+Jarub	35	name	DLC/DLC3/Narrative/Museion_DargonusLoop/Names/JarubVukchik_name_String.json
+Rykadi Philia	33	name,proper	GlobalMaps/StarSystems/RycadiFiliaPlanetoidSSObject_BlueprintPlanet_.DisplayName_.json | reagents produced on Rykadi Philia, armaglass, medical supplies,
+Sister Argenta	32	proper	chamber in the middle of Sister Argenta's routine session.
+True Flesh	31	encyclopedia,proper	should help the modicum of True Flesh with which you have been | AugmentationGlossary
+Brasswhisper	29	name	World/Dialogs/Ch2_VS/Dargonus/Ceremony_Coronation/Names/IronWhisper_name_String.json
+Rykad System	29	proper	"We've been out of the Rykad System for a while now, and my mind
+Crimson Dance of Khaine	27	name,proper	DLC/DLC3/Narrative/Museion_DargonusLoop/Items/DL_BloodyHandedInRage_name_item_String.json | [Open entry titled "The Crimson Dance of Khaine"]
+Palace of Justice	26	proper	"What is this Palace of Justice?"
+Ordo Xenos	25	proper	do not need a bodyguard, the Ordo Xenos might recruit her instead."
+Inferno	24	name	Classes/Psyker/Pyromancy/WeaponFeature/PyromancyInfernoAbility.DisplayName_String.json
+Adeptus Astartes	23	encyclopedia,name,proper	Backgrounds/Occupations/SpaceMarine/SpaceMarine_Occupation_.DisplayName_String.json | the norm. Equipped with Adeptus Astartes power armour from the Space
+Nihel	23	name	World/Dialogs/Companions/CompanionQuests/Pasqal/Q2/Names/Nihel_name_String.json
+Crusade	22	name	GlobalMaps/Colonization/Colonization_Narrative/Projects/Strategical/PrSt26_StrategicalProject_name_String.json
+Chronomancer	21	name	DLC/DLC3/Narrative/Deathworld/FlayerTemple/Names/FT_Chronomancer_name_String.json
+Naaki Erebis	21	proper	a name was revealed to : Naaki Erebis. That was the life the
+Reject the Flesh	20	name	Units/FactionArmies/ArmyFeatures/PartMachine_Feature_.DisplayName_String.json
+Chaos Space Marine	19	name,proper	Encyclopedia/Glossary/ChaosMarine_Title.json | "It was a Chaos Space Marine."
+Bloodstained Proselytes	19	proper	champions of the arena, the Bloodstained Proselytes!"
+Security	18	name	GlobalMaps/Colonization/Colonization_Narrative/UI/Colony_Security_name_String.json
+Messiah of Discontinuing	18	proper	"The Messiah of Discontinuing was revoked."
+The Yoke	17	name	Units/Names/NPC/Unique/Human/Ch05_Epitaph/Ch05Yoke_Fake_unit_Name_String.json
+Craftworld	16	encyclopedia,name	Encyclopedia/ForbiddenLore/CraftworldGlossary_Title.json | Craftworld
+Thorbald Ironhide	16	name,proper	World/Dialogs/Ch4/Eufrates/Names/Torbald_name_String.json | looking at von Valancius, Thorbald Ironhide."
+Weaver of Destinies	16	proper	life has been tangled by the Weaver of Destinies. Not even death can see where
+Macharius Sauerback	15	name,proper	World/Dialogs/Ch2_VS/Dargonus/Ceremony_Coronation/Names/MachariusSauerbeck_name_String.json | Macharius Sauerback's unpleasant face twists into a
+Immortal One	15	proper	"The Hand of the Immortal One has returned to cradle!"
+Arc Rifle	14	name	Weapons/Weapons/ArcRifle_Item_.DisplayName_String.json
+Melting	14	encyclopedia,name	Buffs/MobBuffs/Melting_Buff_.DisplayName_String.json | MeltingEffect
+Master Bellardo	14	proper	most noble and unforgettable Master Bellardo! This loss..." The fussy
+Cranach	13	name	GlobalMaps/StarSystems/CranachSystem_.DisplayName_.json
+The Path	13	name	Encyclopedia/Glossary/Path_Title.json
+Master Weisz	13	proper	"Has Master Weisz briefed you on the task?"
+Diodas af Irramon	12	name	DLC/DLC3/Narrative/Museion_DargonusLoop/Names/DiodasAfIrramon_name_String.json
+Range	12	encyclopedia,name	Encyclopedia/MechanicalGlossary/Range_Title.json | Range
+Voidship Bridge	12	name	MultiEntrance/Voidship/VoidshipBridgeMultiEntranceEntry_.Name_.json
+Two-Headed Eagle-God	12	proper	The faithful servants of the Two-Headed Eagle-God who shields our lands from
+Erbreght ap Daeff	11	name	Units/Names/NPC/Unique/Human/Ch04_Quetza-Al/Quetza-al_WinterscaleVoxMaster_Name_String.json
+Revenge	11	name	Classes/Ascension/Talents/AscensionTalent15_Feature_.DisplayName_String.json
+Vizsier of the Bloodspun Web	11	name	DLC/DLC1/Narrative/DeathCultTemple/Names/DeathCultProphet_name_String.json
+Maimed Hunter	11	proper	"You spoke of a shelter and a Maimed Hunter. What did you mean by it?"
+Defender	10	name	Weapons/Shields/Shields/PublicDefenterShield_Item_.DisplayName_String.json
+Grotesque	10	name	Units/Names/Monsters/DrukhariGrotesque/DrukhariGrotesque_Yremeriss_Name_String.json
+Sanguinius	10	encyclopedia,name	Encyclopedia/ImperiumLore/SanguiniusGlossary_.Title_String.json | SanguiniusGlossary
+Doleful Host	10	proper	"In forbidding the Doleful Host from capturing the
+Prefect Enumerator	10	proper	designation to refer to a Prefect Enumerator. An especially sacred
+Castigating	9	encyclopedia,name	Classes/Navigator/StaffAbilities/CastigatingBuff_.DisplayName_String.json | Castigating
+Furnace	9	name	DLC/DLC1/Narrative/Companion/CompanionQuest/DeathCultist_Q1/Names/Demagogues/DemagogueFlock_name_String.json
+Leads-Ahead	9	name	Units/Names/NPC/Unique/Human/Ch04_Quetza-Al/Quetza_Overlord_Name_String.json
+Ship Components	9	name	Encyclopedia/Tutorial/ShipComponentsGlossary_Title.json
+Abominable Intelligence	9	proper	honest with me. Is Nuncius an Abominable Intelligence?"
+Inscribia Vultur	9	proper	Prefect Inscribia Vultur
+Young-ho Sohn	9	proper	...Young-ho Sohn and his unit, who were
+Contracts	8	name	World/Quests/QuestGroups_Groups.Array.data[12].Name.json
+Flaming Voice	8	name	DLC/DLC1/Narrative/Companion/CompanionQuest/DeathCultist_Q1/Names/Demagogues/IMFlamingHeart_name_String.json
+Lord Captain's Quarters	8	name	MultiEntrance/Voidship/VoidshipLordCaptainQuartersMultiEntranceEntry_.Name_.json
+Plasma Torpedoes	8	name	Spacecombat/Components/Torpedoes/Units/Names/TorpedoBasic1_PlasmaTorpedoUnit_Name_String.json
+Soaring	8	name	Classes/Master/MasterPets/EaglePet/EagleAbilities/EaglePet_Ascend_Buff_.DisplayName_String.json
+Transonic Wave	8	name	Backgrounds/Occupations/Manipulus/Weapons/Manipulus_TransonicCannon_Ability_.DisplayName_String.json
+Asdrubael Vect	8	proper	and reigning over all is Asdrubael Vect, the Supreme Overlord of the
+Lady Orsellio	8	proper	"Steel your heart, Lady Orsellio. Duty often forces us to
+Tech-Brother Tarzus	8	proper	his sanctification procedure, Tech-Brother Tarzus //vowed//modified his
+Aviorus	7	name	GlobalMaps/StarSystems/AviorusSystem_.DisplayName_.json
+Drill Sergeant Jovakha	7	name	DLC/DLC3/Narrative/Deathworld/SurvivorCamp/Names/SC_InstructorJovakha_name_String.json
+Get Back in the Fight!	7	name	Classes/Leader/LeaderYouAreStrongerThanThisFeature_.DisplayName_.json
+Long-Las	7	name	Weapons/Weapons/Longlas_Item_.DisplayName_String.json
+Raeth-Tawi	7	name	GlobalMaps/StarSystems/RaethTawiSystem_.DisplayName_.json
+Stain	7	name	DLC/DLC1/Narrative/Companion/CompanionQuest/DeathCultist_Q1/Names/Demagogues/TalkerPDChambers_name_String.json
+Willpower +5	7	name	Classes/StatAdvancements/WillpowerStatAdvancement1_.DisplayName_.json
+Lady Elina	7	proper	"What are you going to do to Lady Elina?"
+Trader von Valancius	7	proper	pale skin. "Identification: Rogue Trader von Valancius. Initiating the final stage
+Base Skill: Medicae	6	name	Classes/CommonFeatures/CommonSkillTraining_MedicaeTalent_.DisplayName_String.json
+Castigator	6	name	Backgrounds/Occupations/Arbitrator/ArbitratorFeatures/ExactionCastigatorsMastery_Feature_.DisplayName_String.json
+Crippled	6	encyclopedia,name	Units/Monsters/DrukhariSslyth/Abilities/DrukhariSslyth_CripplingShot_Buff_m_DisplayName.json | CrippledEffect
+Death, Oblivion	6	name	Units/NPC/Unique/DeathEmperor/Abilities/TheEmperor_PhaseMind_Buff_m_DisplayName.json
+Eviscerator	6	name	Weapons/Weapons/Eviscerator_Item_.DisplayName_String.json
+Guest	6	name	World/Dialogs/Ch2_VS/Dargonus/Ceremony_Coronation/Names/Ceremony_Guest_f_name_String.json
+Lord Secundas	6	name	DLC/DLC2/Narrative/VigilCastle/Name/VP_LordSecond_male_Name_String.json
+Power Pick	6	name	Weapons/Weapons/PowerPick_Item_.DisplayName_String.json
+Shield of Faith	6	name	GlobalMaps/Colonization/Colonization_Narrative/Buffs/ShipBuffs/ShieldOfTheFaith_name_String.json
+The Exploder	6	name	Weapons/Weapons/Unique/FlamerPistolExploder_Item_.DisplayName_String.json
+Ultrequisitors	6	name	GlobalMaps/Colonization/Colonization_Narrative/Projects/Strategical/PrSt8_StrategicalProject_name_String.json
+Aaronto Orsellio	6	proper	entry: "Identity confirmed: Regent Aaronto Orsellio. Date of visit: classified.
+Fiery Messenger	6	proper	"Oh no, Kleon... May the Fiery Messenger guide your soul to the halls
+Kappa Thread	6	proper	3) management of the Kappa Thread supply line, 4) compilation
+Navis Imperialis	6	encyclopedia,proper	Gald into the custody of the Navis Imperialis is written in the annals of | ImperialNavy
+A Favour	5	name	GlobalMaps/Colonization/Colonization_Narrative/Contracts/Contract8_name_String.json
+Bitter	5	name	DLC/DLC1/Narrative/Companion/CompanionQuest/DeathCultist_Q1/Names/Demagogues/BoySacrifice_name_String.json
+Cleansing	5	name	Units/Companions/FinalCompanions/Chorda_Features/Chorda_Active_Feature_.DisplayName_String.json
+Death Sphere	5	name	Spacecombat/Progression/ShipRepDrops/ShipTrashNecron2_m_DisplayName.json
+Flash	5	name	Consumables/Drugs/Drug_Flash_.DisplayName_String.json
+Growl!	5	name	Classes/Master/MasterPets/MastiffPet/MastiffAbilities/MastiffPet_Growl_Feature_.DisplayName_String.json
+Kelermorph	5	name	DLC/DLC1/Narrative/OfficerDeck/Name/Kelermorph_name_Name_String.json
+Mattis Erebis	5	name	DLC/DLC1/Narrative/Companion/CompanionQuest/DeathCultist_Q2/Names/Q2_ElderBrother_name_String.json
+Odaenathus XI	5	name	GlobalMaps/StarSystems/ExplorationSystem_21_.DisplayName_.json
+Rapier	5	name	DLC/DLC1/Narrative/Companion/CompanionQuest/DeathCultist_Q1/Names/Demagogues/DemagogueWoeful_name_String.json
+Shuriken Pistol	5	name	Weapons/Weapons/PatternT2ShurikenPistol_Item_.DisplayName_String.json
+The Dark Marchesa	5	name	GlobalMaps/Colonization/Colonization_Narrative/Items/Items/Cooler_PlasmaRifle_Item_name_String.json
+The Unstoppable One	5	name	Units/NPC/Unique/DeathEmperor/Abilities/TheEmperor_UnstoppableObjest_Feature_.DisplayName_String.json
+Void Fury	5	name	Units/Monsters/Ctan/Abilities/Ctan_Phase02Buff_Name_String.json
+Arch-Militant Izdrig Batoshski	5	proper	several years of service, Arch-Militant Izdrig Batoshski died at the hands of one of
+Heartless Man	5	proper	"The Heartless Man imagined himself to be above
+Koronus Conclave	5	proper	were put to good use by the Koronus Conclave. All his knowledge of xenos,
+Orsellio Prophecy System	5	proper	"—the... the Orsellio Prophecy System. How odd. Could it be that
+Winterscale's Realm	5	proper	the Administratum seal from Winterscale's Realm. But why is it the original

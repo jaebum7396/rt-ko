@@ -1,0 +1,125 @@
+english	count	kinds	example
+Heinrix	1043	name	Sound/Barks/Companions/Heinrix_Barks_DisplayName.json
+turn	507	encyclopedia,name	Turn | Encyclopedia/MechanicalGlossary/Turn_Title.json
+Administratum	274	encyclopedia,name	GlobalMaps/StarSystemObjects/ExplorationPoints/DargonusAdministratum_.Name_.json | AdeptusAdministratum|AdeptusAdministratumGlossary
+Nomos	216	name	World/Dialogs/Ch2_VS/Dargonus/Ceremony_Coronation/Names/Nomos_name_String.json
+Lady Theodora	178	proper	did you like serving under Lady Theodora?"
+Sector Bionica	146	name,proper	DLC/DLC3/Narrative/Medicare/Name/SectorBionica_Name_String.json | I wish to return to the Sector Bionica at the earliest opportunity.
+Outcast	129	name	DLC/DLC1/Narrative/LowerTunnels_Default/Names/LT_Outcast_name_String.json
+Calligos Winterscale	112	name,proper	World/Dialogs/Ch2_VS/Dargonus/Ceremony_Coronation/Names/CalligosWinterscale_name_String.json | agents of the Cold Trade on Calligos Winterscale's orders. However, instead of
+Rogue Traders	102	encyclopedia,proper	Winterscale. Despite the two Rogue Traders being enemies, the heads of | RogueTrader|RogueTraderGlossary
+Bladedancer	94	encyclopedia,name	Classes/Reaper/ReaperCareerPath_.DisplayName_String.json | CareerBladedancerGlossary
+Eurac V	83	name	GlobalMaps/StarSystemObjects/ExplorationPoints/RycadiNavisStation_.Name_.json
+Sai'lanthresh	72	encyclopedia,name	Encyclopedia/Glossary/Sailanthresh_Title.json | Sailanthresh
+Heretical	66	encyclopedia,name	Encyclopedia/MechanicalGlossary/SoulMarkCorruption_.Title_String.json | SoulMarkCorruption
+Burst	60	encyclopedia,name	Encyclopedia/Tutorial/BurstAttacksGlossary_Title.json | BurstAttacksGlossary|BurstAttacks
+Iconoclast	55	encyclopedia,name	Encyclopedia/MechanicalGlossary/SoulMarkHope_.Title_String.json | SoulMarkHope
+Calixis Sector	51	encyclopedia,name,proper	Encyclopedia/KoronusExpanseLore/CalixisGlossary_Title.json | of the trade routes of the Calixis Sector. The last entry states that
+Eklendyl	47	name	Units/Names/NPC/Unique/Eldar/Ch03_ReavingTempestSpire/PainedFarseer_Name_String.json
+Zealot	45	name	Equipment/Back/ZealotCloak_Buff_m_DisplayName.json
+Up	42	name	World/Dialogs/Chapter_2/ForgeWorld/MapObjects/ForgeWorld_ButtonLiftBottom_Settings.DisplayName_String.json
+Assault	39	name	Units/NPC/Commoners/Human/Ch01_Starport/Ability/StarportLeaderAssault_buff_.DisplayName_.json
+Envoy	37	name	World/Dialogs/Ch2_VS/Footfall/NPCsNames/Messenger_Name_String.json
+Lady Molles-Secundas	35	name,proper	DLC/DLC2/Narrative/VigilCastle/Name/VP_LadyMolles_female_Name_String.json | Rogue Trader's ruling in the Lady Molles-Secundas case was to declare both her
+Adeptus Amasecus	33	proper	To the Adeptus Amasecus
+Artisan	31	encyclopedia,name	Encyclopedia/Glossary/Artisan_Title.json | Artisan
+Doomscream	30	name	World/Dialogs/Ch4/Eufrates/Names/ScreamOfDefilement_name_String.json
+Cult Mechanicus	29	encyclopedia,name,proper	Encyclopedia/Glossary/CultMechanicus_Title.json | among the servants of the Cult Mechanicus are irrecoverable. I grieve,
+Vistenza Vyatt	29	proper	"Get in touch with Vistenza Vyatt, Governor of Janus. I am
+Holy Inquisition	27	encyclopedia,proper	does not last long in the Holy Inquisition." | Inquisition
+overpenetration	25	encyclopedia,name	OverpenetrationFullGlossary|Overpenetration | Encyclopedia/MechanicalGlossary/Overpenetration_Title.json
+Sanctum Navis	25	proper	to leave the walls of the Sanctum Navis."
+Knight	24	name	DLC/DLC2/Narrative/FeudalWorld/Name/FW_Kinght_Name_String.json
+Augmentation	23	encyclopedia,name	Encyclopedia/ImperiumLore/AugmentationGlossary_Title.json | Augmentation|AugmentationGlossary|AugmentsFullGlossary
+Onslaught	23	name	Consumables/Drugs/Drug_Onslaught_.DisplayName_String.json
+Elusive Contempt	22	name,proper	Spacecombat/Units/Names/Enemies/Pirates/PirateCruiser12boss_Name_String.json | headed by a ship called the Elusive Contempt has been raiding cargo
+Commerce	21	encyclopedia,name	Encyclopedia/MechanicalGlossary/SkillCommerce_Title.json | SkillCommerce
+Uralon the Cruel	21	proper	you. I am Aurora, servant of Uralon the Cruel and the spark of the Final
+Steady!	20	name	Classes/Leader/LeaderTalents/Steady_Leader_Talent_.DisplayName_.json
+Confessor Adalbert	19	name,proper	DLC/DLC1/Narrative/ShipTemple/Names/ShipConfessorDLC1_name_String.json | received the report of Confessor Adalbert's involvement with Nemesite? We
+Cinerus Maleficum	19	proper	three star systems in the Cinerus Maleficum that have come into my
+Servitude	18	name	Classes/Master/MasterCareer/Master_ServitudePet_Feature_.DisplayName_String.json
+Regent Aaronto	18	proper	and deliver her safely to Regent Aaronto, acting head of House
+Vagabond	17	name	Units/Names/NPC/Commoners/Human/Ch02_FootfallAtrium/Footfall_HoboFemale_name_String.json
+Data-Crypt	16	encyclopedia,name	Encyclopedia/Glossary/Cybercrypt_Title.json | Cybercrypt
+Administratum Palace	16	proper	requests that you come to the Administratum Palace for a discussion of the
+hull	15	encyclopedia,name	HullIntegritySpace | Encyclopedia/MechanicalGlossary/HullIntegritySpace_Title.json
+Navy Officer	15	name	Backgrounds/Occupations/NavyOfficer/NavyOfficer_Occupation_.DisplayName_.json
+Machine Cathedral	15	proper	At its heart stood the Machine Cathedral, our primary objective.
+Augments	14	encyclopedia,name	Encyclopedia/Tutorial/AugmentsFull_.Title_String.json | AugmentationGlossary|AugmentsFullGlossary|Augmentation
+Pirates	14	name	GlobalMaps/Anomalies/ArtificialObjectAnomalies/PiratesAnomaly_name_String.json
+Master Werserian	14	proper	kind to the deeply respected Master Werserian. Soon, there will be no
+Examine the body	13	name	DLC/DLC2/Narrative/FeudalWorld/Bark/FW_AvengerFirstBody_Name_String.json
+The Rack	13	name	Weapons/Weapons/Unique/DLC2/RackFoehammer_Item_.DisplayName_String.json
+Merchant Vagabond	13	proper	"With me, my Merchant Vagabond, make haste! The fog of
+Elite	12	name	Root/SystemMechanics/EliteMobFact_.DisplayName_String.json
+Rebel Gunner	12	name	DLC/DLC1/Narrative/ShipTemple/Name/GenestealerWebber_Ranged_Disguise_Name_String.json
+Voidship Ram	12	name	Spacecombat/Abilities/AbilitiesAdditional/StarshipRam_Ability_.DisplayName_.json
+(TGH bonus / 2)	11	name	Classes/Fighter/FighterEndure_Properties.Array.data[0].m_Name.json
+Fangs	11	name	Units/Monsters/JungleBeast/JungleBeastCommon/Weapons/BiteJBeastComWeapon_.DisplayName_String.json
+Sanctioned Psyker	11	name	Backgrounds/Occupations/SanctionedPsyker/SanctionedPsyker_Occupation_.DisplayName_.json
+Whip	11	name	DLC/DLC1/Narrative/Companion/CompanionQuest/DeathCultist_Q1/Names/Demagogues/EnforcerPDChambers_name_String.json
+Mistress Tlass	11	proper	the vulnerability revealed in Mistress Tlass's soul. We nearly became the
+Devastating	10	encyclopedia,name	Classes/Navigator/StaffAbilities/DevastatingSecondAttackBuff_.DisplayName_String.json | Devastating
+Hand Flamer	10	name	Weapons/Weapons/FlamerPistol_Item_.DisplayName_String.json
+Scream	10	name	Units/Monsters/DemonScreamer/Ch02__KhraveRuins/Abilities/Screamer_Scream_m_DisplayName.json
+Emperor's Law	10	proper	such as the triumph of the Emperor's Law and the inevitability of
+Prefect Vultur	10	proper	As she speaks, Prefect Vultur's augmented hands constantly
+Characteristic bonus	9	name	Classes/Leader/LeaderListenToMyOrderAbility_Properties.Array.data[0].m_Name.json
+Grantis	9	name	GlobalMaps/StarSystemObjects/Planets/DeadlyGardensPlanetSSObject_.DisplayName_.json
+Lightning Arc	9	name	Classes/Psyker/ChainLightningAbility_.DisplayName_.json
+Slam	9	name	Units/Monsters/DemonForgeFiend/Abilties/ChaosEngine_Slam_Ability_.DisplayName_String.json
+Arch-Militant Vedka Dunawski	9	proper	Arch-Militant Vedka Dunawski was one of the last of the
+Liege Tocara	9	proper	scared of no one, not even Liege Tocara..." He glances around like
+Infusing	8	encyclopedia,name	Infusing | Classes/Navigator/StaffAbilities/InfusingBuff_.DisplayName_String.json
+Convictions	8	name	Encyclopedia/Tutorial/SoulmarkTypesGlossary_Title.json
+Foehammer	8	name	Weapons/Weapons/Unique/Foehammer_Item_m_DisplayName.json
+Mark of Fate	8	name	Units/Monsters/LordOfChange/Ch04_Eufrates/Abilities/Eufrates_LoC_Claw_debuff_.DisplayName_String.json
+Porta Septentum	8	name	GlobalMaps/StarSystems/Gate1System_.DisplayName_.json
+Splinter Rifle	8	name	Units/Monsters/DrukhariSslyth/Weapon/SslythSplinterRifle_ArenaFiend_Item_m_DisplayName.json
+Unforgiving	8	name	Classes/Reaper/ReaperTalent/ReaperTalent12Feature_.DisplayName_String.json
+Atilius Quint	8	proper	Asserted Atilius Quint's irreplaceability in an
+Magos Biologis	8	proper	as the ancient wisdom of the Magos Biologis states." The Manipulus
+World Spirit	8	proper	scream, crying out for help. The World Spirit is defending itself as best
+Backline	7	name	Classes/Strategist/StrategistKeystone/Strategist_Keystone_Backline_Ability_.DisplayName_String.json
+Duelling Tactics	7	name	Units/NPC/Commoners/Human/DLC2_VigilCastle/DLC2_VigilCastle_SecondEncaunter/Abilities/MercenaryFocusMechanic/VC2_MercenaryAlpha_FocusOnTarge
+Guidance	7	name	Classes/Hunter/HunterTalents/AlphaGuides_Talent_.DisplayName_.json
+Macro-Cannon	7	encyclopedia,name	Encyclopedia/MechanicalGlossary/MacroCannonsSpace_Title.json | MacroCannonsSpace
+Rapid Fire	7	name	Classes/Soldier/SoldierAbilities/Soldier_RapidFire_Feature_.DisplayName_.json
+Syphon Life	7	name	Classes/Psyker/Biomancy/WeaponFeature/Biomancy_Weapon_SyphonLife_Feature_.DisplayName_.json
+Word of the Emperor	7	name	Classes/Psyker/Sanctic/SancticWordOfTheEmperorAbility_.DisplayName_.json
+Ladyship Incendia Chorda	7	proper	"Her Ladyship Incendia Chorda is waiting for you."
+Advance	6	name	Classes/Fighter/FighterFeatures/Advance_m_DisplayName.json
+Blood Feast	6	name	Equipment/Familiars/BirdOfPreyCyberEagleKeystoneProtocol_Item_.DisplayName_String.json
+Catch	6	encyclopedia,name	Classes/Hunter/HunterTalents/Catch_Talent_.DisplayName_.json | Catch
+Crossfire	6	name	Units/Monsters/AcolyteHybrid/AcolyteHybrid_CH04_VoidshipBridge/Abilities/GenestealerAcolyteHybrid_Crossfire_Feature_m_DisplayName.json
+Demolitionist	6	name	DLC/DLC2/Narrative/TreasureWorld/Name/TreasureWorld_FeralGuard_Bomber_Name_String.json
+Examine the area	6	name	World/Dialogs/Chapter_3/Prison/MapObjects/Prison_Stranger01.DisplayName_String.json
+Heavy Bolter	6	name	Weapons/Weapons/HeavyBolter_Item_.DisplayName_String.json
+Machine Spirit Banishment	6	name	Backgrounds/Occupations/Pasqal/Pasqual_Eschatos_Feature_.DisplayName_String.json
+Provisions	6	name	GlobalMaps/Colonization/Colonization_Narrative/Resources/FoodResource_name_String.json
+Ship Posts	6	name	Encyclopedia/Tutorial/SpaceBattlePostsGlossary_Title.json
+The Final Order	6	name	Units/NPC/Commoners/Human/DLC2_Ch04_TreasureWorld/Features/TreasureWorld_FeralGuard_LastOrder_Feature_.DisplayName_String.json
+Uve	6	name	World/Dialogs/Ch1/NavisNobiliteStation/Names/CassiaValet_name_String.json
+Astropath Zacchary Weisz	6	proper	The parchment, bearing Astropath Zacchary Weisz's flowing handwriting, reads as
+First Spinner	6	proper	title. The Vizsier, the First Spinner, leads the cult. I, Kibellah,
+Ladyship Theodora von Valancius	6	proper	psyker and diviner of Her Ladyship Theodora von Valancius." Abelard looks her up and
+Novator of House Orsellio	6	proper	"The throne of the Novator of House Orsellio has sat empty for too long.
+Agility (AGI)	5	name	Encyclopedia/MechanicalGlossary/WarhammerAgility_Title.json
+Blinding Shot	5	name	Units/Monsters/DrukhariSslyth/Abilities/DrukhariSslyth_BlindingShot_Ability_.DisplayName_String.json
+Cleave	5	name	Weapons/Abilities/OneHandedSword_AoEAbility_.DisplayName_.json
+Death Synergy	5	name	Units/Monsters/NecronImmortal/Abilities/NecronImmortal_DeathSynergy_Feature_.DisplayName_String.json
+Flayed One	5	name	DLC/DLC3/Narrative/Deathworld/FlayerTemple/Names/FT_NewFlayer_name_String.json
+Harsh Shove	5	name	Weapons/Abilities/Hammer_PushAbility_.DisplayName_String.json
+Landing...	5	name	Spacecombat/Components/Craftbays/Craft_Landing_ability_m_DisplayName.json
+Medicae Mechadendrite	5	name	Weapons/Spells/PrototypeWeaponsCritTest/Mechadendrite_Medicae_Ability_BlueprintAbility_.DisplayName_.json
+One-Eye	5	name	DLC/DLC2/Narrative/FeudalWorld/Name/FW_BanditLeader_Name_String.json
+Reanimation Protocol	5	name	Units/FactionArmies/ArmyFeatures/ReanimationProtocol_Feature_.DisplayName_String.json
+Sit down	5	name	World/Dialogs/Chapter_2/RogueTraderPalacePeaceful/MapObjects/Sit.DisplayName_String.json
+The Deepest Tunnels	5	name	GlobalMaps/StarSystemObjects/ExplorationPlanetPoints/DeepestCave/DeepestCave_PPOI_m_Name.json
+Torpedo Control	5	name	Spacecombat/Abilities/Microabilities/MA_Munitorium_TorpedoControl_.DisplayName_.json
+Warp Burn	5	name	Classes/Psyker/Pyromancy/PyromancyBurningBuff_.DisplayName_String.json
+Barkhag Kingdom	5	proper	of Illiridos, Blaze of the Barkhag Kingdom, and Slayer of Carrocius the
+Highest Favour	5	proper	service. We call it the Highest Favour, and today, it will be up to
+Lady von Valancius	5	proper	in the place of the esteemed Lady von Valancius is quite unexpected."
+Proctor Yeager	5	proper	"How fares Proctor Yeager?"

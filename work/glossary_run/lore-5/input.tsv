@@ -1,0 +1,125 @@
+english	count	kinds	example
+Theodora	834	name	Units/Names/NPC/Unique/Human/Ch00_OfficersDeck/FakeTeodora_Name_String.json
+Skill	433	encyclopedia,name	Root/Strings/Glossaries/WarhammerSkills.Skill.Name_String.json | Skills
+Magos	249	encyclopedia,name	Encyclopedia/Glossary/Magos_Title.json | Magos
+Adeptus Arbites	195	encyclopedia,name,proper	Encyclopedia/ImperiumLore/AdeptusArbitesGlossary_.Title_String.json | be as superbly trained as the Adeptus Arbites, our strength lies in our
+Lex Imperialis	166	encyclopedia,name,proper	DLC/DLC2/DLC2LexImperialis_.DisplayName_String.json | such is the will of the Lex Imperialis. Kibellah, for the murder of
+Strike	141	name	Weapons/Abilities/MeleeAttack_ability_.DisplayName_.json
+Yremeryss	120	name	Units/Names/NPC/Unique/Drukhari/Ch03_ReavingTempestSpire/Yremeriss_Name_String.json
+Manipulus	107	encyclopedia,name	Backgrounds/Occupations/Manipulus/ManipulusOccupation_Feature_.DisplayName_String.json | Manipulus
+Flesh!	98	name	Units/Monsters/Ambull/Features/TreasureWorld_Ambull_Priority_Feature_.DisplayName_String.json
+Tech-Use	90	encyclopedia,name	Encyclopedia/MechanicalGlossary/SkillTechUse_Title.json | SkillTechUse
+Cognisance Fleet	80	proper	and so gave them up to the Cognisance Fleet. In a coordinated attack with
+High Factotum	69	proper	"Where is the High Factotum?"
+Coercion	63	encyclopedia,name	Encyclopedia/MechanicalGlossary/SkillCoercion_Title.json | SkillCoercion
+Ruinous Powers	59	encyclopedia,proper	soul and protect him from the Ruinous Powers' tenacious claws. That was the | Chaos|ChaosGlossary
+Lord Cap'n	53	proper	I appreciate your clemency, Lord Cap'n."
+Maw	51	encyclopedia,name	Units/Monsters/DW_Beast/Weapons/DW_Beast_Unified_Front_Weapon_.DisplayName_String.json | Maw
+C'tan Shard	46	name	Units/Names/Monsters/Ctan/Epitaph/Ctan_Epitaph_Name_String.json
+Furibundus	44	name	GlobalMaps/StarSystemObjects/Stars/FuribundusStarSSObject_m_DisplayName.json
+Warden	41	name	World/Dialogs/Ch2_VS/Footfall/NPCsNames/Warden_Name_String.json
+Keykeross	39	name	Units/Names/NPC/Commoners/Drukhari/Ch03_CommorraghArena/DrukhariSuccubus_MeleeRanged_ArenaFiend_Name_String.json
+Adeptus Ministorum	35	encyclopedia,name,proper	Encyclopedia/ImperiumLore/AdeptusMinistorumGlossary_Title.json | an affiliation with the Adeptus Ministorum. What department are you
+Lore (Xenos)	34	encyclopedia,name	Encyclopedia/MechanicalGlossary/SkillLoreXenos_Title.json | SkillLoreXenos
+Izdrig Batoshski	32	name,proper	DLC/DLC3/Narrative/Deathworld/SurvivorCamp/Names/SC_Izdrig_name_String.json | Izdrig Batoshski's face is fixed in a violent
+Scrap	31	encyclopedia,name	Encyclopedia/MechanicalGlossary/ScrapSpace_Title.json | ScrapSpace
+Voice of Command	30	name	Classes/Leader/LeaderListenToMyOrderAbility_.DisplayName_.json
+Servant	29	name	DLC/DLC2/Narrative/FeudalWorld/Name/FW_Servant_Name_String.json
+Look around	28	name	DLC/DLC2/Narrative/FeudalWorld/Bark/FW_Timeline_View_Interaction_Name_String.json
+Cyber-Mastiff	26	name	Encyclopedia/Glossary/CyberMastiff_Title.json
+Pilgrim	25	name	Units/Names/NPC/Commoners/Human/Ch02_FootfallDock/Footfall_PiligrimFemale_name_String.json
+traumas	24	encyclopedia,name	Traumas | Encyclopedia/MechanicalGlossary/Traumas_Title.json
+Thug	24	name	World/Dialogs/Ch2_VS/Footfall/NPCsNames/Ganger_Name_String.json
+Electrodynamic Cenobium	23	name,proper	GlobalMaps/StarSystemObjects/ExplorationPoints/RaycadMinorisReactor_.Name_String.json | Electrodynamic Cenobium
+Voidsman	23	name	Units/Names/NPC/Commoners/Human/Ch02_FootfallDock/Footfall_ShipCrew_name_String.json
+Dark Gods	22	encyclopedia,proper	The Dark Gods have welcomed your bloody | ChaosGlossary
+Plasma Battery	21	name	World/Encounters/ForgeHeart/DestructableObjects/DestructablePlasmaBattery_ForgeHeart_Name_String.json
+Daemon Engine	20	name,proper	Units/FactionArmies/ArmyFeatures/DemonMachine_Feature_m_DisplayName.json | performed on a disassembled Daemon Engine.
+Tisiphone Orsellio	20	proper	the greatest of our Novators, Tisiphone Orsellio, who led our House to
+Power Maul	19	name	Weapons/Weapons/PowerMaul_Item_.DisplayName_String.json
+Atrium	18	name	MultiEntrance/Footfall/FootfallAtriumMultiEntranceEntry_Name.json
+Torra	18	name	Units/Names/NPC/Unique/Human/Ch04_FootfallSewersCh04/Torra_name_String.json
+Mechadendrite	17	encyclopedia,name	Encyclopedia/Glossary/Mechadendrite_Title.json | Mechadendrite
+Janris Danrok	17	proper	Janris Danrok squares his shoulders as you
+Jesevon	16	name	GlobalMaps/StarSystemObjects/Planets/LureJungleWorldPlanetSSObject_.DisplayName_.json
+Miraculous Fusion Reactor	16	proper	The Miraculous Fusion Reactor was handed over by the Rogue
+Death Cultist	15	name	DLC/DLC1/Narrative/DeathCultIntroduction/Names/DeathCultistsIntro_name_String.json
+Universal Laws	15	name,proper	Encyclopedia/Glossary/UniversalLaws_Title.json | "One of the Universal Laws states, 'The Knowledge of the
+Riven Sky	15	proper	"I know you're from the Riven Sky. Stay away."
+Electro-Priest	14	name	World/Dialogs/Ch1/RaycadMinoris/ArcheotechReactor/Names/Electropriest_name_String.json
+Telikos Epsilon	14	name,proper	GlobalMaps/StarSystems/TelikosEpsilonSystem_.DisplayName_.json | Cinerus Maleficum Location: Telikos Epsilon Material: Internal procedural
+Wasteland Wayfarer	14	proper	of a colonisation ark, the Wasteland Wayfarer, bound for the world of
+Langrenn's Belt	13	name,proper	GlobalMaps/StarSystems/LangrennsBeltSystem_.DisplayName_.json | a plundered void station in Langrenn's Belt is being used as a base by a
+First Call-Up	13	proper	in the months after the First Call-Up landed. No one was carrying
+Urbend Drivestem	13	proper	Mistress Vultur..." Urbend Drivestem, governor of Dargonus,
+Heavy Armour	12	encyclopedia,name	Encyclopedia/MechanicalGlossary/HeavyArmour_Title.json | HeavyArmour
+Suppression	12	name	Units/NPC/Unique/Human/DLC3_Exhibition/Augments/Ancestor_Left_Arm_Aug_Ability_.DisplayName_String.json
+Lord Inquisitor Calcazar	12	proper	had been in the employ of Lord Inquisitor Calcazar."
+Bite!	11	name	Classes/Master/MasterPets/MastiffPet/MastiffAbilities/MastiffPet_Jump_New_Ability_.DisplayName_String.json
+Loyalty	11	name	Units/NPC/Commoners/Human/Ch03_Prison/Abilities/ImperialMedic_Medic_Feature_m_DisplayName.json
+Stronghold	11	name	Classes/Tactician/TacticianTalents/TacticianTalent25Feature_.DisplayName_String.json
+Genestealer Cult	11	proper	own voidship — the malignant Genestealer Cult — a horrific breed of xenos
+Analyse Enemies	10	name	Classes/Adept/AdeptAbilities/Adept_Keystone_Feature_.DisplayName_.json
+Emperor's Wrath	10	name	Classes/Psyker/Sanctic/WeaponFeature/SancticEmperorsWrathAbility.DisplayName_String.json
+Magnarail Blast	10	name	Backgrounds/Occupations/Manipulus/Weapons/Manipulus_MagnaRailLance_Ability_.DisplayName_String.json
+Void Shadows	10	name	DLC/DLC1/DLC1VoidShadows_.DisplayName_String.json
+Impostor Hunt	10	proper	wine smelled like wash, the Impostor Hunt was a plot — I fail to see
+Asteroid	9	name	GlobalMaps/StarSystemObjects/Asteroid/Asteroid_1_SSObject_.DisplayName_.json
+Discipline	9	name	Classes/Veteran/VeteranTalents/Veteran_Talent15_Feature_.DisplayName_String.json
+Heretical — Zealot	9	name	SoulMarks/CorruptionSoulMark_5_.DisplayName_.json
+Petition	9	name	DLC/DLC2/Narrative/VigilCastle/Item/VP_Petition_name_Item_String.json
+Tyrant	9	name	Weapons/Weapons/Unique/NeedlePistolCH4Unique_Item_m_DisplayName.json
+Chronicle of Fates	9	proper	of that madman, Falt? The Chronicle of Fates? It is lunacy bordering on
+Master of Mankind	9	proper	The Tech-Priest, may the Master of Mankind receive him, tried both to
+Asclepius	8	name	Units/Names/NPC/Unique/Human/Ch_Nomos/Ch04_Malatek_name_String.json
+Dead World	8	name	GlobalMaps/StarSystemObjects/Planets/DeadWorldBunkerPlanetSSObject_.DisplayName_.json
+Haemonculus's Laboratory	8	name,proper	GlobalMaps/StarSystemObjects/ExplorationPoints/QuetzaAlKhetIdiraBeforeLab_m_Name.json | The Haemonculus's Laboratory
+Officers' Deck	8	name	MultiEntrance/Voidship/VoidshipOfficersDeckMultiEntranceEntry_.Name_.json
+Raining Blood	8	name	Backgrounds/Occupations/DeathCultAssassin/DeathCultAssassin_InnateAbility_Feature_.DisplayName_String.json
+Take and Hold	8	name	Classes/Strategist/StrategistUltimate/StrategistUltimateFeature_.DisplayName_String.json
+Webber	8	name	Weapons/Weapons/Webber_Item_.DisplayName_String.json
+Crone World	8	proper	that you are welcome on the Crone World. You will walk away as soon
+Orsellio Navigators	8	proper	a lesson by sending the Orsellio Navigators into Commorragh to cause the
+Arena	7	name	World/Areas/Chapter_3/CommorraghArena/CommorraghArena_.DisplayName_String.json
+Conqueror	7	name	GlobalMaps/Colonization/Colonization_Narrative/Contracts/Contract23_name_String.json
+Enforcer Light Carapace	7	name	Equipment/Armour/PC/EnforcerLightCarapace1_Item_.DisplayName_String.json
+Herald Servo-Skull	7	name	Equipment/Familiars/ServoSkullRogueTrader_Item_m_DisplayName.json
+Mundus Valancius	7	name	GlobalMaps/StarSystems/DargonusSystem_.DisplayName_.json
+Shrine	7	name	GlobalMaps/Colonization/Colonization_Narrative/Projects/Strategical/PrSt27_StrategicalProject_name_String.json
+Twelve	7	name	DLC/DLC1/Narrative/LowerTunnels_Default/Names/LT_Oppressed_name_String.json
+Genetor Extremis	7	proper	that does not have its own Genetor Extremis."
+Master Pras	7	proper	appointed in the wake of Master Pras's execution was taken from a
+Archeotech Compass	6	name	Equipment/QuestItems/Compass_Item_m_DisplayName.json
+Bloody Retribution	6	name	Equipment/Armour/Unique/UralonPowerArmour_Item_.DisplayName_String.json
+Combat Experience	6	name	DLC/DLC2/Narrative/TreasureWorld/Buff/TW_Militarum_Name_Buff_String.json
+Dark Sages	6	name	GlobalMaps/Colonization/Colonization_Narrative/Projects/Stage/PrStage5_StageProject_name_String.json
+Dogmatic — Votary	6	name	SoulMarks/FaithSoulMark_3_.DisplayName_.json
+Extrapolation	6	name	Classes/Master/MasterPets/ServoskullPet/ServoskullAbilities/ServoskullPet_Expand_BuffPet_.DisplayName_String.json
+Ignite	6	name	Classes/Psyker/Pyromancy/Pyromancy_Ignite_Ability_.DisplayName_.json
+Mercenaries	6	name	Encyclopedia/Tutorial/MercenariesGlossary_Title.json
+Remove the obstacle	6	name	World/Areas/Chapter_2/AgriWorldTown/AgriWorldTown_RemoveFastGlass_DisplayName_String.json
+Spinner's Breastplate	6	name	Equipment/Armour/Unique/ImpovedDeathCultBreastplate_Item_.DisplayName_String.json
+The Pyre	6	name	Weapons/Weapons/Unique/GenocideAstartesFlamer_Item_.DisplayName_.json
+Warp Gate	6	name	GlobalMaps/Anomalies/UnknownAnomalies/StoryWarpGate_.DisplayName_.json
+Colonel Batoshski	6	proper	The body of Colonel Batoshski bobs in the murky liquid
+Gregoras Strachs	6	proper	"Gregoras Strachs used to be an outstanding
+Lord Evayne	6	proper	"What has happened to Lord Evayne? I must help him!"
+Rogue Trader Calligos Winterscale	6	proper	V on behalf of his father, Rogue Trader Calligos Winterscale. The Great Regent would not
+Artificial	5	name	Units/FactionArmies/ArmyFeatures/Machine_Feature_.DisplayName_String.json
+Bunker	5	name	GlobalMaps/StarSystemObjects/ExplorationPoints/RaycadMinorisHQ_.Name_.json
+Dahr-Impulse VI	5	name	World/Dialogs/Ch1/RaycadMinoris/ArcheotechReactor/Names/Prior_name_String.json
+Displacement	5	name	Augments/Companions/Augment_Leg_Eogann_T2_Overdrive_Teleport_Ability_.DisplayName_String.json
+Glimmer-Pattern Void Shield Array	5	name	Spacecombat/Components/Shields/ShieldsEnergy1_m_DisplayName.json
+Iconoclast — Adherent	5	name	SoulMarks/HopeSoulMark_2_.DisplayName_.json
+Martyrdom	5	name	Classes/Ascension/Talents/AscensionTalent11_Feature_.DisplayName_String.json
+Move, Move, Move!	5	name	Classes/Leader/LeaderMoveFeature_.DisplayName_.json
+Perception (PER)	5	name	Encyclopedia/MechanicalGlossary/WarhammerPerception_Title.json
+Season Pass	5	name	DLC/SeasonPass_m_DisplayName.json
+Take Aim!	5	name	Weapons/Spells/PrototypeWeaponsCritTest/Leader_TakeAim_Feature_BlueprintFeature_.DisplayName_.json
+The Last Flash	5	name	Equipment/Neck/Unique/FlashlightAmulet_Item_m_DisplayName.json
+Unyielding Beacon	5	name	Classes/Vanguard/VanguardUnyieldingBeaconFeature_.DisplayName_String.json
+Whiplash	5	name	Classes/Psyker/PerilsOfTheWarp/PerilsWhiplashAbility_.DisplayName_String.json
+Drive Chambers	5	proper	Plasma Drive Chambers
+Inquisitor Xavier Calcazar	5	proper	"Lord Inquisitor Xavier Calcazar, head of the Koronus
+Lord Seberian	5	proper	If something had happened to Lord Seberian or his daughter, I wouldn't
+Subject Eighty Seven	5	proper	Execute your program, Subject Eighty Seven."

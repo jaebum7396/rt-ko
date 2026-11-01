@@ -1,0 +1,128 @@
+english	korean	category	source	confidence
+round	라운드	system	translated	high
+hit	명중	system	translated	high
+psy rating	사이 등급	system	translated	mid
+INT	지능	system	style	high
+rounds	라운드	system	translated	high
+AGI	민첩	system	style	high
+attacks of opportunity	기회 공격	system	translated	high
+immobilised	이동 불가	system	translated	high
+melee attack	근접 공격	system	translated	high
+bonuses	보너스	system	translated	high
+direct damage	직접 피해	system	translated	high
+slowed	감속	system	translated	high
+critical damage	치명타 피해	system	translated	high
+talents	재능	ability	style	high
+toxic damage	독성 피해	system	translated	high
+WS	근접술	system	style	high
+mental damage	정신 피해	system	translated	high
+turns	턴	system	translated	high
+BS	사격술	system	style	high
+Warrant	무역의 영장	setting	style	high
+resistance tests	저항 판정	system	translated	high
+exploit	약점	system	translated	mid
+attack of opportunity	기회 공격	system	translated	high
+pushes	밀치기	system	translated	high
+impact damage	충돌 피해	system	translated	high
+shields	보이드 실드	system	style	high
+pushed	밀려남	system	translated	high
+area of effect	효과 범위	system	translated	high
+dodged	회피	system	style	high
+Conviction	신념	system	translated	high
+damaged	피해를 입음	system	translated	high
+melee range	근접 사거리	system	translated	high
+Kasballica	카스발리카	setting	namu:Warhammer 40,000: Rogue Trader/등장인물	high
+cannot attack	공격 불가	system	translated	high
+effects	효과	system	translated	high
+extra turns	추가 턴	system	translated	high
+exploits	약점	system	translated	mid
+realspace	현실 우주	setting	community	high
+desperate measures	필사의 결단	ability	style	high
+implant	이식물	item	translated	high
+Terra	테라	setting	community	high
+lumens	루멘	item	translit	mid
+attack per turn	턴당 공격 횟수	system	translated	high
+regicide	레지사이드	setting	community	mid
+single shots	단발 사격	system	translated	high
+acceleration phase	가속 단계	system	translated	high
+comm-bead	소형 통신기	item	translated	high
+melee superiority	근접 우세	system	translated	high
+Navigators	내비게이터	setting	style	high
+firing range	사거리	system	translated	high
+psy dampening	사이킥 억제	system	translated	mid
+Assassins	어쌔신	ability	community	mid
+Merovians	메로브인	setting	translit	low
+Reloading	재장전	system	translated	high
+attacks per turn	턴당 공격 횟수	system	translated	high
+blocked	차단	system	translated	mid
+experience points	경험치	system	translated	high
+recaf	레카프	item	style	high
+Bladedancers	블레이드댄서	ability	translit	mid
+Navigator's insight	내비게이터의 통찰	system	translated	high
+level up	레벨 상승	system	translated	high
+pushing	밀치기	system	translated	high
+Astartes	아스타르테스	setting	community	high
+Enginseers	엔진시어	setting	community	high
+Lexmechanics	렉스메카닉	setting	community	high
+Soldiers	솔져	ability	style	high
+critical	치명타	system	style	high
+light armour	경갑	item	translated	high
+movement point	이동력	system	style	high
+technomats	테크노마트	setting	translit	low
+ultimate ability	궁극기	ability	translated	high
+Imperial	제국의	setting	style	high
+Ranged area attacks	원거리 범위 공격	system	translated	high
+Vanguards	뱅가드	ability	community	mid
+augmented fingers	증강 손가락	item	translated	high
+galvanising	증강 과부하	system	translated	low
+machine damage	기계 피해	system	translated	mid
+psy-focus	사이킥 집중기	item	translated	mid
+skill test	기술 판정	system	translated	high
+tithe grade	십일조 등급	setting	translated	high
+warp engine	워프 엔진	item	community	high
+32nd Merov Regiment	메로브 제32연대	setting	translit	low
+Aestimare rating	아에스티마레 등급	setting	translit	low
+Asuryan	아슈리안	setting	community	high
+Chaos Gods	카오스 신	setting	community	high
+Genetors	제네토르	setting	translit	low
+His sacred Tarot	그분의 신성한 타로	item	translated	high
+Kasballican	카스발리카의	setting	namu:Warhammer 40,000: Rogue Trader/등장인물	high
+Master	주인	setting	translated	mid
+Navy	제국 해군	setting	community	high
+Overseers	오버시어	ability	community	high
+Psychosomatic trauma	심신 외상	system	translated	mid
+Sister Messima	시스터 메시마	setting	translit	low
+Something is raging in the warp	워프에서 무언가가 날뛰고 있다	other	translated	high
+TestEntry	테스트 항목	other	translated	high
+Warrants	무역의 영장	setting	style	high
+agent of the Golden Throne	황금 옥좌의 대리인	setting	translated	high
+augmented finger	증강 손가락	item	translated	high
+cards	카드	item	translated	high
+crimson priests	진홍의 사제	setting	translated	mid
+critical hit chance, and critical damage	치명타 확률 및 치명타 피해	system	translated	high
+dead god	죽은 신	setting	translated	high
+distribution servitor	배급 서비터	setting	translated	high
+fire	화염	system	translated	high
+followers	추종자	setting	translated	high
+groxes	그록스	setting	community	high
+half cover	반엄폐	system	translated	high
+heretechnical	이단 기술의	setting	translated	mid
+immobilises	이동 불가 부여	system	translated	high
+master cogitator	중앙 코기테이터	item	translated	high
+mental	정신	system	translated	high
+neural augmetic	신경 증강장치	item	translated	high
+old injury	오래된 부상	system	translated	high
+overexerted	탈진	system	translated	mid
+positive effects	이로운 효과	system	translated	high
+regiment	연대	setting	translated	high
+servitorise	서비터로 개조	setting	translated	high
+sorcery	주술	setting	community	mid
+stimulants	자극제	item	translated	high
+torpedo launchers	어뢰 발사관	item	translated	high
+vox-bead	소형 통신기	item	translated	high
+vox-casters	복스 통신기	item	translated	high
+vox-line	복스 통신 회선	setting	translated	high
+vox-net	복스 통신망	setting	translated	high
+vox-synth	복스 음성 합성기	item	translated	mid
+witches	마녀	setting	community	high
+xenodevice	제노스 장치	item	translated	high
