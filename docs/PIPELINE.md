@@ -50,8 +50,12 @@
 - status: `new` → `running` → `done` | `failed` | `limit`(한도 걸림) → `checked`(검사 통과)
 - extract.py는 내용(hash)이 같은 청크의 status를 그대로 둔다. status를 바꾸는 것은 run_astra.py와 check.py뿐이다 (한 번에 한 프로세스).
 
-## 사용량 기록 — `work/usage.tsv`
+## 사용량 기록 — `work/usage.tsv` (머리줄 없음)
 `chunk<TAB>words<TAB>input<TAB>cached<TAB>output<TAB>reasoning<TAB>seconds<TAB>weekly_pct<TAB>finished_at`
+
+## 용어집·말투표 파일 — `glossary/` (UTF-8 TSV, 첫 줄은 머리줄)
+- `setting.tsv`, `system.tsv`, `names.tsv`: `english<TAB>korean<TAB>note` — korean에 `/`로 변형을 적을 수 있다 (예: `로드 캡틴/캡틴`). note에 출처·확인 여부.
+- `voices.tsv`: `speaker<TAB>voice` — speaker는 Strings의 `speaker` 값 그대로, voice는 말투·호칭·성격 한 줄.
 
 ## 청크 출력 — `work/out/<묶음>/<청크>.tsv`
 `n<TAB>한국어` — 입력의 모든 n이 정확히 한 번, 같은 순서, 같은 이스케이프. 머리줄·설명 금지.
