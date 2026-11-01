@@ -1,6 +1,6 @@
 {"errors": [],
 "warnings": [
- {"n": 10, "code": "glossary", "detail": "bonus -> 보너스 not found"},
+ {"n": 10, "code": "glossary", "detail": "Bonus MP -> <u>추가 이동력</u> not found"},
  {"n": 11, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 13, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 17, "code": "glossary", "detail": "fire -> 사격/불/화염/사격/불/화염 not found"},
@@ -10,7 +10,6 @@
  {"n": 24, "code": "glossary", "detail": "fire -> 사격/불/화염/사격/불/화염 not found"},
  {"n": 28, "code": "glossary", "detail": "Weapons -> 무기 not found"},
  {"n": 36, "code": "glossary", "detail": "Weapons -> 무기 not found"},
- {"n": 56, "code": "glossary", "detail": "exploit -> 약점 not found"},
  {"n": 83, "code": "glossary", "detail": "damaged -> 피해를 입음 not found"},
  {"n": 87, "code": "glossary", "detail": "hit -> 명중 not found"},
  {"n": 94, "code": "glossary", "detail": "Skill -> 기량 not found"},
@@ -19,13 +18,12 @@
  {"n": 97, "code": "glossary", "detail": "ability -> 능력 not found"},
  {"n": 97, "code": "glossary", "detail": "hit -> 명중 not found"},
  {"n": 107, "code": "glossary", "detail": "Advance -> 진격 not found"},
+ {"n": 107, "code": "glossary", "detail": "skills -> 기술 not found"},
  {"n": 109, "code": "glossary", "detail": "Skill -> 기량 not found"},
- {"n": 111, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 112, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 117, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 119, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 121, "code": "glossary", "detail": "Skill -> 기량 not found"},
- {"n": 123, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 124, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 124, "code": "glossary", "detail": "hit -> 명중 not found"},
  {"n": 129, "code": "glossary", "detail": "Range -> 사거리 not found"},
@@ -36,7 +34,6 @@
  {"n": 152, "code": "glossary", "detail": "Focus -> 집중 not found"},
  {"n": 158, "code": "glossary", "detail": "PER -> 지각 not found"},
  {"n": 172, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 177, "code": "glossary", "detail": "Opening -> 빈틈 not found"},
  {"n": 235, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 241, "code": "glossary", "detail": "Focus -> 집중 not found"},
  {"n": 265, "code": "glossary", "detail": "Skill -> 기량 not found"},
@@ -46,5 +43,6 @@
  {"n": 318, "code": "glossary", "detail": "hit -> 명중 not found"},
  {"n": 318, "code": "glossary", "detail": "PER -> 지각 not found"},
  {"n": 345, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 358, "code": "glossary", "detail": "Skill -> 기량 not found"}
+ {"n": 358, "code": "glossary", "detail": "Skill -> 기량 not found"},
+ {"n": 366, "code": "glossary", "detail": "Maximum stacks -> <u>최대 중첩</u> not found"}
 ]}

@@ -3,11 +3,8 @@
  {"n": 10, "code": "glossary", "detail": "Path -> 길 not found"},
  {"n": 13, "code": "glossary", "detail": "Focus -> 집중 not found"},
  {"n": 16, "code": "glossary", "detail": "Skill -> 기량 not found"},
- {"n": 17, "code": "glossary", "detail": "Vigilant -> 철저한 경계 not found"},
  {"n": 24, "code": "glossary", "detail": "Skill -> 기량 not found"},
- {"n": 30, "code": "glossary", "detail": "Inspire -> 고무 not found"},
- {"n": 45, "code": "glossary", "detail": "Witness -> 목격자 not found"},
- {"n": 52, "code": "glossary", "detail": "Witness -> 목격자 not found"},
+ {"n": 110, "code": "glossary", "detail": "Deadly Precision -> 치명적인 정밀함 not found"},
  {"n": 110, "code": "glossary", "detail": "Protecting -> 보호 중 not found"},
  {"n": 143, "code": "glossary", "detail": "Path -> 길 not found"},
  {"n": 145, "code": "glossary", "detail": "Path -> 길 not found"},
@@ -19,8 +16,6 @@
  {"n": 240, "code": "glossary", "detail": "PER -> 지각 not found"},
  {"n": 267, "code": "glossary", "detail": "Waiting -> 대기 not found"},
  {"n": 294, "code": "length", "detail": "ratio 0.22 (ko 4 / en 18 chars, allowed 0.25-1.60)"},
- {"n": 318, "code": "glossary", "detail": "Relentless -> 가차없는 맹공 not found"},
  {"n": 335, "code": "length", "detail": "ratio 0.23 (ko 5 / en 22 chars, allowed 0.25-1.60)"},
- {"n": 350, "code": "glossary", "detail": "effect -> 효과 not found"},
  {"n": 364, "code": "glossary", "detail": "Skill -> 기량 not found"}
 ]}

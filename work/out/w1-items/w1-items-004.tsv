@@ -1,443 +1,443 @@
-1	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +20 증가하고, 주는 피해가 +250% 증가한다.\n사이버 이글은 제노스, 사이커, 데몬의 공격을 항상 {g|Encyclopedia:DodgeGlossary}회피{/g}한다.
+1	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +20 증가하고, 주는 피해가 +250% 증가합니다.\n사이버 이글은 제노스, 사이커, 데몬의 공격을 항상 {g|Encyclopedia:DodgeGlossary}회피{/g}합니다.
 2	순결한 아퀼라
-3	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +20 증가하고, 주는 피해가 +250% 증가한다.\n사이버 이글이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다, 해당 적은 자신을 공격하여 +100% 증가한 피해를 준다. 이 공격은 {g|Encyclopedia:BlockChance}차단{/g}, {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}가 불가능하다.
+3	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +20 증가하고, 주는 피해가 +250% 증가합니다.\n사이버 이글이 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받는{/g} 적의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다, 해당 적은 자신을 공격하며 피해가 +100% 증가합니다. 이 공격은 {g|Encyclopedia:BlockChance}방패 막기{/g}, {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}가 불가능합니다.
 4	광기의 바람
-5	필요 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 광신자\n사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +20 증가하고, 주는 피해가 +250% 증가한다.\n매 {g|Encyclopedia:Round}라운드{/g} 시작 시, 모든 아군 캐릭터가 {g|f:90f1c90ae52342fda66f67d43e988286}미끼{/g} 효과를 2중첩 얻는다.
+5	필요 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 광신자\n사이버 이글의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +20 증가하고, 주는 피해가 +250% 증가합니다.\n매 {g|Encyclopedia:Round}라운드{/g} 시작 시 모든 아군 캐릭터가 {g|f:90f1c90ae52342fda66f67d43e988286}미끼{/g} 효과를 2중첩 얻습니다.
 6	아퀼라의 헌신
-7	이 개량 키트는 로그 트레이더의 사역마 정비소를 영구적으로 개선한다. 어느 정비소에 사용하든 두 곳 모두 개선된다.\n<i>! 개량 키트는 번호 순서대로만 사용할 수 있다.</i>\n<i>! 로그 트레이더가 오버시어 아키타입을 보유한 경우에만 사용할 수 있다.</i>
+7	로그 트레이더의 사역마 정비소를 영구적으로 개량하는 키트입니다. 어느 정비소에 사용해도 두 정비소가 모두 개량됩니다.\n<i>! 개량 키트는 번호순으로만 사용할 수 있습니다.</i>\n<i>! 로그 트레이더의 아키타입이 오버시어일 때만 사용할 수 있습니다.</i>
 8	사역마 정비소 개량 키트 I
 9	사역마 정비소 개량 키트 II
 10	사역마 정비소 개량 키트 III
-11	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n사이버 마스티프의 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +50% 증가하고, 주는 피해가 +250% 증가한다.\n대상이 제노스, 사이커, 데몬이면 항상 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 발생한다.
+11	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n사이버 마스티프의 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +50% 증가하고, 주는 피해가 +250% 증가합니다.\n대상이 제노스, 사이커, 데몬이면 항상 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 발생합니다.
 12	축성된 송곳니
 13	아군
 14	적
-15	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n사이버 마스티프의 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +50% 증가하고, 주는 피해가 +250% 증가한다.\n쓰러뜨린 적 하나당 사이버 마스티프가 주는 피해가 +20%, 의식 불명인 아군 캐릭터 하나당 +200% 증가한다.
+15	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n사이버 마스티프의 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +50% 증가하고, 주는 피해가 +250% 증가합니다.\n사이버 마스티프가 주는 피해가 쓰러뜨린 적 하나당 +20%, 의식 불명인 아군 캐릭터 하나당 +200% 증가합니다.
 16	전쟁의 사냥개
 17	<u>(오버시어의 {g|Encyclopedia:SkillCoercion}위협{/g} / 5)</u>
-18	필요 조건: 인습타파 — 광신자\n사이버 마스티프의 최대 체력이 +50% 증가하고, 주는 피해가 +250% 증가한다.\n{g|f:7d75105e9e224ceab784932c12a26757}보호받는{/g} 아군이 받는 모든 피해를 사이버 마스티프가 대신 받는다. {g|f:a63088cd6402424b8ec0c508e5143083}보호 중{/g}인 사이버 마스티프가 받는 모든 피해가 −{uip|DamageResist|7108aa88cc5a4099a543f5f57741156c}% 감소한다.
+18	필요 조건: 인습타파 — 광신자\n사이버 마스티프의 최대 체력이 +50% 증가하고, 주는 피해가 +250% 증가합니다.\n{g|f:7d75105e9e224ceab784932c12a26757}보호받는{/g} 아군이 받을 모든 피해를 사이버 마스티프가 대신 받습니다. {g|f:a63088cd6402424b8ec0c508e5143083}보호 중{/g}인 사이버 마스티프가 받는 모든 피해가 −{uip|DamageResist|7108aa88cc5a4099a543f5f57741156c}% 감소합니다.
 19	충성의 귀감
-20	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 0으로 바뀐다. 사이버 레이븐 주변 반경 4칸 이내의 모든 아군에게서 {g|f:3ddbf131cbd54087a665d4b2e026b0f2}워프 화상{/g}과 {g|f:26be6a9ad4c540a4921f25834a2f420f}영혼 화상{/g} 효과가 제거된다.
+20	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 0으로 바뀝니다. 사이버 레이븐 주변 반경 4칸 이내 모든 아군의 {g|f:3ddbf131cbd54087a665d4b2e026b0f2}워프 화상{/g}과 {g|f:26be6a9ad4c540a4921f25834a2f420f}영혼 화상{/g} 효과를 제거합니다.
 21	황금 옥좌의 빛
-22	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +25 증가한다.\n오버시어가 {g|f:7f6f5b934a994383b8490c76fd5023d4}황금 옥좌의 빛{/g} 능력을 얻는다.
-23	황제의 빛을 나르는 자
-24	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 20으로 바뀐다. 사이버 레이븐이 비활성화되고, 그 자리에 무작위 데몬 4마리가 나타난다. 이들은 서로를 제외한 전투 중의 모든 생명체를 공격한다.
+22	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +25 증가합니다.\n오버시어가 {g|f:7f6f5b934a994383b8490c76fd5023d4}황금 옥좌의 빛{/g} 능력을 얻습니다.
+23	그분의 빛을 전하는 자
+24	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 20으로 바뀝니다. 사이버 레이븐이 비활성화되고 그 자리에 무작위 데몬 4마리가 나타납니다. 이 데몬들은 서로를 제외한 전투 중인 모든 생물을 공격합니다.
 25	수확의 부름
-26	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +25 증가한다.\n오버시어가 {g|f:98b43ba9ab564287abfb43f07585e053}수확의 부름{/g} 능력을 얻는다.
+26	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +25 증가합니다.\n오버시어가 {g|f:98b43ba9ab564287abfb43f07585e053}수확의 부름{/g} 능력을 얻습니다.
 27	고통의 향연
-28	이 능력을 사용하면 사이버 레이븐 주변 반경 4칸 이내의 모든 적이 {g|Encyclopedia:PsyRating}사이 등급{/g} 5인 것처럼 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 유발한다. 단, {g|f:de9ae96560504c13af0825e60e397b2c}워프 생명체{/g} 특성이 있는 데몬은 제외된다. 이 효과로 데몬이 소환되지는 않는다.\n<i>참고:</i> 페릴 오브 더 워프 발동 여부에 영향을 받는 효과는 이를 발동으로 간주하지 않는다.
+28	이 능력을 사용하면 사이버 레이븐 주변 반경 4칸 이내의 모든 적이 {g|Encyclopedia:PsyRating}사이 등급{/g} 5에 해당하는 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 유발합니다. 단, {g|f:de9ae96560504c13af0825e60e397b2c}워프 생물{/g} 특성을 가진 데몬은 제외됩니다. 이 효과로 데몬이 소환되지는 않습니다.\n<i>참고:</i> 페릴 오브 더 워프 발동에 따라 적용되는 효과에서는 이를 발동으로 간주하지 않습니다.
 29	마녀의 짐
-30	필요 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 광신자\n사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +25 증가한다.\n오버시어가 {g|f:0818714dfe324d8bbfbd6a6f3ac0b2f6}마녀의 짐{/g} 능력을 얻는다.
+30	필요 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 광신자\n사이버 레이븐의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +25 증가합니다.\n오버시어가 {g|f:0818714dfe324d8bbfbd6a6f3ac0b2f6}마녀의 짐{/g} 능력을 얻습니다.
 31	이머티리움 촉매
-32	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +20 증가한다.\n오버시어가 {g|f:a115669547864ccc816f0598a404e816}감시받는{/g} 제노스, 사이커, 데몬을 공격하면 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시하며, 이 공격은 {g|Encyclopedia:BlockChance}차단{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막을 수 없다.
+32	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 광신도\n서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +20 증가합니다.\n오버시어가 {g|f:a115669547864ccc816f0598a404e816}감시 대상{/g}인 제노스, 사이커, 데몬을 공격하면 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시하며, 해당 공격은 {g|Encyclopedia:BlockChance}방패 막기{/g}와 {g|Encyclopedia:Parry}막기{/g}가 불가능합니다.
 33	불결한 자에게 자비는 없다
-34	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +20 증가한다.\n{g|f:a115669547864ccc816f0598a404e816}감시받는{/g} 적은 오버시어를 상대로 하는 모든 판정에 자동으로 실패한다.
+34	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 광신도\n서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +20 증가합니다.\n{g|f:a115669547864ccc816f0598a404e816}감시 대상{/g}인 적은 오버시어를 상대로 하는 모든 판정에 자동으로 실패합니다.
 35	불경한 우상
-36	필요 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 광신자\n서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +20 증가한다.\n서보 스컬 군집 주변 반경 4칸 이내에 아군이 하나라도 있으면 사역마가 비활성화되지 않는다.
+36	필요 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 광신자\n서보 스컬 군집의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}과 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +20 증가합니다.\n서보 스컬 군집 주변 반경 4칸 이내에 아군이 하나라도 있으면 이 사역마는 비활성화되지 않습니다.
 37	끝없는 불침번
 38	통치자의 표식
-39	이 피스톨로 공격하면 {g|Encyclopedia:MeltingEffect}융해{/g} 효과를 부여한다.\n<indent=5%>{g|Encyclopedia:SkillPersuasion}설득{/g} +5</indent>
+39	이 피스톨로 공격하면 {g|Encyclopedia:MeltingEffect}융해{/g} 효과를 부여합니다.\n<indent=5%>{g|Encyclopedia:SkillPersuasion}설득{/g} +5</indent>
 40	협상가 피스톨
-41	착용자가 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −5 감소한다.\n착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +10 증가한다.
+41	착용자가 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −5 감소합니다.\n착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +10 증가합니다.
 42	제노스 모피 망토
 43	<u>(2 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
-44	사이커 지팡이의 고유 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 두 번 사용할 때마다 두 번째 사용의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|b5ce0059e2f74fe8ac938a92125ac344} 증가한다.
+44	사이커 지팡이의 고유 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 두 번 사용할 때마다 두 번째 사용 시 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|b5ce0059e2f74fe8ac938a92125ac344} 증가합니다.
 45	심연의 도관
-46	착용자의 {g|Encyclopedia:Ability}능력{/g} 대상이 된 아군은 1{g|Encyclopedia:Round}라운드{/g} 동안 착용자의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}의 +20%와 착용자의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}의 +30%를 얻는다.\n해당 아군이 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 전까지 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 성공하면, 착용자의 다음 공격은 반드시 치명타가 된다.
+46	착용자의 {g|Encyclopedia:Ability}능력{/g} 대상이 된 아군은 1{g|Encyclopedia:Round}라운드{/g} 동안 착용자의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}의 +20%와 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}의 +30%를 얻습니다.\n해당 아군이 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 성공하면, 착용자의 다음 공격은 반드시 치명타가 됩니다.
 47	심연의 방적자 장갑
-48	착용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 10, {g|Encyclopedia:Parry}막기{/g}가 10% 증가한다.
+48	착용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 10, {g|Encyclopedia:Parry}막기{/g}가 10% 증가합니다.
 49	적응형 장갑
-50	착용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10, {g|Encyclopedia:WarhammerStrength}근력{/g}이 +5 증가한다.
+50	착용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10, {g|Encyclopedia:WarhammerStrength}근력{/g}이 +5 증가합니다.
 51	개조 장갑
 52	복수자 건틀릿
-53	모든 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{unit_stat|WarhammerAgility|bonus} 증가한다.
-54	잃은 {g|Encyclopedia:HitPoints}체력{/g} 2%마다 착용자의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1% 증가한다.
+53	모든 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{unit_stat|WarhammerAgility|bonus} 증가합니다.
+54	착용자의 잃은 {g|Encyclopedia:HitPoints}체력{/g} 2%당 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1% 증가합니다.
 55	파열검 장갑
-56	착용자 무기의 {g|Encyclopedia:RateOfFire}발사 수{/g}가 +1 증가한다. 적을 처치할 때마다 반경 2칸 이내의 다른 모든 적에게 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 부여한다.
+56	착용자 무기의 {g|Encyclopedia:RateOfFire}발사 수{/g}가 +1 증가합니다. 적을 처치할 때마다 반경 2칸 이내의 다른 모든 적에게 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 부여합니다.
 57	신속한 황폐화의 장갑
-58	착용자가 적에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 해당 공격이 검은 사냥 효과를 +1중첩 부여한다.\n검은 사냥이 1중첩 이상 쌓인 적을 아군이 공격할 때마다 검은 사냥을 1중첩 더 부여한다.\n검은 사냥 중첩마다 해당 생명체를 향한 모든 공격의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +1%, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +1% 증가한다.
+58	착용자가 적에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 검은 사냥 효과를 +1중첩 부여합니다.\n검은 사냥이 1중첩 이상인 적을 아군이 공격할 때마다 검은 사냥이 1중첩 추가됩니다.\n검은 사냥 중첩마다 해당 생물을 대상으로 하는 모든 공격의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +1%, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +1% 증가합니다.
 59	검은 사냥의 발톱
 60	<u>({g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} / 2)</u>
-61	착용자는 원거리 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격 시 무기의 {g|Encyclopedia:Recoil}반동{/g}을 무시한다. 착용자 무기의 {g|Encyclopedia:RateOfFire}발사 수{/g}가 +{uip|RoF|6b05d079fd9548d9b504205aef4f2362}% 증가한다. 발사 수의 소수점 이하는 버린다.
+61	착용자는 원거리 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격 시 무기 {g|Encyclopedia:Recoil}반동{/g}을 무시합니다. 착용자 무기의 {g|Encyclopedia:RateOfFire}발사 수{/g}가 +{uip|RoF|6b05d079fd9548d9b504205aef4f2362}% 증가합니다. 발사 수의 소수점 이하는 버립니다.
 62	보정 장갑
-63	착용자가 중화기로 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 해당 적에게 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 +1중첩 부여한다.\n대상에게 이미 당혹이 3중첩 이상 쌓여 있으면 착용자의 공격이 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g}도 부여한다.
+63	착용자가 중화기로 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 해당 적에게 {g|Encyclopedia:PerplexedEffect}당혹{/g}을 +1중첩 부여합니다.\n대상에게 이미 당혹이 3중첩 이상이면 착용자의 공격이 2{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g}도 부여합니다.
 64	성전 판금 장갑
-65	착용자가 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 성공하거나 적을 처치할 때마다 전투가 끝날 때까지 착용자의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2% 증가한다.
+65	착용자가 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 성공하거나 적을 처치할 때마다 전투 종료 시까지 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2% 증가합니다.
 66	죽음의 집행자 장갑
-67	착용자의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +15 증가한다.
+67	착용자의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +15 증가합니다.
 68	정예 명사수 장갑
 69	<u>(3 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
-70	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 적에게 {g|Encyclopedia:PushGlossary}밀치기{/g}를 가할 때마다, 착용자의 다음 턴까지 해당 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}가 −{uip|Penalty|9098d7052be2442c999672a46b5d595e}% 감소한다.\n또한 해당 적은 −30 불이익을 받는 강인함 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 착용자의 다음 턴까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다.
+70	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 적을 {g|Encyclopedia:PushGlossary}밀칠{/g} 때마다 착용자의 다음 턴까지 해당 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}가 −{uip|Penalty|9098d7052be2442c999672a46b5d595e}% 감소합니다.\n또한 해당 적은 −30 불이익을 받는 강인함 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 착용자의 다음 턴까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.
 71	집행관 경량 카라페이스 아머 장갑
-72	착용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +10, {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +5 증가한다.
+72	착용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +10, {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +5 증가합니다.
 73	외골격 장갑
-74	착용자의 {g|Encyclopedia:SkillDemolition}폭파{/g}가 +25, {g|Encyclopedia:SkillTechUse}기술 활용{/g}이 +25 증가한다.
+74	착용자의 {g|Encyclopedia:SkillDemolition}폭파{/g}와 {g|Encyclopedia:SkillTechUse}기술 활용{/g}이 +25 증가합니다.
 75	정밀 작업 장갑
 76	인내의 장갑
-77	이 장갑의 착용자가 전투 중 {g|Encyclopedia:Injury}부상{/g}을 입거나 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 될 때마다, 아군이 전투가 끝날 때까지 {g|Encyclopedia:DamageGlossary}피해{/g}에 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
-78	착용자의 {g|Encyclopedia:Parry}막기{/g}가 +10%, {g|Encyclopedia:AreaOfEffect}범위 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다.
+77	착용자가 전투 중 {g|Encyclopedia:Injury}부상{/g}을 입거나 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g}이 될 때마다 아군이 전투 종료 시까지 {g|Encyclopedia:DamageGlossary}피해{/g}에 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
+78	착용자의 {g|Encyclopedia:Parry}막기{/g}가 +10%, {g|Encyclopedia:AreaOfEffect}범위 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가합니다.
 79	제노스 가죽 장갑
-80	착용자가 전투 중 처음으로 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 성공하면, 해당 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가한다. 착용자나 아군이 {g|Encyclopedia:HeroicAct}영웅적 행동{/g} 또는 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}을 사용하면 이 효과가 초기화된다.
+80	착용자가 전투 중 처음으로 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 성공하면 해당 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가합니다. 착용자나 아군이 {g|Encyclopedia:HeroicAct}영웅적 행동{/g} 또는 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}을 사용하면 이 효과가 초기화됩니다.
 81	심장 추적자 장갑
-82	착용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +30 증가한다.\n착용자가 이전 {g|Encyclopedia:Turn}턴{/g}에 이동하지 않았다면, 턴이 끝날 때까지 중화기로 가하는 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가한다.
+82	착용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +30 증가합니다.\n착용자가 이전 {g|Encyclopedia:Turn}턴{/g}에 이동하지 않았다면 턴 종료 시까지 중화기 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가합니다.
 83	중량 운반 장갑
 84	<u>(3 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
-85	착용자가 양손 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 단일 대상 공격을 할 때마다 해당 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|8ac68363db98446d904fd7b2824d47d4} 증가한다.
+85	착용자가 양손 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 단일 대상 공격을 할 때마다 해당 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|8ac68363db98446d904fd7b2824d47d4} 증가합니다.
 86	학살자의 희열
-87	이 너클은 착용자에게 {g|Encyclopedia:SkillCoercion}위협{/g} +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.
+87	이 너클은 착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.
 88	너클
-89	아군이 아크 라이플, {g|f:2c4d692f28fe47e3a65f45a914c5189b}마그나레일 포격{/g}, {g|f:09c4605a50c74262aec197ec9f9a9d58}천음속 파동{/g}에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하면, 해당 아군은 자신의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:ActionPoints}행동력{/g}을 +1 얻는다.
+89	아군이 아크 라이플, {g|f:2c4d692f28fe47e3a65f45a914c5189b}마그나레일 포격{/g}, {g|f:09c4605a50c74262aec197ec9f9a9d58}천음속 파동{/g}에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하면 해당 아군의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:ActionPoints}행동력{/g}을 +1 얻습니다.
 90	에너지 은총의 건틀릿
-91	착용자가 {g|f:68f3934e6b5345808b49eaea6ce758a1}정전기장{/g}의 영향을 받는 대상에게 아크 라이플, {g|f:2c4d692f28fe47e3a65f45a914c5189b}마그나레일 포격{/g}, {g|f:09c4605a50c74262aec197ec9f9a9d58}천음속 파동{/g}으로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{unit_stat|WarhammerIntelligence|bonus} 증가한다.
+91	착용자가 {g|f:68f3934e6b5345808b49eaea6ce758a1}정전기장{/g} 효과를 받는 대상에게 아크 라이플, {g|f:2c4d692f28fe47e3a65f45a914c5189b}마그나레일 포격{/g}, {g|f:09c4605a50c74262aec197ec9f9a9d58}천음속 파동{/g}으로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{unit_stat|WarhammerIntelligence|bonus} 증가합니다.
 92	전류 증폭기
-93	기적적으로 보존된 이 장갑은 첫 징집호 시대의 이름 모를 마고스가 쓰던 물건이다.\n수 세기 동안 자르코프의 식물 사이에 묻혀 있었지만, 아직도 성스러운 도유와 오존 냄새가 희미하게 풍긴다.
+93	기적적으로 보존된 이 장갑은 첫 징집호 시대의 이름 모를 마고스가 사용했습니다.\n수 세기 동안 자르코프의 수풀 속에 묻혀 있었지만, 여전히 은은한 성유와 오존 냄새가 풍깁니다.
 94	명사수 팔보호구
 95	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-96	착용자의 {g|Encyclopedia:SkillMedicae}의술{/g}이 +25 증가한다.\n착용자가 구급상자를 사용할 때마다 임시 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|THP|9c163da3bc8f411c841258866a6e93aa} 추가로 부여한다.
+96	착용자의 {g|Encyclopedia:SkillMedicae}의술{/g}이 +25 증가합니다.\n착용자가 구급상자를 사용할 때마다 임시 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 +{uip|THP|9c163da3bc8f411c841258866a6e93aa} 부여합니다.
 97	명의의 장갑
-98	착용자가 {g|Encyclopedia:SkillTechUse}기술 활용{/g}에 +3 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+98	착용자가 {g|Encyclopedia:SkillTechUse}기술 활용{/g}에 +3 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 99	조작자의 장갑
 100	<u>(2 × ({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스))</u>
-101	착용자가 플라스마 무기를 과충전할 때마다, 해당 공격은 적의 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시하고 +{uip|Damage|1c3dd98848f34a2281b8172467035d89}%의 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+101	착용자가 플라스마 무기로 과충전을 사용할 때마다 해당 공격이 적의 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시하고 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|1c3dd98848f34a2281b8172467035d89}% 증가합니다.
 102	과충전 장갑
-103	착용자의 모든 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이 {g|Encyclopedia:BleedingEffect}출혈{/g} (4)를 부여한다. 착용자가 부여하는 모든 출혈 효과의 위력이 +2 증가한다.
+103	착용자의 모든 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이 {g|Encyclopedia:BleedingEffect}출혈{/g} (4)를 부여합니다. 착용자가 부여하는 모든 출혈 효과의 위력이 +2 증가합니다.
 104	고통의 손아귀
-105	이 장갑은 착용자에게 {g|Encyclopedia:SkillTechUse}기술 활용{/g} +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.\n또한 플라스마 무기의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +3 증가한다.
+105	이 장갑은 착용자의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.\n플라스마 무기의 {g|Encyclopedia:DamageGlossary}피해{/g}도 +3 증가합니다.
 106	플라스마 조형 장갑
-107	{g|Encyclopedia:WarhammerStrength}근력{/g}이 +10 증가한다.
-108	파워 그립
-109	이 장갑은 모든 자동화기의 {g|Encyclopedia:Recoil}반동{/g}을 −50% 감소시킨다.
+107	{g|Encyclopedia:WarhammerStrength}근력{/g}이 +10 증가합니다.
+108	역장 손아귀
+109	이 장갑은 모든 자동화기의 {g|Encyclopedia:Recoil}반동{/g}을 −50% 감소시킵니다.
 110	반동 제어 장갑
-111	착용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시, 이번 턴에 착용자가 가한 {g|Encyclopedia:PushGlossary}충돌{/g} {g|Encyclopedia:DamageGlossary}피해{/g}만큼 임시 {g|Encyclopedia:HitPoints}체력{/g}을 얻는다.
+111	착용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시 이번 턴에 착용자가 준 {g|Encyclopedia:PushGlossary}충돌{/g} {g|Encyclopedia:DamageGlossary}피해{/g}만큼 임시 {g|Encyclopedia:HitPoints}체력{/g}을 얻습니다.
 112	음미하는 고통
-113	{g|Encyclopedia:SkillDemolition}폭파{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.
+113	{g|Encyclopedia:SkillDemolition}폭파{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.
 114	파괴 공작원의 장갑
 115	<u>(10 + 2 × {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
-116	이 아이템은 착용자에게 {g|Encyclopedia:ParryReduction}막기 감소{/g} +5 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다. 착용자가 {g|Encyclopedia:SoulmarkTypesGlossary}신념{/g} — {g|Encyclopedia:SoulMarkHope}인습타파{/g}를 보유하면 모든 아군이 착용자와 인접한 적을 상대로 +{uip|Hit|06789f989e894ed28ac63df12c63eb6d}%의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}을 얻는다. 착용자는 아군의 근접 공격을 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}한다.
+116	이 아이템은 착용자의 {g|Encyclopedia:ParryReduction}막기 감소{/g}에 +5 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다. 착용자에게 {g|Encyclopedia:SoulmarkTypesGlossary}신념{/g} — {g|Encyclopedia:SoulMarkHope}인습타파{/g}가 있으면 모든 아군이 착용자에게 인접한 적을 상대로 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}을 +{uip|Hit|06789f989e894ed28ac63df12c63eb6d}% 얻습니다. 착용자는 아군의 근접 공격을 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}합니다.
 117	광휘의 장갑
 118	저격수 장갑
-119	착용자가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +5% 증가한다.\n착용자의 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g}과 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +5% 증가한다.
+119	착용자가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +5% 증가합니다.\n착용자의 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g}과 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +5% 증가합니다.
 120	안정기 팔보호구
-121	착용자의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +10, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +25% 증가한다.
-122	착용자의 공격이 대상의 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}을 무시한다.
+121	착용자의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +10, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +25% 증가합니다.
+122	착용자의 공격이 대상의 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}을 무시합니다.
 123	헬리아크의 장갑
 124	<u>{g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스</u>
-125	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 {uip|Damage|de2e68accff14522b70e444df5560b33}% 증가한다.
+125	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 {uip|Damage|de2e68accff14522b70e444df5560b33}% 증가합니다.
 126	불멸의 분노
-127	{g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g} 또는 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 유발하면 다음 효과가 적용된다:\n-<indent=5%>전투가 끝날 때까지 착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가한다.</indent>\n-<indent=5%>착용자가 자신의 {g|Encyclopedia:Resolve}결의{/g}만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}과 임시 {g|Encyclopedia:HitPoints}체력{/g}을 얻는다.</indent>\n비인가 사이커만 장착할 수 있다.
+127	{g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g} 또는 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 유발하면:\n-<indent=5%>전투 종료 시까지 착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가합니다.</indent>\n-<indent=5%>착용자가 자신의 {g|Encyclopedia:Resolve}결의{/g}만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}과 임시 {g|Encyclopedia:HitPoints}체력{/g}을 얻습니다.</indent>\n비인가 사이커만 착용할 수 있습니다.
 128	워프 전도 장갑
-129	스페이스 마린의 {g|Encyclopedia:Recoil}반동{/g}이 0으로 감소한다. 스페이스 마린의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} 대상에게 {g|Encyclopedia:StaggeredEffect}비틀거림{/g}을 부여한다.
+129	스페이스 마린의 {g|Encyclopedia:Recoil}반동{/g}이 0이 됩니다. 스페이스 마린의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} 대상에게 {g|Encyclopedia:StaggeredEffect}비틀거림{/g}을 부여합니다.
 130	핏빛 얼음 건틀릿
-131	아르눌프가 호탕하게 웃자,{br}\n충직한 볼터가 포효로 화답했다.{br}\n적의 피가 얼어붙어 살갗과 갑주를 잇고,{br}\n영웅의 손아귀에는 망설임이 없으니!{br}\n스콜!{br}
-132	이 팔보호구는 착용자에게 {g|Encyclopedia:SkillTechUse}기술 활용{/g} +5 {g|Encyclopedia:Bonus}보너스{/g}를 부여하고, 화염 무기의 {g|Encyclopedia:DamageGlossary}피해{/g}를 +3 증가시킨다.
+131	아르눌프가 웃음을 터뜨리니,{br}\n충직한 볼터가 포효로 화답하네.{br}\n적의 피가 얼어붙어 살갗과 갑주가 하나 되니,{br}\n영웅의 손아귀에는 망설임이 없도다!{br}\n스콜!{br}
+132	이 팔보호구는 착용자의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}에 +5 {g|Encyclopedia:Bonus}보너스{/g}를 부여하고 화염 무기의 {g|Encyclopedia:DamageGlossary}피해{/g}를 +3 증가시킵니다.
 133	방화범의 팔보호구
-134	착용자가 원거리 공격으로 치명타를 적중시킬 때마다, 대상에 관계없이 다음 공격이 자동으로 명중하며 막기와 회피가 불가능해진다.
+134	착용자가 원거리 공격으로 치명타를 가할 때마다 다음 공격은 대상과 관계없이 자동으로 명중하며 막거나 회피할 수 없습니다.
 135	결투 대가의 장갑
-136	이 효과의 중첩마다 캐릭터의 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|b9acbc4e35d74c4b81eac7b50c8926f6} 증가한다.
+136	이 효과 중첩마다 캐릭터의 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|b9acbc4e35d74c4b81eac7b50c8926f6} 증가합니다.
 137	복수
 138	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 × 복수 중첩 수)</u>
-139	착용자를 대상으로 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}이 이루어질 때마다 착용자가 복수 효과를 +1중첩 얻는다.\n<i>복수</i>: 효과의 중첩마다 캐릭터의 기회 공격 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|b9acbc4e35d74c4b81eac7b50c8926f6} 증가한다.
+139	착용자가 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}의 대상이 될 때마다 복수 효과를 +1중첩 얻습니다.\n<i>복수</i>: 효과 중첩마다 캐릭터의 기회 공격 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|b9acbc4e35d74c4b81eac7b50c8926f6} 증가합니다.
 140	복수자 전술 건틀릿
 141	<u>(2 × {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스)</u>
-142	{g|f:e955823f54d24088ae1fdefe88d3684d}검무{/g}가 명중할 때마다 착용자의 턴이 끝날 때까지 치명타 확률이 +{uip|Critchance|65815f9b334c476ba63a4790e85cf1de}% 증가한다.
+142	{g|f:e955823f54d24088ae1fdefe88d3684d}검무{/g}가 명중할 때마다 착용자의 턴 종료 시까지 치명타 확률이 +{uip|Critchance|65815f9b334c476ba63a4790e85cf1de}% 증가합니다.
 143	블레이드 댄서의 팔보호구
-144	{g|f:9b090810169e4a42b22afd5995d3720d}데스 컬트 어쌔신{/g}이 착용하면 적을 처치할 때마다 해당 적이 피분수를 뿜으며 폭발한다. 주변 칸이 {g|f:3a4eebf212974ba68d6867981c240b1b}혈액병{/g}의 영향을 받은 것처럼 피로 뒤덮인다.
+144	{g|f:9b090810169e4a42b22afd5995d3720d}데스 컬트 어쌔신{/g}이 착용하면 적을 처치할 때마다 해당 적이 피를 뿜으며 폭발합니다. 주변 칸은 {g|f:3a4eebf212974ba68d6867981c240b1b}혈액병{/g} 효과를 받은 것처럼 피로 뒤덮입니다.
 145	진홍빛 망각
-146	착용자가 근접 공격을 대상에게 명중시킬 때마다 전투가 끝날 때까지 대상의 방어도가 −2% 감소한다. 중첩된다.
+146	착용자가 대상에게 근접 공격을 명중시킬 때마다 전투 종료 시까지 대상의 방어도가 −2% 감소합니다. 중첩됩니다.
 147	금속 발톱 장갑
 148	피해 감소 장갑
-149	이 장갑을 착용하면 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 무기{/g}로 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:Parry}막기{/g}할 수 있으며, 이때 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 대신 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}을 사용한다.
+149	착용자는 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 대신 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}을 사용해 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 무기{/g}로 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:Parry}막기{/g}할 수 있습니다.
 150	<u>({g|Encyclopedia:SkillMedicae}의술{/g} / 5)</u>
-151	{g|f:5c06542194b74ecc922b92f3543703d2}급소 공략{/g}의 치명타 피해가 +{uip|Damage|cf41ec4ff0374fa78a5335640a2864b8} 증가한다. 공격 자체의 피해와 지속 피해 효과의 추가 발동으로 인한 피해 모두에 적용된다.
+151	{g|f:5c06542194b74ecc922b92f3543703d2}급소 공략{/g}의 치명타 피해가 +{uip|Damage|cf41ec4ff0374fa78a5335640a2864b8} 증가합니다. 공격 자체의 피해와 지속 피해 효과의 추가 발동 피해를 모두 포함합니다.
 152	처형자의 건틀릿
-153	착용자가 피스톨로 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 이외의 공격을 하면 해당 공격이 적에게 2칸 {g|Encyclopedia:PushGlossary}밀치기{/g}를 가한다.\n착용자가 피스톨 공격으로 적을 처치하면 즉시 해당 피스톨을 {g|Encyclopedia:Reload}재장전{/g}한다. 피스톨을 재장전할 때마다 피스톨 공격의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +5% 증가한다.
+153	착용자가 피스톨로 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 이외의 공격을 할 때마다 적을 2칸 {g|Encyclopedia:PushGlossary}밀칩니다{/g}.\n착용자가 피스톨 공격으로 적을 처치하면 즉시 해당 피스톨을 {g|Encyclopedia:Reload}재장전{/g}합니다. 피스톨을 재장전할 때마다 피스톨 공격의 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}이 +5% 증가합니다.
 154	척탄병의 장갑
-155	착용자가 수류탄 사용 시 소모하는 {g|Encyclopedia:ActionPoints}행동력{/g}이 −1 감소한다. 착용자의 수류탄이 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가한다.
-156	이 건틀릿을 착용하고 공격에 성공하면, {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Test}판정{/g}에 실패한 적에게 50% 확률로 {g|Encyclopedia:BleedingEffect}출혈{/g} 효과를 부여한다.\n착용자가 {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 신봉자를 보유하면 해당 판정에 −20 {g|Encyclopedia:Penalty}불이익{/g}이 적용된다.
-157	이 효과의 중첩마다 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +<u>사냥감의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}</u>% 증가한다.
+155	착용자의 수류탄 사용 비용이 −1 {g|Encyclopedia:ActionPoints}행동력{/g} 감소합니다. 착용자의 수류탄이 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가합니다.
+156	공격에 성공하면 50% 확률로 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Test}판정{/g}에 실패한 적에게 {g|Encyclopedia:BleedingEffect}출혈{/g} 효과를 부여합니다.\n착용자에게 {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 신봉자가 있으면 해당 판정에 −20 {g|Encyclopedia:Penalty}불이익{/g}이 적용됩니다.
+157	이 효과 중첩마다 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +<u>사냥감의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}</u>% 증가합니다.
 158	현상금 사냥꾼의 장갑
-159	착용자가 {g|Encyclopedia:Prey}사냥감{/g}으로 지정된 대상을 처치할 때마다, 전투가 끝날 때까지 {g|Encyclopedia:DamageGlossary}피해{/g}에 +<u>사냥감의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}</u>% {g|Encyclopedia:Bonus}보너스{/g}를 얻는다. 이 효과는 중첩된다.
+159	착용자가 {g|Encyclopedia:Prey}사냥감{/g}으로 지정된 대상을 처치할 때마다 전투 종료 시까지 {g|Encyclopedia:DamageGlossary}피해{/g}에 +<u>사냥감의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}</u>% {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 이 효과는 중첩됩니다.
 160	<u>({g|Encyclopedia:SkillMedicae}의술{/g} / 3)</u>
-161	{g|f:5c06542194b74ecc922b92f3543703d2}급소 공략{/g}의 치명타 피해가 +{uip|Damage|0e36aac7736d40bca321b5a1883a7edc} 증가한다. 공격 자체의 피해와 지속 피해 효과의 추가 발동으로 인한 피해 모두에 적용된다.
+161	{g|f:5c06542194b74ecc922b92f3543703d2}급소 공략{/g}의 치명타 피해가 +{uip|Damage|0e36aac7736d40bca321b5a1883a7edc} 증가합니다. 공격 자체의 피해와 지속 피해 효과의 추가 발동 피해를 모두 포함합니다.
 162	고위 방적자 장갑
-163	착용자가 주는 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 두 배가 된다.
+163	착용자가 주는 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 두 배가 됩니다.
 164	피할 수 없는 최후
-165	이 건틀릿은 착용자의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}에 +10% 보너스를 부여한다. 착용자가 자신의 {g|Encyclopedia:Turn}턴{/g} 동안 이동하지 않았다면 이 {g|Encyclopedia:Bonus}보너스{/g}는 두 배가 된다.
+165	착용자의 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}에 +10% 보너스를 부여합니다. 착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 이동하지 않았다면 이 {g|Encyclopedia:Bonus}보너스{/g}가 두 배가 됩니다.
 166	카스르킨 건틀릿
-167	착용자가 {g|Encyclopedia:SkillPersuasion}설득{/g}에 +5 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+167	착용자가 {g|Encyclopedia:SkillPersuasion}설득{/g}에 +5 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 168	귀족의 비단 장갑
-169	주로 귀족이 착용하는 정교한 손 장식이다.
-170	착용자가 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이며 적의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}로 막는 데 성공하면, 해당 적의 착용자와 가장 가까운 쪽에 {g|Encyclopedia:Opening}빈틈{/g}이 자동으로 하나 더 생긴다.
+169	주로 귀족이 착용하는 정교한 손 장식품입니다.
+170	착용자가 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이고 적의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 {g|Encyclopedia:Parry}막기{/g}에 성공하면, 해당 적의 착용자와 가장 가까운 쪽에 {g|Encyclopedia:Opening}빈틈{/g}이 자동으로 추가 생성됩니다.
 171	반격 장갑
-172	착용자가 {g|f:aedb4d2a2fd049db9c3f61b6737043a4}위협{/g}을 사용하면 위협받은 대상에게 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 효과도 부여한다.
+172	착용자가 {g|f:aedb4d2a2fd049db9c3f61b6737043a4}위협{/g}을 사용하면 위협당한 대상에게 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 효과도 부여합니다.
 173	공포의 장갑
 174	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
 175	<u>(3 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
-176	스페이스 마린의 {g|Encyclopedia:Recoil}반동{/g}이 −{uip|Recoil|d179b36dff70467f814ebbe653853944} 감소한다. 스페이스 마린의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} 대상이 −{uip|Check|d179b36dff70467f814ebbe653853944} 불이익을 받는 강인함 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:StaggeredEffect}비틀거림{/g}도 부여한다.
-177	아스타르테스 파워 글러브
-178	이 효과의 중첩마다 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −10 감소한다.
-179	착용자가 {g|f:197b8a8a12b0442db7ffee1067cf3d97}약점 노출{/g} 효과를 받는 적에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 해당 적의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −10 감소한다.
+176	스페이스 마린의 {g|Encyclopedia:Recoil}반동{/g}이 −{uip|Recoil|d179b36dff70467f814ebbe653853944} 감소합니다. 스페이스 마린의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} 대상이 −{uip|Check|d179b36dff70467f814ebbe653853944} 불이익을 받는 강인함 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:StaggeredEffect}비틀거림{/g}도 부여합니다.
+177	아스타르테스 역장 장갑
+178	이 효과 중첩마다 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −10 감소합니다.
+179	착용자가 {g|f:197b8a8a12b0442db7ffee1067cf3d97}약점 노출{/g} 효과를 받는 적에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 적의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −10 감소합니다.
 180	구원의 건틀릿
-181	착용자가 대상에게 {g|Encyclopedia:PushGlossary}밀치기{/g}를 가할 때마다, 같은 라운드에 해당 대상에게 가하는 착용자의 다음 공격 피해가 +10% 증가한다. 중첩된다.
+181	착용자가 대상을 {g|Encyclopedia:PushGlossary}밀칠{/g} 때마다 같은 라운드에 해당 대상에게 가하는 다음 공격의 피해가 +10% 증가합니다. 중첩됩니다.
 182	돌파자의 팔보호구
 183	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 3)</u>
-184	착용자가 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 사용하면 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|b7eaa3c6e7ce43698c04bf99b553b8cc} 증가한다.
+184	착용자가 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 사용하면 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|b7eaa3c6e7ce43698c04bf99b553b8cc} 증가합니다.
 185	안정화 팔보호구
 186	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 3)</u>
-187	착용자가 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 사용하면 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|91b5d75106034acc95435d4ed1cb03dc} 증가하고 숨 가쁨 상태가 되지 않는다.
+187	착용자가 {g|f:7a76af1ef02c4699b62db147e2b9a172}기동 사격{/g}을 사용하면 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|91b5d75106034acc95435d4ed1cb03dc} 증가하며 숨 가쁨을 받지 않습니다.
 188	안정화 건틀릿
 189	추적자 장갑
-190	착용자의 원거리 공격이 적에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면, 같은 적을 향한 다음 원거리 공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}에 +5% {g|Encyclopedia:Bonus}보너스{/g}를 얻는다. 중첩되지 않는다.
-191	착용자의 {g|Encyclopedia:Turn}턴{/g} 종료 시, 해당 턴에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킨 적의 수만큼 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩을 얻는다.
+190	착용자의 원거리 공격이 적에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면 같은 적을 대상으로 하는 다음 원거리 공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}에 +5% {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 중첩되지 않습니다.
+191	{g|Encyclopedia:Turn}턴{/g} 종료 시 착용자가 이번 턴에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킨 적의 수만큼 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 중첩을 얻습니다.
 192	지휘관의 장갑
-193	2{g|Encyclopedia:Round}라운드{/g} 동안 대상의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 −5 감소한다. 최대 6회 중첩된다.
+193	2{g|Encyclopedia:Round}라운드{/g} 동안 대상의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 −5 감소합니다. 최대 6회 중첩됩니다.
 194	삼중 개척자의 보호
-195	착용자가 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 2{g|Encyclopedia:Round}라운드{/g} 동안 대상의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 −5 감소한다. 최대 6회 중첩된다.
+195	착용자가 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 2{g|Encyclopedia:Round}라운드{/g} 동안 대상의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 −5 감소합니다. 최대 6회 중첩됩니다.
 196	삼중 개척자의 팔보호구
-197	착용자가 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주어 강제로 이동시키면, 해당 적은 착용자의 {g|Encyclopedia:Turn}턴{/g} 동안 이동한 칸마다 <u>(1~3)</u>의 추가 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 받는다.\n<i>{g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자</i>: 추가 워프 피해가 <u>(1~6)</u>으로 증가한다.
+197	착용자가 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주어 강제로 이동시키면, 착용자의 {g|Encyclopedia:Turn}턴{/g} 동안 해당 적이 이동한 칸마다 <u>(1~3)</u>의 추가 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 받습니다.\n<i>{g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자</i>: 추가 워프 피해가 <u>(1~6)</u>으로 증가합니다.
 198	고문의 팔찌
-199	착용자가 이미 {g|f:802d21391d2f4573bfff126023df39bb}사냥감 추적{/g}의 보너스를 얻었다면, {g|Encyclopedia:Prey}사냥감{/g}으로 지정된 대상을 처치할 때마다 이 능력의 보너스를 다시 얻어 중첩한다. 이 보너스는 착용자가 이미 얻은 {g|f:b97c9e76f6ca46d3bb8ccd86baa9d7c9}사냥감 추적{/g} 보너스 중 가장 높은 단계의 보너스를 복제한다.
+199	착용자가 이미 {g|f:802d21391d2f4573bfff126023df39bb}사냥감 추적{/g}으로 보너스를 얻었다면, {g|Encyclopedia:Prey}사냥감{/g}으로 지정된 대상을 처치할 때마다 이 능력의 보너스를 다시 얻어 중첩합니다. 이때 이미 얻은 {g|f:b97c9e76f6ca46d3bb8ccd86baa9d7c9}사냥감 추적{/g} 보너스 중 가장 높은 단계의 보너스를 얻습니다.
 200	최상위 포식자의 장갑
-201	착용자가 받는 {g|Encyclopedia:FireDamage}화염 피해{/g}가 −<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} / 3)</u>% 감소한다. 착용자의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:BurningEffect}화상{/g} 상태라면 화상 수준이 −{unit_stat|WarhammerToughness|bonus} 감소한다.
+201	착용자가 받는 {g|Encyclopedia:FireDamage}화염 피해{/g}가 −<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} / 3)</u>% 감소합니다. 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:BurningEffect}화상{/g} 상태라면 화상 단계가 −{unit_stat|WarhammerToughness|bonus} 감소합니다.
 202	내화 장갑
-203	착용자가 방패를 장착한 경우, 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당할 때마다 방패의 {g|Encyclopedia:BlockChance}방패 막기{/g}가 +5% 증가한다. {g|Encyclopedia:BurstAttacksGlossary}연사{/g}의 여러 명중은 한 번의 명중으로 간주한다. {g|Encyclopedia:Round}라운드{/g}가 끝날 때까지 지속되며, 최대 3회 중첩된다.
+203	착용자가 방패를 장착한 상태에서 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당할 때마다 방패의 {g|Encyclopedia:BlockChance}방패 막기{/g}가 +5% 증가합니다. {g|Encyclopedia:BurstAttacksGlossary}연사{/g}의 여러 명중은 한 번으로 간주합니다. {g|Encyclopedia:Round}라운드{/g} 종료 시까지 지속되며 최대 3회 중첩됩니다.
 204	복합 소재 장갑
-205	착용자가 무기의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 대상을 3명 이상 처치하면, {g|Encyclopedia:Round}라운드{/g}당 처음 1회에 한해 해당 범위 공격은 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않고 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않는다.
+205	착용자가 무기 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 3명 이상의 대상을 처치하면, 해당 {g|Encyclopedia:Round}라운드{/g}에서 처음으로 이 조건을 충족한 범위 공격은 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하지 않고 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수 제한{/g}에 포함되지 않습니다.
 206	탄성 장갑
-207	착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +15 증가한다.
+207	착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +15 증가합니다.
 208	견딜 수 없는 고문의 장갑
-209	착용자의 사역마가 착용자와 인접해 있는 동안, 사역마는 전투 중 모든 {g|Encyclopedia:Test}판정{/g}에 성공한다.
+209	착용자의 사역마가 착용자와 인접해 있는 동안 전투 중 모든 {g|Encyclopedia:Test}판정{/g}에 성공합니다.
 210	강철 손아귀
-211	착용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}로 인한 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Penalty}불이익{/g}이 −10% 감소한다.\n착용자의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 60 이상이면 대신 해당 불이익이 −15% 감소한다.
+211	착용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}로 인한 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Penalty}불이익{/g}이 −10% 감소합니다.\n착용자의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 60 이상이면 대신 해당 불이익이 −15% 감소합니다.
 212	서보 건틀릿
-213	착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +15% 증가한다.\n대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 착용자의 방어 관통 이하라면, 대상은 +20 보너스를 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못할 경우 {g|Encyclopedia:BleedingEffect}출혈{/g} (4)를 받는다.
+213	착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +15% 증가합니다.\n대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 착용자의 방어 관통 이하이면 대상은 +20 보너스를 받는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 경우 {g|Encyclopedia:BleedingEffect}출혈{/g} (4)를 받습니다.
 214	가시 장갑
-215	제노스, 데몬, 사이커를 상대로 착용자의 치명타 피해 보너스가 두 배가 된다.
+215	제노스, 데몬, 사이커를 상대로 착용자의 치명타 피해 보너스가 두 배가 됩니다.
 216	타락 박멸자 헬멧
-217	착용자의 멜타 무기 공격에 드는 행동력이 −1 감소하고 멜타 무기의 사거리가 +2칸 증가한다.
+217	착용자의 멜타 무기 공격 비용이 −1 행동력 감소하고 멜타 무기의 사거리가 +2칸 증가합니다.
 218	정화의 불꽃 헬멧
 219	시인의 은총
-220	착용자의 {g|Encyclopedia:SkillCommerce}상업{/g}이 +25, {g|Encyclopedia:SkillPersuasion}설득{/g}이 +25 증가한다.
+220	착용자의 {g|Encyclopedia:SkillCommerce}상업{/g}과 {g|Encyclopedia:SkillPersuasion}설득{/g}이 +25 증가합니다.
 221	성전 판금 헬멧
 222	광신도 두건
-223	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자\n턴당 1회, 착용자가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g} 공격을 사용하면 각각 50% 확률로 {g|Encyclopedia:ActionPoints}행동력{/g}을 2 회복하거나 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 10 받는다.
-224	{g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +5% 증가한다.
+223	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자\n턴당 1회, 착용자가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}으로 공격하면 각각 50% 확률로 {g|Encyclopedia:ActionPoints}행동력{/g}을 2 회복하거나 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 10 받습니다.
+224	{g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +5% 증가합니다.
 225	갑판 장교의 헬멧
-226	착용자가 플레이머로 {g|Encyclopedia:BurningEffect}화상{/g}을 부여할 때마다 해당 화상의 수준이 두 배가 된다.
+226	착용자가 플레이머로 {g|Encyclopedia:BurningEffect}화상{/g}을 부여할 때마다 해당 화상 단계가 두 배가 됩니다.
 227	경멸의 미덕
-228	아군은 착용자의 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격을 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}한다.\n착용자 무기의 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}이 +{unit_stat|WarhammerBallisticSkill}% 증가한다.
+228	아군이 착용자의 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격을 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}합니다.\n착용자 무기의 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}이 +{unit_stat|WarhammerBallisticSkill}% 증가합니다.
 229	황제의 정의
-230	착용자가 전투 중 처음으로 단일 원거리 공격으로 대상을 처치하면 즉시 추가 공격을 가한다.
+230	착용자가 전투 중 처음으로 원거리 단일 공격으로 대상을 처치하면 즉시 추가 공격을 합니다.
 231	추방자의 바이저
-232	{g|Encyclopedia:WarhammerPerception}지각{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여하지만, {g|Encyclopedia:WarhammerWillpower}의지력{/g}에는 −5 {g|Encyclopedia:Penalty}불이익{/g}을 부여한다.
+232	{g|Encyclopedia:WarhammerPerception}지각{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여하지만 {g|Encyclopedia:WarhammerWillpower}의지력{/g}에 −5 {g|Encyclopedia:Penalty}불이익{/g}을 적용합니다.
 233	불길한 시야의 베일
 234	마크 8B3-5 필터 방독면
-235	착용자의 {g|Encyclopedia:SkillAthletics}운동{/g}이 +25 증가하고 {g|Encyclopedia:ToxinEffect}중독{/g}에 면역이 된다.
-236	착용자는 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Test}판정{/g}에 {g|Encyclopedia:WarhammerAgility}민첩{/g} 대신 {g|Encyclopedia:WarhammerWillpower}의지력{/g}을 사용한다.\n착용자가 적의 공격을 회피할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가한다. 중첩된다.
+235	착용자의 {g|Encyclopedia:SkillAthletics}운동{/g}이 +25 증가하고 {g|Encyclopedia:ToxinEffect}중독{/g}에 면역이 됩니다.
+236	착용자는 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Test}판정{/g}에 {g|Encyclopedia:WarhammerAgility}민첩{/g} 대신 {g|Encyclopedia:WarhammerWillpower}의지력{/g}을 사용합니다.\n착용자가 적의 공격을 회피할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가합니다. 중첩됩니다.
 237	유령 투구
 238	대도서관장의 안경
-239	착용자의 모든 지식 {g|Encyclopedia:Skills}기술{/g}이 +20 증가한다.
-240	착용자가 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −35% 감소한다.\n{g|Encyclopedia:Turn}턴{/g}마다 첫 수류탄 사용은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수{/g} 제한에 포함되지 않는다.
+239	착용자의 모든 지식 {g|Encyclopedia:Skills}기술{/g}이 +20 증가합니다.
+240	착용자가 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −35% 감소합니다.\n매 {g|Encyclopedia:Turn}턴{/g} 첫 수류탄 사용은 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수{/g} 제한에 포함되지 않습니다.
 241	파괴 공작원의 헬멧
-242	{g|Encyclopedia:SkillLogic}논리{/g}가 +3 증가한다.
+242	{g|Encyclopedia:SkillLogic}논리{/g}가 +3 증가합니다.
 243	렉스메카닉의 고글
-244	이 매트릭스는 착용자에게 {g|Encyclopedia:SkillAwareness}인지{/g} +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.
-245	착용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {g|Encyclopedia:WarhammerPerception}지각{/g}보다 높으면 지각 대신 지능을 사용한다.
+244	이 매트릭스는 착용자의 {g|Encyclopedia:SkillAwareness}인지{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.
+245	착용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 {g|Encyclopedia:WarhammerPerception}지각{/g}보다 높으면 지각 대신 지능을 사용합니다.
 246	탄도 계산 단안경
 247	<u>({g|Encyclopedia:SkillLogic}논리{/g} / 10)</u>
 248	<u>({g|Encyclopedia:SkillTechUse}기술 활용{/g} / 10)</u>
-249	<u>(2 × {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 중첩 수)</u>
-250	착용자의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +{uip|Bonus|7517abf76ba54f0c8e1f608631c46177} 또는 +{uip|PotentialEnergyBonus|7517abf76ba54f0c8e1f608631c46177} 중 높은 값만큼 증가하고, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +{uip|Bonus2|7517abf76ba54f0c8e1f608631c46177} 또는 +{uip|PotentialEnergyBonus|7517abf76ba54f0c8e1f608631c46177} 중 높은 값만큼 증가한다.
+249	<u>(2 × {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g} 중첩 수)</u>
+250	착용자의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +{uip|Bonus|7517abf76ba54f0c8e1f608631c46177} 또는 +{uip|PotentialEnergyBonus|7517abf76ba54f0c8e1f608631c46177} 중 높은 값만큼 증가하고, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +{uip|Bonus2|7517abf76ba54f0c8e1f608631c46177} 또는 +{uip|PotentialEnergyBonus|7517abf76ba54f0c8e1f608631c46177} 중 높은 값만큼 증가합니다.
 251	통점 분석기
-252	이 호흡기는 착용자에게 {g|Encyclopedia:SkillMedicae}의술{/g} +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.
+252	이 호흡기는 착용자의 {g|Encyclopedia:SkillMedicae}의술{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.
 253	메카니쿠스 호흡기
-254	{g|f:ef7fcc36126f4f28a79482830aec55ae}억압의 비명{/g} 능력을 사용해도 착용자는 결의를 잃지 않으며, 보유한 {g|Encyclopedia:CareerLeaderGlossary}오피서{/g} 능력을 계속 사용할 수 있다.
-255	착용자가 받는 {g|Encyclopedia:MentalDamage}정신 피해{/g}가 −50% 감소한다. 실패한 {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Test}판정{/g}을 한 번 다시 굴릴 수 있다.
-256	{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.
+254	착용자가 {g|f:ef7fcc36126f4f28a79482830aec55ae}억압의 비명{/g} 능력을 사용해도 결의를 잃지 않으며, 보유한 {g|Encyclopedia:CareerLeaderGlossary}오피서{/g} 능력을 계속 사용할 수 있습니다.
+255	착용자가 받는 {g|Encyclopedia:MentalDamage}정신 피해{/g}가 −50% 감소합니다. 실패한 {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Test}판정{/g}을 한 번 다시 굴릴 수 있습니다.
+256	{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.
 257	레인저의 바이저
 258	사이 억제기
-259	착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 −1 감소한다. 착용자의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 −2 감소한다.\n<i>! 이 아이템은 장착 해제할 수 없다.</i>
-260	이디라의 관자놀이에 영원히 박힌 해몬쿨루스 테르반티아스의 불길한 이식물이 마침내 끝없이 몰아치던 속삭임과 악몽에서 이디라를 해방해 줄 것이다. 하지만 그 대가로 무엇을 빼앗아 갈 것인가?
-261	착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +25 증가한다.\n착용자가 아군을 {g|Encyclopedia:Ability}능력{/g}의 대상으로 지정할 때마다, 해당 아군의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 {g|Encyclopedia:Round}라운드{/g}가 끝날 때까지 +10% 증가한다.
+259	착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 −1 감소합니다. 착용자의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 −2 감소합니다.\n<i>! 이 아이템은 해제할 수 없습니다.</i>
+260	이디라의 관자놀이에 영원히 박힌 해몬쿨루스 테르반티아스의 불길한 이식물은 마침내 끊임없는 속삭임과 악몽에서 이디라를 해방해 줄 것입니다. 하지만 그 대가로 무엇을 앗아 갈까요?
+261	착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +25 증가합니다.\n착용자가 아군을 {g|Encyclopedia:Ability}능력{/g}의 대상으로 지정할 때마다 해당 아군의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 {g|Encyclopedia:Round}라운드{/g} 종료 시까지 +10% 증가합니다.
 262	강철의 인도
-263	착용자가 10칸 이상 떨어진 대상에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 확률이 20% 증가한다.
+263	착용자가 10칸 이상 떨어진 대상을 공격할 때 {g|Encyclopedia:HitSequenceGlossary}명중{/g} 확률이 20% 증가합니다.
 264	조준 바이저
 265	이머티리움의 티아라
-266	착용자의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +10 증가하고, 받는 {g|Encyclopedia:WarpDamage}워프 피해{/g}가 −50% 감소한다.
-267	착용자의 {g|Encyclopedia:SkillAwareness}인지{/g}가 +25 증가하고, {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g} 공격의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +20% 증가한다.
+266	착용자의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +10 증가하고 받는 {g|Encyclopedia:WarpDamage}워프 피해{/g}가 −50% 감소합니다.
+267	착용자의 {g|Encyclopedia:SkillAwareness}인지{/g}가 +25 증가하고 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g}의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +20% 증가합니다.
 268	사냥꾼의 집중
-269	이 단안경은 착용자에게 {g|Encyclopedia:SkillCommerce}상업{/g} +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다.
+269	이 단안경은 착용자의 {g|Encyclopedia:SkillCommerce}상업{/g}에 +15 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다.
 270	차티스트의 단안경
-271	착용자가 직전 공격과 다른 유형의 공격을 사용할 때마다 자신의 {g|Encyclopedia:Resolve}결의{/g}만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻는다.\n해당하는 공격 유형은 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g}, {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 공격(단일 대상 또는 {g|Encyclopedia:BurstAttacksGlossary}연사{/g}), 근접 범위 공격, 원거리 범위 공격, 원거리 연사이다.
+271	착용자가 직전 공격과 다른 유형의 공격을 할 때마다 자신의 {g|Encyclopedia:Resolve}결의{/g}만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻습니다.\n해당하는 공격 유형은 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g}, {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 공격(단일 대상 또는 {g|Encyclopedia:BurstAttacksGlossary}연사{/g}), 근접 범위 공격, 원거리 범위 공격, 원거리 연사입니다.
 272	대모략가의 기만
 273	군주의 얼굴
-274	착용자가 적을 처치할 때마다 {g|Encyclopedia:Resolve}결의{/g}를 +1 추가로 얻는다.
-275	착용자가 중화기로 공격하면 {g|Encyclopedia:DamageGlossary}피해{/g}가 +30% 증가하지만 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 −50% 감소한다.\n착용자가 {g|f:e63c911438394fb69d58597549f65688}자신만만한 접근{/g} 효과를 받는 동안에는 이 효과가 적용되지 않는다.
-276	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 하면, 해당 공격의 영향을 받는 대상 하나당 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가한다.
+274	착용자가 적을 처치할 때마다 {g|Encyclopedia:Resolve}결의{/g}를 추가로 +1 얻습니다.
+275	착용자가 중화기로 공격하면 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +30% 증가하지만 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 −50% 감소합니다.\n착용자가 {g|f:e63c911438394fb69d58597549f65688}자신만만한 접근{/g} 효과를 받는 동안에는 이 효과가 비활성화됩니다.
+276	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 하면 영향을 받는 대상 하나당 기본 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가합니다.
 277	웃는 늑대 투구
-278	검의 폭풍 속 영광스러운 아르눌프,{br}\n굶주린 겨울의 늑대처럼 격노했다.{br}\n하얀 눈 위 진홍빛 묘드를 향한{br}\n그 갈증은 결코 가시지 않으니.{br}\n스콜!{br}
-279	착용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +10% 증가하고 모든 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}에 면역이 된다.
+278	검의 폭풍 속 영광스러운 아르눌프,{br}\n굶주린 겨울의 늑대처럼 격노하네.{br}\n흰 눈 위 진홍빛 묘드를 향한{br}\n그 갈증은 끝내 가시지 않으리.{br}\n스콜!{br}
+279	착용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +10% 증가하고 모든 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}에 면역이 됩니다.
 280	붉은 늑대 두개골
-281	울파르의 헬멧은 신비로운 펜리스 룬 문자와 나선 문양으로 뒤덮여 있다. 이 문양들은 스페이스 울프의 모성의 힘을 불러일으키며, 이 스페이스 마린이 처음 파워 아머를 입기 전까지 견뎌 낸 수많은 고난을 전한다.
-282	착용자의 단발 원거리 공격이 대상 최대 체력의 25% 이상에 해당하는 피해를 주면, 해당 공격은 대상에게 1라운드 동안 {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:StaggeredEffect}비틀거림{/g}, {g|Encyclopedia:SlowedEffect}감속{/g} 중 하나를 무작위로 부여한다.
+281	울파르의 헬멧은 신비로운 펜리스 룬 문자와 나선무늬로 덮여 있습니다. 이 무늬들은 스페이스 울프의 모성이 지닌 힘을 불러일으키며, 이 스페이스 마린이 처음 파워 아머를 입기 전까지 견뎌 낸 숱한 시련을 전합니다.
+282	착용자의 원거리 단발 사격이 대상 최대 체력의 25% 이상에 해당하는 피해를 주면, 대상에게 1라운드 동안 {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:StaggeredEffect}비틀거림{/g}, {g|Encyclopedia:SlowedEffect}감속{/g} 중 하나를 무작위로 부여합니다.
 283	저격수의 배짱
 284	분석가의 헬멧
-285	착용자가 단발 사격 또는 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}으로 {g|Encyclopedia:Exploit}약점{/g}이 있는 대상을 처치하면 가장 가까운 적에게 즉시 약점이 1중첩 부여된다.
+285	착용자가 {g|Encyclopedia:Exploit}약점{/g}이 있는 대상을 단발 사격이나 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}으로 처치하면 가장 가까운 적에게 즉시 약점 1중첩을 부여합니다.
 286	고대 테라의 단안경
-287	착용자의 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g} {g|Encyclopedia:Test}판정{/g}은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 대신 {g|Encyclopedia:WarhammerFellowship}친화력{/g}을 기준으로 하며, +3 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
-288	착용자에게 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}이 10중첩 이상 쌓여 있으면 결의가 +1 증가한다.
+287	착용자의 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g} {g|Encyclopedia:Test}판정{/g}은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 대신 {g|Encyclopedia:WarhammerFellowship}친화력{/g}을 기준으로 하며 +3 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
+288	착용자에게 {g|f:437c7a78578c4bbeab1e85ea4a76df7d}피의 축복{/g}이 10중첩 이상 있으면 결의가 +1 증가합니다.
 289	<u>(2 × {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
 290	<u>(2 × {g|Encyclopedia:SoulMarkHope}인습타파{/g} 등급)</u>
-291	필요 조건: {g|Encyclopedia:SoulmarkTypesGlossary}신념{/g} — {g|Encyclopedia:SoulMarkHope}인습타파{/g}\n이 헬멧 착용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|Armour|71687ec9ba584ffa95cd1e81a54bcd92}% 증가한다. 또한 친화력에 {uip|Fellowship|71687ec9ba584ffa95cd1e81a54bcd92}만큼 보너스를 부여한다.
+291	필요 조건: {g|Encyclopedia:SoulmarkTypesGlossary}신념{/g} — {g|Encyclopedia:SoulMarkHope}인습타파{/g}\n이 헬멧 착용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|Armour|71687ec9ba584ffa95cd1e81a54bcd92}% 증가합니다. 또한 친화력에 {uip|Fellowship|71687ec9ba584ffa95cd1e81a54bcd92}만큼 보너스를 부여합니다.
 292	결단의 투구
 293	진홍 왕관
-294	착용자가 부여한 {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g} 효과가 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다, 해당 적은 착용자의 공격에 한해 −5%의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} 불이익을 받고, 착용자는 해당 적을 상대로 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +5% 증가한다. 중첩된다.
+294	착용자가 부여한 {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g} 효과가 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다, 해당 적은 착용자의 공격에 대해서만 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 −5% 불이익을 받으며 착용자는 해당 적에 대한 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}을 +5% 얻습니다. 중첩됩니다.
 295	<u>(3 × {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
-296	착용자의 {g|f:9c78e44bf8ff44a9afff8370c673c9ad}지휘의 목소리{/g} {g|Encyclopedia:Ability}능력{/g} 효과를 받는 아군이 {g|Encyclopedia:ExtraTurn}추가 턴{/g} 중 공격할 때마다, 해당 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|738f084d21874705b18c1b844224d401}% 증가한다.
+296	착용자의 {g|f:9c78e44bf8ff44a9afff8370c673c9ad}지휘의 목소리{/g} {g|Encyclopedia:Ability}능력{/g} 효과를 받는 아군이 {g|Encyclopedia:ExtraTurn}추가 턴{/g}에 공격할 때마다 해당 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|738f084d21874705b18c1b844224d401}% 증가합니다.
 297	지휘관의 단안경
 298	커미사르 모자
-299	착용자의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +10 증가한다. 또한 착용자와 아군의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +{unit_stat|WarhammerFellowship|bonus}% 증가한다.
+299	착용자의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +10 증가합니다. 또한 착용자와 아군의 {g|Encyclopedia:HitSequenceGlossary}치명타 확률{/g}이 +{unit_stat|WarhammerFellowship|bonus}% 증가합니다.
 300	주변 통제 단안경
-301	공격이 아닌 {g|Encyclopedia:Ability}능력{/g}을 사용하면, 착용자와 인접한 적 하나당 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}에 +5% {g|Encyclopedia:Bonus}보너스{/g}를 얻는다. 이 효과는 중첩된다.
-302	이 두건은 착용자의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여하고 사이킥 및 내비게이터 능력의 {g|Encyclopedia:DamageGlossary}피해{/g}를 +15% 증가시키지만, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}에 −10 {g|Encyclopedia:Penalty}불이익{/g}을 부여한다.
+301	착용자가 공격이 아닌 {g|Encyclopedia:Ability}능력{/g}을 사용하면 1{g|Encyclopedia:Round}라운드{/g} 동안 인접한 적 하나당 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}에 +5% {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 이 효과는 중첩됩니다.
+302	이 두건은 착용자의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}에 +10 {g|Encyclopedia:Bonus}보너스{/g}를 부여하고 사이킥 및 내비게이터 능력의 {g|Encyclopedia:DamageGlossary}피해{/g}를 +15% 증가시키지만, {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}에 −10 {g|Encyclopedia:Penalty}불이익{/g}을 적용합니다.
 303	어둠의 예언자 두건
-304	착용자가 {g|Encyclopedia:Opening}빈틈{/g}에 가하는 단일 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +<u>(대상 최대 {g|Encyclopedia:HitPoints}체력{/g}의 20%)</u>% 증가한다.\n착용자가 {g|Encyclopedia:Opening}빈틈{/g}에 가하는 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}의 피해가 +<u>(대상 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 30%)</u>% 증가한다.
+304	착용자가 {g|Encyclopedia:Opening}빈틈{/g}에 가하는 단일 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +<u>(대상 최대 {g|Encyclopedia:HitPoints}체력{/g}의 20%)</u>% 증가합니다.\n착용자가 {g|Encyclopedia:Opening}빈틈{/g}에 가하는 {g|Encyclopedia:DeadeyeShot}정밀 사격{/g}의 피해가 +<u>(대상 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 30%)</u>% 증가합니다.
 305	생체 해부자의 바이저
-306	착용자가 폭파 기술 판정에 실패할 때마다 폭파 대신 민첩을 사용해 즉시 다시 굴릴 수 있다.
+306	착용자가 폭파 기술 판정에 실패할 때마다 폭파 대신 민첩을 사용해 즉시 다시 굴릴 수 있습니다.
 307	폭파병의 고글
-308	착용자가 공격을 방어하거나 {g|Encyclopedia:DodgeGlossary}회피{/g} 또는 {g|Encyclopedia:Parry}막기{/g}에 성공할 때마다 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 +10 증가한다.
+308	착용자가 공격을 방패로 막거나 {g|Encyclopedia:DodgeGlossary}회피{/g} 또는 {g|Encyclopedia:Parry}막기{/g}에 성공할 때마다 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 +10 증가합니다.
 309	전술의 천재
 310	<u>(2 × ({g|Encyclopedia:WarhammerStrength}근력{/g} 보너스 + {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스))</u>
-311	{g|f:13e41af1d54c458da81050336ce8e0fc}도발의 비명{/g}의 모든 대상은 이 {g|Encyclopedia:Ability}능력{/g}에 대한 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Test}판정{/g}에 −{uip|Penalty|1cfd47812aa548a0b56bc4bb638033fc} 불이익을 받는다.
+311	{g|f:13e41af1d54c458da81050336ce8e0fc}도발의 비명{/g}의 모든 대상은 이 {g|Encyclopedia:Ability}능력{/g}에 대한 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Test}판정{/g}에 −{uip|Penalty|1cfd47812aa548a0b56bc4bb638033fc} 불이익을 받습니다.
 312	인포서 헬멧
-313	착용자가 {g|f:95cdd5f42ef5480d9fadd9e0acee641b}기계령 교감{/g}을 사용하면, 영향을 받은 대상 하나당 전투가 끝날 때까지 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +5 증가한다.
+313	착용자가 {g|f:95cdd5f42ef5480d9fadd9e0acee641b}기계령 교감{/g}을 사용하면 영향을 받은 대상 하나당 전투 종료 시까지 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +5 증가합니다.
 314	강화 데이터 연결 마스크
-315	착용자가 추가 {g|Encyclopedia:Stratagem}책략{/g}을 얻는다. 대상 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 내의 모든 아군이 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 공격할 때마다 즉시 무기를 {g|Encyclopedia:Reload}재장전{/g}한다.
+315	착용자가 추가 {g|Encyclopedia:Stratagem}책략{/g}을 얻습니다. 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 지정한 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역의 모든 아군이 공격할 때마다 즉시 무기를 {g|Encyclopedia:Reload}재장전{/g}합니다.
 316	대전략가의 바이저
 317	신속 재장전 책략
-318	대상 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역 내의 모든 아군이 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 공격할 때마다 즉시 무기를 {g|Encyclopedia:Reload}재장전{/g}한다.
+318	착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 지정한 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역의 모든 아군이 공격할 때마다 즉시 무기를 {g|Encyclopedia:Reload}재장전{/g}합니다.
 319	정밀 조준 바이저
-320	{g|Encyclopedia:HitPoints}체력{/g}이 50% 미만으로 남은 적을 상대로 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +15% 증가한다.
-321	착용자가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중인 대상에게 원거리 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 공격은 항상 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 된다.
+320	남은 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만인 적을 대상으로 하는 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g}의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +15% 증가합니다.
+321	착용자가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중인 대상에게 원거리 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 반드시 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 발생합니다.
 322	희생자의 슬픔
-323	이 고글은 착용자에게 {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g} +5 {g|Encyclopedia:Bonus}보너스{/g}를 부여한다. 또한 제노스를 상대로 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +10% 증가한다.
+323	이 고글은 착용자의 {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g}에 +5 {g|Encyclopedia:Bonus}보너스{/g}를 부여합니다. 또한 제노스를 상대로 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +10% 증가합니다.
 324	심문 고글
-325	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 추종자\n이 헬멧의 착용자는 전투 시작 후 처음 3{g|Encyclopedia:Round}라운드{/g} 동안 적의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 면역이 된다.
+325	필요 조건: {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 추종자\n이 헬멧은 전투 시작 후 처음 3{g|Encyclopedia:Round}라운드{/g} 동안 착용자에게 적의 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 대한 면역을 부여합니다.
 326	헌신적인 수호자의 헬멧
-327	{g|Encyclopedia:SkillLoreWarp}지식(워프){/g}가 +{unit_stat|WarhammerWillpower|bonus} 증가한다.
+327	{g|Encyclopedia:SkillLoreWarp}지식(워프){/g}가 +{unit_stat|WarhammerWillpower|bonus} 증가합니다.
 328	워프 선견자의 고글
-329	날카로운 워프의 손길이 주는 숨 막히는 압박을 덜어 준다.
+329	날카롭게 파고드는 워프의 손길이 주는 답답함을 덜어 줍니다.
 330	<u>(2 × ({g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스))</u>
-331	착용자의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +10 증가한다.\n착용자의 {g|Encyclopedia:Ability}능력{/g}이 아군에게 영향을 줄 때마다, 해당 아군은 자신의 다음 {g|Encyclopedia:Turn}턴{/g} 동안 {g|Encyclopedia:DodgeReduction}회피 감소{/g}를 +{uip|DodgeRed|b8abf96d31c640eabf90b7b3c81b68c2}% 얻는다. 중첩되지 않는다.
+331	착용자의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}과 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +10 증가합니다.\n아군이 착용자의 {g|Encyclopedia:Ability}능력{/g}에 영향을 받을 때마다 해당 아군의 다음 {g|Encyclopedia:Turn}턴{/g} 동안 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 +{uip|DodgeRed|b8abf96d31c640eabf90b7b3c81b68c2}% 증가합니다. 중첩되지 않습니다.
 332	내비게이터 단안경
 333	<u>({g|Encyclopedia:SkillMedicae}의술{/g} / 10)</u>
-334	착용자가 지속 피해 효과를 부여하거나 적을 처치할 때마다 {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g} 효과를 +1중첩 얻는다.\n착용자의 {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g}이 6중첩이 되는 즉시, 지속 피해 효과를 받는 모든 적에게 직접 피해를 {uip|Damage|89ac7aeab03b4556b6c972889e6e4b3d} 주고 {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g} 중첩을 모두 제거한다.
+334	착용자가 지속 피해 효과를 부여하거나 적을 처치할 때마다 {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g} 효과를 +1중첩 얻습니다.\n{g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g}이 6중첩에 도달하는 즉시 지속 피해 효과를 받는 모든 적에게 {uip|Damage|89ac7aeab03b4556b6c972889e6e4b3d}의 직접 피해를 주고, {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g} 중첩을 모두 제거합니다.
 335	피할 수 없는 응보의 바이저
 336	필연
 337	<u>({g|Encyclopedia:SkillMedicae}의술{/g} / 10)</u>
-338	착용자가 지속 피해 효과를 부여할 때마다 {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g} 효과를 +1중첩 얻는다.\n착용자의 {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g}이 10중첩이 되는 즉시, 지속 피해 효과를 받는 모든 적에게 직접 피해를 {uip|Damage|691d6631ddd84d488c7a6703178adb4a} 주고 {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g} 중첩을 모두 제거한다.
+338	착용자가 지속 피해 효과를 부여할 때마다 {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g} 효과를 +1중첩 얻습니다.\n{g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g}이 10중첩에 도달하는 즉시 지속 피해 효과를 받는 모든 적에게 {uip|Damage|691d6631ddd84d488c7a6703178adb4a}의 직접 피해를 주고, {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}필연{/g} 중첩을 모두 제거합니다.
 339	필연의 바이저
-340	착용자가 반경 1칸 이내의 적을 사격으로 처치하면 전투가 끝날 때까지 {g|Encyclopedia:Resolve}결의{/g}가 +1 증가한다.
+340	착용자가 반경 1칸 이내의 적을 사격으로 처치하면 전투 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}를 +1 얻습니다.
 341	소음 억제 헬멧
-342	착용자가 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g}를 10중첩 소모할 때마다 전투가 끝날 때까지 {g|Encyclopedia:Resolve}결의{/g}가 +1 증가한다.
+342	착용자가 {g|f:b669fe2c03a240fca1b3b2429ca87414}전술적 우위{/g} 10중첩을 소모할 때마다 전투 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}를 +1 얻습니다.
 343	주변 시야 바이저
-344	이 안대는 착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}에 +20 {g|Encyclopedia:Bonus}보너스{/g}를 부여하고, {g|Encyclopedia:SkillAwareness}인지{/g}에 −5 {g|Encyclopedia:Penalty}불이익{/g}을 부여한다.
+344	이 안대는 착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}에 +20 {g|Encyclopedia:Bonus}보너스{/g}를 부여하고 {g|Encyclopedia:SkillAwareness}인지{/g}에 −5 {g|Encyclopedia:Penalty}불이익{/g}을 적용합니다.
 345	해적의 안대
-346	착용자의 단일 공격이 성공하면, 대상이 −5 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 경우 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Stun}기절{/g}을 부여한다.
+346	착용자의 단일 공격이 명중하면 대상은 −5 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 경우 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Stun}기절{/g}합니다.
 347	자동 보정 고글
-348	착용자의 단일 공격이 성공하면, 대상이 −5 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 경우 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Stun}기절{/g}을 부여한다.\n착용자가 기절한 적을 공격하면 가장 가까운 적도 기절한다.
+348	착용자의 단일 공격이 명중하면 대상은 −5 {g|Encyclopedia:Penalty}불이익{/g}을 받는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 경우 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:Stun}기절{/g}합니다.\n착용자가 기절한 적을 공격하면 가장 가까운 적도 기절합니다.
 349	자동 보정 헬멧
 350	<u>(2 × {g|Encyclopedia:RateOfFire}발사 수{/g})</u>
-351	착용자의 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|72d73cb39ee146799156f8efaa18c281}% 증가한다.
+351	착용자의 {g|Encyclopedia:RangeAreaAttacksGlossary}원거리 공격{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|72d73cb39ee146799156f8efaa18c281}% 증가합니다.
 352	총잡이의 헬멧
-353	착용자의 {g|f:36cb9c507ede4953b22cefac9263aa4d}대열을 무너뜨려라!{/g} {g|Encyclopedia:Ability}능력{/g} 효과를 받는 아군은 자신과 인접한 적 하나당 {g|Encyclopedia:Deflection}피해 감소{/g}에 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+353	착용자의 {g|f:36cb9c507ede4953b22cefac9263aa4d}대열을 무너뜨려라!{/g} {g|Encyclopedia:Ability}능력{/g} 효과를 받는 아군은 자신에게 인접한 적 하나당 {g|Encyclopedia:Deflection}피해 감소{/g}에 +1 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 354	지휘관의 바이저
-355	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 헌신자\n착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 처음으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시키면 대상에게 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발생한다. 착용자 자신은 이 효과를 받지 않는다.
+355	필요 조건: {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 헌신자\n착용자가 자신의 {g|Encyclopedia:Turn}턴{/g}에 처음으로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 명중시키면 대상에게 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발생합니다. 착용자 자신은 이 효과를 받지 않습니다.
 356	속삭임의 가면
 357	<u>(3 × {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
-358	착용자의 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 + 10 증가한다.\n전투당 1회, 착용자의 {g|Encyclopedia:HitPoints}체력{/g}이 35% 미만으로 떨어지면 체력을 +{uip|Wounds|85550dbb1dcf417ead0cf866b3ed7b8d} 얻는다.
-359	데몬을 상대로 착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가하며, {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급마다 +1 증가한다.\n<i>! 인가 사이커만 장착할 수 있다.</i>
+358	착용자의 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +10 증가합니다.\n전투당 1회, 착용자의 {g|Encyclopedia:HitPoints}체력{/g}이 35% 미만으로 떨어지면 체력을 +{uip|Wounds|85550dbb1dcf417ead0cf866b3ed7b8d} 얻습니다.
+359	데몬을 상대할 때와 {g|Encyclopedia:SoulMarkFaith}교조적{/g} 등급마다 착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가합니다.\n<i>! 인가 사이커만 착용할 수 있습니다.</i>
 360	정신 집결 머리띠
-361	착용자가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 다음 중 하나가 발생한다:\n-<indent=5%>50% 확률로 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 줄어들고 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 −2 감소한다.</indent>\n-<indent=5%>25% 확률로 사이킥 능력을 평소대로 사용한다.</indent>\n-<indent=5%>25% 확률로 베일 손상이 +3 증가하고 공격의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 초기화된다.</indent>\n베일 손상이 15 이상으로 증가하면 하위 사이킥 능력을 사용해도 이 효과로 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발생한다.
-362	착용자가 {g|f:e627e3fb653840dab9661093828432c5}마무리{/g} 능력으로 적을 처치하면, 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DamageGlossary}피해{/g}에 +20% {g|Encyclopedia:Bonus}보너스{/g}를 얻고 {g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}일제 화력 공세{/g}와 {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}최후의 일제 사격{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}을 제거한다.
+361	착용자가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 다음 중 하나가 발동할 수 있습니다.\n-<indent=5%>50% 확률로 {g|Encyclopedia:ActionPoints}행동력{/g} 비용이 감소하고 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 −2 감소합니다.</indent>\n-<indent=5%>25% 확률로 사이킥 능력을 평소대로 사용합니다.</indent>\n-<indent=5%>25% 확률로 베일 손상이 +3 증가하고 공격의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 초기화됩니다.</indent>\n베일 손상이 15 이상으로 증가하면 하급 사이킥 능력을 사용하더라도 이 효과가 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 유발합니다.
+362	착용자가 {g|f:e627e3fb653840dab9661093828432c5}마무리{/g} 능력으로 적을 처치하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:DamageGlossary}피해{/g}에 +20% {g|Encyclopedia:Bonus}보너스{/g}를 얻고, {g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}일제 화력 공세{/g}와 {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}최후의 일제 사격{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 제거됩니다.
 363	잠들지 않는 눈
 364	전술 고글
 365	{g|Encyclopedia:HitSequenceGlossary}명중률{/g} +5%\n{g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g} +3%
-366	착용자를 향한 모든 공격과 착용자 주변 반경 2칸 이내의 모든 적에게 {g|Encyclopedia:WarhammerPerception}지각{/g} −10 {g|Encyclopedia:Penalty}불이익{/g}을 부여한다.
+366	착용자를 대상으로 하는 모든 공격과 착용자 주변 반경 2칸 이내의 모든 적에게 {g|Encyclopedia:WarhammerPerception}지각{/g} −10 {g|Encyclopedia:Penalty}불이익{/g}을 적용합니다.
 367	도발자의 헬멧
-368	착용자는 {unit_stat|Resolve}% 확률로 받는 모든 피해를 0으로 감소시킨다.
+368	착용자는 {unit_stat|Resolve}% 확률로 받는 모든 피해를 0으로 줄입니다.
 369	영점 렌즈
-370	착용자의 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내 사격이 {g|Encyclopedia:DodgeReduction}회피 감소{/g}에 +20 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+370	착용자가 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g}에서 사격하면 {g|Encyclopedia:DodgeReduction}회피 감소{/g}에 +20 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 371	쾌걸의 고글
 372	<u>(10 + {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-373	착용자가 체력이 50% 미만인 대상에게 주는 피해가 +{uip|Dmae|18b7dddd2ccf46f3ab13739d0c32fa4d} 증가한다.
-374	사이킥 현상 또는 페릴 오브 더 워프가 발생하면, 착용자의 다음 턴 동안 사이 등급이 +1 증가한다.
+373	착용자가 체력이 50% 미만인 대상에게 주는 피해가 +{uip|Dmae|18b7dddd2ccf46f3ab13739d0c32fa4d} 증가합니다.
+374	사이킥 현상이나 페릴 오브 더 워프가 발생하면 착용자의 다음 턴 동안 사이 등급이 +1 증가합니다.
 375	엠피리언의 조련사
 376	<u>(5 × {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
-377	착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가한다.\n착용자의 {g|Encyclopedia:HitPoints}체력{/g}이 100%인 동안 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 사이커 지팡이로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|8a2f48a26a1444debe80707fbb14c034}% 증가한다.
-378	착용자가 적을 처치하거나 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 성공하면 전투가 끝날 때까지 {g|Encyclopedia:Lethality}치사율{/g}이 +5 증가한다.
+377	착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가합니다.\n착용자의 {g|Encyclopedia:HitPoints}체력{/g}이 100%인 동안 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 사이커 지팡이로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Damage|8a2f48a26a1444debe80707fbb14c034}% 증가합니다.
+378	착용자가 적을 처치하거나 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}에 성공하면 전투 종료 시까지 {g|Encyclopedia:Lethality}치사율{/g}을 +5 얻습니다.
 379	약점 탐지기
-380	착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +15 증가한다. 착용자가 아르비테이터라면 대신 위협이 +20 증가한다.
+380	착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +15 증가합니다. 착용자가 아르비테이터라면 대신 위협이 +20 증가합니다.
 381	아뎁투스 아르비테스 헬멧
-382	착용자가 방패로 적을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 반경 3칸 이내의 모든 아군이 전투가 끝날 때까지 {g|Encyclopedia:Resolve}결의{/g}를 +5 얻는다. 중첩되지 않는다.
+382	착용자가 방패로 적에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 반경 3칸 이내의 모든 아군이 전투 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}를 +5 얻습니다. 중첩되지 않습니다.
 383	코로누스 공역 집행관장의 헬멧
-384	착용자의 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g} 공격 대상은 해당 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +50% 증가한다. 하지만 이 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하여 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 발생하면, 치명타 피해가 +30% 증가하고 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}이 +100% 증가한다.
+384	착용자의 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g} 대상은 해당 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +50% 증가합니다. 하지만 이 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하여 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 발생하면 치명타 피해가 +30% 증가하고 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}이 +100% 증가합니다.
 385	생체 측정 고글
 386	메라곤 헬멧
-387	착용자가 징벌자 전문화를 가진 아르비테이터라면 징벌자 {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 0이 된다.
-388	착용자가 방패로 대상을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다, 대상은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하지 못하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+387	착용자가 징벌자 전문화를 선택한 아르비테이터라면 징벌자 {g|Encyclopedia:Ability}능력{/g}의 비용이 0 {g|Encyclopedia:ActionPoints}행동력{/g}이 됩니다.
+388	착용자가 방패로 대상에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 대상은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 389	망막 분석기
-390	착용자가 징벌자 전문화를 가진 아르비테이터라면 징벌자 {g|Encyclopedia:Ability}능력{/g}의 사거리가 +1칸 증가한다.
+390	착용자가 징벌자 전문화를 선택한 아르비테이터라면 징벌자 {g|Encyclopedia:Ability}능력{/g}의 사거리가 +1칸 증가합니다.
 391	전술 복스 송신기
-392	착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1, {g|Encyclopedia:SkillPersuasion}설득{/g}이 +15 증가한다.\n{g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발생하여 데몬이 소환되면, 해당 데몬은 자신과 가장 가까운 데몬이 아닌 대상을 공격한다.
+392	착용자의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1, {g|Encyclopedia:SkillPersuasion}설득{/g}이 +15 증가합니다.\n{g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발생해 데몬이 소환되면 해당 데몬은 자신과 가장 가까운 데몬이 아닌 대상을 공격합니다.
 393	<u>({g|Encyclopedia:SkillCoercion}위협{/g} / 10)</u>
-394	착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +10 증가한다.\n공격자가 {g|Encyclopedia:MeleeSuperiority}근접 우세{/g}를 보유하지 않으면 착용자가 받는 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|Coercion|5a3e97bd4fc7462699fa4d79f7080879}% 감소한다.
-395	네크론 무기를 상대로 착용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +30%, {g|Encyclopedia:Deflection}피해 감소{/g}가 +3 증가한다.
-396	착용자가 라운드마다 처음으로 멜타 무기를 재장전할 때 드는 행동력이 0이 된다. 착용자의 전투 중 첫 멜타 무기 공격은 턴당 공격 횟수 제한에 포함되지 않는다.
+394	착용자의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +10 증가합니다.\n공격자에게 {g|Encyclopedia:MeleeSuperiority}근접 우세{/g}가 없으면 착용자가 받는 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|Coercion|5a3e97bd4fc7462699fa4d79f7080879}% 감소합니다.
+395	네크론 무기를 상대로 착용자의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +30%, {g|Encyclopedia:Deflection}피해 감소{/g}가 +3 증가합니다.
+396	착용자가 매 라운드 처음 멜타 무기를 재장전할 때는 0 행동력을 소모합니다. 착용자의 전투 중 첫 멜타 무기 공격은 턴당 공격 횟수 제한에 포함되지 않습니다.
 397	불타는 신앙의 휘장
-398	착용자는 방패로 {g|f:b7113e32083d4344ad172d296119d40c}방패 휘두르기{/g}를 사용해 범위 내의 여러 적을 공격할 수 있다. 착용자의 방패 공격 피해가 +{unit_stat|WarhammerToughness|bonus} 증가한다.
+398	착용자가 방패로 범위 내 여러 적을 상대로 {g|f:b7113e32083d4344ad172d296119d40c}방패 휘두르기{/g}를 사용할 수 있습니다. 착용자의 방패 공격 피해가 +{unit_stat|WarhammerToughness|bonus} 증가합니다.
 399	튼튼한 방패 손잡이
-400	착용자가 {g|Encyclopedia:Round}라운드{/g}마다 처음으로 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}을 당하면 해당 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}를 모두 막는다.\n그 후 착용자 주변 반경 2칸 이내의 모든 캐릭터에게 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:BlindedEffect}실명{/g} {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 부여한다.
+400	착용자가 매 {g|Encyclopedia:Round}라운드{/g} 처음으로 치명타 {g|Encyclopedia:HitSequenceGlossary}명중{/g}을 당하면 해당 공격의 모든 {g|Encyclopedia:DamageGlossary}피해{/g}를 무효화합니다.\n이후 착용자 주변 반경 2칸 이내의 모든 캐릭터에게 착용자의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:BlindedEffect}실명{/g} {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}를 부여합니다.
 401	전환장
 402	<u>{g|Encyclopedia:VeilThickness}베일 손상{/g}</u>
-403	착용자가 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 줄 때마다 {g|Encyclopedia:DamageGlossary}피해를 입은{/g} 캐릭터에게 {g|Encyclopedia:BurningEffect}화상{/g} (3)도 부여한다. 착용자가 부여하는 화상 효과의 수준이 +{uip|Damage|d37c749a078b4629aea1a924c594c19d} 증가한다.
+403	착용자가 {g|Encyclopedia:WarpDamage}워프 피해{/g}를 줄 때마다 {g|Encyclopedia:DamageGlossary}피해를 입은{/g} 캐릭터에게 {g|Encyclopedia:BurningEffect}화상{/g} (3)도 부여합니다. 착용자가 부여하는 화상 효과의 단계가 +{uip|Damage|d37c749a078b4629aea1a924c594c19d} 증가합니다.
 404	데몬의 도구
-405	착용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +3 증가한다.
+405	착용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +3 증가합니다.
 406	테서랙트 미궁
-407	착용자는 {g|Encyclopedia:WarpDamage}워프 피해{/g}에 면역이 되며, 사이킥 및 내비게이터 능력을 사용할 수 없고 해당 능력의 효과에도 면역이 된다.
-408	{g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +10 증가한다.\n착용자가 {g|Encyclopedia:SoulmarkTypesGlossary}신념{/g} — {g|Encyclopedia:SoulMarkFaith}교조적{/g}을 보유하면 {g|Encyclopedia:WarhammerFellowship}친화력{/g}도 +5 증가한다.
+407	착용자는 {g|Encyclopedia:WarpDamage}워프 피해{/g}에 면역이 되며, 사이킥 및 내비게이터 능력을 사용할 수 없고 해당 능력의 효과에 면역이 됩니다.
+408	{g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +10 증가합니다.\n착용자에게 {g|Encyclopedia:SoulmarkTypesGlossary}신념{/g} — {g|Encyclopedia:SoulMarkFaith}교조적{/g}이 있으면 {g|Encyclopedia:WarhammerFellowship}친화력{/g}도 +5 증가합니다.
 409	아퀼라 펜던트
-410	필요 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 헌신자\n매 {g|Encyclopedia:Turn}턴{/g} 시작 시({g|Encyclopedia:ExtraTurn}추가 턴{/g} 제외), {g|Encyclopedia:HitPoints}체력{/g}이 50% 이하인 아군 하나당(자신 포함) 착용자가 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 +{unit_stat|Resolve} 얻는다.
+410	필요 조건: {g|Encyclopedia:SoulMarkHope}인습타파{/g} — 헌신자\n매 {g|Encyclopedia:Turn}턴{/g} 시작 시({g|Encyclopedia:ExtraTurn}추가 턴{/g} 제외) 착용자는 {g|Encyclopedia:HitPoints}체력{/g}이 50% 이하인 아군 하나당 자신을 포함하여 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 +{unit_stat|Resolve} 얻습니다.
 411	희망의 펜던트
-412	착용자와 반경 2칸 이내의 아군은 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻을 때마다 같은 양의 임시 {g|Encyclopedia:HitPoints}체력{/g}도 얻는다.
+412	착용자와 반경 2칸 이내의 아군이 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻을 때마다 같은 양의 임시 {g|Encyclopedia:HitPoints}체력{/g}도 얻습니다.
 413	활력을 주는 결의
-414	착용자가 {g|Encyclopedia:ActionPoints}행동력{/g}을 0 소모하는 {g|f:d8008dcfa0004bcca41b26b802d839b2}이동, 이동, 이동!{/g} {g|Encyclopedia:Ability}능력{/g}을 얻는다.\n착용자와 {g|f:d8008dcfa0004bcca41b26b802d839b2}이동, 이동, 이동!{/g}의 대상은 {g|Encyclopedia:Round}라운드{/g}가 끝날 때까지 {g|Encyclopedia:SlowedEffect}감속{/g} 효과에 면역이 된다.
+414	착용자가 0 {g|Encyclopedia:ActionPoints}행동력{/g}으로 사용할 수 있는 {g|f:d8008dcfa0004bcca41b26b802d839b2}이동, 이동, 이동!{/g} {g|Encyclopedia:Ability}능력{/g}을 얻습니다.\n착용자와 {g|f:d8008dcfa0004bcca41b26b802d839b2}이동, 이동, 이동!{/g}의 대상은 {g|Encyclopedia:Round}라운드{/g} 종료 시까지 {g|Encyclopedia:SlowedEffect}감속{/g} 효과에 면역이 됩니다.
 415	명령의 월계관
-416	착용자의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +5, {g|Encyclopedia:SkillCommerce}상업{/g}이 +10 증가한다.\n착용자가 {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 신봉자 이상이면 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g}이 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 대신 친화력을 기준으로 하며, 지식(제국)이 +10 증가한다.
+416	착용자의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +5, {g|Encyclopedia:SkillCommerce}상업{/g}이 +10 증가합니다.\n착용자에게 {g|Encyclopedia:SoulMarkFaith}교조적{/g} — 신봉자 이상이 있으면 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g}이 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 대신 친화력을 기준으로 하며, 지식(제국)이 +10 증가합니다.
 417	차티스트의 펜던트
 418	<u>{g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>
 419	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Bonus}보너스{/g} / 2)</u>
-420	캐릭터가 전투 시작 시 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|INTB|e206928f22c24394b953c143e02f5933} 얻고, 이후 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 이동력을 +{uip|INTB/2|e206928f22c24394b953c143e02f5933} 얻는다.
+420	캐릭터가 전투 시작 시 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|INTB|e206928f22c24394b953c143e02f5933} 얻고, 이후 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 이동력을 +{uip|INTB/2|e206928f22c24394b953c143e02f5933} 얻습니다.
 421	궤적 최적화 장치
-422	<u>(5 × {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}잠재 에너지{/g} 중첩 수)</u>.
-423	{g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{unit_stat|WarhammerIntelligence|bonus}% 증가한다. 치명타 피해가 +{uip|Damage|450a41340e0843f29e6706e2224b0d49}% 증가한다.
+422	<u>(5 × {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}위치 에너지{/g} 중첩 수)</u>.
+423	{g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{unit_stat|WarhammerIntelligence|bonus}% 증가합니다. 치명타 피해가 +{uip|Damage|450a41340e0843f29e6706e2224b0d49}% 증가합니다.
 424	동력 저장 장치
-425	착용자의 지능이 +15 증가한다. 자신의 턴 시작 시 직접 피해를 1 받는다.
-426	착용자의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}이 +20, {g|Encyclopedia:SkillLogic}논리{/g}가 +20 증가한다. 또한 실패한 기술 활용 또는 논리 {g|Encyclopedia:Test}판정{/g}을 판정당 1회 다시 굴릴 수 있다.
+425	착용자의 지능이 +15 증가합니다. 자신의 턴 시작 시 직접 피해를 1 받습니다.
+426	착용자의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}과 {g|Encyclopedia:SkillLogic}논리{/g}가 +20 증가합니다. 또한 실패한 기술 활용 또는 논리 {g|Encyclopedia:Test}판정{/g}을 판정당 한 번 다시 굴릴 수 있습니다.
 427	옴니시아의 성표
-428	착용자의 {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g}가 +15, {g|Encyclopedia:SkillLoreWarp}지식(워프){/g}가 + 15 증가한다.
+428	착용자의 {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g}와 {g|Encyclopedia:SkillLoreWarp}지식(워프){/g}가 +15 증가합니다.
 429	현자의 목걸이
 430	무지한 자의 은총
-431	착용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 35 미만이면 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +5 증가한다.
+431	착용자의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 35 미만이면 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +5 증가합니다.
 432	<u>(착용자의 {g|Encyclopedia:Resolve}결의{/g} / 2 + 1)</u>
 433	<u>착용자의 {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스</u>
-434	착용자가 {g|f:f6d693dbff0d44eb9590684241e63ef3}베기{/g}, {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}질주{/g}, {g|f:e7836ee2419b46d68da401547aaf630c}발차기{/g}를 사용할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|MP|8ac852460a084506b37b2c1d9e0b569d}, {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 +{uip|Momentum|8ac852460a084506b37b2c1d9e0b569d} 얻는다.
+434	착용자가 {g|f:f6d693dbff0d44eb9590684241e63ef3}베기{/g}, {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}질주{/g}, {g|f:e7836ee2419b46d68da401547aaf630c}발차기{/g}를 사용할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 +{uip|MP|8ac852460a084506b37b2c1d9e0b569d}, {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 +{uip|Momentum|8ac852460a084506b37b2c1d9e0b569d} 얻습니다.
 435	절단의 상징
-436	착용자의 {g|Encyclopedia:SkillMedicae}의술{/g}이 +20, {g|Encyclopedia:SkillCarouse}주량{/g}이 +20 증가한다.\n착용자가 {g|Encyclopedia:Round}라운드{/g}마다 처음으로 구급상자 또는 자극제를 사용할 때 드는 {g|Encyclopedia:ActionPoints}행동력{/g}이 0이 된다.
+436	착용자의 {g|Encyclopedia:SkillMedicae}의술{/g}과 {g|Encyclopedia:SkillCarouse}주량{/g}이 +20 증가합니다.\n착용자가 매 {g|Encyclopedia:Round}라운드{/g} 처음 구급상자나 자극제를 사용할 때는 0 {g|Encyclopedia:ActionPoints}행동력{/g}을 소모합니다.
 437	불사조의 보석
-438	착용자가 아군이나 자신을 {g|Encyclopedia:Ability}능력{/g}의 대상으로 지정할 때마다 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +5 증가한다. 이 효과는 전투가 끝날 때까지 지속되며 중첩된다.
+438	착용자가 아군이나 자신을 {g|Encyclopedia:Ability}능력{/g}의 대상으로 지정할 때마다 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +5 증가합니다. 이 효과는 전투 종료 시까지 지속되며 중첩됩니다.
 439	소용돌이 펜던트
-440	착용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −15 감소한다.\n착용자는 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g} 175 대신 125에서 사용할 수 있으며, {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}을 기존보다 +50 높은 원동력에서 사용할 수 있다(최대 원동력 100).\n착용자가 아직 {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자를 보유하지 않았다면 이를 보유한 것으로 간주한다.
+440	착용자의 {g|Encyclopedia:WarhammerStrength}근력{/g}, {g|Encyclopedia:WarhammerToughness}강인함{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −15 감소합니다.\n착용자는 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g} 175 대신 125에서 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 사용할 수 있고, {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}은 원동력이 기존보다 +50 높은 상태에서도 사용할 수 있습니다(최대 원동력 100).\n착용자에게 아직 {g|Encyclopedia:SoulMarkCorruption}이단적{/g} — 신봉자가 없다면 이를 보유한 것으로 간주합니다.
 441	쇠락의 파편
-442	{g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +10 증가한다.\n<i>! 아수랴니와 드루카리 전용.</i>
+442	{g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +10 증가합니다.\n<i>! 아수랴니와 드루카리만 사용할 수 있습니다.</i>
 443	레이스본 목걸이

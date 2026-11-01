@@ -1,370 +1,370 @@
-1	사이커가 즉시 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 되고, 그 자리에 무작위 하급 데몬이 나타난다.
+1	사이커가 즉시 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 되고, 그 자리에 무작위 하급 데몬 하나가 나타납니다.
 2	데몬의 주목
-3	사이커와 반경 4칸 이내의 모든 대상이 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+3	사이커와 반경 4칸 이내의 모든 대상이 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 입습니다. {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 4	대지의 항거
-5	대상 주위 반경 4칸 이내와 사이커 주위 반경 4칸 이내의 모든 대상이 <u>(11 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>만큼 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입는다.
+5	대상 주변 반경 4칸과 사이커 주변 반경 4칸 이내의 모든 대상이 <u>(11 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입습니다.
 6	현실의 격동
-7	사이커가 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고 뒤로 <u>사이 등급</u>칸만큼 {g|Encyclopedia:PushGlossary}밀려난다{/g}.
+7	사이커가 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고 <u>사이 등급</u>칸만큼 뒤로 {g|Encyclopedia:PushGlossary}밀려납니다{/g}.
 8	반동
-9	사이커가 즉시 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 되고, 그 자리에 하나 이상의 데몬이 나타난다.
+9	사이커가 즉시 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 되고, 그 자리에 데몬이 하나 이상 나타납니다.
 10	데몬의 침입
-11	번개가 사이커와 주위의 대상(아군과 적 모두 포함) {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}명을 강타하여 <u>(2 × 사이 등급)</u>만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
-12	길들지 않은 힘
-13	대상 주위 반경 4칸 이내의 모든 대상이 뒤로 <u>(1 + {g|Encyclopedia:PsyRating}사이 등급{/g} / 2)</u>칸만큼 {g|Encyclopedia:PushGlossary}밀려난다{/g}.
+11	사이커와 주변의 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼의 대상에게 아군과 적을 가리지 않고 번개가 내리쳐 <u>(2 × 사이 등급)</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
+12	길들지 않은 역장
+13	대상 주변 반경 4칸 이내의 모든 대상이 <u>(1 + {g|Encyclopedia:PsyRating}사이 등급{/g} / 2)</u>칸만큼 뒤로 {g|Encyclopedia:PushGlossary}밀려납니다{/g}.
 14	워프 폭발
-15	대상과 반경 4칸 이내의 모든 대상이 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+15	대상과 반경 4칸 이내의 모든 대상이 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 입습니다. {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 16	워프 진동
-17	사이커 주위 반경 4칸 이내의 모든 대상이 뒤로 <u>(1 + {g|Encyclopedia:PsyRating}사이 등급{/g} / 2)</u>칸만큼 {g|Encyclopedia:PushGlossary}밀려난다{/g}.
+17	사이커 주변 반경 4칸 이내의 모든 대상이 <u>(1 + {g|Encyclopedia:PsyRating}사이 등급{/g} / 2)</u>칸만큼 뒤로 {g|Encyclopedia:PushGlossary}밀려납니다{/g}.
 18	채찍질
-19	이 캐릭터는 사이커지만, 힘이 상당히 미약하다.
+19	이 캐릭터는 사이커지만, 능력은 상당히 미약합니다.
 20	사이커
-21	{g|Encyclopedia:PsyRating}사이 등급{/g}이 오를 때마다 사이커가 새로운 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 수 있게 된다. 또한 피해를 주는 {g|Encyclopedia:PsychicPowers}사이킥 능력{/g}이 강화된다.
+21	{g|Encyclopedia:PsyRating}사이 등급{/g}이 오를 때마다 새로운 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 수 있습니다. 또한 피해를 주는 {g|Encyclopedia:PsychicPowers}사이킥 능력{/g}이 강화됩니다.
 22	사이커 미노리스
 23	사이커 마요리스
 24	사이커 테르미누스
 25	사이커 엑스트레미스
-26	공인 사이커는 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}을 일으킬 확률이 감소한다(−20%).
-27	염동력 계통 (기본 능력 — 강타)
-28	대상에게 <u>({uip|MinDamage|fa305ba4e2aa48f394608d1ccfc6d385}~{uip|MaxDamage|fa305ba4e2aa48f394608d1ccfc6d385})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
-29	텔레파시 계통 (기본 능력 — 사이킥 비명)
-30	이 캐릭터는 위험하고 통제되지 않는 비공인 사이커다.\n이 캐릭터가 사용하는 모든 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 5% 확률로 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으키며, 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 높은 것으로 처리된다.
-31	비공인 사이커
+26	인가 사이커는 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}을 일으킬 확률이 감소합니다(−20%).
+27	염동력 군율 (기본 역장 — 맹습)
+28	대상에게 <u>({uip|MinDamage|fa305ba4e2aa48f394608d1ccfc6d385}~{uip|MaxDamage|fa305ba4e2aa48f394608d1ccfc6d385})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
+29	정신감응 군율 (기본 능력 — 사이킥 비명)
+30	이 캐릭터는 위험하고 통제되지 않는 비인가 사이커입니다.\n이 캐릭터가 사용하는 모든 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 5% 확률로 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으키며, 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 높은 것으로 적용됩니다.
+31	비인가 사이커
 32	<u>(1 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 33	<u>(5 + 5 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-34	포스 무기 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|0618c379e430483bab1a17b2de559bc5} 증가하고, {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +{uip|ArmourPenetrationBonus|0618c379e430483bab1a17b2de559bc5}% 증가한다.
+34	포스 무기 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|0618c379e430483bab1a17b2de559bc5}, {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +{uip|ArmourPenetrationBonus|0618c379e430483bab1a17b2de559bc5}% 증가합니다.
 35	빛의 칼날
-36	[초안]아군을 대상으로 하는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 일정 확률로 {g|Encyclopedia:VeilThickness}베일{/g}에 {g|Encyclopedia:DamageGlossary}피해{/g}를 주지 않는다. 이 확률은 사이커와 사이킥 능력의 대상이 된 모든 아군 중 가장 높은 친화력을 기준으로 <u>5×({g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>%로 정해진다.
+36	[초안]아군을 대상으로 하는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이 일정 확률로 {g|Encyclopedia:VeilThickness}베일{/g}에 {g|Encyclopedia:DamageGlossary}피해{/g}를 주지 않습니다. 확률은 <u>5×({g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>%이며, 사이커와 해당 사이킥 능력의 대상인 모든 아군 중 가장 높은 친화력을 기준으로 합니다.
 37	[초안]영혼의 결속
-38	사이커가 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 사용하면 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 −{unit_stat|WarhammerIntelligence|bonus} 감소한다.
+38	사이커가 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 사용하면 {g|Encyclopedia:VeilThickness}베일 손상{/g}이 −{unit_stat|WarhammerIntelligence|bonus} 감소합니다.
 39	현실 강화
-40	[초안]사이커가 해당 {g|Encyclopedia:Turn}턴{/g}에 사용하는 두 번째 공격이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이면, 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +2 높은 것으로 처리된다.
+40	[초안]사이커가 해당 {g|Encyclopedia:Turn}턴{/g}에 사용하는 두 번째 공격이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이면, {g|Encyclopedia:PsyRating}사이 등급{/g}이 +2 높은 것으로 적용됩니다.
 41	[초안]끈질긴 돌격
-42	사이커가 6칸 이상 떨어진 대상에게 피해를 주는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다, 대상은 +{unit_stat|WarhammerBallisticSkill|bonus}의 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 입는다.
+42	사이커가 6칸 이상 떨어진 대상에게 피해를 주는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면, 대상이 +{unit_stat|WarhammerBallisticSkill|bonus}의 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 입습니다.
 43	사이킥 집중 포화
-44	사이커의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g} 중 사거리가 2칸 이상인 능력의 사거리가 +{unit_stat|WarhammerPerception|bonus} 증가한다.
+44	사거리가 2칸 이상인 사이커의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 사거리가 +{unit_stat|WarhammerPerception|bonus} 증가합니다.
 45	제2의 시야
-46	매 {g|Encyclopedia:Turn}턴{/g} 처음 사용하는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 {g|Encyclopedia:VeilThickness}베일 손상{/g} 증가량이 2 감소한다. 이 {g|Encyclopedia:Talent}재능{/g}으로 베일 손상 증가량이 0 미만이 되면, 대신 베일 손상이 1 감소한다.
+46	매 {g|Encyclopedia:Turn}턴{/g} 처음 사용하는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 {g|Encyclopedia:VeilThickness}베일 손상{/g} 증가량이 2 감소합니다. 이 {g|Encyclopedia:Talent}재능{/g}으로 베일 손상 증가량이 0 미만이 되면, 대신 베일 손상이 1 감소합니다.
 47	안정화 요인
-48	사이커가 적의 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g}에서 위협받는 중에도 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않고 피해를 주는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 수 있다. 피해를 주지 않는 {g|Encyclopedia:PsychicPowers}사이킥 능력{/g}은 이 {g|Encyclopedia:Talent}재능{/g}이 없어도 기회 공격을 유발하지 않는다.
+48	사이커는 적의 {g|Encyclopedia:MeleeAttacksGlossary}근접 사거리{/g} 내에서 위협받는 중에도 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않고 피해를 주는 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 수 있습니다. 피해를 주지 않는 {g|Encyclopedia:PsychicPowers}사이킥 능력{/g}은 이 {g|Encyclopedia:Talent}재능{/g}이 없어도 기회 공격을 유발하지 않습니다.
 49	은밀한 조작
-50	[초안]사이커의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 영향을 받는 적은 사이커의 교리 {g|Encyclopedia:Ability}능력{/g}이나 사이킥 능력에 영향을 받는 아군에게서 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다. 해당 아군이 사이커의 사이킥 능력과 {g|Encyclopedia:Career}교리{/g} 능력 양쪽의 영향을 모두 받으면 이 {g|Encyclopedia:Bonus}보너스{/g}가 +20%로 증가한다.
+50	[초안]사이커의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 영향을 받는 적은 해당 사이커의 교리 {g|Encyclopedia:Ability}능력{/g}이나 사이킥 능력에 영향을 받는 아군에게 +10%의 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 입습니다. 아군이 사이커의 사이킥 능력과 {g|Encyclopedia:Career}교리{/g} 능력에 모두 영향을 받고 있다면 이 {g|Encyclopedia:Bonus}보너스{/g}는 +20%로 증가합니다.
 51	[초안]하나 된 뜻
-52	사이커가 대상의 {g|Encyclopedia:LineOfSight}시야{/g} 밖에 있거나 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중이면, 대상의 모든 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 −{uip|ResistancePenalty|f92bf6d353374502953387488d2ba3e2}의 {g|Encyclopedia:Penalty}불이익{/g}이 적용된다.
+52	사이커가 대상의 {g|Encyclopedia:LineOfSight}시야{/g} 밖에 있거나 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중이면, 대상의 모든 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 −{uip|ResistancePenalty|f92bf6d353374502953387488d2ba3e2}의 {g|Encyclopedia:Penalty}불이익{/g}이 적용됩니다.
 53	숨겨진 위협
 54	<u>(4 + 4 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-55	파이로맨서는 허공에서 작열하는 지옥불을 만들어 내는 화염의 주인이다. 화염술은 가장 화려하고 파괴적인 사이킥 능력 중 하나로, 전장에서 파이로맨서와 맞선 자들은 새까맣게 탄 뼈 무더기로 전락하곤 한다.
+55	화염술사는 허공에서 뜨거운 지옥불을 만들어 내는 불꽃의 지배자이자 사이커입니다. 화염술은 가장 화려하고 파괴적인 사이킥 능력 중 하나로, 전장에서 화염술사를 마주한 적은 흔히 새까맣게 탄 뼛더미만 남게 됩니다.
 56	화염술
 57	<u>(2 × 사이커의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
-58	전투 중인 모든 {g|Encyclopedia:BurningEffect}화상{/g} 상태의 적이 즉시 피해를 입는다. 전투 종료 시까지 화상 효과가 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|24f1e49a2294434da2dc17edb6808517} 증가한다.
+58	전투 중인 모든 {g|Encyclopedia:BurningEffect}화상{/g} 상태의 적이 즉시 피해를 입습니다. 전투 종료 시까지 화상 효과가 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|24f1e49a2294434da2dc17edb6808517} 증가합니다.
 59	성화
-60	전투 종료 시까지 모든 {g|Encyclopedia:BurningEffect}화상{/g} 효과의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|24f1e49a2294434da2dc17edb6808517} 증가한다. 전투 중인 모든 화상 상태의 생명체가 즉시 피해를 입는다.
+60	전투 종료 시까지 모든 {g|Encyclopedia:BurningEffect}화상{/g} 효과의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|24f1e49a2294434da2dc17edb6808517} 증가합니다. 전투 중인 모든 화상 상태의 생명체가 즉시 피해를 입습니다.
 61	불길 증폭
-62	이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 워프 화상 또는 {g|Encyclopedia:BurningEffect}화상{/g} 상태의 생명체만 대상으로 지정할 수 있다. 대상이 아군이면 이 사이킥 능력으로 피해를 입지 않는다. 대상에게 인접한 모두가(아군과 적 모두 포함) {g|f:a2cca43669184eaa9f0da981f204e1c9}발화{/g} 사이킥 능력의 영향을 받는다.
+62	이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 워프 화상이나 {g|Encyclopedia:BurningEffect}화상{/g} 상태인 생명체만 대상으로 삼을 수 있습니다. 대상이 아군이면 피해를 주지 않습니다. 대상과 인접한 모두가 아군과 적을 가리지 않고 {g|f:a2cca43669184eaa9f0da981f204e1c9}발화{/g} 사이킥 능력의 효과를 받습니다.
 63	화염 폭풍
-64	대상은 <u>({uip|BaseDamage|a2cca43669184eaa9f0da981f204e1c9}~{uip|MaxDamage|a2cca43669184eaa9f0da981f204e1c9})</u>의 피해를 입고 워프 화상 효과를 받는다. 이 공격의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}은 {uip|BasePenetration|a2cca43669184eaa9f0da981f204e1c9}%다. 사이커는 <b>발화</b>를 사용한 후에도 이동할 수 있다.\n<i>워프 화상</i>: 대상의 턴 종료 시 {uip|Damage|a2cca43669184eaa9f0da981f204e1c9}의 피해를 주며, 방어 관통은 {uip|Penetration|a2cca43669184eaa9f0da981f204e1c9}%다. 대상 생명체는 −{uip|ResistancePenalty|a2cca43669184eaa9f0da981f204e1c9}의 불이익이 적용되는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 화상 상태가 해제된다.
+64	대상이 <u>({uip|BaseDamage|a2cca43669184eaa9f0da981f204e1c9}~{uip|MaxDamage|a2cca43669184eaa9f0da981f204e1c9})</u>의 피해를 입고 워프 화상 효과를 받습니다. 이 공격의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}은 {uip|BasePenetration|a2cca43669184eaa9f0da981f204e1c9}%입니다. 사이커는 <b>발화</b> 사용 후 이동할 수 있습니다.\n<i>워프 화상</i>: 대상의 턴 종료 시 {uip|Damage|a2cca43669184eaa9f0da981f204e1c9}의 피해를 주며, 방어 관통은 {uip|Penetration|a2cca43669184eaa9f0da981f204e1c9}%입니다. 대상 생명체는 −{uip|ResistancePenalty|a2cca43669184eaa9f0da981f204e1c9}의 불이익이 적용되는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 화상에서 벗어납니다.
 65	발화
 66	<u>(1 + 사이커의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스 + 6 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 67	<u>(2 × 사이커의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스 + 10 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 68	<u>(3 + 사이커의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스 + 3 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 69	<u>(5 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-70	대상은 {g|f:a2cca43669184eaa9f0da981f204e1c9}발화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g} 2배와, 대상의 {g|Encyclopedia:LineOfSight}시야{/g} 내 모든 {g|Encyclopedia:BurningEffect}화상{/g} 상태의 생명체가 받는 {g|Encyclopedia:FireDamage}화염 피해{/g}의 절반만큼 피해를 입는다.
+70	대상이 {g|f:a2cca43669184eaa9f0da981f204e1c9}발화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 2배에 해당하는 {g|Encyclopedia:DamageGlossary}피해{/g}와, 대상의 {g|Encyclopedia:LineOfSight}시야{/g} 내 모든 {g|Encyclopedia:BurningEffect}화상{/g} 상태 생명체가 받는 {g|Encyclopedia:FireDamage}화염 피해{/g}의 절반에 해당하는 피해를 입습니다.
 71	소각
 72	<u>(10 + 2 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-73	전투 종료 시까지 중첩마다 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −<u>(10 + 2 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>% 감소한다.
+73	중첩당 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 전투 종료 시까지 −<u>(10 + 2 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>% 감소합니다.
 74	방어도 감소 (융해 광선)
-75	12칸 길이 직선상의 모든 생명체에게 {g|f:a2cca43669184eaa9f0da981f204e1c9}발화{/g}의 2배에 해당하는 피해를 주고, 전투 종료 시까지 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 −{uip|ArmourReduction|f31807528a974b86aa0910e46b844e9b} 감소시킨다. 적의 방어도가 0으로 떨어지면 워프 화상 효과를 받는다.\n<i>워프 화상</i>: 대상의 턴 종료 시 {uip|Damage|f31807528a974b86aa0910e46b844e9b}의 피해를 주며, {g|Encyclopedia:ArmourPenetration}방어 관통{/g}은 {uip|Penetration|f31807528a974b86aa0910e46b844e9b}%다. 대상 생명체는 −{uip|ResistancePenalty|f31807528a974b86aa0910e46b844e9b}의 불이익이 적용되는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 {g|Encyclopedia:BurningEffect}화상{/g} 상태가 해제된다.
+75	12칸 직선상의 모든 생명체에게 {g|f:a2cca43669184eaa9f0da981f204e1c9}발화{/g} 피해의 2배에 해당하는 피해를 주고, 전투 종료 시까지 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 −{uip|ArmourReduction|f31807528a974b86aa0910e46b844e9b} 감소시킵니다. 적의 방어도가 0이 되면 워프 화상 효과를 받습니다.\n<i>워프 화상</i>: 대상의 턴 종료 시 {uip|Damage|f31807528a974b86aa0910e46b844e9b}의 피해를 주며, {g|Encyclopedia:ArmourPenetration}방어 관통{/g}은 {uip|Penetration|f31807528a974b86aa0910e46b844e9b}%입니다. 대상 생명체는 −{uip|ResistancePenalty|f31807528a974b86aa0910e46b844e9b}의 불이익이 적용되는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 {g|Encyclopedia:BurningEffect}화상{/g}에서 벗어납니다.
 76	융해 광선
-77	대상의 {g|Encyclopedia:BurningEffect}화상{/g}이 꺼지지 않으며, 더 이상 화상 해제 {g|Encyclopedia:Test}판정{/g}을 하지 않는다.\n또한 대상이 아군이면, 그 아군의 모든 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이 공격 대상에게 화상 {g|Encyclopedia:DamageGlossary}피해{/g}를 온전히 주고, 아군 자신이 받는 화상 피해는 이후 절반으로 감소한다.
+77	대상의 {g|Encyclopedia:BurningEffect}화상{/g}이 꺼지지 않으며, 화상을 해제하는 {g|Encyclopedia:Test}판정{/g}을 더 이상 하지 않습니다.\n대상이 아군이면 추가로, 이후 모든 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g} 시 공격 대상에게 화상 {g|Encyclopedia:DamageGlossary}피해{/g} 전부를 주며, 자신이 받는 화상 피해는 절반으로 감소합니다.
 78	불길 조율
-79	대상의 턴 종료 시 {uip|Damage|3ddbf131cbd54087a665d4b2e026b0f2}의 {g|Encyclopedia:DamageGlossary}피해{/g}를 주며, {g|Encyclopedia:ArmourPenetration}방어 관통{/g}은 {uip|Penetration|3ddbf131cbd54087a665d4b2e026b0f2}%다. 대상 생명체는 −{uip|ResistancePenalty|3ddbf131cbd54087a665d4b2e026b0f2}의 불이익이 적용되는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 {g|Encyclopedia:BurningEffect}화상{/g} 상태가 해제된다.
+79	대상의 턴 종료 시 {uip|Damage|3ddbf131cbd54087a665d4b2e026b0f2}의 {g|Encyclopedia:DamageGlossary}피해{/g}를 주며, {g|Encyclopedia:ArmourPenetration}방어 관통{/g}은 {uip|Penetration|3ddbf131cbd54087a665d4b2e026b0f2}%입니다. 대상 생명체는 −{uip|ResistancePenalty|3ddbf131cbd54087a665d4b2e026b0f2}의 불이익이 적용되는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공해야 {g|Encyclopedia:BurningEffect}화상{/g}에서 벗어납니다.
 80	워프 화상
 81	<u>(3 + 사이커의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스 + 3 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 82	<u>(5 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 83	<u>(5 × 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-84	사이커가 어떤 방식으로든 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 전투 종료 시까지 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +1% 증가한다.
+84	사이커가 어떤 방식으로든 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 전투 종료 시까지 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +1% 증가합니다.
 85	타오르는 지옥불
-86	사이커가 사용한 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 최초 대상의 2칸 이내에 있는 무작위 적 하나가 그 피해의 절반을 입는다. 이 피해는 이 {g|Encyclopedia:Talent}재능{/g}을 다시 발동시키지 않는다.
+86	사이커가 사용한 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 최초 대상의 2칸 이내에 있는 무작위 적이 해당 피해의 절반을 입습니다. 이 피해는 이 {g|Encyclopedia:Talent}재능{/g}을 다시 발동시키지 않습니다.
 87	역화
-88	사이커가 화염 {g|Encyclopedia:DamageGlossary}피해{/g}에 대한 추가 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} +{uip|ArmourAgainstFire|52a24c4f709741489b8a0034109ecfdb}%를 얻고, 이 수치의 절반만큼 라스, 멜타, 플라스마 무기의 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}에 대한 추가 방어도를 얻는다.
-89	화염의 육신
+88	사이커가 화염 {g|Encyclopedia:DamageGlossary}피해{/g}에 대한 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 추가로 +{uip|ArmourAgainstFire|52a24c4f709741489b8a0034109ecfdb}% 얻으며, 라스, 멜타, 플라스마 무기의 {g|Encyclopedia:EnergyDamage}에너지 피해{/g}에 대한 방어도를 이 수치의 절반만큼 추가로 얻습니다.
+89	화염의 시체
 90	<u>(8 + 8 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-91	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면 사이커에게 인접한 모든 적이 {uip|Damage|8e85511b779e41548d0b57635ecfd4db}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입는다. 사이커가 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 피해를 입을 때도 같은 효과가 발생한다.
+91	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면 인접한 모든 적이 {uip|Damage|8e85511b779e41548d0b57635ecfd4db}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입습니다. 사이커가 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}으로 피해를 입을 때도 같은 효과가 발생합니다.
 92	불타는 피
 93	<u>(4 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-94	사이커가 {g|Encyclopedia:BurningEffect}화상{/g} 상태일 때 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가하고 {g|Encyclopedia:Resolve}결의{/g}가 +2 증가한다. 화염 {g|Encyclopedia:DamageGlossary}피해{/g}로는 더 이상 사이커의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 감소하지 않는다.
+94	사이커가 {g|Encyclopedia:BurningEffect}화상{/g} 상태일 때 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1, {g|Encyclopedia:Resolve}결의{/g}가 +2 증가합니다. 화염 {g|Encyclopedia:DamageGlossary}피해{/g}를 받아도 사이커의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 감소하지 않습니다.
 95	꺼지지 않는 불길
-96	한 전투에서 사이커가 생명체 8명을 처치하거나 생명체 8명에게 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시킬 때마다, 다음 공격(공격용 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g} 포함)의 비용이 0 {g|Encyclopedia:ActionPoints}행동력{/g}이 되고 {g|Encyclopedia:Turn}턴{/g}당 공격 횟수 제한에 포함되지 않는다.
+96	한 전투에서 사이커가 생명체 8마리를 처치하거나 생명체 8마리에게 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시킬 때마다 다음 공격(공격형 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g} 포함)의 비용이 0 {g|Encyclopedia:ActionPoints}행동력{/g}이 되며, {g|Encyclopedia:Turn}턴{/g}당 공격 횟수 제한에 포함되지 않습니다.
 97	내면의 불꽃
 98	방어구 융해 (방어도 불이익)
 99	방어구 융해 (피해 감소 불이익)
-100	적이 사이커에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 입을 때마다 해당 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −5% 감소한다. 적의 방어도가 이미 0이면 대신 {g|Encyclopedia:Deflection}피해 감소{/g}가 −1 감소한다.
+100	적이 사이커에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 입을 때마다 해당 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −5% 감소합니다. 적의 방어도가 이미 0이라면 대신 {g|Encyclopedia:Deflection}피해 감소{/g}가 −1 감소합니다.
 101	방어구 융해
-102	사이커가 부여하는 모든 지속 {g|Encyclopedia:DamageGlossary}피해{/g} 효과가 {uip|Chance|25d44ec9def7447e9548469634168275}%의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}을 얻는다. 이 확률은 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}에 적용되는 모든 {g|Encyclopedia:Bonus}보너스{/g}만큼 증가한다.
+102	사이커가 부여한 모든 지속 {g|Encyclopedia:DamageGlossary}피해{/g} 효과가 {uip|Chance|25d44ec9def7447e9548469634168275}%의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}을 얻습니다. 모든 치명타 {g|Encyclopedia:HitSequenceGlossary}명중률{/g} {g|Encyclopedia:Bonus}보너스{/g}가 이 확률을 증가시킵니다.
 103	거대한 불길의 불씨
 104	<u>(5 + 5 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-105	사이커가 불타는 투사체 {uip|Count|8a759cdc2b754309b1fb75397798fbf1}개를 쏟아낸다. 투사체마다 <u>({uip|DamageMin|8a759cdc2b754309b1fb75397798fbf1}~{uip|DamageMax|8a759cdc2b754309b1fb75397798fbf1})</u>의 피해를 준다. 투사체는 60% 확률로 중앙 경로를 따라 날아가고, 40% 확률로 측면 경로 중 하나로 빗나간다. 투사체를 2개 이상 맞은 생명체는 {g|f:b91a3b9afb9147848d8167dbcf16d092}워프 화상{/g} 효과를 받는다.
+105	사이커가 불꽃 투사체 {uip|Count|8a759cdc2b754309b1fb75397798fbf1}개를 쏟아내며, 각각 <u>({uip|DamageMin|8a759cdc2b754309b1fb75397798fbf1}~{uip|DamageMax|8a759cdc2b754309b1fb75397798fbf1})</u>의 피해를 줍니다. 투사체는 60% 확률로 중앙 경로를 따라 날아가며, 40% 확률로 측면 경로 중 하나로 빗나갑니다. 투사체에 2개 이상 맞은 생명체는 {g|f:b91a3b9afb9147848d8167dbcf16d092}워프 화상{/g} 효과를 받습니다.
 106	지옥불
-107	사이커가 불타는 투사체 {uip|Count|c4ea2ad9fe1e4509916cb5f1787b1530}개를 쏟아낸다. 투사체마다 <u>({uip|DamageMin|c4ea2ad9fe1e4509916cb5f1787b1530}~{uip|DamageMax|c4ea2ad9fe1e4509916cb5f1787b1530})</u>의 피해를 준다. 투사체는 무작위 경로로 흩어진다. 투사체를 2개 이상 맞은 생명체는 {g|f:b91a3b9afb9147848d8167dbcf16d092}워프 화상{/g} 효과를 받는다. 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킨다.\n이 사이킥 능력은 {g|f:27dc9a14aaca464a901dc6242123c154}속사{/g} 능력의 영향을 받지 않는다.
-108	사이커가 불타는 투사체 {uip|Count|84ddefd28f224d5fb3f5e176375c1f05}개를 쏟아낸다. 투사체마다 <u>({uip|DamageMin|84ddefd28f224d5fb3f5e176375c1f05}~{uip|DamageMax|84ddefd28f224d5fb3f5e176375c1f05})</u>의 피해를 준다. 투사체는 80% 확률로 중앙 경로를 따라 날아가고, 20% 확률로 측면 경로 중 하나로 빗나간다. 투사체를 2개 이상 맞은 생명체는 {g|f:b91a3b9afb9147848d8167dbcf16d092}워프 화상{/g} 효과를 받는다.\n이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:27dc9a14aaca464a901dc6242123c154}속사{/g} 능력의 영향을 받지 않는다.
+107	사이커가 불꽃 투사체 {uip|Count|c4ea2ad9fe1e4509916cb5f1787b1530}개를 쏟아내며, 각각 <u>({uip|DamageMin|c4ea2ad9fe1e4509916cb5f1787b1530}~{uip|DamageMax|c4ea2ad9fe1e4509916cb5f1787b1530})</u>의 피해를 줍니다. 투사체는 무작위 경로로 흩어집니다. 투사체에 2개 이상 맞은 생명체는 {g|f:b91a3b9afb9147848d8167dbcf16d092}워프 화상{/g} 효과를 받습니다. 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킵니다.\n이 사이킥 능력은 {g|f:27dc9a14aaca464a901dc6242123c154}속사{/g} 능력의 영향을 받지 않습니다.
+108	사이커가 불꽃 투사체 {uip|Count|84ddefd28f224d5fb3f5e176375c1f05}개를 쏟아내며, 각각 <u>({uip|DamageMin|84ddefd28f224d5fb3f5e176375c1f05}~{uip|DamageMax|84ddefd28f224d5fb3f5e176375c1f05})</u>의 피해를 줍니다. 투사체는 80% 확률로 중앙 경로를 따라 날아가며, 20% 확률로 측면 경로 중 하나로 빗나갑니다. 투사체에 2개 이상 맞은 생명체는 {g|f:b91a3b9afb9147848d8167dbcf16d092}워프 화상{/g} 효과를 받습니다.\n이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:27dc9a14aaca464a901dc6242123c154}속사{/g} 능력의 영향을 받지 않습니다.
 109	지옥불 (영웅적 행동)
 110	지옥불 (필사의 결단)
-111	<u>사이커 지팡이 위력 수준</u>
+111	<u>사이커 지팡이의 위력 수준</u>
 112	<u>(2 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-113	<u>({g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이 위력 수준)</u>
-114	<u>(2 × 사이커 지팡이 위력 수준)</u>
+113	<u>({g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이의 위력 수준)</u>
+114	<u>(2 × 사이커 지팡이의 위력 수준)</u>
 115	<u>(2 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-116	<u>(2 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이 위력 수준)</u>
-117	<u>(2 × 사이커 지팡이 위력 수준)</u>
+116	<u>(2 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이의 위력 수준)</u>
+117	<u>(2 × 사이커 지팡이의 위력 수준)</u>
 118	<u>(2 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-119	<u>(2 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이 위력 수준)</u>
-120	신앙이 응축된 신성 능력은 독실한 사이커가 아군을 보호하고 이단자를 징벌하는 데 사용한다.
+119	<u>(2 × {g|Encyclopedia:PsyRating}사이 등급{/g} + 사이커 지팡이의 위력 수준)</u>
+120	신성 능력은 신앙을 응집한 힘으로, 경건한 사이커가 아군을 보호하고 이단자를 처단하는 데 사용합니다.
 121	신성 능력
 122	<u>(5 × 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 아군의 {g|Encyclopedia:Resolve}결의{/g} / 2)</u>
-123	{g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 모든 아군이 황제의 해머 효과를 얻는다. 다음에 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때 피해가 +{uip|DamageBonus|d1c22cdb445543a08b6dbc9867503572} 증가하고 효과가 사라진다.\n! 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 아군이 한 명 이상 있을 때만 사용할 수 있다.
+123	{g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 모든 아군이 황제의 해머 효과를 얻습니다. 다음번에 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|d1c22cdb445543a08b6dbc9867503572} 증가하고 효과가 사라집니다.\n! 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 아군이 한 명 이상 있어야 사용할 수 있습니다.
 124	황제의 해머
 125	<u>(1 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 아군의 {g|Encyclopedia:Resolve}결의{/g} / 2)</u>
 126	<u>(10 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 아군의 {g|Encyclopedia:Resolve}결의{/g} / 2)</u>
-127	{g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 모든 아군이 <u>({uip|HealMin|050815b9d2e947acb13b81072f9b7210}~{uip|HealMax|050815b9d2e947acb13b81072f9b7210})</u>의 {g|Encyclopedia:HitPoints}체력{/g}을 회복한다.\n! 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 아군이 한 명 이상 있을 때만 사용할 수 있다.
+127	{g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 모든 아군이 {g|Encyclopedia:HitPoints}체력{/g}을 <u>({uip|HealMin|050815b9d2e947acb13b81072f9b7210}~{uip|HealMax|050815b9d2e947acb13b81072f9b7210})</u> 회복합니다.\n! 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 아군이 한 명 이상 있어야 사용할 수 있습니다.
 128	황제의 빛
 129	<u>(1 + (사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 1) × {g|Encyclopedia:Resolve}결의{/g} / 4)</u>
 130	<u>(4 + (사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 1) × {g|Encyclopedia:Resolve}결의{/g} / 4)</u>
-131	이번 전투에서 사이커나 사이커의 아군에게 이미 피해를 준 적에게는 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가한다.
+131	이번 전투에서 사이커나 아군에게 이미 피해를 준 적에게 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g}가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가합니다.
 132	정화의 낙인
-133	({uip|MinDamage|4b401c668e0d46a7a09dba9d5480cdaa}~{uip|MaxDamage|4b401c668e0d46a7a09dba9d5480cdaa})의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 준다.\n이 {g|Encyclopedia:DamageGlossary}피해{/g}는 제노스에게 +50%, 카오스 숭배자나 드루카리에게 +100%, 데몬에게 +150% 증가한다. 이번 전투에서 사이커나 사이커의 아군에게 이미 피해를 준 적에게는 +50% 증가한다. 이러한 피해 {g|Encyclopedia:Bonus}보너스{/g}는 다른 출처의 모든 피해 보너스에도 적용된다.\n! 이 능력은 영혼이 없는 대상에게 영향을 주지 않는다.
+133	({uip|MinDamage|4b401c668e0d46a7a09dba9d5480cdaa}~{uip|MaxDamage|4b401c668e0d46a7a09dba9d5480cdaa})의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 줍니다.\n이 {g|Encyclopedia:DamageGlossary}피해{/g}는 제노스에게 +50%, 카오스 숭배자나 드루카리에게 +100%, 데몬에게 +150% 증가합니다. 이번 전투에서 사이커나 아군에게 이미 피해를 준 적에게는 +50% 증가합니다. 이 피해 {g|Encyclopedia:Bonus}보너스{/g}는 다른 요인으로 얻는 피해 보너스에도 적용됩니다.\n! 이 능력은 영혼이 없는 대상에게 영향을 주지 않습니다.
 134	영혼 정화
 135	<u>(사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} / 2)</u>
 136	<u>(10 + 아군의 {g|Encyclopedia:Resolve}결의{/g} / 2)</u>
-137	사이커의 다음 턴 시작 시까지 {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 모든 아군의 {g|Encyclopedia:Deflection}피해 감소{/g}가 +{uip|Deflection|c096aedc367c4cfe8c8ed8507319ebab}(최소 +1) 증가하고, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|Armour|c096aedc367c4cfe8c8ed8507319ebab}% 증가한다.\n! 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 아군이 한 명 이상 있을 때만 사용할 수 있다.
+137	사이커의 다음 턴 시작 시까지 {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 모든 아군의 {g|Encyclopedia:Deflection}피해 감소{/g}가 +{uip|Deflection|c096aedc367c4cfe8c8ed8507319ebab}(최소 +1), {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +{uip|Armour|c096aedc367c4cfe8c8ed8507319ebab}% 증가합니다.\n! 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}황제의 말씀{/g}에 영향을 받는 아군이 한 명 이상 있어야 사용할 수 있습니다.
 138	황제의 방패
-139	이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 50 소모하며, 원동력이 175 이상일 때만 사용할 수 있다.\n전투 종료 시까지 사이커가 손에 든 무기가 순수한 의지로 이루어진 검으로 바뀐다.\n-<indent=5%>이 검은 양손검처럼 단일 대상 공격과 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}이 가능하며, 플레이머처럼 부채꼴 또는 직선으로 불을 뿜을 수 있다.</indent>\n-<indent=5%>이 검의 피해는 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g}와 같으며 모든 보너스도 동일하게 적용된다.</indent>\n-<indent=5%>사이커가 포스 무기를 사용하고 있었다면 해당 포스 무기의 모든 보너스가 유지된다. {g|Encyclopedia:Talent}재능{/g} 및 기타 보너스 적용 시 <b>신앙의 검</b>은 포스 무기로 취급한다.</indent>\n-<indent=5%>이 능력을 다시 사용하면 검의 피해가 +{uip|Resolve|20d5376f942f454daf37f2b81a81e7b1} 증가한다.</indent>
+139	이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g} 50을 소모하며, 원동력이 175 이상일 때만 사용할 수 있습니다.\n전투 종료 시까지 사이커가 손에 든 무기가 순수한 의지로 빚은 검으로 바뀝니다.\n-<indent=5%>이 검은 양손검처럼 단일 대상 공격과 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 할 수 있으며, 플레이머처럼 부채꼴이나 직선으로 불길을 내뿜을 수 있습니다.</indent>\n-<indent=5%>이 검의 피해는 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g}와 같으며, 모든 보너스도 동일하게 적용됩니다.</indent>\n-<indent=5%>사이커가 포스 무기를 사용하고 있었다면 해당 무기의 모든 보너스가 유지됩니다. {g|Encyclopedia:Talent}재능{/g}과 기타 보너스 적용 시 <b>신앙의 검</b>은 포스 무기로 취급합니다.</indent>\n-<indent=5%>이 능력을 다시 사용하면 검의 피해가 +{uip|Resolve|20d5376f942f454daf37f2b81a81e7b1} 증가합니다.</indent>
 140	신앙의 검
 141	<u>사이커의 {g|Encyclopedia:Resolve}결의{/g}</u>
-142	사이커 전방의 모든 적에게 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 같은 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+142	사이커 앞의 모든 적에게 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 같은 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
 143	신앙의 검 — 범위 공격
-144	부채꼴 범위 내 모든 적에게 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 같은 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+144	부채꼴 범위 내 모든 적에게 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 같은 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
 145	신앙의 검 — 부채꼴 화염
-146	직선상의 모든 적에게 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 같은 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+146	직선상의 모든 적에게 {g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 같은 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
 147	신앙의 검 — 직선 화염
-148	{g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 같은 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 단일 대상 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 타격을 가한다.
+148	{g|f:4b401c668e0d46a7a09dba9d5480cdaa}영혼 정화{/g} {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}과 같은 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 단일 대상 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 타격입니다.
 149	신앙의 검 — 타격
-150	반경 5칸의 원형 범위 내 모든 아군의 {g|Encyclopedia:Resolve}결의{/g}가 전투 종료 시까지 +{uip|Resolve|6285e5ba2a804e3d9df1dd5f7fa819f2} 증가한다. 이 효과가 추가로 중첩될 때마다 결의 {g|Encyclopedia:Bonus}보너스{/g}가 +2 증가한다.
+150	반경 5칸의 원형 범위 내 모든 아군의 {g|Encyclopedia:Resolve}결의{/g}가 전투 종료 시까지 +{uip|Resolve|6285e5ba2a804e3d9df1dd5f7fa819f2} 증가합니다. 이 효과가 추가로 중첩될 때마다 결의 {g|Encyclopedia:Bonus}보너스{/g}가 +2 증가합니다.
 151	황제의 말씀
 152	<u>(1 + {g|Encyclopedia:PsyRating}사이 등급{/g} / 2)</u>
-153	사이커가 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻을 때마다 얻은 원동력의 절반만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}도 얻는다. 이 효과로 얻는 임시 {g|Encyclopedia:HitPoints}체력{/g}은 중첩되지 않는다.
+153	사이커가 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻을 때마다 그 절반만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}도 얻습니다. 이 효과로 얻는 임시 {g|Encyclopedia:HitPoints}체력{/g}은 중첩되지 않습니다.
 154	축복받은 경멸
-155	사이커의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +5% 증가한다. 이 {g|Encyclopedia:Bonus}보너스{/g}는 전투의 첫 {g|Encyclopedia:Round}라운드{/g}를 제외한 매 라운드 시작 시 +5%씩 증가한다.
+155	사이커의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +5% 증가합니다. 첫 라운드를 제외하고 매 전투 {g|Encyclopedia:Round}라운드{/g} 시작 시 이 {g|Encyclopedia:Bonus}보너스{/g}가 +5% 증가합니다.
 156	운명의 선택
-157	사이커에게 인접한 적이 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다.
+157	사이커와 인접한 적이 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가합니다.
 158	여명의 칼끝
-159	사이커의 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 처음으로 200에 도달하면, 전투 종료 시까지 사이커의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 +5, {g|Encyclopedia:Resolve}결의{/g}가 +1, {g|Encyclopedia:Deflection}피해 감소{/g}가 +1 증가하고 주는 모든 피해가 +1 증가한다.
+159	사이커의 {g|Encyclopedia:Turn}턴{/g} 중 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 처음으로 200에 도달하면, 전투 종료 시까지 사이커의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 +5, {g|Encyclopedia:Resolve}결의{/g}가 +1, {g|Encyclopedia:Deflection}피해 감소{/g}가 +1, 주는 모든 피해가 +1 증가합니다.
 160	영원한 영광
-161	사이커가 자신에게 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하거나 자신만을 대상으로 범위 사이킥 능력을 사용하면, 이번 턴에 해당 능력을 {g|Encyclopedia:ActionPoints}행동력{/g} 비용이 −1 감소한 상태로 다시 사용할 수 있다. 이때 {g|Encyclopedia:VeilThickness}베일{/g}에 영향을 주지 않으며 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}이나 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으키지 않는다.\n두 번째로 사용하는 사이킥 능력은 사이커 자신에게 영향을 줄 수 없다.
+161	사이커가 자신에게 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하거나 자신만을 대상으로 하는 범위 효과 사이킥 능력을 사용하면, 해당 턴에 같은 능력을 {g|Encyclopedia:ActionPoints}행동력{/g} −1 적게 소모하여 다시 사용할 수 있습니다. 이때 {g|Encyclopedia:VeilThickness}베일{/g}에 영향을 주지 않으며 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}이나 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으키지 않습니다.\n두 번째로 사용하는 사이킥 능력은 사이커 자신에게 영향을 줄 수 없습니다.
 162	첫빛
-163	사이커의 {g|Encyclopedia:LineOfSight}시야{/g} 내 누구든(사이커 자신 포함) {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시키면, 전투 종료 시까지 사이커의 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1% 증가한다. 중첩된다.
+163	사이커 자신을 포함하여 사이커의 {g|Encyclopedia:LineOfSight}시야{/g} 내 누군가가 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 적중시키면, 전투 종료 시까지 사이커의 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1% 증가합니다. 중첩됩니다.
 164	증오의 찬가
-165	아군이 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 사용할 때마다 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 전투 종료 시까지 +1 증가한다.
+165	아군이 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 사용할 때마다 전투 종료 시까지 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g}이 +1 증가합니다.
 166	영웅의 찬송
-167	사이커의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{unit_stat|Resolve|Resolve}% 증가한다.
+167	사이커의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{unit_stat|Resolve|Resolve}% 증가합니다.
 168	성스러운 살육자
-169	대상 칸에 인접한 모두가 <u>(1~{uip|Damage|560aa7c658a441df8bb4b2f9f431064b})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입는다. 이 공격으로 아군이 받는 피해는 해당 아군의 {g|Encyclopedia:Resolve}결의{/g}만큼 감소한다.
+169	지정한 칸과 인접한 모든 대상이 <u>(1~{uip|Damage|560aa7c658a441df8bb4b2f9f431064b})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입습니다. 이 공격으로 아군이 받는 피해는 해당 아군의 {g|Encyclopedia:Resolve}결의{/g}만큼 감소합니다.
 170	황제의 분노
-171	대상 칸에 인접한 모두가 <u>(1~{uip|Damage|7039f3b35fc5487e9b6c64909062ea04})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입는다. 이들이 받는 피해가 전투 종료 시까지 +{uip|Debuff|7039f3b35fc5487e9b6c64909062ea04}% 증가한다. 사이커도 이 피해와 효과를 받는다.\n이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킨다.
+171	지정한 칸과 인접한 모든 대상이 <u>(1~{uip|Damage|7039f3b35fc5487e9b6c64909062ea04})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입습니다. 해당 대상들이 받는 피해가 전투 종료 시까지 +{uip|Debuff|7039f3b35fc5487e9b6c64909062ea04}% 증가합니다. 사이커도 이 피해와 효과를 받습니다.\n이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킵니다.
 172	황제의 분노 (필사의 결단)
-173	대상 칸에 인접한 모두가 <u>(1~{uip|Damage|bdde427505b14cd68b20ab0d915d5fe3})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, 전투 종료 시까지 받는 피해가 +{uip|Debuff|bdde427505b14cd68b20ab0d915d5fe3}% 증가한다.
+173	지정한 칸과 인접한 모든 대상이 <u>(1~{uip|Damage|bdde427505b14cd68b20ab0d915d5fe3})</u>의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, 전투 종료 시까지 받는 피해가 +{uip|Debuff|bdde427505b14cd68b20ab0d915d5fe3}% 증가합니다.
 174	황제의 분노 (영웅적 행동)
-175	<u>((1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이 위력 수준)</u>
-176	<u>((1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이 위력 수준)</u>
-177	<u>(2 × 사이커 지팡이 위력 수준)</u>
-178	<u>(2 × (1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이 위력 수준)</u>
-179	<u>(2 × 사이커 지팡이 위력 수준)</u>
-180	[초안]*개발 중. 상위 레벨에서 선택할 수 있는 {g|Encyclopedia:Ability}능력{/g} 및/또는 {g|Encyclopedia:Talent}재능{/g}이 적다.*
+175	<u>((1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이의 위력 수준)</u>
+176	<u>((1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이의 위력 수준)</u>
+177	<u>(2 × 사이커 지팡이의 위력 수준)</u>
+178	<u>(2 × (1 + {g|Encyclopedia:PsyRating}사이 등급{/g}) × 사이커 지팡이의 위력 수준)</u>
+179	<u>(2 × 사이커 지팡이의 위력 수준)</u>
+180	[초안]*개발 중입니다. 고레벨에서 선택할 {g|Encyclopedia:Ability}능력{/g}이나 {g|Encyclopedia:Talent}재능{/g}이 적습니다.*
 181	[초안]염동력
-182	[초안]사이커가 전장에 3×3 크기의 염동력 돔을 생성한다. 돔은 전투가 끝나거나 사이커가 <b>염동력 돔</b>을 생성할 다른 구역을 선택할 때까지 유지된다. 돔 밖에서 안쪽의 대상을 사격하면 대상이 {g|Encyclopedia:DetailsOfTheCoverGlossary}반엄폐{/g} 상태인 것처럼 빗나갈 확률이 적용된다. 이 확률은 엄폐물의 방어 효과와 중첩되지 않으며, 모든 효과와 {g|Encyclopedia:Ability}능력{/g}에 대해 반엄폐로 취급한다.
+182	[초안]사이커가 전장에 3×3 크기의 염동력 돔을 생성합니다. 전투가 끝나거나 사이커가 <b>염동력 돔</b>을 설치할 다른 지역을 선택할 때까지 유지됩니다. 돔 바깥에서 안쪽의 대상을 사격하면, 대상이 {g|Encyclopedia:DetailsOfTheCoverGlossary}반엄폐{/g} 상태일 때와 같은 확률로 빗나갑니다. 이 확률은 엄폐의 방어 효과와 중첩되지 않으며, 모든 효과 및 {g|Encyclopedia:Ability}능력{/g} 적용 시 반엄폐로 취급합니다.
 183	[초안]염동력 돔
-184	[초안]사이커가 염동력으로 대상을 붙잡는다. 이미 누군가를 붙잡은 상태에서 다른 생명체를 대상으로 지정하면 이전 대상은 풀려난다.\n대상이 적이면 사이커의 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 대상을 짓누른다. 적은 <u>(1~사이커의 {g|Encyclopedia:WarhammerWillpower}의지력{/g})+2×({g|Encyclopedia:PsyRating}사이 등급{/g})</u>의 피해를 입는다. 새 대상에게 이 {g|Encyclopedia:Ability}능력{/g}을 사용해도 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}은 초기화되지 않는다.\n이미 이 능력으로 누군가를 붙잡은 상태라면 전장의 한 지점에 능력을 사용하여 대상을 그 지점 쪽으로 <u>사이 등급</u>칸 이동시킬 수 있다.
+184	[초안]사이커가 염동력으로 대상을 구속합니다. 이미 구속한 대상이 있는 상태에서 새로운 생명체를 대상으로 삼으면 이전 대상의 구속이 해제됩니다.\n대상이 적이면 사이커의 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 구속의 힘으로 짓누릅니다. 적은 <u>(1~사이커의 {g|Encyclopedia:WarhammerWillpower}의지력{/g})+2×({g|Encyclopedia:PsyRating}사이 등급{/g})</u>의 피해를 입습니다. 새로운 대상에게 이 {g|Encyclopedia:Ability}능력{/g}을 사용해도 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}이 다시 시작되지 않습니다.\n이미 구속한 대상이 있으면 전장의 지점을 지정하여 이 능력을 사용할 수 있으며, 대상은 지정한 지점을 향해 <u>사이 등급</u>칸 이동합니다.
 185	[초안]염동력 구속
-186	[초안]사이커가 반경 3칸의 반원 범위 내 모든 적을 {g|Encyclopedia:PushGlossary}밀치거나{/g} 끌어당길 수 있다. 대상은 사이커에게서 곧장 멀어지는 방향이나 사이커를 향해 곧장 다가오는 방향으로 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}칸 이동한다. −<u>2×(사이커의 의지력 {g|Encyclopedia:Bonus}보너스{/g})</u>의 불이익이 적용되는 강인함 {g|Encyclopedia:Test}판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+186	[초안]사이커가 반경 3칸의 반원 범위 내 모든 적을 {g|Encyclopedia:PushGlossary}밀치기{/g}로 밀어내거나 끌어당길 수 있습니다. 대상은 사이커에게서 곧장 멀어지거나 사이커를 향해 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}칸 이동합니다. −<u>2×(사이커의 의지력 {g|Encyclopedia:Bonus}보너스{/g})</u>의 불이익이 적용되는 강인함 {g|Encyclopedia:Test}판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 187	[초안]염동력 조종
-188	[초안]사이커가 반경 3칸의 반원 범위 내 모든 적을 밀쳐낸다. 대상은 사이커에게서 곧장 멀어지는 방향으로 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}칸 이동한다. −<u>2×(사이커의 의지력 {g|Encyclopedia:Bonus}보너스{/g})</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Test}판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+188	[초안]사이커가 반경 3칸의 반원 범위 내 모든 적을 밀어냅니다. 대상은 사이커에게서 곧장 멀어지는 방향으로 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}칸 이동합니다. −<u>2×(사이커의 의지력 {g|Encyclopedia:Bonus}보너스{/g})</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Test}판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 189	[초안]염동력 밀치기
-190	[초안]사이커가 반경 3칸의 반원 범위 내 적을 끌어당긴다. 대상은 사이커를 향해 곧장 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}칸 이동한다. −<u>2×(사이커의 의지력 {g|Encyclopedia:Bonus}보너스{/g})</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Test}판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 된다.
+190	[초안]사이커가 반경 3칸의 반원 범위 내 적을 끌어당깁니다. 대상은 사이커를 향해 곧장 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 이동합니다. −<u>2×(사이커의 의지력 {g|Encyclopedia:Bonus}보너스{/g})</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Test}판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 됩니다.
 191	[초안]염동력 당기기
-192	[초안]사이커가 무시무시한 염동력 소용돌이를 생성하여 소용돌이 가장자리에서 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g} 거리 이내의 모두를 끌어당기며, 매 {g|Encyclopedia:Round}라운드{/g}마다 이를 반복한다. 적은 −<u>5×(사이 등급)</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Test}판정{/g}을 한다. 실패한 적은 소용돌이 쪽으로 <u>사이 등급</u>칸 이동하고, 성공한 적은 그 절반만큼 이동한다.\n사이커의 매 {g|Encyclopedia:Turn}턴{/g} 종료 시 소용돌이 안의 모두가 <b>맹습</b>의 3배에 해당하는 피해를 입는다.
+192	[초안]사이커가 무시무시한 염동력 소용돌이를 만들어, 소용돌이 가장자리에서 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g} 범위 내의 모든 대상을 소용돌이 쪽으로 끌어당깁니다. 이 효과는 매 {g|Encyclopedia:Round}라운드{/g} 반복됩니다. 적은 −<u>5×(사이 등급)</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Test}판정{/g}을 합니다. 실패한 적은 소용돌이를 향해 <u>사이 등급</u>칸 이동하고, 성공한 적은 그 절반만큼 이동합니다.\n사이커의 매 {g|Encyclopedia:Turn}턴{/g} 종료 시 소용돌이 안의 모든 대상이 <b>맹습</b> 피해의 3배에 해당하는 피해를 입습니다.
 193	[초안]염동력 소용돌이
-194	[초안]원거리 공격으로 사이커에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킨 적(사이커를 공격하다 사이커의 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물에 맞힌 적 포함)은 <u>2+({g|Encyclopedia:PsyRating}사이 등급{/g})</u>의 {g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}를 입는다.
+194	[초안]사이커에게 원거리 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킨 적은 <u>2+({g|Encyclopedia:PsyRating}사이 등급{/g})</u>의 {g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}를 입습니다. 사이커를 공격하다 사이커의 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물에 맞힌 경우에도 적용됩니다.
 195	[초안]충격 반전
-196	[초안]사이커의 적이 {g|Encyclopedia:PushGlossary}밀려나거나{/g} {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되면 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}를 입는다. 사이커의 아군을 밀치거나 넘어뜨린 적도 같은 피해를 입는다.
+196	[초안]사이커의 적이 {g|Encyclopedia:PushGlossary}밀려남{/g}이나 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되면 {g|Encyclopedia:PsyRating}<u>사이 등급</u>{/g}만큼 {g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}를 입습니다. 사이커의 아군을 밀치거나 넘어뜨리는 적에게도 같은 효과가 적용됩니다.
 197	[초안]진자 휘두르기
-198	[초안]사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 2 회복한다.
+198	[초안]사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 2 회복합니다.
 199	[초안]영구 운동
-200	[초안]{g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이 사용 직전 사이커가 보유한 {g|Encyclopedia:MovementPoints}이동력{/g}의 절반만큼 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+200	[초안]{g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}이 사용 직전 사이커의 {g|Encyclopedia:MovementPoints}이동력{/g} 절반만큼 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
 201	[초안]위치 에너지
-202	[초안]사이커가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기 피해, 기술 레벨, 원거리 무기 {g|Encyclopedia:Recoil}반동{/g}, 근력에 기반한 {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}의 효과를 계산할 때 {g|Encyclopedia:WarhammerStrength}근력{/g} 대신 의지력을 사용한다.
+202	[초안]사이커는 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기 피해, 기술 수준, 원거리 무기 {g|Encyclopedia:Recoil}반동{/g}, 근력에 기반한 {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}의 효과를 계산할 때 {g|Encyclopedia:WarhammerStrength}근력{/g} 대신 의지력을 사용합니다.
 203	[초안]염동력 강화
-204	[초안]사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 원거리 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +5 증가한다.
+204	[초안]{g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 사이커의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 원거리 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +5 증가합니다.
 205	[초안]뜻밖의 가속
-206	[초안]사이커와 아군이 원거리 공격의 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 확률에 +<u>5×(사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>% {g|Encyclopedia:Bonus}보너스{/g}를 얻고, 이들의 공격이 막힐 확률이 −15% 감소한다.
+206	[초안]사이커와 아군이 원거리 공격의 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 확률에 +<u>5×(사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>% {g|Encyclopedia:Bonus}보너스{/g}를 얻으며, 이들의 공격이 막힐 확률이 −15% 감소합니다.
 207	[초안]막을 수 없는 힘
-208	[초안]염동력 계열 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 영향을 받는 적의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 사이커의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 −20 감소한다.
+208	[초안]염동력 계열 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 영향을 받는 적의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 사이커의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 −20 감소합니다.
 209	[초안]현기증
-210	[초안]지정 지점 주위 반경 1칸의 십자형 범위 내 모든 대상이 X의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, −<u>2×X</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Test}판정{/g}을 한다. 판정에 실패한 생명체는 사이커의 다음 턴까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다.\n<i>모든 수식에서 X는 사이커의 지팡이가 부여하는 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 레벨이다.</i>
+210	[초안]지정한 지점 주변 반경 1칸의 십자형 범위 내 모든 대상이 X의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, −<u>2×X</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Test}판정{/g}을 합니다. 판정에 실패한 생명체는 사이커의 다음 턴까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.\n<i>모든 공식에서 X는 사이커의 지팡이가 부여하는 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 수준입니다.</i>
 211	[초안]속박
-212	[초안]사이커 주위 반경 4칸의 원형 범위 내 대상과 사이커 자신이 <u>2×X</u>의 피해를 입고, −<u>2×X</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Test}판정{/g}을 한다. 판정에 실패한 생명체는 사이커의 다음 턴까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다. 사이커는 이 판정에 자동으로 실패한다.\n사이커의 다음 턴 시작 시 사이커에게 이 효과가 반복된다.\n이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킨다.\n<i>모든 수식에서 X는 사이커의 지팡이가 부여하는 이 사이킥 능력의 레벨이다.</i>
+212	[초안]사이커와 사이커 주변 반경 4칸의 원형 범위 내 대상이 <u>2×X</u>의 피해를 입고, −<u>2×X</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Test}판정{/g}을 합니다. 판정에 실패한 생명체는 사이커의 다음 턴까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다. 사이커는 자동으로 판정에 실패합니다.\n사이커의 다음 턴 시작 시 사이커에게 이 효과가 반복됩니다.\n이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킵니다.\n<i>모든 공식에서 X는 사이커의 지팡이가 부여하는 이 사이킥 능력의 수준입니다.</i>
 213	[초안]필사의 결단: 속박
-214	[초안]지정 지점 주위 반경 4칸의 원형 범위 내 적이 <u>2×X</u>의 피해를 입고, −<u>2×X</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Test}판정{/g}을 한다. 판정에 실패한 적은 사이커의 다음 {g|Encyclopedia:Turn}턴{/g}까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다. 사이커의 다음 턴 시작 시 같은 범위에 이 효과가 반복된다.\n<i>모든 수식에서 X는 사이커의 지팡이가 부여하는 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 레벨이다.</i>
+214	[초안]지정한 지점 주변 반경 4칸의 원형 범위 내 적이 <u>2×X</u>의 피해를 입고, −<u>2×X</u>의 불이익이 적용되는 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:Test}판정{/g}을 합니다. 판정에 실패한 적은 사이커의 다음 {g|Encyclopedia:Turn}턴{/g}까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다. 사이커의 다음 턴 시작 시 같은 범위 내에서 이 효과가 반복됩니다.\n<i>모든 공식에서 X는 사이커의 지팡이가 부여하는 이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 수준입니다.</i>
 215	[초안]영웅적 행동: 속박
 216	<u>(10 + 2 × 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
 217	<u>(10 + 2 × 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-218	대상이 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다. 실패하면 즉시 자신의 아군을 공격한다. 이후 {g|f:fa305ba4e2aa48f394608d1ccfc6d385}사이킥 비명{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, 전투 종료 시까지 의지력이 −{uip|WillpowerPenalty|a38a9a446f094782a8bc871ce473024b} 감소한다.\n성공하면 {g|f:fa305ba4e2aa48f394608d1ccfc6d385}사이킥 비명{/g}의 피해만 입고, 전투 종료 시까지 의지력이 −{uip|WillpowerReduction|a38a9a446f094782a8bc871ce473024b} 감소한다.
+218	대상이 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 실패하면 즉시 자신의 아군을 공격합니다. 그 후 {g|f:fa305ba4e2aa48f394608d1ccfc6d385}사이킥 비명{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입고, 전투 종료 시까지 의지력이 −{uip|WillpowerPenalty|a38a9a446f094782a8bc871ce473024b} 감소합니다.\n판정에 성공하면 {g|f:fa305ba4e2aa48f394608d1ccfc6d385}사이킥 비명{/g}의 피해만 입고, 전투 종료 시까지 의지력이 −{uip|WillpowerReduction|a38a9a446f094782a8bc871ce473024b} 감소합니다.
 219	정신 파열
-220	전투 종료 시까지 <b>정신 결속</b>의 대상은 {g|Encyclopedia:WarhammerPerception}지각{/g}, {g|Encyclopedia:WarhammerIntelligence}지능{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g}, {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Test}판정{/g}을 할 때마다 자신과 사이커의 능력치 중 그 시점에 더 높은 쪽을 사용한다.
+220	전투 종료 시까지 <b>정신 결속</b>의 대상이 {g|Encyclopedia:WarhammerPerception}지각{/g}, {g|Encyclopedia:WarhammerIntelligence}지능{/g}, {g|Encyclopedia:WarhammerWillpower}의지력{/g}, {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Test}판정{/g}을 할 때마다, 자신과 사이커의 현재 능력치 중 더 높은 수치를 사용합니다.
 221	정신 결속
 222	<u>(5 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-223	대상이 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다. 성공하면 사이커의 다음 턴 시작 시까지 {g|Encyclopedia:BlindedEffect}실명{/g} 상태만 적용된다.\n대상이 {g|Encyclopedia:Test}판정{/g}에 실패하면 실명 상태가 되고, 실명으로 감소하는 모든 {g|Encyclopedia:Characteristic}능력치{/g}에 −{uip|StatPenalty|8c86972daac142fea33bb3bc5c84396c}의 추가 불이익을 받으며 매 턴 종료 시 의지력 저항 판정을 해야 한다. 첫 번째 성공 시 실명 상태만 남고, 두 번째 성공 시 실명 효과가 사라진다.
+223	대상이 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 성공하면 사이커의 다음 턴 시작 시까지 {g|Encyclopedia:BlindedEffect}실명{/g} 상태만 적용됩니다.\n{g|Encyclopedia:Test}판정{/g}에 실패하면 실명 상태가 되고, 실명으로 감소하는 모든 {g|Encyclopedia:Characteristic}능력치{/g}에 −{uip|StatPenalty|8c86972daac142fea33bb3bc5c84396c}의 추가 불이익이 적용됩니다. 또한 매 턴 종료 시 의지력 저항 판정을 해야 합니다. 처음 성공하면 실명 상태만 남고, 두 번째로 성공하면 실명 효과가 해제됩니다.
 224	감각 박탈
-225	텔레파스는 다른 이의 정신에 접촉하고 이를 통제하는 데 특화된 사이커다. 생각 하나만으로 적의 이성을 파괴하고, 정신이 마비될 만큼 끔찍한 공포를 심거나, 희생자의 생각과 행동을 장악해 꼭두각시처럼 조종할 수 있다.
-226	텔레파시
-227	사이커가 <b>여진</b> 이외의 수단으로 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 줄 때마다 대상은 자신의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시 그 절반만큼 정신 {g|Encyclopedia:DamageGlossary}피해{/g}를 입는다.
+225	정신감응자는 타인의 정신에 접촉하고 통제하는 데 특화된 사이커입니다. 생각 하나만으로 적의 이성을 무너뜨리고, 정신이 마비될 만큼 극심한 공포를 불러일으키거나, 희생자의 정신을 장악하여 생각과 행동을 꼭두각시처럼 조종할 수 있습니다.
+226	정신감응
+227	사이커가 <b>여진</b> 이외의 수단으로 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 줄 때마다, 대상이 자신의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시 해당 피해의 절반만큼 정신 {g|Encyclopedia:DamageGlossary}피해{/g}를 입습니다.
 228	여진
-229	사이커에게 한 번이라도 {g|Encyclopedia:DamageGlossary}피해{/g}를 입은 적은 전투 종료 시까지 해당 사이커에 대한 모든 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 −20의 {g|Encyclopedia:Penalty}불이익{/g}을 받는다.
+229	사이커에게 한 번이라도 {g|Encyclopedia:DamageGlossary}피해{/g}를 입은 적은 전투 종료 시까지 해당 사이커에 대한 모든 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 −20의 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.
 230	정신 돌파
-231	사이커의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 대한 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패한 적은 전투 종료 시까지 정신 {g|Encyclopedia:DamageGlossary}피해{/g}를 입을 때마다 +{uip|Damage|95b11cc99c294b35a151c89ba6805241}의 추가 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입는다.
+231	사이커의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}에 대한 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패한 적은 전투 종료 시까지 정신 {g|Encyclopedia:DamageGlossary}피해{/g}를 입을 때마다 +{uip|Damage|95b11cc99c294b35a151c89ba6805241}의 추가 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입습니다.
 232	정신 포위
 233	<u>(3 + 3 × {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-234	적이 사이커의 개별 {g|Encyclopedia:Ability}능력{/g}의 대상이 처음 될 때마다 전투 종료 시까지 해당 적의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}에 −5의 {g|Encyclopedia:Penalty}불이익{/g}이 적용되고, 사이커의 지능과 지각이 +2 증가한다.
+234	적이 사이커의 특정 {g|Encyclopedia:Ability}능력{/g}의 대상이 처음 될 때마다, 전투 종료 시까지 해당 적의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}에 −5의 {g|Encyclopedia:Penalty}불이익{/g}이 적용되며, 사이커의 지능과 지각이 +2 증가합니다.
 235	정신 도둑
-236	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}으로 대상의 {g|Encyclopedia:HitPoints}체력{/g}을 초과하는 {g|Encyclopedia:DamageGlossary}피해{/g}를 주어 적을 처치할 때마다, 초과 피해가 대상에게 가장 가까운 적에게 가해진다.
+236	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}으로 적의 {g|Encyclopedia:HitPoints}체력{/g}보다 많은 {g|Encyclopedia:DamageGlossary}피해{/g}를 주어 처치하면, 초과 피해가 대상과 가장 가까운 적에게 가해집니다.
 237	고통 전달
-238	사이커의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 대상이 된 적은 전투 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}에 중첩 가능한 −5%의 {g|Encyclopedia:Penalty}불이익{/g}을 받는다.
+238	사이커의 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}의 대상이 된 적은 전투 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}에 −5%의 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다. 중첩됩니다.
 239	파멸의 환영
-240	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 6회 사용할 때마다 모든 적이 전투 종료 시까지 모든 {g|Encyclopedia:Characteristic}능력치{/g}에 중첩 가능한 −5의 {g|Encyclopedia:Penalty}불이익{/g}을 받는다.
+240	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 6회 사용할 때마다, 모든 적의 모든 {g|Encyclopedia:Characteristic}능력치{/g}에 전투 종료 시까지 −5의 {g|Encyclopedia:Penalty}불이익{/g}이 적용됩니다. 중첩됩니다.
 241	정신 왜곡
-242	사이커가 부여한 {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:Stun}기절{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|Encyclopedia:ProneEffect}넘어짐{/g} 효과에 걸린 적이 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가한다.
+242	사이커가 부여한 {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:Stun}기절{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|Encyclopedia:ProneEffect}넘어짐{/g} 효과를 받는 적은 {g|Encyclopedia:DamageGlossary}피해{/g}를 +10% 더 받습니다.
 243	나약한 심장
-244	대상이 <u>(사이커 지팡이 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 대상의 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%)</u>만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 받는다.
+244	대상이 <u>(사이커 지팡이의 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g} + 대상의 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%)</u>만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입습니다.
 245	죽음의 환영 (영웅적 행동)
-246	<u>(사이커 지팡이 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-247	<u>사이커 지팡이 위력 수준</u>
-248	대상은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {uip|Damage1|5a328c19cc214780b878be2183550910} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입는다. 피해 중 체력에 비례하는 부분은 300을 초과할 수 없다. 판정에 성공하면 사이커도 같은 피해를 입는다.\n이 사이킥 능력은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킨다.
+246	<u>(사이커 지팡이의 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
+247	<u>사이커 지팡이의 위력 수준</u>
+248	대상이 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {uip|Damage1|5a328c19cc214780b878be2183550910} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입습니다. 현재 체력에 비례하는 피해는 300을 넘을 수 없습니다. 판정에 성공하면 사이커도 같은 피해를 입습니다.\n이 사이킥 능력은 항상 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}를 일으킵니다.
 249	죽음의 환영 (필사의 결단)
-250	<u>(사이커 지팡이 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-251	대상은 {uip|Damage1|5b19d80b3d694f77b84c2b38a04efe8f} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입는다. 피해 중 체력에 비례하는 부분은 300을 초과할 수 없다.
+250	<u>(사이커 지팡이의 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
+251	대상이 {uip|Damage1|5b19d80b3d694f77b84c2b38a04efe8f} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입습니다. 현재 체력에 비례하는 피해는 300을 넘을 수 없습니다.
 252	죽음의 환영 (영웅적 행동)
-253	<u>(사이커 지팡이 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
-254	대상은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {uip|Damage1|5a328c19cc214780b878be2183550910} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입는다. 피해 중 체력에 비례하는 부분은 300을 초과할 수 없다. 판정에 성공하면 대신 {uip|Damage2|5a328c19cc214780b878be2183550910}의 정신 피해를 입는다.
+253	<u>(사이커 지팡이의 위력 수준 + 사이커의 {g|Encyclopedia:PsyRating}사이 등급{/g})</u>
+254	대상이 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 {uip|Damage1|5a328c19cc214780b878be2183550910} + 현재 {g|Encyclopedia:HitPoints}체력{/g}의 30%만큼 {g|Encyclopedia:MentalDamage}정신 피해{/g}를 입습니다. 현재 체력에 비례하는 피해는 300을 넘을 수 없습니다. 판정에 성공하면 대신 {uip|Damage2|5a328c19cc214780b878be2183550910}의 정신 피해를 입습니다.
 255	죽음의 환영
-256	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 적 하나를 지정하고 처단을 맹세한다. 지정한 적을 향한 다음 공격은 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 막을 수 없다. 이 공격으로 대상을 처치하면 블레이드 댄서가 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|Heal|590c990c1d684fd09ae883754d28a8ac} 회복하고, 이번 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:ActionPoints}행동력{/g} +1과 추가 공격 1회를 얻는다.\n이 {g|Encyclopedia:Ability}능력{/g}은 턴당 여러 번 사용할 수 있지만, {g|Encyclopedia:ActionPoints}행동력{/g} +1과 추가 공격은 {g|Encyclopedia:Round}라운드{/g}당 1회만 얻는다.
+256	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 적 하나를 지목하여 처단을 맹세합니다. 선택한 적을 향한 블레이드 댄서의 다음 공격은 {g|Encyclopedia:DodgeGlossary}회피{/g}하거나 막을 수 없습니다. 이 공격으로 대상을 처치하면 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|Heal|590c990c1d684fd09ae883754d28a8ac} 회복하고, {g|Encyclopedia:ActionPoints}행동력{/g} +1과 이번 {g|Encyclopedia:Turn}턴{/g}의 추가 공격 1회를 얻습니다.\n이 {g|Encyclopedia:Ability}능력{/g}은 턴당 여러 번 사용할 수 있지만, {g|Encyclopedia:ActionPoints}행동력{/g} +1과 추가 공격은 {g|Encyclopedia:Round}라운드{/g}당 한 번만 얻습니다.
 257	피의 맹세
-258	블레이드댄서는 빠른 연속 타격에 특화된 신속하고 치명적인 검의 달인으로, 체력을 일부 희생해 근접 전투 능력을 강화할 수 있다. 블레이드댄서는 적의 공격을 막거나 회피하고, 반격이 오기 전에 빠르게 위치를 바꾸는 전투 방식을 선호한다. 심지어 원거리 공격도 막을 수 있다.\n핵심 요소: 근접, 검, 이동, 회피, 막기.
+258	블레이드댄서는 빠르고 치명적인 검의 달인으로, 신속한 연속 타격에 특화되어 있으며 체력 일부를 희생해 근접 전투 능력을 강화할 수 있습니다. 막기와 회피로 적의 공격을 피하거나 반격하기 전에 빠르게 자리를 옮기며 싸웁니다. 원거리 공격까지 막아낼 수 있습니다.\n주요 분야: 근접, 검, 이동, 회피, 막기.
 259	블레이드 댄서
-260	블레이드 댄서가 원하는 방향을 향한 뒤 즉시 턴을 종료한다. 다음 턴 시작 시까지 이동하지 않고 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있으며, 모든 강제 이동에 면역이 된다. 선택한 방향에서 오는 공격에 대한 {g|Encyclopedia:Parry}막기{/g}가 +20% 증가하고, 인접한 아군을 향한 공격도 막을 수 있다. <b>칼날의 장막</b> 효과를 받는 동안에는 해당 방향에서 오는 원거리 공격도 막을 수 있다(원거리 범위 공격 제외). 원거리 공격의 막기 확률은 공격자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}을 해당 공격의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 같은 값으로 간주하여 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}처럼 계산한다. 이렇게 막은 공격은 선택한 방향의 적 하나에게 되돌릴 수 있다. 되돌릴 확률은 해당 공격에 대한 블레이드 댄서의 막기 확률의 절반이다.\n! 이 {g|Encyclopedia:Ability}능력{/g}은 검을 장비한 상태에서만 사용할 수 있다.
+260	블레이드 댄서가 원하는 방향을 바라보고 즉시 턴을 종료합니다. 다음 턴 시작 시까지 이동하지 않고 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있으며, 모든 강제 이동에 면역이 됩니다. 또한 선택한 방향에서 오는 공격에 대한 {g|Encyclopedia:Parry}막기{/g}가 +20% 증가하고, 인접한 아군을 향한 공격도 막을 수 있습니다. <b>칼날의 장막</b> 효과를 받는 동안에는 해당 방향에서 오는 원거리 공격도 막을 수 있습니다(원거리 범위 공격 제외). 원거리 공격의 막기 확률은 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}과 같은 방식으로 계산하며, 이때 공격자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}은 해당 공격의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 같은 것으로 취급합니다. 이렇게 공격을 막으면 선택한 방향의 적 하나에게 튕겨낼 수 있습니다. 튕겨낼 확률은 해당 공격에 대한 블레이드 댄서의 막기 확률의 절반입니다.\n! 이 {g|Encyclopedia:Ability}능력{/g}은 검을 장비해야 사용할 수 있습니다.
 261	칼날의 장막
 262	<u>(2 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 4)</u>
 263	<u>(1 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 4)</u>
-264	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 인접한 무작위 대상(아군 포함)에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {uip|Attacks|e955823f54d24088ae1fdefe88d3684d}회 가한다. 각 공격은 일반 {g|Encyclopedia:DamageGlossary}피해{/g}의 50%를 준다. <b>검무</b>는 {g|Encyclopedia:Turn}턴{/g}당 공격 횟수 제한에 포함되지 않는 근접 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격이다.\n이 {g|Encyclopedia:Ability}능력{/g}은 검을 장비한 상태에서만 사용할 수 있다. 검 두 자루를 장비했다면 각 검으로 {uip|DualAttack|e955823f54d24088ae1fdefe88d3684d}회씩 공격한다.
+264	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 인접한 무작위 대상에게 아군을 포함하여 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {uip|Attacks|e955823f54d24088ae1fdefe88d3684d}회 가합니다. 각 공격은 일반 {g|Encyclopedia:DamageGlossary}피해{/g}의 50%를 줍니다. <b>검무</b>는 근접 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격이며 {g|Encyclopedia:Turn}턴{/g}당 공격 횟수 제한에 포함되지 않습니다.\n이 {g|Encyclopedia:Ability}능력{/g}은 검을 장비해야 사용할 수 있습니다. 검을 두 자루 장비했다면 각각으로 {uip|DualAttack|e955823f54d24088ae1fdefe88d3684d}회 공격합니다.
 265	검무
-266	이 {g|Encyclopedia:Ability}능력{/g}은 사용 시 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|WoundCost|dd6948ee596346a69733d0bb107c2f42} 소모한다.
+266	이 {g|Encyclopedia:Ability}능력{/g}을 사용하면 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|WoundCost|dd6948ee596346a69733d0bb107c2f42} 소모합니다.
 267	<u>(5 + {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 레벨 / 2)</u>
 268	<u>(5 + 2 × {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
 269	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 + {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스)</u>
 270	<u>(10 + 2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-271	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 다음 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 모든 대상에게 {g|Encyclopedia:BleedingEffect}출혈{/g}({uip|DamageTick|ce30e102719a4671b660ffe5bff7c43d})을 부여한다. 대상은 −{uip|ResistancePenalty|ce30e102719a4671b660ffe5bff7c43d}의 {g|Encyclopedia:Penalty}불이익{/g}이 적용되는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다. <b>사로잡힌 관객</b>으로 이동 불가 상태가 된 모든 적은 그 적에게 인접한 블레이드 댄서와 아군에게 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}를 제공한다.
+271	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 다음 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한 모든 대상에게 {g|Encyclopedia:BleedingEffect}출혈{/g}({uip|DamageTick|ce30e102719a4671b660ffe5bff7c43d})을 부여합니다. 대상들은 −{uip|ResistancePenalty|ce30e102719a4671b660ffe5bff7c43d}의 {g|Encyclopedia:Penalty}불이익{/g}이 적용되는 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1{g|Encyclopedia:Round}라운드{/g} 동안 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다. <b>사로잡힌 관객</b>으로 이동 불가 상태가 된 적은 인접한 블레이드 댄서와 아군에게 {g|Encyclopedia:DetailsOfTheCoverGlossary}완전 엄폐{/g}물로 취급됩니다.
 272	사로잡힌 관객
-273	이 효과가 중첩될 때마다 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 −10%, {g|Encyclopedia:DodgeGlossary}회피{/g}가 −20% 감소한다.
+273	이 효과는 중첩당 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}을 −10%, {g|Encyclopedia:DodgeGlossary}회피{/g}를 −20% 감소시킵니다.
 274	숨 가쁨
-275	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 공중으로 도약해 지정한 칸에 착지한다. 착지 시 인접한 모든 적에게 {uip|DamageTick|6f1b7cfb48a0450cb85ce8a8879502de}의 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.\n블레이드 댄서의 {g|Encyclopedia:LineOfSight}시야{/g} 내 반경 3칸 이내의 비어 있는 칸으로 도약할 수 있다. 이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다. 전투 중 접근할 수 없는 칸으로는 도약할 수 없다.\n이 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}당 여러 번 사용할 수 있지만, 사용할 때마다 충전 횟수를 1회 소모하며 다음 턴 시작 시까지 블레이드 댄서에게 {g|f:542bb296d9c942a8a0fb5583290d3720}숨 가쁨{/g}을 +1중첩 부여한다.\n블레이드 댄서가 대상을 처치할 때마다 이 능력의 충전 횟수를 +1 얻는다(이 능력으로 처치한 경우 제외).\n! 검을 장비한 상태에서만 사용할 수 있다.
+275	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 공중으로 도약하여 선택한 칸에 착지합니다. 착지 시 인접한 모든 적에게 {uip|DamageTick|6f1b7cfb48a0450cb85ce8a8879502de}의 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.\n블레이드 댄서의 {g|Encyclopedia:LineOfSight}시야{/g} 내 반경 3칸 이내의 비어 있는 칸으로 도약할 수 있습니다. 이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않습니다. 전투 중 접근할 수 없는 칸으로는 도약할 수 없습니다.\n이 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}당 여러 번 사용할 수 있지만, 사용할 때마다 충전 횟수를 소모하며 다음 턴 시작 시까지 블레이드 댄서에게 {g|f:542bb296d9c942a8a0fb5583290d3720}숨 가쁨{/g}이 +1 중첩됩니다.\n블레이드 댄서가 대상을 처치할 때마다 이 능력의 충전 횟수를 +1 얻습니다(이 능력으로 처치한 경우 제외).\n! 검을 장비해야 사용할 수 있습니다.
 276	죽음의 강하
 277	<u>(10 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
 278	<u>(20 + 2 × {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스)</u>
-279	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 아군 하나를 선택한다. 전투 종료 시까지 해당 아군을 이미 공격한 적을 블레이드 댄서가 공격할 때 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CriticalChance|3774147440ac412a876725b9b2b24682}%, 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|CriticalDamage|3774147440ac412a876725b9b2b24682}% 증가한다.\n이 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}당 여러 번 사용할 수 있지만, {g|Encyclopedia:Bonus}보너스{/g}는 중첩되지 않는다.
+279	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 아군 하나를 선택합니다. 전투 종료 시까지 해당 아군을 이미 공격한 적에게 블레이드 댄서가 공격하면 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CriticalChance|3774147440ac412a876725b9b2b24682}%, 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|CriticalDamage|3774147440ac412a876725b9b2b24682}% 증가합니다.\n이 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}당 여러 번 사용할 수 있지만, {g|Encyclopedia:Bonus}보너스{/g}는 중첩되지 않습니다.
 280	복수의 맹세
-281	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 자신의 {g|Encyclopedia:Turn}턴{/g}을 시작한 칸으로 즉시 돌아간다. 이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다. 이번 턴에 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용했다면, 해당 {g|Encyclopedia:Ability}능력{/g}의 모든 사용을 역순으로 반복하며 이동한다.
+281	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 자신의 {g|Encyclopedia:Turn}턴{/g}을 시작한 칸으로 즉시 돌아갑니다. 이 이동은 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않습니다. 이번 턴에 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용했다면, 해당 {g|Encyclopedia:Ability}능력{/g}으로 이동한 모든 경로를 역순으로 되짚습니다.
 282	곡예의 경지
 283	<u>{g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>
-284	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 공격을 {g|Encyclopedia:Parry}막을{/g} 때마다 다음 {g|f:de2fa09b36314b2dafe09c3e8354d214}검무{/g}의 공격 횟수가 +1 증가한다. 이 효과는 최대 {uip|agiB|7d51ba40347341b38cd181fb18097edb}회 중첩된다.
+284	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 공격을 {g|Encyclopedia:Parry}막기{/g}로 막아낼 때마다 다음 {g|f:de2fa09b36314b2dafe09c3e8354d214}검무{/g}의 공격 횟수가 +1 증가합니다. 이 효과는 최대 {uip|agiB|7d51ba40347341b38cd181fb18097edb}회 중첩됩니다.
 285	회전하는 칼날
-286	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 자신을 처음 공격하는 적의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g} 충전 횟수를 +1 얻는다.
+286	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 자신을 처음 공격하는 적의 공격을 {g|Encyclopedia:DodgeGlossary}회피{/g}할 때마다 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g} 충전 횟수를 +1 얻습니다.
 287	탈출의 달인
-288	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만인 동안 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +12%, {g|Encyclopedia:MovementPoints}이동력{/g}이 +3 증가한다.\n또한 전투 중 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태인 아군 한 명당 블레이드 댄서의 회피가 +8%, {g|Encyclopedia:MovementPoints}이동력{/g}이 +2 증가한다.
+288	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이면 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +12%, {g|Encyclopedia:MovementPoints}이동력{/g}이 +3 증가합니다.\n또한 전투 중 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태인 아군 하나당 회피가 +8%, {g|Encyclopedia:MovementPoints}이동력{/g}이 +2 증가합니다.
 289	그림자 무희
-290	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 현재 입은 {g|Encyclopedia:Injury}부상{/g} 하나당 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 각각 +3 증가하고, {g|Encyclopedia:Traumas}중상{/g} 하나당 근접술과 민첩이 각각 +10 증가한다(최대 +40).
+290	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 현재 입은 {g|Encyclopedia:Injury}부상{/g} 하나당 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 각각 +3, {g|Encyclopedia:Traumas}중상{/g} 하나당 근접술과 민첩이 각각 +10 증가합니다(최대 +40).
 291	종말을 마주하다
 292	<u>(5 + 의술 / 10)</u>
-293	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:SkillMedicae}의술{/g}이 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 대신 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}을 기준으로 결정된다(근접술이 더 높은 경우). 블레이드 댄서의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +{uip|crit_damage|8b435fb7e4bb42d0951171f008bfd98a}% 증가하고, 의술 기술 향상이나 해당 특성 또는 {g|Encyclopedia:Talent}재능{/g}을 보유한 것처럼 의료 키트를 사용할 수 있다.
+293	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:SkillMedicae}의술{/g}이 이제 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 대신 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}을 기준으로 결정됩니다(근접술이 더 높을 경우). {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 피해{/g}가 +{uip|crit_damage|8b435fb7e4bb42d0951171f008bfd98a}% 증가하며, 의술 기량 향상이나 해당 특성 또는 {g|Encyclopedia:Talent}재능{/g}을 보유한 것처럼 구급상자를 사용할 수 있습니다.
 294	죽음의 파수꾼
 295	<u>(10 + 블레이드 댄서의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
-296	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}에게 공격받은 적의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}이 블레이드 댄서의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 −{uip|debuff|9ad18a41c7e444669fc38fae80ce344d} 감소한다. 이 {g|Encyclopedia:Penalty}불이익{/g}은 중첩되지 않는다.
+296	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 공격한 적의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerPerception}지각{/g}이 블레이드 댄서의 다음 {g|Encyclopedia:Turn}턴{/g} 시작 시까지 −{uip|debuff|9ad18a41c7e444669fc38fae80ce344d} 감소합니다. 이 {g|Encyclopedia:Penalty}불이익{/g}은 중첩되지 않습니다.
 297	눈부신 칼날
-298	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 적을 처치할 때마다 즉시 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g} 충전 횟수를 +1 얻는다.
+298	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 적을 처치할 때마다 즉시 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g} 충전 횟수를 +1 얻습니다.
 299	살육의 박자
 300	<u>(5 + 블레이드 댄서의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
-301	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장비한 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|damage|ddb7472f001f49368711d68fd21cb7cc}% 증가한다.
+301	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 장비한 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|damage|ddb7472f001f49368711d68fd21cb7cc}% 증가합니다.
 302	결투가
-303	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:HitPoints}체력{/g}을 소모하는 {g|Encyclopedia:Ability}능력{/g}을 사용할 때마다 소모한 체력의 절반만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻는다. 능력 비용을 줄이는 효과로는 획득하는 임시 체력의 양이 감소하지 않는다.
+303	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:HitPoints}체력{/g}을 소모하는 {g|Encyclopedia:Ability}능력{/g}을 사용할 때마다 소모한 체력의 절반만큼 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 얻습니다. 능력 비용을 감소시키는 효과로는 얻는 임시 체력의 양이 줄어들지 않습니다.
 304	고통 불감
-305	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 적을 총 네 명 처치하면 다음에 사용하는 {g|Encyclopedia:HitPoints}체력{/g} 소모 {g|Encyclopedia:Ability}능력{/g}은 체력을 소모하지 않고 대신 체력을 {uip|Heal|bc9759f0c41a4a3e84300557bea51dea} 회복한다.
+305	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 총 네 명의 적을 처치하면, 다음번에 {g|Encyclopedia:HitPoints}체력{/g}을 소모하는 {g|Encyclopedia:Ability}능력{/g}을 사용할 때 체력을 소모하지 않고 대신 {uip|Heal|bc9759f0c41a4a3e84300557bea51dea} 회복합니다.
 306	피로 치른 대가
 307	<u>(5 + 2 × {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
 308	<u>{g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스</u>
-309	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 매 {g|Encyclopedia:Round}라운드{/g}에 처음 치유받을 때 {g|Encyclopedia:HitPoints}체력{/g}을 +{uip|heal|a9c5a3fddff74273bbfcb9431260b95f} 추가로 회복하고, 전투 종료 시까지 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +10 증가한다. 중첩된다.
+309	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 매 {g|Encyclopedia:Round}라운드{/g} 처음 치유받을 때 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 +{uip|heal|a9c5a3fddff74273bbfcb9431260b95f} 회복하며, 전투 종료 시까지 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +10 증가합니다. 중첩됩니다.
 310	축복받은 흉터
 311	무자비 — 체력 손실
 312	무자비 — 부상 또는 중상
-313	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:HitPoints}체력{/g}을 조금이라도 잃으면 다음 공격의 피해가 +{uip|DamageBonusWounds|d6e4a21bf78c494e8e9b3d3b6ecca169}% 증가한다. 그 체력 손실로 부상이나 중상을 입었다면 추가 피해가 +{uip|DamageBonusInjury|d6e4a21bf78c494e8e9b3d3b6ecca169}%로 증가한다.
+313	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:HitPoints}체력{/g}을 조금이라도 잃으면 다음 공격의 피해가 +{uip|DamageBonusWounds|d6e4a21bf78c494e8e9b3d3b6ecca169}% 증가합니다. 이 체력 손실로 부상이나 중상을 입었다면 추가 피해가 +{uip|DamageBonusInjury|d6e4a21bf78c494e8e9b3d3b6ecca169}%로 증가합니다.
 314	무자비
 315	<u>(5 + {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
 316	<u>(10 + 2 × {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
-317	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 공격할 때마다 이번 {g|Encyclopedia:Turn}턴{/g}에 이후 가하는 모든 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +5% 증가한다. 이 효과는 최대 3회 중첩된다. 범위 공격, 연사 공격({g|f:e955823f54d24088ae1fdefe88d3684d}검무{/g} 포함), 그 밖의 여러 번 명중하는 모든 공격은 공격 1회로 취급한다.
+317	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 공격할 때마다 이번 {g|Encyclopedia:Turn}턴{/g}에 이후 가하는 모든 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +5% 증가합니다. 이 효과는 최대 3회 중첩됩니다. 범위 공격, 연사 공격({g|f:e955823f54d24088ae1fdefe88d3684d}검무{/g} 포함), 여러 번 명중하는 그 밖의 모든 공격은 공격 1회로 취급합니다.
 318	고조되는 박자
-319	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g} 비용이 −1 {g|Encyclopedia:ActionPoints}행동력{/g} 감소한다(최소 1).
+319	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:AreaOfEffect}범위 공격{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 비용이 −1 감소합니다(최소 1).
 320	휩쓰는 몸짓
-321	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 한 전투에서 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}과 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 모두 사용할 수 있다(같은 {g|Encyclopedia:Round}라운드{/g}에는 불가). 필사의 결단을 사용할 때마다 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10, {g|Encyclopedia:Resolve}결의{/g}가 +3 증가한다.
+321	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 한 전투에서 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}과 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}을 모두 사용할 수 있습니다(같은 {g|Encyclopedia:Round}라운드{/g}에는 사용 불가). 필사의 결단을 사용할 때마다 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +10, {g|Encyclopedia:Resolve}결의{/g}가 +3 증가합니다.
 322	칼끝 위의 균형
-323	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:Parry}막기{/g}가 +{uip|tghB|2516c27aa5f442fa865e659886386fb0}% 증가한다. 공격자와 블레이드 댄서의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} {g|Encyclopedia:Characteristic}능력치{/g} 차이로 결정되는 공격자의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g} 보너스가 절반으로 감소한다.
+323	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:Parry}막기{/g}가 +{uip|tghB|2516c27aa5f442fa865e659886386fb0}% 증가합니다. 공격자와 블레이드 댄서의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} {g|Encyclopedia:Characteristic}능력치{/g} 차이로 결정되는 공격자의 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g} 보너스가 절반으로 감소합니다.
 324	흔들림 없는 손
 325	<u>{g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스</u>
 326	<u>(블레이드 댄서의 {g|Encyclopedia:DodgeGlossary}회피{/g} / 10)</u>
-327	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +{uip|dodge|6bf8e78919cb4855ac4a75edc712775a} 증가한다.
+327	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +{uip|dodge|6bf8e78919cb4855ac4a75edc712775a} 증가합니다.
 328	죽음과의 경주
-329	{g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}가 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만인 적에게 2배의 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+329	{g|Encyclopedia:HitPoints}체력{/g}이 50% 미만인 적에게 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}가 2배의 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
 330	단두대
-331	{g|f:de2fa09b36314b2dafe09c3e8354d214}검무{/g}의 모든 타격이 같은 대상을 향하면 마지막 타격이 2배의 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+331	{g|f:de2fa09b36314b2dafe09c3e8354d214}검무{/g}의 모든 타격이 같은 대상을 향하면, 마지막 타격이 2배의 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다.
 332	둘만의 춤
-333	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 적을 처치할 때마다 전투 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}가 +1 증가한다.
+333	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 적을 처치할 때마다 전투 종료 시까지 {g|Encyclopedia:Resolve}결의{/g}가 +1 증가합니다.
 334	피의 진혼곡
-335	{g|f:a29aa37a4db3485fb5a0ee7b7515e0dd}피의 맹세{/g}가 {g|Encyclopedia:ActionPoints}행동력{/g}을 +1 추가로 회복한다.
+335	{g|f:a29aa37a4db3485fb5a0ee7b7515e0dd}피의 맹세{/g}가 {g|Encyclopedia:ActionPoints}행동력{/g}을 추가로 +1 회복합니다.
 336	피의 약속
 337	<u>(10 + {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>
-338	{g|f:8a3834391538418fa35ad73861da942f}사로잡힌 관객{/g}에 영향을 받는 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}가 전투 종료 시까지 −{uip|agiB|da7849a95bb04d44978710ca711ad4d7}% 감소한다. 해당 {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패한 대상은 이 {g|Encyclopedia:Penalty}불이익{/g}이 2배로 적용된다.
+338	{g|f:8a3834391538418fa35ad73861da942f}사로잡힌 관객{/g}의 영향을 받는 대상은 전투 종료 시까지 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}가 −{uip|agiB|da7849a95bb04d44978710ca711ad4d7}% 감소합니다. 이 {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패한 대상은 이 {g|Encyclopedia:Penalty}불이익{/g}이 2배가 됩니다.
 339	화려한 공연
-340	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|f:fba331366f474215812e3633e016c459}곡예의 경지{/g}를 사용할 때마다 자신의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}이 +<u>(5 + {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>% 증가한다. 블레이드 댄서의 턴({g|Encyclopedia:ExtraTurn}추가 턴{/g} 포함) 중 적이 가하는 모든 공격에 대해서는 이 보너스가 2배로 적용된다.
+340	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|f:fba331366f474215812e3633e016c459}곡예의 경지{/g}를 사용할 때마다 자신의 다음 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}이 +<u>(5 + {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>% 증가합니다. 블레이드 댄서의 턴({g|Encyclopedia:ExtraTurn}추가 턴{/g} 포함) 중 적이 가하는 모든 공격에 대해서는 이 보너스가 2배가 됩니다.
 341	유유한 이탈
-342	{g|f:2cb163315827418eb6708fb9f8f79d9f}복수의 맹세{/g}의 대상이 된 모든 아군이 효과가 적용된 모든 적을 상대로 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}와 같은 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+342	{g|f:2cb163315827418eb6708fb9f8f79d9f}복수의 맹세{/g}의 대상이 된 모든 아군은 영향을 받는 모든 적을 상대로 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}와 같은 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 343	피의 유대
-344	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|f:0e1aff9bec3c49e2996001be4f56a3de}칼날의 장막{/g} 효과를 받는 동안 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:Parry}막을{/g} 때마다 공격자에게 일반 {g|Encyclopedia:DamageGlossary}피해{/g}의 50%를 준다. 또한 {g|f:0e1aff9bec3c49e2996001be4f56a3de}칼날의 장막{/g} 효과를 받는 동안 원거리 공격을 적에게 되돌릴 확률이 +20% 증가한다.
+344	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|f:0e1aff9bec3c49e2996001be4f56a3de}칼날의 장막{/g} 효과를 받는 동안 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 {g|Encyclopedia:Parry}막기{/g}로 막아낼 때마다 공격자에게 일반 {g|Encyclopedia:DamageGlossary}피해{/g}의 50%를 줍니다. 또한 {g|f:0e1aff9bec3c49e2996001be4f56a3de}칼날의 장막{/g} 효과를 받는 동안 원거리 공격을 적에게 튕겨낼 확률이 +20% 증가합니다.
 345	예측
 346	<u>{g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>
-347	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 검 두 자루를 장비한 동안 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +{uip|agiB|e8348519866444ad9093c91f9cbc8ba5} 증가한다.
+347	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 검 두 자루를 장비하고 있는 동안 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +{uip|agiB|e8348519866444ad9093c91f9cbc8ba5} 증가합니다.
 348	춤의 동반자
 349	<u>{g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g}</u>
-350	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 검으로 가하는 모든 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|damage|d4be859eb6d84504aeed852ef248f6fa}% 증가한다. 양손검을 사용하면 이 추가 피해가 2배로 적용된다.
+350	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 검으로 가하는 모든 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|damage|d4be859eb6d84504aeed852ef248f6fa}% 증가합니다. 양손검을 사용하면 이 추가 피해가 2배가 됩니다.
 351	그분의 손에 들린 칼날
-352	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:HitPoints}체력{/g}을 소모하는 {g|Encyclopedia:Ability}능력{/g}을 사용할 때마다 이번 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 +3 얻는다.
+352	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:HitPoints}체력{/g}을 소모하는 {g|Encyclopedia:Ability}능력{/g}을 사용할 때마다 현재 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}을 +3 얻습니다.
 353	피의 질주
-354	블레이드 댄서의 아군이 적을 처치할 때마다 블레이드 댄서의 다음 턴 이동력이 +2 증가한다.
+354	블레이드 댄서의 아군이 적을 처치할 때마다 블레이드 댄서의 다음 턴 이동력이 +2 증가합니다.
 355	죽음의 발자취
 356	죽음의 왈츠 — 타격
 357	죽음의 왈츠 — 도약
-358	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}을 사용한 후 무작위 {g|Encyclopedia:Traumas}중상{/g}을 1개 입는다.
+358	{g|Encyclopedia:DesperateMeasure}필사의 결단{/g}을 사용한 후 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 무작위 {g|Encyclopedia:Traumas}중상{/g}을 1개 입습니다.
 359	<u>(2 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 3)</u>
-360	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 충전 횟수를 소모하지 않고 지정한 적에게 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용한 뒤 즉시 해당 적에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가한다. 공격 가능한 무작위 대상을 상대로 이 연계를 최대 {uip|Repeats|d52b8f3b44434f2798cd3a01c97fd1ed}회 반복한다. {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용할 수 없다면 공격 가능한 무작위 대상에게 근접 공격만 가한다(같은 적을 공격할 수 있다).
+360	{g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 충전 횟수를 소모하지 않고 지정한 적에게 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용한 뒤, 즉시 해당 적에게 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 가합니다. 공격 가능한 무작위 대상을 상대로 이 연계를 최대 {uip|Repeats|d52b8f3b44434f2798cd3a01c97fd1ed}회 반복합니다. {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}를 사용할 수 없으면 공격 가능한 무작위 대상에게 근접 공격만 가합니다(같은 적을 공격할 수 있습니다).
 361	죽음의 왈츠
-362	{g|f:916fcf40f9cc410f9b0a810516089207}죽음의 왈츠{/g}를 사용하면 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 체력이 즉시 전부 회복된다. 전투 종료 시까지 {g|Encyclopedia:HitPoints}체력{/g}을 소모하는 {g|Encyclopedia:Ability}능력{/g}의 비용이 절반으로 감소한다.
+362	{g|f:916fcf40f9cc410f9b0a810516089207}죽음의 왈츠{/g} 사용 시 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}가 즉시 체력을 전부 회복합니다. 전투 종료 시까지 {g|Encyclopedia:HitPoints}체력{/g}을 소모하는 {g|Encyclopedia:Ability}능력{/g}의 비용이 절반으로 감소합니다.
 363	죽음의 왈츠 (강화 I)
-364	{g|f:916fcf40f9cc410f9b0a810516089207}죽음의 왈츠{/g}가 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}에게 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g} 충전 횟수를 +4 추가로 부여한다. 전투 종료 시까지 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|agiB|7d51ba40347341b38cd181fb18097edb} 증가한다.
+364	{g|f:916fcf40f9cc410f9b0a810516089207}죽음의 왈츠{/g}가 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}에게 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g} 충전 횟수 +4를 추가로 부여합니다. 전투 종료 시까지 {g|f:c3d6e29e74e440a79cb243e4e93e0501}죽음의 강하{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|agiB|7d51ba40347341b38cd181fb18097edb} 증가합니다.
 365	죽음의 왈츠 (강화 II)
 366	<u>(2 + {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Bonus}보너스{/g} / 2)</u>
-367	전투 종료 시까지 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 타격({g|f:916fcf40f9cc410f9b0a810516089207}죽음의 왈츠{/g}의 일부로 가하는 공격 포함)이 적의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}을 −{uip|agiB/2|7bbed20878bb48f8bb4f1e8fe0fb1904} 감소시키고, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}를 −{uip|agiB/2|7bbed20878bb48f8bb4f1e8fe0fb1904}% 감소시킨다. 이 {g|Encyclopedia:Penalty}불이익{/g}은 중첩된다.
+367	전투 종료 시까지 {g|Encyclopedia:CareerBladedancerGlossary}블레이드 댄서{/g}의 타격({g|f:916fcf40f9cc410f9b0a810516089207}죽음의 왈츠{/g}의 공격 포함)이 적의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}을 −{uip|agiB/2|7bbed20878bb48f8bb4f1e8fe0fb1904}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}를 −{uip|agiB/2|7bbed20878bb48f8bb4f1e8fe0fb1904}% 감소시킵니다. 이 {g|Encyclopedia:Penalty}불이익{/g}은 중첩됩니다.
 368	죽음의 왈츠 (강화 III)
-369	적을 처치한 후 {g|f:916fcf40f9cc410f9b0a810516089207}죽음의 왈츠{/g}를 사용하면 전투 종료 시까지 블레이드 댄서의 회피가 +3% 증가한다. 최대 {unit_stat|WarhammerAgility|bonus}회 중첩된다.
+369	적을 처치한 후 {g|f:916fcf40f9cc410f9b0a810516089207}죽음의 왈츠{/g}를 사용하면 전투 종료 시까지 블레이드 댄서의 회피가 +3% 증가합니다. 최대 {unit_stat|WarhammerAgility|bonus}회 중첩됩니다.
 370	죽음의 왈츠 (강화 IV)

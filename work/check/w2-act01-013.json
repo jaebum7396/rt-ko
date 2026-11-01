@@ -1,7 +1,7 @@
 {"errors": [],
 "warnings": [
- {"n": 8, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 8, "code": "glossary", "detail": "order -> 명령/교단 not found"},
+ {"n": 8, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 57, "code": "glossary", "detail": "order -> 명령/교단 not found"},
  {"n": 62, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 85, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},

@@ -33,9 +33,9 @@
 
 | 원문 | 번역기 패치 | 이 패치 |
 |---|---|---|
-| Once the wearer's wounds drop below 50% for the first time in combat, they immediately gain temporary wounds equal to their missing wounds. | 착용자의 상처가 전투에서 처음으로 50% 미만으로 떨어지면 즉시 잃어버린 상처와 동일한 임시 상처를 얻습니다. | 전투 중 착용자의 체력이 처음으로 50% 미만이 되면 잃은 체력만큼 즉시 임시 체력을 얻는다. |
-| This creature restores 10 wounds each time they suffer shock damage. | 이 생물은 충격 피해를 입을 때마다 10 상처를 회복합니다. | 이 크리처는 감전 피해를 입을 때마다 체력 10을 회복한다. |
-| Grants +5 temporary wounds and +2 to all types of damage dealt for each stack of dark blessing until the end of combat. | 전투가 끝날 때까지 어둠의 축복 스택 하나당 +5의 임시 상처와 모든 유형의 피해에 +2를 부여합니다. | 전투 종료 시까지 어둠의 축복 중첩마다 임시 체력 +5를 얻고, 가하는 모든 유형의 피해가 +2 증가한다. |
+| Once the wearer's wounds drop below 50% for the first time in combat, they immediately gain temporary wounds equal to their missing wounds. | 착용자의 상처가 전투에서 처음으로 50% 미만으로 떨어지면 즉시 잃어버린 상처와 동일한 임시 상처를 얻습니다. | 전투 중 처음으로 착용자의 체력이 50% 미만으로 떨어지면 잃은 체력만큼 즉시 임시 체력을 얻습니다. |
+| This creature restores 10 wounds each time they suffer shock damage. | 이 생물은 충격 피해를 입을 때마다 10 상처를 회복합니다. | 이 생명체는 감전 피해를 받을 때마다 체력을 10 회복합니다. |
+| Grants +5 temporary wounds and +2 to all types of damage dealt for each stack of dark blessing until the end of combat. | 전투가 끝날 때까지 어둠의 축복 스택 하나당 +5의 임시 상처와 모든 유형의 피해에 +2를 부여합니다. | 전투 종료 시까지 어둠의 축복 중첩당 임시 체력 +5를 얻고, 주는 모든 유형의 피해가 +2 증가합니다. |
 
 ### 대사
 

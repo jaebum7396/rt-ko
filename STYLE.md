@@ -34,9 +34,12 @@
 
 ## 4. 기술·아이템·특성 설명
 - 수치, 조건, 대상, 범위, 지속 시간, 중첩, 횟수를 정확히 옮긴다. 뭉개거나 빼지 않는다. 지속 시간이 어느 효과에 걸리는지 원문 그대로 둔다.
-- 같은 효과는 늘 같은 문장틀로 쓴다: "~을 얻는다", "~이 X 증가한다/감소한다", "다음 턴 시작 시까지", "전투당 1회", "X칸 이내의 아군".
+- 같은 효과는 늘 같은 문장틀로 쓴다: "~을 얻습니다", "~이 X 증가합니다/감소합니다", "다음 턴 시작 시까지", "전투당 1회", "X칸 이내의 아군".
 - 게임 용어는 용어집 그대로 쓴다. `{g|…}` 링크 안 글자도 용어집과 같아야 한다.
-- 설명문은 "~한다/~된다"로 끝낸다.
+- **게임 설명과 UI는 존댓말(합쇼체)로 쓴다.** 아이템·기술·특성·상태 설명, 백과사전, 튜토리얼, 설정, 확인 창, 안내 문구 전부: "~합니다", "~됩니다", "~입니다", 질문은 "~하시겠습니까?", 안내는 "~하십시오"/"~하세요". 이야기 서술(대사 속 `{n}`, 이벤트 서술)만 해라체.
+- **번역체 금지:** 영어 구조를 그대로 옮기지 말고 한국 게임에서 쓰는 말로 다시 쓴다.
+  - "Choosing this difficulty is not recommended for players not familiar with Rogue Trader's system as well as its implementation in this game. Do you confirm your choice?" → (X) 로그 트레이더의 시스템과 이 게임에서의 구현 방식에 익숙하지 않은 플레이어에게는 이 난이도를 권장하지 않는다. 이 난이도를 선택할까? → (O) 로그 트레이더 규칙과 이 게임의 방식에 익숙하지 않다면 추천하지 않습니다. 이 난이도로 시작하시겠습니까?
+  - "~에서의", "~에 있어서", "~하는 것은 ~이다", "~에 의해", 불필요한 "그/그녀/당신의"를 피한다.
 
 ## 5. 태그
 - `{g|Encyclopedia:X}글자{/g}`, `{d|X}글자{/d}`: 태그는 그대로 두고 글자만 번역한다.
@@ -61,7 +64,7 @@ Abelard Werserian 아벨라드 버세리안 · Argenta 아젠타 (호칭 포함:
 bolter 볼터 · bolt pistol 볼트 피스톨 · lasgun 라스건 · laspistol 라스피스톨 · autogun 오토건 · stubber 스터버 · shotgun 샷건 · flamer 플레이머 · melta 멜타 · plasma gun 플라스마 건 · inferno pistol 인페르노 피스톨 · chainsword 체인소드 · power sword 파워 소드 · power axe 파워 액스 · thunder hammer 썬더 해머 · lance (함선 무장) 랜스 · carapace armour 카라페이스 아머 · flak armour 플랙 아머 · power armour 파워 아머 · refractor field 굴절장 · frag grenade 파편 수류탄 · krak grenade 크랙 수류탄
 
 ### 능력치·전투
-Weapon Skill 근접술 · Ballistic Skill 사격술 · Strength 근력 · Toughness 강인함 · Agility 민첩 · Intelligence 지능 · Perception 지각 · Willpower 의지력 · Fellowship 친화력 · Wounds 체력 · Armour 방어도 · Deflection 피해 감소 · Dodge 회피 · Parry 막기 · Cover 엄폐 · Overwatch 경계 사격 · Action Points 행동력 · Movement Points 이동력 · Momentum 원동력✓ · Heroic Act 영웅적 행동✓ · Desperate Measure 필사의 결단✓ · Righteous Fury 정의의 분노 · critical hit 치명타 · burst fire 연사 · Veil 베일✓ · Veil Degradation 베일 손상✓ · Perils of the Warp 페릴 오브 더 워프✓ · psychic 사이킥 · Talent 재능 · Archetype 아키타입✓ · Warrior 워리어✓ · Officer 오피서✓ · Operative 오퍼러티브✓ · Soldier 솔져✓ · Origin 오리진✓ · Homeworld 홈월드✓
+Weapon Skill 근접술 · Ballistic Skill 사격술 · Strength 근력 · Toughness 강인함 · Agility 민첩 · Intelligence 지능 · Perception 지각 · Willpower 의지력 · Fellowship 친화력 · Wounds 체력 · Armour 방어도 · Deflection 피해 감소 · Dodge 회피 · Parry 막기 · Cover 엄폐 · Overwatch 경계 사격 · Action Points 행동력 · Movement Points 이동력 · Momentum 원동력✓ · Heroic Act 영웅적 행동✓ · Desperate Measure 필사의 결단✓ · Righteous Fury 정의의 분노 · critical hit 치명타 · burst fire 연사 · Veil 베일✓ · Veil Degradation 베일 손상✓ · Perils of the Warp 페릴 오브 더 워프✓ · psychic 사이킥 · Talent 재능 · Archetype 아키타입✓ · Warrior 워리어✓ · Officer 오피서✓ · Operative 오퍼러티브✓ · Soldier 솔져✓ · Origin 기원 · Homeworld 홈월드✓
 
 ### 상태
 Bleeding 출혈 · Burning 화상 · Toxin 중독 · Pinned 제압 · Stunned 기절 · Prone 넘어짐 · Fear 공포

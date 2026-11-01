@@ -399,8 +399,6 @@ class Glossary(object):
         hits, seen = [], set()
         for n in sorted(cand):
             fn, eng, kor, note, rtoks = self.rows[n]
-            if fn == 'names.tsv' and not use_names:
-                continue
             if fn.endswith('.w1.tsv') and use_names:   # common-word game terms: system text only, not dialogue
                 continue
             if not all(t in toks for t in rtoks):

@@ -1,269 +1,269 @@
-1	각 {g|Encyclopedia:Career}아키타입{/g}에는 캐릭터가 전투에서 사용할 수 있는 고유 능력이 여러 개 있다. 캐릭터는 레벨이 오르면 능력을 습득한다.
+1	각 {g|Encyclopedia:Career}아키타입{/g}에는 전투 중 사용할 수 있는 고유 능력이 여러 개 있습니다. 캐릭터는 레벨이 오르면 능력을 습득합니다.
 2	능력
-3	<b>방어도</b>는 받는 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄이는 수치 중 하나다. 캐릭터의 방어구가 줄여 주는 피해의 비율을 나타내며, 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 {g|Encyclopedia:Deflection}피해 감소{/g}를 적용한 뒤 남은 피해에서 해당 비율만큼 차감한다.
+3	<b>방어도</b>는 받는 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄이는 수치 중 하나입니다. 캐릭터의 방어구가 줄여 주는 피해의 비율을 나타내며, 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 {g|Encyclopedia:Deflection}피해 감소{/g}를 적용한 뒤 남은 피해에서 해당 비율만큼 차감합니다.
 4	방어도
-5	엔진 {g|Encyclopedia:ShipComponentsGlossary}함선 부품{/g}의 이 수치는 함선의 가속 단계와 종료 단계의 길이 및 각 구역의 크기를 결정한다. 가속력과 감속력이 강한 엔진일수록 가속 구역과 이동 종료 구역이 넓어진다.
+5	엔진 {g|Encyclopedia:ShipComponentsGlossary}함선 부품{/g}의 이 수치는 함선의 가속 단계와 종료 단계 길이 및 각 구역의 크기를 결정합니다. 가속과 감속 성능이 뛰어난 엔진일수록 가속 구역과 이동 종료 구역이 넓습니다.
 6	가속과 제동
-7	함선 이동의 첫 단계로, 가장 옅은 색의 구역으로 표시된다. 일부 능력은 함선이 가속 구역에 있을 때만 사용할 수 있다.
+7	함선 이동의 첫 단계로, 가장 옅은 색의 구역으로 표시됩니다. 일부 능력은 함선이 가속 구역에 있을 때만 사용할 수 있습니다.
 8	가속 단계
-9	함선이 이 이상 지대에 진입하면 보이드 실드가 완전히 회복되고 강도가 증가한다. 함선의 무기 중 무작위로 2개가 비활성화되며, 지대를 벗어나면 다시 활성화된다. 또한 일정 확률로 함내 화재가 발생한다.\n보이드 실드: +20%
+9	함선이 이 이상 지대에 진입하면 보이드 실드가 완전히 회복되고 강도가 증가합니다. 무작위 무기 2개는 지대를 벗어날 때까지 사용할 수 없게 됩니다. 또한 함내 화재가 발생할 수 있습니다.\n보이드 실드: +20%
 10	행동력
-11	이상 지대는 우주전에서 나타나는 특수 구역이다. 이상 지대에는 여러 종류가 있다.\n-<indent=5%>가스와 먼지 구름</indent>\n-<indent=5%>소행성 지대</indent>\n-<indent=5%>하전 입자 집적 지대</indent>\n-<indent=5%>폭발성 공허 성운</indent>\n각 지대의 지름은 5칸, 11칸, 15칸 중 하나다.
-12	{g|Encyclopedia:AreaOfEffect}범위 공격{/g}은 효과 범위 안의 모든 생명체에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기, 일부 {g|Encyclopedia:Range}원거리{/g} 무기, 특수 {g|Encyclopedia:Ability}능력{/g}으로 범위 공격을 할 수 있다.\n<i>! {g|Encyclopedia:BurstAttacks}연사{/g}는 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}에 해당하지 <b>않는다</b>.</i>
+11	이상 지대는 우주전에서 등장하는 특수 구역입니다. 이상 지대에는 다음과 같은 종류가 있습니다.\n-<indent=5%>가스 및 먼지 구름</indent>\n-<indent=5%>소행성 지대</indent>\n-<indent=5%>하전 입자 밀집 지대</indent>\n-<indent=5%>폭발성 공허 성운</indent>\n각 지대의 지름은 5, 11, 15칸 중 하나입니다.
+12	{g|Encyclopedia:AreaOfEffect}범위 공격{/g}은 효과 범위 안의 모든 생명체에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다. {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기, 일부 {g|Encyclopedia:Range}원거리{/g} 무기, 특수 {g|Encyclopedia:Ability}능력{/g}으로 범위 공격을 할 수 있습니다.\n<i>! {g|Encyclopedia:BurstAttacks}연사{/g}는 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}으로 간주하지 <b>않습니다</b>.</i>
 13	범위 공격
-14	무기의 주요 수치 중 하나로, 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 얼마나 낮출 수 있는지 백분율로 나타낸다. 이 수치는 공격 {g|Encyclopedia:DamageGlossary}피해{/g} 계산에 영향을 준다.\n<b>방어 관통</b> 수치는 무기 설명에 표시된다.
+14	무기의 주요 수치 중 하나로, 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 감소시키는 비율을 나타냅니다. 이 수치는 공격 {g|Encyclopedia:DamageGlossary}피해{/g} 계산에 영향을 줍니다.\n<b>방어 관통</b> 수치는 무기 설명에 표시됩니다.
 15	방어 관통
-16	병기고는 새로운 유형의 공허선 부품이다. 대체 탄약을 발사하게 하는 등 기함 무기의 성능을 강화한다. 이를 통해 우주전 전술을 조정할 때 선택의 폭이 넓어진다.\n공허선의 해당 슬롯에 병기고를 설치하면 관련 무기 아이콘 위에 화살표가 나타난다. 화살표를 누르면 해당 무기에서 새로 사용할 수 있는 선택 사항을 확인할 수 있다.
-17	소행성 지대 안의 모든 함선은 라운드당 1회 선체 피해를 받는다. 어뢰는 이 지대에 도달하면 즉시 폭발한다. 또한 이 지대에서는 공격정이 주는 피해가 증가한다.\n피해: <u>(8~24)</u>\n공격정 피해: +25%
+16	무기고는 새로운 공허선 부품 유형입니다. 대체 탄약을 발사할 수 있게 하는 등 기함 무기의 성능을 강화하여 우주전 전술의 선택지를 넓혀 줍니다.\n공허선의 해당 슬롯에 무기고를 설치하면 관련 무기 아이콘 위에 화살표가 나타납니다. 화살표를 누르면 해당 무기에 새로 추가된 선택지를 확인할 수 있습니다.
+17	소행성 지대 안의 각 함선은 라운드당 1회 선체 피해를 받습니다. 어뢰는 지대에 도달하는 즉시 폭발합니다. 또한 공격정은 소행성 지대에서 더 큰 피해를 줍니다.\n피해: <u>(8~24)</u>\n공격정 피해: +25%
 18	기회 공격
-19	생명체가 자신의 {g|Encyclopedia:Turn}턴{/g}에 공격할 수 있는 횟수다. 대부분의 캐릭터는 턴당 한 번만 공격할 수 있지만, 공격 횟수 제한을 늘리는 {g|Encyclopedia:Ability}능력{/g}도 있다.
+19	생명체가 자신의 {g|Encyclopedia:Turn}턴{/g}에 공격할 수 있는 횟수입니다. 대부분의 캐릭터는 턴당 1회만 공격할 수 있지만, 공격 횟수 제한을 늘리는 {g|Encyclopedia:Ability}능력{/g}도 있습니다.
 20	턴당 공격 횟수
-21	방패를 사용하는 캐릭터는 일정 확률로 근접 공격이나 원거리 공격을 무효화할 수 있다. 사이킥 능력과 내비게이터 능력은 무효화할 수 없다. 이 확률은 방패의 방패 막기 수치와 같으며 캐릭터의 능력치에는 영향을 받지 않는다. 적에게 공격받으면 자동으로 방패 막기, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}를 시도한다. {g|Encyclopedia:BurstAttacksGlossary}연사 공격{/g}의 대상이 되었을 때 사격이나 타격을 한 번 방패로 막으면, 해당 연사에서 <i>그 이후의</i> 모든 사격이나 타격도 방패로 막는다.
+21	방패를 사용하는 캐릭터는 일정 확률로 근접 공격이나 원거리 공격을 무효화할 수 있습니다. 사이킥 능력과 내비게이터 능력은 무효화할 수 없습니다. 이 확률은 방패의 방패 막기 수치와 같으며 캐릭터의 능력치에 영향을 받지 않습니다. 적에게 공격받으면 자동으로 방패 막기, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}를 시도합니다. {g|Encyclopedia:BurstAttacksGlossary}연사 공격{/g}의 대상이 되었을 때 사격이나 타격 하나를 방패로 막으면, 해당 연사에서 <i>이후에</i> 이어지는 모든 사격이나 타격도 방패로 막습니다.
 22	방패 막기
-23	기술이나 {g|Encyclopedia:Characteristic}능력치{/g} 수치, {g|Encyclopedia:DamageGlossary}피해{/g}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} 등 캐릭터의 각종 수치에 적용되는 유리한 보정이다. 다양한 {g|Encyclopedia:Ability}능력{/g}, 아이템, {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 등의 행동으로 보너스를 얻을 수 있다.
+23	기술이나 {g|Encyclopedia:Characteristic}능력치{/g}, {g|Encyclopedia:DamageGlossary}피해{/g}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} 등 캐릭터의 수치를 높이는 보정치입니다. 다양한 {g|Encyclopedia:Ability}능력{/g}, 아이템, {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 활용과 같은 행동으로 보너스를 얻을 수 있습니다.
 24	보너스
-25	화상 상태인 대상은 매 {g|Encyclopedia:Round}라운드{/g} {g|Encyclopedia:FireDamage}화염 피해{/g}를 받는다. 또한 매 라운드 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다. 판정에 성공하면 해당 라운드에 효과로 인한 화염 {g|Encyclopedia:DamageGlossary}피해{/g}를 받기 전에 화상이 제거된다. 전투가 끝나거나 특정 {g|Encyclopedia:Ability}능력{/g}을 사용하거나 캐릭터가 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 되어도 화상 효과가 제거된다.
-26	아키타입은 게임에서 캐릭터의 역할을 결정한다. 캐릭터의 레벨이 오르면 선택한 아키타입의 등급이 상승하여 새로운 {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}을 습득할 수 있게 된다.
+25	화상 상태인 대상은 매 {g|Encyclopedia:Round}라운드{/g} {g|Encyclopedia:FireDamage}화염 피해{/g}를 받습니다. 또한 매 라운드 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 합니다. 판정에 성공하면 해당 라운드의 화염 {g|Encyclopedia:DamageGlossary}피해{/g}를 받기 전에 화상이 해제됩니다. 전투가 끝나거나 특정 {g|Encyclopedia:Ability}능력{/g}을 사용하거나 캐릭터가 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 되어도 화상 효과가 제거됩니다.
+26	아키타입은 게임에서 캐릭터가 맡는 역할을 결정합니다. 캐릭터의 레벨이 오르면 선택한 아키타입의 등급이 상승하여 새로운 {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}을 습득할 수 있습니다.
 27	아키타입
-28	{g|Encyclopedia:CareerHunterGlossary}현상금 사냥꾼{/g}의 {g|Encyclopedia:Turn}턴{/g} 시작 시, 이 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}에 중첩되는 <b>−<u>(2 × (포획 대상의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g} + 현상금 사냥꾼의 {unit_stat|WarhammerPerception|bonus}))</u>%</b> {g|Encyclopedia:Penalty}불이익{/g}이 적용된다. 포획 대상이 이동하거나 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 포획 효과와 불이익이 제거된다.
-29	캐릭터의 기술 수치, {g|Encyclopedia:HitPoints}체력{/g}, {g|Encyclopedia:HitSequenceGlossary}명중률{/g} 등 여러 요소를 결정하는 기본 수치다. 각 능력치에는 해당하는 {g|Encyclopedia:Bonus}보너스{/g}가 있다. 능력치 보너스는 해당 능력치 수치의 십의 자리 숫자와 같다. 예를 들어 근력이 41이면 근력 보너스는 +4, 근력이 52이면 근력 보너스는 +5다. 게임에는 총 9가지 능력치가 있다.\n-<indent=5%>{g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} (WS)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} (BS)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerStrength}근력{/g} (STR)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerToughness}강인함{/g} (TGH)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerAgility}민첩{/g} (AGI)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerIntelligence}지능{/g} (INT)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerPerception}지각{/g} (PER)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerWillpower}의지력{/g} (WP)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerFellowship}친화력{/g} (FEL)</indent>
+28	{g|Encyclopedia:CareerHunterGlossary}현상금 사냥꾼{/g}의 {g|Encyclopedia:Turn}턴{/g} 시작 시, 이 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}에 <b>−<u>(2 × (포획 대상의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g} + 현상금 사냥꾼의 {unit_stat|WarhammerPerception|bonus}))</u>%</b>의 {g|Encyclopedia:Penalty}불이익{/g}이 중첩됩니다. 포획 대상이 이동하거나 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 포획 효과와 불이익이 제거됩니다.
+29	캐릭터의 기술 수치, {g|Encyclopedia:HitPoints}체력{/g}, {g|Encyclopedia:HitSequenceGlossary}명중률{/g} 등 여러 요소를 결정하는 기본 수치입니다. 각 능력치에는 해당하는 {g|Encyclopedia:Bonus}보너스{/g}가 있습니다. 능력치 보너스는 능력치 값의 십의 자리 숫자와 같습니다. 예를 들어 근력이 41이면 근력 보너스는 +4이며, 근력이 52이면 근력 보너스는 +5입니다. 게임에는 총 9가지 능력치가 있습니다.\n-<indent=5%>{g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} (WS)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} (BS)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerStrength}근력{/g} (STR)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerToughness}강인함{/g} (TGH)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerAgility}민첩{/g} (AGI)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerIntelligence}지능{/g} (INT)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerPerception}지각{/g} (PER)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerWillpower}의지력{/g} (WP)</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerFellowship}친화력{/g} (FEL)</indent>
 30	능력치
-31	캐릭터 레벨은 캐릭터의 전반적인 능력과 강함을 나타낸다. 캐릭터는 난관을 극복하거나 적을 처치하거나 퀘스트를 완료하면 {g|Encyclopedia:ExperiencePoints}경험치{/g}를 얻는다. 경험치가 쌓여 일정 수치에 도달하거나 이를 넘으면 레벨이 오른다. 레벨이 오르면 {g|Encyclopedia:Characteristic}능력치{/g}와 {g|Encyclopedia:Skills}기술{/g}을 높이고 새로운 능력을 얻으며 새로운 {g|Encyclopedia:Talent}재능{/g}을 습득할 수 있게 된다.
+31	캐릭터 레벨은 캐릭터의 전반적인 능력과 강함을 나타냅니다. 캐릭터는 난관을 극복하고 적을 처치하며 퀘스트를 완료하면 {g|Encyclopedia:ExperiencePoints}경험치{/g}를 얻습니다. 경험치가 쌓여 일정 수치에 도달하거나 이를 넘으면 레벨이 오릅니다. 레벨이 오르면 {g|Encyclopedia:Characteristic}능력치{/g}와 {g|Encyclopedia:Skills}기술{/g}을 높이고 새로운 힘과 {g|Encyclopedia:Talent}재능{/g}을 습득할 수 있습니다.
 32	캐릭터 레벨
-33	대부분의 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}당 한 번만 사용할 수 있다. 능력을 다시 사용할 때까지 기다려야 하는 재사용 대기시간은 여러 {g|Encyclopedia:Round}라운드{/g}에 이를 수도 있다. 일부 능력과 아이템은 재사용 대기시간을 줄이거나 능력을 즉시 다시 사용할 수 있게 한다.
+33	대부분의 {g|Encyclopedia:Ability}능력{/g}은 {g|Encyclopedia:Turn}턴{/g}당 1회만 사용할 수 있습니다. 능력을 다시 사용할 때까지 기다려야 하는 재사용 대기시간은 여러 {g|Encyclopedia:Round}라운드{/g}에 걸칠 수도 있습니다. 일부 능력과 아이템은 재사용 대기시간을 줄이거나 즉시 다시 사용할 수 있게 합니다.
 34	재사용 대기시간
-35	{g|Encyclopedia:DamageGlossary}피해{/g}는 <b>물리</b>, <b>에너지</b>, <b>감소 불가</b>의 세 범주로 나뉜다. 각 범주에는 여러 하위 유형이 있다.
+35	{g|Encyclopedia:DamageGlossary}피해{/g}는 <b>물리</b>, <b>에너지</b>, <b>감소 불가</b>의 세 종류로 나뉩니다. 각 종류는 다시 여러 유형으로 나뉩니다.
 36	피해 유형
-37	대상은 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 3 받는다.
-38	피해 감소는 적의 공격이 캐릭터에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때 차감되는 {g|Encyclopedia:DamageGlossary}피해{/g}량을 결정한다.
+37	대상은 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 3 받습니다.
+38	피해 감소는 적의 공격이 캐릭터에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 차감되는 {g|Encyclopedia:DamageGlossary}피해{/g}량을 결정합니다.
 39	피해 감소
 40	피해 감소 무시
-41	대부분의 무기에는 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 딸린 피해 감소 수치를 낮춰 공격 효율을 높이는 <b>{g|Encyclopedia:Deflection}피해 감소{/g} 무시</b> 수치가 있다. 이 수치는 공격 {g|Encyclopedia:DamageGlossary}피해{/g} 계산에 영향을 준다.\n<b>피해 감소 무시</b> 수치는 무기 설명에 표시된다.
-42	파티의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 25 미만일 때만 <b>필사의 결단</b>을 사용할 수 있다. 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이면 원동력 75에서도 사용할 수 있다. 체력이 20% 미만이면 원동력 100에서도 사용할 수 있다.\n필사의 결단을 사용하면 전투가 끝날 때까지 해당 캐릭터의 {g|Encyclopedia:Resolve}결의{/g}가 0으로 감소한다.\n각 캐릭터는 전투당 1회만 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}이나 필사의 결단 중 하나를 사용할 수 있다. 파티 전체에서 {g|Encyclopedia:Round}라운드{/g}당 한 번만 필사의 결단을 사용할 수 있다.
+41	대부분의 무기에는 적 방어구의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 딸린 피해 감소 수치를 낮춰 공격 효율을 높이는 <b>{g|Encyclopedia:Deflection}피해 감소{/g} 무시</b> 수치가 있습니다. 이 수치는 공격 {g|Encyclopedia:DamageGlossary}피해{/g} 계산에 영향을 줍니다.\n<b>피해 감소 무시</b> 수치는 무기 설명에 표시됩니다.
+42	일행의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 25 미만일 때만 <b>필사의 결단</b>을 사용할 수 있습니다. 캐릭터의 {g|Encyclopedia:HitPoints}체력{/g}이 50% 미만이면 원동력 75에서도 사용할 수 있습니다. 체력이 20% 미만이면 원동력 100에서도 필사의 결단을 사용할 수 있습니다.\n필사의 결단을 사용하면 전투가 끝날 때까지 해당 캐릭터의 {g|Encyclopedia:Resolve}결의{/g}가 0으로 감소합니다.\n각 캐릭터는 전투당 1회, {g|Encyclopedia:HeroicAct}영웅적 행동{/g}과 필사의 결단 중 하나만 사용할 수 있습니다. 일행 전체가 {g|Encyclopedia:Round}라운드{/g}당 사용할 수 있는 필사의 결단은 1회뿐입니다.
 43	필사의 결단
-44	적의 난이도 단계는 아이콘의 I부터 VII까지의 숫자로 표시된다. 난이도 단계가 높을수록 강한 적이다. 장비도 변변찮은 비참한 농노라면 난이도 I단계에 해당하겠지만, VII단계에 이른 적은 누구나 실로 두려운 상대다.
+44	적의 난이도 단계는 아이콘에 I부터 VII까지의 숫자로 표시됩니다. 난이도 단계가 높을수록 강한 적입니다. 장비가 변변찮은 비천한 농노는 난이도 단계 I에 해당하겠지만, 난이도 단계 VII의 적은 누구든 실로 무시무시한 상대입니다.
 45	난이도 단계
-46	대상의 수치나 {g|Encyclopedia:Bonus}보너스{/g}로 줄일 수 없는 {g|Encyclopedia:DamageGlossary}피해{/g}다.
+46	대상의 수치나 {g|Encyclopedia:Bonus}보너스{/g}로 줄일 수 없는 {g|Encyclopedia:DamageGlossary}피해{/g}입니다.
 47	직접 피해
-48	어뢰는 직격 시 대상에게 온전한 피해를 주며, 빗나가서 근접 신관으로 폭발하거나 수동으로 기폭하면 반경 1칸에 감소한 피해를 준다. 직격 확률은 대상의 {g|Encyclopedia:EvasionSpace}회피{/g}와 명중을 피하기 위해 사용하는 능력에 따라 결정된다. 기폭을 통한 어뢰 공격은 빗나가지 않지만 직격보다 피해가 적다.
+48	어뢰는 직격 시 대상에게 온전한 피해를 줍니다. 빗나가 근접 신관으로 폭발하거나 수동으로 폭파하면 반경 1칸에 감소한 피해를 줍니다. 직격 확률은 대상의 {g|Encyclopedia:EvasionSpace}회피{/g}와 피격을 피하기 위해 사용 중인 능력에 따라 달라집니다. 어뢰 폭발 공격은 절대 빗나가지 않지만 직격보다 피해가 적습니다.
 49	어뢰 명중
 50	회피
-51	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 공격과 {g|Encyclopedia:Range}원거리{/g} 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}를 무효화하는 데 쓰이는 수치다.\n캐릭터는 공격받으면 무기 종류에 관계없이 자동으로 회피를 시도한다. 기본 회피 확률은 <b><u>(30 + 대상의 {g|Encyclopedia:WarhammerAgility}민첩{/g} − 공격자의 {g|Encyclopedia:DodgeReduction}회피 감소{/g})</u>%</b>다. 대상의 회피나 공격자의 회피 감소에 {g|Encyclopedia:Bonus}보너스{/g} 또는 불이익을 주는 {g|Encyclopedia:Ability}능력{/g}과 효과에 따라 최종 회피 확률이 달라질 수 있다. 원거리 공격의 기본 회피 감소는 공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 수치와 같다. 근접 공격의 기본 회피 감소에는 공격자의 민첩 수치 절반이 추가된다.\n원거리 무기의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 회피할 때는 최대 3칸까지 이동할 수 있으며, 이 이동으로 효과 범위를 벗어나야만 회피에 성공한다. 어떤 이유로든 효과 범위를 벗어나지 못하면 자동으로 스침 {g|Encyclopedia:HitSequenceGlossary}명중{/g} 피해를 받는다.
-52	캐릭터의 공격을 적이 {g|Encyclopedia:DodgeGlossary}회피{/g}할 확률을 얼마나 낮추는지 결정하는 수치다. 수치가 높을수록 공격의 효율이 높아진다.\n기본 <b>회피 감소</b>는 {g|Encyclopedia:Range}원거리{/g} 공격의 경우 <b><u>공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g}</u>%</b>, {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}의 경우 <b><u>(공격자의 지각 + 공격자의 {g|Encyclopedia:WarhammerAgility}민첩{/g} / 2)</u>%</b>다. 공격에 사용하는 무기가 제공하는 {g|Encyclopedia:Bonus}보너스{/g}, 효과나 {g|Encyclopedia:Ability}능력{/g}에 따른 보너스와 불이익 등 여러 요소로 이 수치가 달라질 수 있다.
+51	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 및 {g|Encyclopedia:Range}원거리{/g} 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}를 피하는 데 도움이 되는 수치입니다.\n공격받은 캐릭터는 무기 종류와 관계없이 자동으로 회피를 시도합니다. 기본 회피 확률은 <b><u>(30 + 대상의 {g|Encyclopedia:WarhammerAgility}민첩{/g} − 공격자의 {g|Encyclopedia:DodgeReduction}회피 감소{/g})</u>%</b>입니다. 대상의 회피 또는 공격자의 회피 감소에 {g|Encyclopedia:Bonus}보너스{/g}나 불이익을 주는 {g|Encyclopedia:Ability}능력{/g}과 효과에 따라 최종 회피 확률이 달라집니다. 원거리 공격의 기본 회피 감소는 공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g} 수치와 같습니다. 근접 공격은 공격자의 민첩 수치 절반만큼 기본 회피 감소가 추가로 증가합니다.\n원거리 무기의 {g|Encyclopedia:AreaOfEffect}범위 공격{/g}을 회피할 때는 최대 3칸까지 이동하여 효과 범위를 벗어나야 회피에 성공합니다. 어떤 이유로든 효과 범위를 벗어나지 못하면 자동으로 스침 {g|Encyclopedia:HitSequenceGlossary}명중{/g} 피해를 받습니다.
+52	캐릭터의 공격을 적이 {g|Encyclopedia:DodgeGlossary}회피{/g}할 확률을 얼마나 낮추는지 결정하는 수치입니다. 수치가 높을수록 공격이 효과적입니다.\n기본 <b>회피 감소</b>는 {g|Encyclopedia:Range}원거리{/g} 공격의 경우 <b><u>공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g}</u>%</b>, {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}의 경우 <b><u>(공격자의 지각 + 공격자의 {g|Encyclopedia:WarhammerAgility}민첩{/g} / 2)</u>%</b>입니다. 이 수치는 공격에 사용하는 무기의 {g|Encyclopedia:Bonus}보너스{/g}, 효과나 {g|Encyclopedia:Ability}능력{/g}이 주는 보너스와 불이익 등 여러 요인에 따라 달라집니다.
 53	회피 감소
-54	상부 장착 무기를 설치할 수 있는 공허선 구획이다.
+54	상부 장착 무기를 설치할 수 있는 공허선 구역입니다.
 55	상부
-56	함선 이동의 마지막 단계로, 짙은 단색 구역으로 표시된다. 일반적으로 함선은 이동 종료 구역에 도달해야만 이동을 끝낼 수 있다.
+56	함선 이동의 마지막 단계로, 단색으로 채워진 구역으로 표시됩니다. 일반적으로 함선은 이동 종료 구역에 도달해야 이동을 마칠 수 있습니다.
 57	종료 단계
-58	폭발 공격에는 {g|Encyclopedia:LanceWeaponSpace}랜스 무기{/g}, 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}, 어뢰 기폭으로 하는 공격이 포함된다. 어뢰 기폭에는 빗나갔을 때 {g|Encyclopedia:DirectHitSpace}근접 신관{/g}으로 폭발하는 경우와 수동 기폭이 모두 포함된다.
+58	폭발 공격에는 {g|Encyclopedia:LanceWeaponSpace}랜스 무기{/g}, 플라스마 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g}, 어뢰 폭발이 포함됩니다. 어뢰 폭발에는 빗나갔을 때 {g|Encyclopedia:DirectHitSpace}근접 신관{/g}으로 폭발하는 경우와 수동 폭파가 모두 포함됩니다.
 59	폭발 공격
-60	에너지 {g|Encyclopedia:DamageGlossary}피해{/g}는 주로 각종 화학 물질, 불, 전기, 에너지 광선으로 가한다. 유형은 다음과 같다:\n-<indent=5%>화염: 대상에 불을 붙이는 모든 수단으로 가한다.</indent>\n-<indent=5%>감전: 대상을 감전시키는 모든 수단으로 가한다.</indent>\n-<indent=5%>독성: 독, 부식성 산 등으로 피해를 가하는 모든 수단으로 가한다.</indent>\n-<indent=5%>열: 에너지 광선이나 플라스마를 사용하거나 대상을 분해하는 모든 수단으로 가한다.</indent>
+60	에너지 {g|Encyclopedia:DamageGlossary}피해{/g}는 주로 각종 화학 물질, 불, 전기, 에너지 광선으로 발생합니다. 유형은 다음과 같습니다.\n-<indent=5%>화염: 대상에 불을 붙이는 모든 수단으로 발생합니다.</indent>\n-<indent=5%>감전: 대상을 감전시키는 모든 수단으로 발생합니다.</indent>\n-<indent=5%>독성: 독, 부식성 산 등으로 피해를 주는 모든 수단으로 발생합니다.</indent>\n-<indent=5%>열: 에너지 광선이나 플라스마를 사용하거나 대상을 분해하는 모든 수단으로 발생합니다.</indent>
 61	에너지 피해
-62	우주전에서 대상을 명중시키기 얼마나 어려운지 나타내는 수치다. 명중 확률을 계산할 때 공격자의 명중률에서 대상의 회피 확률을 차감한다.
+62	우주전에서 대상을 명중시키기 얼마나 어려운지 나타내는 수치입니다. 명중 확률을 계산할 때 공격자의 명중률에서 대상의 회피 확률을 뺍니다.
 63	회피
 64	경험치
-65	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 공격이 {g|Encyclopedia:Exploit}약점{/g} 중첩이 있는 대상에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하면, 해당 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 <b>+<u>(5 × {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>%</b> 증가한다. 대상의 약점 하나당 피해가 추가로 10% 증가한다. 공격 후 대상의 모든 약점이 제거된다.
-66	이 폭발성 가스 구름은 매크로 캐논의 성능을 강화하지만 받는 피해도 증가시킨다. 이 이상 지대 안의 함선은 공격할 때마다 피해를 받는다.\n매크로 캐논 사거리: +5칸\n매크로 캐논 피해: +20%\n받는 피해: +25%\n피해: <u>(2~6)</u>
-67	캐릭터가 한 {g|Encyclopedia:Round}라운드{/g}에 여러 번 행동할 수 있게 하는 시스템이다. 추가 턴은 주로 {g|Encyclopedia:CareerLeaderGlossary}오피서{/g} 등 특정 아키타입의 특수 {g|Encyclopedia:Ability}능력{/g}으로 얻는다. 추가 턴을 부여하는 능력은 추가 턴 중에는 사용할 수 없다.
+65	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:Exploit}약점{/g}이 중첩된 대상에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 {g|Encyclopedia:DamageGlossary}피해{/g}가 <b>+<u>(5 × {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Bonus}보너스{/g})</u>%</b> 증가합니다. 또한 대상의 약점 하나당 피해가 10% 증가합니다. 공격 후 대상의 모든 약점이 제거됩니다.
+66	이 폭발성 가스 구름은 매크로 캐논의 성능을 강화하지만 받는 피해도 증가시킵니다. 이 이상 지대 안의 함선은 공격할 때마다 피해를 받습니다.\n매크로 캐논 사거리: +5칸\n매크로 캐논 피해: +20%\n받는 피해: +25%\n피해: <u>(2~6)</u>
+67	한 {g|Encyclopedia:Round}라운드{/g}에 두 번 이상 행동할 수 있게 하는 시스템입니다. 추가 턴은 주로 {g|Encyclopedia:CareerLeaderGlossary}오피서{/g} 등 특정 아키타입의 특수 {g|Encyclopedia:Ability}능력{/g}으로 얻습니다. 추가 턴을 부여하는 능력은 추가 턴 중에 사용할 수 없습니다.
 68	추가 턴
-69	{g|Encyclopedia:EnergyDamage}에너지 피해{/g}의 한 종류다. 대상에 불을 붙이는 모든 수단으로 발생한다.
+69	{g|Encyclopedia:EnergyDamage}에너지 피해{/g}의 한 유형입니다. 대상에 불을 붙이는 모든 수단으로 발생합니다.
 70	화염 피해
-71	함선 무기가 유효하게 사격할 수 있는 영역이다.
+71	함선 무기가 유효하게 사격할 수 있는 구역입니다.
 72	사격각
-73	무기의 사거리는 사격이 닿는 거리를 결정한다.
+73	무기의 사거리는 사격할 수 있는 거리를 결정합니다.
 74	사거리
-75	로그 트레이더의 개인 함선이자 폰 발란시우스 가문의 자랑이다. 로드 캡틴을 태우고 여러 세계를 오가며, 감히 {mf|로드 캡틴의|로드 캡틴의} 앞길을 가로막는 자들을 모조리 파괴한다.
+75	로그 트레이더의 개인 함선으로, 폰 발란시우스 가문의 자랑입니다. 로드 캡틴을 여러 행성으로 실어 나르며 감히 {mf|로드 캡틴|로드 캡틴}의 앞길을 가로막는 자들을 모조리 파괴합니다.
 76	기함
-77	이 가스와 먼지 구름 안에 있는 함선은 조준 및 사격 성능이 감소한다. 구름이 함선의 위치를 숨겨 주므로 적이 해당 함선을 명중시키기도 어려워진다. 로그 트레이더의 기함은 속도도 감소한다.\n회피: +30%\n기동성: −1\n속도: −3 (로그 트레이더의 기함만 해당)\n명중률: −25%\n사거리: −3
-78	하이퍼링크는 강조 표시된 용어에 관한 추가 정보를 제공한다.
+77	이 가스 및 먼지 구름 안에서는 함선의 조준과 사격 성능이 감소합니다. 구름이 함선의 위치를 가려 적이 명중시키기도 어려워집니다. 로그 트레이더의 기함은 속도도 감소합니다.\n회피: +30%\n기동성: −1\n속도: −3 (로그 트레이더의 기함만 해당)\n명중률: −25%\n사거리: −3
+78	하이퍼링크는 강조 표시된 용어에 관한 추가 정보를 제공합니다.
 79	하이퍼링크
-80	특정 상황에서는 캐릭터가 <b>스침 {g|Encyclopedia:HitSequenceGlossary}명중{/g}</b>으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 수 있다. 예를 들어 {g|Encyclopedia:Range}원거리{/g} 범위 공격의 {g|Encyclopedia:AreaOfEffect}효과 범위{/g} 안에서 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중인 캐릭터가 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Test}판정{/g}에 실패하거나 범위를 벗어나지 못하면, 반드시 <b>스침</b> 피해를 받는다.
+80	특정 상황에서는 캐릭터가 <b>스침 {g|Encyclopedia:HitSequenceGlossary}명중{/g}</b>으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 받을 수 있습니다. 예를 들어 {g|Encyclopedia:Range}원거리{/g} 범위 공격의 {g|Encyclopedia:AreaOfEffect}효과 범위{/g} 안에서 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 중인 캐릭터가 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Test}판정{/g}에 실패하거나 범위를 벗어나지 못하면, 반드시 <b>스침</b> 피해를 받습니다.
 81	스침
-82	대상의 매 {g|Encyclopedia:Turn}턴{/g} 시작 시, 대상은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시하는 <b><u>({g|Encyclopedia:Lethality}치사율{/g} / 10)</u></b>의 {g|Encyclopedia:RendingDamage}절단 피해{/g}를 받는다.
+82	대상의 매 {g|Encyclopedia:Turn}턴{/g} 시작 시, 대상은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시하는 {g|Encyclopedia:RendingDamage}절단 피해{/g}를 <b><u>({g|Encyclopedia:Lethality}치사율{/g} / 10)</u></b> 받습니다.
 83	대출혈
-84	중갑에는 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Penalty}불이익{/g} 외에도 고유 수치인 {g|Encyclopedia:Deflection}피해 감소{/g}가 있어, 받는 {g|Encyclopedia:DamageGlossary}피해{/g}를 정해진 수치만큼 줄여 준다. 중갑은 피해를 잘 막아 주지만 경갑이나 {g|Encyclopedia:MediumArmour}중형 방어구{/g}보다 공격을 회피하기 어렵다.\n{g|f:684c766dc9c24fcf856dc1d6f01d9290}중갑 숙련{/g} {g|Encyclopedia:Talent}재능{/g}이 있는 캐릭터만 중갑을 착용할 수 있다.
+84	중갑에는 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g} {g|Encyclopedia:Penalty}불이익{/g} 외에도, 받는 {g|Encyclopedia:DamageGlossary}피해{/g}를 지정된 수치만큼 줄이는 고유 수치인 {g|Encyclopedia:Deflection}피해 감소{/g}가 있습니다. 중갑은 피해를 효과적으로 막아 주지만 경갑이나 {g|Encyclopedia:MediumArmour}중형 방어구{/g}보다 공격을 회피하기 어렵습니다.\n{g|f:684c766dc9c24fcf856dc1d6f01d9290}중갑 숙련{/g} {g|Encyclopedia:Talent}재능{/g}이 있는 캐릭터만 중갑을 착용할 수 있습니다.
 85	중갑
-86	파티의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 175 이상일 때만 <b>영웅적 행동</b>을 사용할 수 있다.\n전투에서 처음 사용하는 영웅적 행동은 원동력 75를 소모하며, 이후 사용할 때마다 소모량이 +25 증가한다.\n각 캐릭터는 전투당 1회만 영웅적 행동이나 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g} 중 하나를 사용할 수 있다.
+86	<b>영웅적 행동</b>은 일행의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}이 175 이상일 때만 사용할 수 있습니다.\n전투 중 처음 사용하는 영웅적 행동은 원동력 75를 소모하며, 이후 사용할 때마다 소모량이 +25씩 증가합니다.\n각 캐릭터는 전투당 1회, 영웅적 행동과 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g} 중 하나만 사용할 수 있습니다.
 87	영웅적 행동
-88	체력은 캐릭터가 쇠약해지고 끝내 죽음에 이르기까지 얼마나 많은 피해를 견딜 수 있는지 나타내는 수치다. 모든 캐릭터에게는 정해진 체력이 있다. 보통 {g|Encyclopedia:ExperiencePoints}경험치{/g}를 사용하여 {g|Encyclopedia:WarhammerToughness}강인함{/g} 등의 {g|Encyclopedia:Characteristic}능력치{/g}를 높이거나 새로운 {g|Encyclopedia:Talent}재능{/g}과 {g|Encyclopedia:Ability}능력{/g}을 얻으면 체력을 늘릴 수 있다.
+88	체력은 캐릭터가 쇠약해지고 결국 죽음에 이르기 전까지 얼마나 버틸 수 있는지 나타내는 수치입니다. 모든 캐릭터는 정해진 체력을 갖습니다. 일반적으로 {g|Encyclopedia:ExperiencePoints}경험치{/g}를 사용하여 {g|Encyclopedia:WarhammerToughness}강인함{/g} 등의 {g|Encyclopedia:Characteristic}능력치{/g}를 높이거나 새로운 {g|Encyclopedia:Talent}재능{/g}과 {g|Encyclopedia:Ability}능력{/g}을 습득하면 체력을 높일 수 있습니다.
 89	체력
-90	공허선의 핵심 구조물이다. 선체 내구도는 공허선이 얼마나 손상되었는지 나타낸다. 손상은 전투가 끝나도 남으므로 수리해야 한다. {g|Encyclopedia:ScrapSpace}고철{/g}로 함선을 수리하여 {g|Encyclopedia:HullIntegritySpace}선체 내구도{/g}를 회복할 수 있다.
+90	공허선의 핵심 구조물입니다. 선체 내구도는 공허선이 얼마나 손상되었는지 나타냅니다. 이 손상은 전투가 끝나도 남으므로 수리해야 합니다. {g|Encyclopedia:ScrapSpace}고철{/g}로 함선을 수리하여 {g|Encyclopedia:HullIntegritySpace}선체 내구도{/g}를 회복하십시오.
 91	선체
-92	{g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태인 대상은 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:MovementPoints}이동력{/g}을 회복하지 못하며, 자신을 이동시키거나 이동력을 추가하는 {g|Encyclopedia:Ability}능력{/g}을 사용할 수 없다.
+92	{g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태인 대상은 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:MovementPoints}이동력{/g}을 회복하지 못하며, 자신을 이동시키거나 이동력을 추가하는 {g|Encyclopedia:Ability}능력{/g}을 사용할 수 없습니다.
 93	이동 불가
-94	운동 에너지 공격에는 일반 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g} 공격과 어뢰 직격이 포함된다.
+94	운동 에너지 공격에는 일반 {g|Encyclopedia:MacroCannonsSpace}매크로 캐논{/g} 공격과 어뢰 직격이 포함됩니다.
 95	운동 에너지 공격
-96	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 종류다. 둔기, 맨손 타격, 볼트 탄, 폭발 등 둔탁한 힘으로 {g|Encyclopedia:Traumas}중상{/g}을 입히는 모든 수단으로 발생한다.
+96	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 유형입니다. 둔기, 맨손 타격, 볼트탄, 폭발 등 둔중한 충격으로 {g|Encyclopedia:Traumas}중상{/g}을 입힐 수 있는 모든 수단으로 발생합니다.
 97	충돌 피해
-98	함정에 걸리거나 한 {g|Encyclopedia:Round}라운드{/g} 동안 총 {g|Encyclopedia:HitPoints}체력{/g}의 50%를 초과하는 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 캐릭터에게 <b>새 부상</b>이 생긴다. 부상이 생기는 정확한 체력 손실 비율은 선택한 게임 난이도에 따라 달라질 수 있다. 부상은 캐릭터의 {g|Encyclopedia:Resolve}결의{/g}를 감소시킨다. <b>새 부상</b>을 3라운드 안에 {g|ib:Medikit}구급상자{/g}로 치료하지 않으면 <b>오래된 부상</b>이 된다. <b>오래된 부상</b>도 구급상자로 치료할 수 있지만, 추가로 {g|Encyclopedia:SkillMedicae}의술{/g} 기술 {g|Encyclopedia:Test}판정{/g}이 필요하다.\n모든 부상은 캐릭터의 수치를 감소시키며, 3개 이상 쌓이면 {g|Encyclopedia:Traumas}중상{/g}이 된다. 중상을 유발하는 부상의 개수는 선택한 게임 난이도에 따라 달라질 수 있다.
+98	함정에 빠지거나 한 {g|Encyclopedia:Round}라운드{/g} 동안 전체 {g|Encyclopedia:HitPoints}체력{/g}의 50%를 넘는 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 <b>새 부상</b>이 생깁니다. 부상이 발생하는 체력 손실 비율은 선택한 게임 난이도에 따라 달라질 수 있습니다. 부상은 캐릭터의 {g|Encyclopedia:Resolve}결의{/g}를 감소시킵니다. <b>새 부상</b>을 3라운드 이내에 {g|ib:Medikit}구급상자{/g}로 치료하지 않으면 <b>오래된 부상</b>이 됩니다. <b>오래된 부상</b>도 구급상자로 치료할 수 있지만, 추가로 {g|Encyclopedia:SkillMedicae}의술{/g} 기술 {g|Encyclopedia:Test}판정{/g}이 필요합니다.\n모든 부상은 캐릭터의 수치를 감소시키며, 3개 이상 쌓이면 {g|Encyclopedia:Traumas}중상{/g}으로 바뀝니다. 중상을 유발하는 부상 수는 선택한 게임 난이도에 따라 달라질 수 있습니다.
 99	부상
-100	조사 창을 열면 적의 {g|Encyclopedia:Characteristic}능력치{/g}, 사용 가능한 {g|Encyclopedia:Ability}능력{/g}, 지속 특성에 관한 자세한 정보를 확인할 수 있다.\n이 정보는 전투를 준비하고 최적의 전술을 결정하는 데 도움이 된다.
+100	조사 창을 열면 적의 {g|Encyclopedia:Characteristic}능력치{/g}, 사용 가능한 {g|Encyclopedia:Ability}능력{/g}, 지속 특성을 자세히 확인할 수 있습니다.\n이 정보는 전투를 준비하고 최적의 전술을 선택하는 데 도움이 됩니다.
 101	조사
-102	감소 불가 {g|Encyclopedia:DamageGlossary}피해{/g}는 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시한다. 유형은 다음과 같다.\n-<indent=5%>워프: 워프 에너지에 노출되는 모든 경우.</indent>\n-<indent=5%>정신: 유기체 대상의 신경계에 피해를 주는 모든 수단. 기계나 물리적인 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물 등 무기물 대상은 면역이다.</indent>\n-<indent=5%>기계: 기계와 기술 장비에만 영향을 주는 모든 수단. 유기체 대상과 기계가 아닌 물체는 면역이다.</indent>
+102	감소 불가 {g|Encyclopedia:DamageGlossary}피해{/g}는 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시합니다. 유형은 다음과 같습니다.\n-<indent=5%>워프: 워프 에너지에 노출되는 모든 경우에 발생합니다.</indent>\n-<indent=5%>정신: 유기체 대상의 신경계를 손상시키는 모든 수단으로 발생합니다. 기계나 물리적 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물 같은 무기물 대상은 면역입니다.</indent>\n-<indent=5%>기계: 기계와 기술 장치에만 영향을 미치는 모든 수단으로 발생합니다. 유기체 대상과 기계가 아닌 물체는 면역입니다.</indent>
 103	감소 불가 피해
-104	주로 {g|Encyclopedia:ProwSpace}함수{/g}나 {g|Encyclopedia:DorsalSpace}상부{/g}에 장착하는 공허선 무기다. 강력한 광선을 발사하여 사선상의 모든 대상에게 피해를 준다. {g|Encyclopedia:LanceWeaponSpace}랜스 무기{/g}는 장갑을 두른 대상에게 가장 효과적이지만, 빠르고 {g|Encyclopedia:EvasionSpace}회피{/g}가 높은 대상에게는 명중시키기 어렵다.
+104	주로 {g|Encyclopedia:ProwSpace}함수{/g}나 {g|Encyclopedia:DorsalSpace}상부{/g}에 장착하는 공허선 무기입니다. 강력한 광선을 발사하여 사선상의 모든 대상에게 피해를 줍니다. {g|Encyclopedia:LanceWeaponSpace}랜스 무기{/g}는 장갑을 갖춘 대상에게 가장 효과적이지만, 빠르고 {g|Encyclopedia:EvasionSpace}회피{/g}가 높은 대상은 명중시키기 어렵습니다.
 105	랜스 무장
-106	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g} 고유의 수치로, {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} 중 더 높은 수치와 같다.
+106	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 고유 수치로, {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} 중 더 높은 수치와 같습니다.
 107	치사율
-108	경갑 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 공격을 더 잘 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있게 하지만, 중형 방어구나 {g|Encyclopedia:HeavyArmour}중갑{/g}보다 훨씬 적은 {g|Encyclopedia:DamageGlossary}피해{/g}를 막아 준다.
+108	경갑 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 공격을 더 잘 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있게 하지만, 중형 방어구나 {g|Encyclopedia:HeavyArmour}중갑{/g}보다 막아 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 훨씬 적습니다.
 109	경갑
-110	캐릭터가 시야에 들어오면 해당 캐릭터를 대상으로 {g|Encyclopedia:Range}원거리{/g} 공격을 하거나 {g|Encyclopedia:Ability}능력{/g}을 사용할 수 있다. 시야는 해당 캐릭터를 향한 선으로 표시된다.
+110	다른 캐릭터가 시야에 들어오면 해당 캐릭터에게 {g|Encyclopedia:Range}원거리{/g} 공격을 하거나 {g|Encyclopedia:Ability}능력{/g}을 사용할 수 있습니다. 시야는 대상 캐릭터로 이어지는 선으로 표시됩니다.
 111	시야
-112	{g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}의 한 종류로, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시한다. 기계와 기술 장비에만 영향을 주는 모든 수단으로 발생한다. 유기체 대상과 기계가 아닌 물체는 면역이다.
+112	{g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}의 한 유형으로, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시합니다. 기계와 기술 장치에만 영향을 미치는 모든 수단으로 발생합니다. 유기체 대상과 기계가 아닌 물체는 면역입니다.
 113	기계 피해
-114	주로 양현이나 {g|Encyclopedia:DorsalSpace}상부{/g} 구획에 장착하는 공허선 무기다. 매크로 캐논은 발사 시 같은 대상을 향해 여러 차례 일제 발사를 한다.
+114	주로 측면이나 {g|Encyclopedia:DorsalSpace}상부{/g} 구역에 장착하는 공허선 무기입니다. 매크로 캐논은 사격 시 동일한 대상을 향해 여러 차례 일제 발사합니다.
 115	마크로 캐논
-116	함선이 45도 선회하기 전에 이동해야 하는 칸 수를 결정하는 수치다. 기동성 수치가 높을수록 이동해야 하는 칸 수가 줄어든다.
+116	함선이 45도 선회하기 전에 이동해야 하는 칸 수를 결정하는 수치입니다. 기동성이 높을수록 이동해야 하는 칸 수가 줄어듭니다.
 117	기동성
-118	항상 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하는 공격({g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이나 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 사격 등)의 최대 명중률은 100%다. 그 밖의 원거리 공격은 최대 명중률이 95%다.\n최대 명중률을 낮추는 {g|Encyclopedia:Penalty}불이익{/g}은 항상 명중하는 공격에도 적용되며, 이때는 명중 판정을 해야 한다.
+118	{g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}이나 {g|Encyclopedia:BurstAttacksGlossary}연사{/g}처럼 항상 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하는 공격은 최대 명중률이 100%입니다. 그 외 원거리 공격의 최대 명중률은 95%입니다.\n최대 명중률을 낮추는 {g|Encyclopedia:Penalty}불이익{/g}은 항상 명중하는 공격에도 적용되며, 이 경우 명중 판정을 해야 합니다.
 119	최대 명중률
-120	캐릭터의 최대 {g|Encyclopedia:HitPoints}체력{/g}은 {g|Encyclopedia:WarhammerToughness}강인함{/g}에 따라 결정된다. 강인함 {g|Encyclopedia:Bonus}보너스{/g} 1점마다 체력이 +10% 증가한다.
+120	캐릭터의 최대 {g|Encyclopedia:HitPoints}체력{/g}은 {g|Encyclopedia:WarhammerToughness}강인함{/g}에 따라 결정됩니다. 강인함 {g|Encyclopedia:Bonus}보너스{/g} 1점당 체력이 +10% 증가합니다.
 121	최대 체력
-122	중형 방어구의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}했을 때 더 많은 {g|Encyclopedia:DamageGlossary}피해{/g}를 막아 주지만, 기동성과 공격 {g|Encyclopedia:DodgeGlossary}회피{/g} 능력을 감소시킨다.
+122	중형 방어구의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}는 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}했을 때 더 많은 {g|Encyclopedia:DamageGlossary}피해{/g}를 막아 주지만, 기동성과 공격 {g|Encyclopedia:DodgeGlossary}회피{/g} 능력을 감소시킵니다.
 123	중형 방어구
-124	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 전투에서 주변의 아군이 적보다 많은 대상은 초과한 아군 한 명당 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다. 덩치가 큰 생명체를 공격할 때는 둘을 초과하는 적이 해당 생명체를 둘러싸야 공격자들이 이 이점을 얻는다.
+124	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 전투에서 주변의 아군이 적보다 많으면, 더 많은 아군 한 명당 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} +10 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 큰 생명체를 공격할 때 이 이점을 얻으려면 해당 생명체를 적대하는 인원이 2명을 초과하여 둘러싸야 합니다.
 125	근접 우세
-126	{g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}의 한 종류로, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시한다. 유기체 대상의 신경계에 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 모든 수단으로 발생한다. 기계나 물리적인 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물 등 무기물 대상은 면역이다.
+126	{g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}의 한 유형으로, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시합니다. 유기체 대상의 신경계에 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 모든 수단으로 발생합니다. 기계나 물리적 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물 같은 무기물 대상은 면역입니다.
 127	정신 피해
 128	이동력
-129	함선 이동력은 함선이 자신의 턴에 이동할 수 있는 거리를 결정한다.\n함선 이동력 1은 전장의 한 칸에 해당한다. 대각선 이동은 더 많이 소모되며, 대각선으로 두 번째 칸을 이동할 때마다 함선 이동력을 2 소모한다.\n매 턴 시작 시 함선 이동력이 최댓값까지 회복된다. 함선의 {g|Encyclopedia:SpeedSpace}속도{/g} 수치가 높을수록 더 많은 함선 이동력을 얻는다.\n함선이 이동하기 시작하면 이동 명령을 취소할 수 없다.
+129	함선 이동력은 함선이 자신의 턴에 이동할 수 있는 거리를 결정합니다.\n함선 이동력 1은 전장의 1칸에 해당합니다. 대각선 이동은 더 많은 이동력을 소모하며, 대각선으로 두 칸 이동할 때마다 두 번째 칸에서 함선 이동력 2를 소모합니다.\n매 턴 시작 시 함선 이동력이 최대로 회복됩니다. 함선의 {g|Encyclopedia:SpeedSpace}속도{/g}가 높을수록 더 많은 함선 이동력을 얻습니다.\n함선이 이동을 시작하면 명령을 취소할 수 없습니다.
 130	함선 이동력
-131	해로운 효과는 캐릭터의 생존 가능성을 낮춘다. {g|Encyclopedia:Characteristic}능력치{/g}, {g|Encyclopedia:Skills}기술{/g}, 행동에 {g|Encyclopedia:Penalty}불이익{/g}을 받으며, 매 {g|Encyclopedia:Turn}턴{/g} {g|Encyclopedia:DirectDamage}직접 피해{/g}를 받기도 한다.\n캐릭터에게 효과가 적용되면 초상화 옆에 해당 아이콘이 나타난다.\n해로운 효과는 크게 일반 효과와 고유 효과로 나뉜다. 일반적인 해로운 효과에는 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:FatiguedEffect}피로{/g}, {g|Encyclopedia:DisturbedEffect}동요{/g}, {g|Encyclopedia:PerplexedEffect}당혹{/g}, {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:StaggeredEffect}비틀거림{/g}, {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:CalmedWarpEffect}사이킥 억제{/g}, {g|Encyclopedia:Stun}기절{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|Encyclopedia:CantAttackEffect}공격 불가{/g}, 심신 {g|Encyclopedia:Traumas}중상{/g}, {g|Encyclopedia:ProneEffect}넘어짐{/g}이 있다.\n그 밖의 해로운 효과는 모두 고유 효과로 분류되며, 일반 효과보다 훨씬 드물게 나타난다. 주로 캐릭터나 적의 특정 {g|Encyclopedia:Ability}능력{/g}으로 적용된다.
+131	해로운 효과를 받으면 캐릭터의 생존 가능성이 낮아집니다. {g|Encyclopedia:Characteristic}능력치{/g}, {g|Encyclopedia:Skills}기술{/g}, 행동에 {g|Encyclopedia:Penalty}불이익{/g}을 받으며, 매 {g|Encyclopedia:Turn}턴{/g} {g|Encyclopedia:DirectDamage}직접 피해{/g}를 받기도 합니다.\n캐릭터에게 효과가 적용되면 초상화 옆에 해당 아이콘이 나타납니다.\n해로운 효과는 크게 일반 효과와 고유 효과로 나뉩니다. 일반적인 해로운 효과에는 {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}, {g|Encyclopedia:FatiguedEffect}피로{/g}, {g|Encyclopedia:DisturbedEffect}동요{/g}, {g|Encyclopedia:PerplexedEffect}당혹{/g}, {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:StaggeredEffect}비틀거림{/g}, {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:CalmedWarpEffect}사이킥 억제{/g}, {g|Encyclopedia:Stun}기절{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|Encyclopedia:CantAttackEffect}공격 불가{/g}, 심신성 {g|Encyclopedia:Traumas}중상{/g}, {g|Encyclopedia:ProneEffect}넘어짐{/g}이 있습니다.\n그 외의 해로운 효과는 모두 고유 효과로 분류되며, 일반 효과보다 훨씬 드물게 나타납니다. 이러한 고유 효과는 주로 캐릭터나 적의 특정 {g|Encyclopedia:Ability}능력{/g}으로 적용됩니다.
 132	해로운 효과
-133	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 공격이 빈틈에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}할 때마다 {g|Encyclopedia:DamageGlossary}피해{/g}를 <b>+<u>(대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%)</u></b>만큼 추가로 준다. {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}은 제외된다.
+133	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 빈틈에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 추가로 <b>+<u>(대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%)</u></b>만큼 {g|Encyclopedia:DamageGlossary}피해{/g}를 줍니다. {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}은 제외됩니다.
 134	빈틈
 135	관통 사격
-136	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 사용하는 캐릭터는 근접 공격을 막아낼 수 있다. 적의 근접 무기로 공격받으면 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}와 막기를 모두 시도한다. 공격자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} {g|Encyclopedia:Characteristic}능력치{/g}가 높을수록 공격이 막히지 않고 대상에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 확률이 높아진다. 마찬가지로 공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 높을수록 대상의 회피를 뚫고 피해를 주기 쉬워진다.\n막기 확률은 <b><u>(20 + 대상의 근접술 + 막기 {g|Encyclopedia:Bonus}보너스{/g} − (공격자의 근접술 + {g|Encyclopedia:ParryReduction}막기 감소{/g}))</u>%</b>에 {g|Encyclopedia:MeleeSuperiority}근접 우세{/g} 보너스를 더한 값이다.\n근접 공격 회피 확률은 <b><u>(30 + 대상의 민첩 − 공격자의 {g|Encyclopedia:DodgeReduction}회피 감소{/g})</u>%</b>이며, 회피나 회피 감소에 적용되는 보너스와 불이익에 따라 달라진다.
+136	{g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 사용하는 캐릭터는 근접 공격을 막을 수 있습니다. 적의 근접 무기 공격을 받으면 자동으로 {g|Encyclopedia:DodgeGlossary}회피{/g}와 막기를 모두 시도합니다. 공격자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} {g|Encyclopedia:Characteristic}능력치{/g}가 높을수록 공격이 막히지 않고 대상에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 확률이 높아집니다. 마찬가지로 공격자의 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 높을수록 대상의 회피를 뚫고 피해를 주기 쉽습니다.\n막기 확률은 <b><u>(20 + 대상의 근접술 + 막기 {g|Encyclopedia:Bonus}보너스{/g} − (공격자의 근접술 + {g|Encyclopedia:ParryReduction}막기 감소{/g}))</u>%</b>이며, 여기에 {g|Encyclopedia:MeleeSuperiority}근접 우세{/g}로 얻는 보너스가 더해집니다.\n근접 공격을 회피할 확률은 <b><u>(30 + 대상의 민첩 − 공격자의 {g|Encyclopedia:DodgeReduction}회피 감소{/g})</u>%</b>이며, 회피나 회피 감소에 적용되는 보너스와 불이익에 따라 달라집니다.
 137	막기
-138	캐릭터의 공격을 적이 {g|Encyclopedia:Parry}막기{/g}에 성공할 확률을 얼마나 낮추는지 결정하는 수치다. 수치가 높을수록 공격의 효율이 높아진다.\n막기 감소는 캐릭터가 사용하는 무기의 영향을 받는다.
+138	캐릭터의 공격을 적이 {g|Encyclopedia:Parry}막기{/g}로 막을 확률을 얼마나 낮추는지 결정하는 수치입니다. 수치가 높을수록 공격이 효과적입니다.\n막기 감소는 캐릭터가 사용하는 무기의 영향을 받습니다.
 139	막기 감소
-140	기술, {g|Encyclopedia:Characteristic}능력치{/g} 수치, {g|Encyclopedia:DamageGlossary}피해{/g}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} 등 캐릭터의 각종 수치에 적용되는 불리한 보정이다. 다양한 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}, {g|Encyclopedia:Traumas}중상{/g}, 아이템, {g|Encyclopedia:Ability}능력{/g}으로 불이익이 적용될 수 있다.
+140	기술, {g|Encyclopedia:Characteristic}능력치{/g}, {g|Encyclopedia:DamageGlossary}피해{/g}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} 등 캐릭터의 수치를 낮추는 보정치입니다. 다양한 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}, {g|Encyclopedia:Traumas}중상{/g}, 아이템, {g|Encyclopedia:Ability}능력{/g}으로 불이익이 적용될 수 있습니다.
 141	불이익
 142	페릴 오브 더 워프
-143	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 15에 이른 상태에서 상위 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면 이 위험한 현상이 발생할 수 있다. 발생 확률은 <b><u>(10 + {g|Encyclopedia:PsyRating}사이 등급{/g} + 베일 손상)</u>%</b>다. <b>페릴 오브 더 워프</b>는 사이커 주변의 모두에게 위험하다. 캐릭터를 {g|Encyclopedia:PushGlossary}밀치기{/g}로 날려 보내거나 {g|Encyclopedia:DamageGlossary}피해{/g}를 주고, 데몬을 소환하거나 주변을 동력 전하로 가득 채우는 등 다양한 현상을 일으킨다.\n<b>페릴 오브 더 워프</b>는 예측할 수 없으며 극도로 위험하다.
-144	물리 {g|Encyclopedia:DamageGlossary}피해{/g}는 주로 투사체나 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 가한다. 유형은 다음과 같다:\n-<indent=5%>{g|Encyclopedia:ImpactDamage}충격{/g}: 둔기, 맨손 타격, 볼트탄, 폭발 등 둔탁한 힘으로 {g|Encyclopedia:Traumas}중상{/g}을 입힐 수 있는 모든 수단으로 가한다.</indent>\n-<indent=5%>{g|Encyclopedia:RendingDamage}절단{/g}: 날붙이 무기나 수리검처럼 날카로운 투사체 등 날이 선 모든 수단으로 가한다.</indent>\n-<indent=5%>{g|Encyclopedia:PiercingDamage}관통{/g}: 총알이나 바늘탄 등 대상을 꿰뚫는 모든 투사체로 가한다.</indent>\n-<indent=5%>{g|Encyclopedia:PowerDamage}파워{/g}: 모든 파워 무기로 가한다.</indent>
+143	{g|Encyclopedia:VeilThickness}베일 손상{/g}이 15에 도달한 상태에서 상위 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면 이 위험한 현상이 발생할 수 있습니다. 발생 확률은 <b><u>(10 + {g|Encyclopedia:PsyRating}사이 등급{/g} + 베일 손상)</u>%</b>입니다. <b>페릴 오브 더 워프</b>는 사이커 주변의 모두에게 위험합니다. 캐릭터를 {g|Encyclopedia:PushGlossary}밀치기{/g}로 밀어내거나 {g|Encyclopedia:DamageGlossary}피해{/g}를 주고, 데몬을 소환하거나 주변을 동력 전하로 가득 채우는 등 다양한 현상이 나타납니다.\n<b>페릴 오브 더 워프</b>는 예측할 수 없으며 극도로 위험합니다.
+144	물리 {g|Encyclopedia:DamageGlossary}피해{/g}는 주로 투사체나 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기로 발생합니다. 유형은 다음과 같습니다.\n-<indent=5%>{g|Encyclopedia:ImpactDamage}충격{/g}: 둔기, 맨손 타격, 볼트탄, 폭발 등 둔중한 충격으로 {g|Encyclopedia:Traumas}중상{/g}을 입힐 수 있는 모든 수단으로 발생합니다.</indent>\n-<indent=5%>{g|Encyclopedia:RendingDamage}절단{/g}: 날붙이 무기나 슈리켄 같은 날카로운 투사체 등 예리한 날을 지닌 모든 수단으로 발생합니다.</indent>\n-<indent=5%>{g|Encyclopedia:PiercingDamage}관통{/g}: 총탄이나 니들 탄약 등 관통하는 모든 투사체로 발생합니다.</indent>\n-<indent=5%>{g|Encyclopedia:PowerDamage}파워{/g}: 모든 파워 무기로 발생합니다.</indent>
 145	물리 피해
-146	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 종류다. 탄환이나 니들 탄약 등 관통하는 모든 발사체로 발생한다.
+146	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 유형입니다. 총탄이나 니들 탄약 등 관통하는 모든 투사체로 발생합니다.
 147	관통 피해
-148	좌현 장착 무기를 설치할 수 있는 공허선 구획이다.
+148	좌현 장착 무기를 설치할 수 있는 공허선 구역입니다.
 149	좌현
-150	이로운 효과는 캐릭터를 강화한다. 효과를 받는 캐릭터는 {g|Encyclopedia:Characteristic}능력치{/g}, {g|Encyclopedia:Skills}기술{/g}, 행동에 다양한 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.\n캐릭터에게 효과가 적용되면 초상화 옆에 해당 아이콘이 나타난다.
+150	이로운 효과는 캐릭터를 강화합니다. 효과를 받으면 {g|Encyclopedia:Characteristic}능력치{/g}, {g|Encyclopedia:Skills}기술{/g}, 행동에 다양한 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.\n캐릭터에게 효과가 적용되면 초상화 옆에 해당 아이콘이 나타납니다.
 151	이로운 효과
-152	함선 장교 한 명을 배치하여 일부 함선 시스템을 담당하게 하는 직위다. 각 보직에는 기본 {g|Encyclopedia:Ability}능력{/g} 최대 2개와 {g|Encyclopedia:UltimateAbilities}궁극기{/g} 1개를 배정할 수 있다. 각 보직은 {g|Encyclopedia:Round}라운드{/g}당 능력 하나만 사용할 수 있다. 능력을 다시 사용할 때까지의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}은 무작위로 정해지며 최대 3라운드다. 함선 레벨을 높이면 새로운 직책 능력을 습득할 수 있다.
+152	함선 장교 한 명을 배치하여 일부 함선 체계를 담당하게 하는 직위입니다. 각 보직에는 기본 {g|Encyclopedia:Ability}능력{/g}을 최대 2개, {g|Encyclopedia:UltimateAbilities}궁극기{/g}를 1개 배정할 수 있습니다. 각 보직에서는 {g|Encyclopedia:Round}라운드{/g}당 능력을 1개만 사용할 수 있습니다. 능력을 다시 사용할 때까지의 {g|Encyclopedia:Cooldown}재사용 대기시간{/g}은 무작위로 정해지며 최대 3라운드입니다. 함선 레벨이 오르면 새로운 직책 능력을 사용할 수 있습니다.
 153	보직
-154	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 종류다. 파워 소드, 파워 마울, 파워 액스 등 모든 파워 웨폰으로 발생한다.
+154	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 유형입니다. 파워 소드, 파워 마울, 파워 액스 등 모든 파워 무기로 발생합니다.
 155	동력 피해
-156	{g|Encyclopedia:CareerHunterGlossary}현상금 사냥꾼{/g}은 사냥감으로 지정된 대상을 처치할 때마다 전투가 끝날 때까지 중첩되는 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다. 보너스는 적의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}(적 아이콘의 로마 숫자)에 따라 달라진다.
+156	{g|Encyclopedia:CareerHunterGlossary}현상금 사냥꾼{/g}이 사냥감으로 지정한 대상을 처치할 때마다 전투 종료 시까지 중첩 가능한 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다. 보너스는 적의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}(적 아이콘의 로마 숫자)에 따라 달라집니다.
 157	사냥감
-158	적이 공격할 수 있다면 가장 먼저 공격하는 대상이다.
+158	적이 공격할 수 있다면 가장 먼저 공격하는 대상입니다.
 159	우선 표적
-160	{g|Encyclopedia:ProfitFactorFullGlossary}수익 지수{/g}는 {g|Encyclopedia:RogueTrader}로그 트레이더{/g}로서의 지위, 부, 권력을 나타낸다. 거래 관계, 영지 수입, 금고의 비축 자산에 따라 수치가 결정된다. 여행 중 아이템을 구매하거나 식민지 사업을 완료할 때 수익 지수를 사용한다.\n수익 지수는 구매나 거래 시 소모되지 않는다. 대신 그 수치에 따라 거래를 성사시킬 수 있는지가 결정된다. 수익 지수는 오르거나 내려갈 수 있다. 주로 대규모 교역을 통해 상승하며, 식민지 사업에 투자하면 감소한다.
+160	{g|Encyclopedia:ProfitFactorFullGlossary}수익 지수{/g}는 {g|Encyclopedia:RogueTrader}로그 트레이더{/g}로서의 지위, 부, 권력을 나타냅니다. 무역 관계, 영지의 수입, 금고의 비축 자산에 따라 수치가 결정됩니다. 여정 중 아이템을 구매하고 식민지 사업을 완료하는 데 수익 지수를 사용합니다.\n수익 지수는 구매나 거래 시 소모되지 않으며, 그 수치에 따라 거래 성사 여부가 결정됩니다. 수익 지수는 증가하거나 감소할 수 있습니다. 주로 대규모 무역 거래로 증가하고, 식민지 사업에 투자하면 감소합니다.
 161	수익 지수
-162	함수 장착 무기를 설치할 수 있는 공허선 구획이다.
+162	함수 장착 무기를 설치할 수 있는 공허선 구역입니다.
 163	함수
-164	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 현실 우주와 워프 사이의 베일이 {g|Encyclopedia:VeilThickness}손상된다{/g}. 이로 인해 <b>사이킥 현상</b>이 발생할 수 있다.\n사이킥 현상은 위험하기보다는 불안을 유발한다. 사이커 주변 사람들의 생각을 침범하거나 불길한 징조와 환영을 일으킨다. 전투 중 주의를 흐트러뜨리거나 사기를 낮추고, 때로는 불운을 불러 파티의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 감소시킨다. 사이커는 공인 사이커와 비공인 사이커로 나뉜다. 공인 사이커는 <b>사이킥 현상</b>을 일으킬 확률이 절반으로 줄어든다. 비공인 사이커는 그 확률이 증가하는 대신 {g|Encyclopedia:PsyRating}<b>사이 등급</b>{/g}이 +1 증가한다.
+164	사이커가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용할 때마다 현실 우주와 워프 사이의 베일이 {g|Encyclopedia:VeilThickness}손상됩니다{/g}. 이때 <b>사이킥 현상</b>이 발생할 수 있습니다.\n사이킥 현상은 위험하기보다는 불안을 일으킵니다. 사이커 주변 사람들의 생각에 침투하거나 징조와 환영을 드러냅니다. 일행이 전투에 집중하지 못하게 하고 사기를 낮추거나 불운을 일으켜 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 감소시킵니다. 사이커는 공인 사이커와 비공인 사이커로 나뉩니다. 공인 사이커는 <b>사이킥 현상</b>을 일으킬 확률이 절반으로 감소하지만, 비공인 사이커는 발생 확률이 증가하는 대신 {g|Encyclopedia:PsyRating}<b>사이 등급</b>{/g}에 +1을 얻습니다.
 165	사이킥 현상
-166	사이커는 워프와 연결되어 현실 우주에서 그 에너지를 다룰 수 있다. 이 특수한 {g|Encyclopedia:Ability}능력{/g}을 <b>사이킥 능력</b>이라 한다. 사이킥 능력은 파괴적이며 적뿐 아니라 사이커 자신과 아군에게도 위험하다. 사이킥 능력을 사용할 때마다 <b><u>(5 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>%</b> 확률로 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}이 발생하며, 현실 우주와 워프 사이의 {g|Encyclopedia:VeilThickness}베일{/g}이 얇아져 베일 손상이 증가한다. 사이킥 능력은 하위와 상위로 나뉜다. 하위 사이킥 능력은 사용할 때마다 베일 손상을 1 증가시키고, 상위 사이킥 능력은 3 증가시키며 사이킥 현상을 네 배 더 자주 일으킨다. 사이킥 현상 자체는 위험하지 않지만 불안을 유발하여 파티의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 조금 감소시킨다. 그러나 베일 손상이 15에 이른 뒤에도 사이킥 능력을 계속 사용하면 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}로 이어진다.
+166	사이커는 워프와 연결되어 현실 우주에서 워프 에너지를 다룰 수 있습니다. 이들의 특수 {g|Encyclopedia:Ability}능력{/g}을 <b>사이킥 능력</b>이라고 합니다. 사이킥 능력은 적뿐 아니라 사이커 자신과 아군에게도 파괴적이고 위험합니다. 사이킥 능력을 사용할 때마다 <b><u>(5 + {g|Encyclopedia:PsyRating}사이 등급{/g})</u>%</b> 확률로 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}이 발생합니다. 또한 현실 우주와 워프 사이의 {g|Encyclopedia:VeilThickness}베일{/g}이 얇아져 베일 손상이 증가합니다. 사이킥 능력은 하위와 상위로 나뉩니다. 하위 사이킥 능력은 사용할 때마다 베일 손상을 1 증가시키며, 상위 사이킥 능력은 사용할 때마다 3 증가시키고 사이킥 현상을 4배 더 자주 일으킵니다. 사이킥 현상 자체는 위험하지 않지만 불안을 일으키며 일행의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 조금 감소시킵니다. 그러나 베일 손상이 15에 도달한 뒤에도 사이킥 능력을 계속 사용하면 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발생하게 됩니다.
 167	사이킥 능력
-168	{g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 여러 계통으로 나뉜다. 예를 들어 화염술은 불을 만들고 조종하여 적을 {g|Encyclopedia:BurningEffect}화상{/g}으로 잿더미로 만들 수 있게 하며, 생체술은 생명체 내부의 생체 작용을 조절하여 사이커의 아군을 강화하고 치유할 수 있게 한다.\n사이커는 {g|Encyclopedia:Career}아키타입{/g}에서 새 {g|Encyclopedia:Ability}능력{/g}을 선택할 때 대신 새로운 사이킥 능력이나 계통을 선택할 수 있다. 새로운 계통을 선택하면 해당 계통의 기본 능력도 얻는다.
+168	{g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}은 여러 계통으로 나뉩니다. 예를 들어 파이로맨시는 불을 만들고 조종하여 적에게 {g|Encyclopedia:BurningEffect}화상{/g}을 입히고 재로 만들 수 있으며, 바이오맨시는 생명체의 생체 작용을 조절하여 아군을 강화하고 치유할 수 있습니다.\n사이커가 {g|Encyclopedia:Career}아키타입{/g}의 새 {g|Encyclopedia:Ability}능력{/g}을 선택할 때, 대신 새로운 사이킥 능력이나 계통을 선택할 수 있습니다. 새 계통을 선택하면 해당 계통의 기본 능력도 얻습니다.
 169	사이커 계통
-170	사이 등급이 오를 때마다 사이커는 새로운 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 습득할 수 있다. 피해를 주는 사이킥 능력도 강화된다.
+170	사이 등급이 오를 때마다 새로운 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 습득할 수 있습니다. 또한 피해를 주는 사이킥 능력의 위력이 강화됩니다.
 171	사이 등급
-172	모든 원거리 무기에는 사거리 수치에 따라 정해지는 두 가지 사격 영역이 있다. 유효 사거리와 최대 사거리다. 최대 사거리는 대상을 명중시킬 수 있는 가장 먼 거리를 나타낸다. 유효 사거리는 최대 사거리의 50%이며, 가장 효율적으로 사격할 수 있는 거리를 나타낸다.\n유효 사거리와 최대 사거리가 원거리 전투에 미치는 영향은 {g|Encyclopedia:RangedAttack}사격 구역{/g} 항목에서 자세히 확인할 수 있다.
+172	모든 원거리 무기에는 유효 사거리와 최대 사거리라는 두 사거리 수치에 따른 사격 구역이 있습니다. 최대 사거리는 대상을 명중시킬 수 있는 가장 먼 거리입니다. 유효 사거리는 최대 사거리의 50%에 해당하며, 무기를 가장 효과적으로 사격할 수 있는 거리입니다.\n유효 사거리와 최대 사거리가 원거리 전투에 미치는 영향은 {g|Encyclopedia:RangedAttack}사격 구역{/g} 항목에서 자세히 확인할 수 있습니다.
 173	사거리
-174	공격 한 번에 발사하는 탄 수를 결정하는 {g|Encyclopedia:Range}원거리{/g} 무기 수치다. 이 수치가 1보다 높으면 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격을 할 수 있다.
+174	공격당 발사 횟수를 결정하는 {g|Encyclopedia:Range}원거리{/g} 무기의 수치입니다. 이 수치가 1보다 높으면 {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격을 할 수 있습니다.
 175	발사 수
-176	{g|Encyclopedia:BurstAttacksGlossary}연사{/g} 시 두 번째 탄부터 이후 모든 탄은 궤도가 빗나갈 확률이 무기의 반동 수치만큼 증가한다.
+176	{g|Encyclopedia:BurstAttacksGlossary}연사{/g} 시 두 번째 탄부터 이후 모든 탄의 탄도가 빗나갈 확률이 무기의 반동 수치만큼 증가합니다.
 177	반동
-178	{g|Encyclopedia:Range}원거리{/g} 무기는 제때 재장전해야 한다. 탄약을 보충하지 않으면 사격을 계속할 수 없다.\n화면 하단 무기 능력 바의 재장전 {g|Encyclopedia:Ability}능력{/g}을 사용하여 무기를 재장전한다. 탄약 보급량은 무제한이다.
+178	{g|Encyclopedia:Range}원거리{/g} 무기는 제때 재장전해야 합니다. 탄약을 보충하지 않으면 사격을 계속할 수 없습니다.\n화면 하단의 무기 능력 바에서 재장전 {g|Encyclopedia:Ability}능력{/g}을 사용하여 무기를 재장전하십시오. 탄약 공급량은 무제한입니다.
 179	재장전
-180	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 종류다. 날붙이 무기나 슈리켄 같은 날카로운 발사체 등 날이 선 모든 수단으로 발생한다.
+180	{g|Encyclopedia:PhysicalDamage}물리 피해{/g}의 한 유형입니다. 날붙이 무기나 슈리켄 같은 날카로운 투사체 등 예리한 날을 지닌 모든 수단으로 발생합니다.
 181	절단 피해
-182	{g|Encyclopedia:RogueTrader}로그 트레이더{/g}와 {g|Encyclopedia:KoronusExpanse}코로누스 공역{/g}의 여러 세력 간 관계를 나타내는 지표다. 세력과의 <b>평판</b>이 높을수록 해당 세력의 대표에게서 구할 수 있는 상품의 종류가 많아진다. 특정 세력의 <b>평판</b>을 높이려면 그 대표들의 의뢰를 완료하고 해당 세력 상인들에게 귀중한 화물을 넘겨야 한다.
+182	{g|Encyclopedia:RogueTrader}로그 트레이더{/g}와 {g|Encyclopedia:KoronusExpanse}코로누스 공역{/g}의 여러 세력 간 관계를 나타내는 지표입니다. 세력의 <b>평판</b>이 높을수록 해당 세력의 대표에게서 구매할 수 있는 물품이 다양해집니다. 특정 세력의 <b>평판</b>을 높이려면 대표의 의뢰를 완료하고 해당 세력의 상인에게 귀중한 화물을 넘기십시오.
 183	평판
 184	저항 판정
-185	공격, {g|Encyclopedia:Ability}능력{/g}, 환경적 위험에서 비롯된 일부 효과는 캐릭터나 적에게 저항 {g|Encyclopedia:Test}판정{/g}을 요구한다. 저항 판정은 캐릭터의 {g|Encyclopedia:Characteristic}능력치{/g} 중 하나를 사용하는 일반 판정이다. 성공 여부에 따라 효과가 적용되는지, 또는 얼마나 강하게 적용되는지가 결정된다.\n저항 판정에는 세 가지 유형이 있다.\n-<indent=5%>{g|Encyclopedia:WarhammerWillpower}의지력{/g} 저항 판정은 정신 지배, 공포 등 캐릭터의 정신과 감정에 영향을 주는 효과에 저항할 때 필요하다.</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerToughness}강인함{/g} 저항 판정은 독, 기절 수류탄 등 신체에 영향을 주는 효과에 저항할 때 필요하다.</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerAgility}민첩{/g} 저항 판정은 특정 위험을 피할 때 필요하다. 예를 들어 캐릭터에게 적용된 {g|Encyclopedia:BurningEffect}화상{/g} 효과를 끌 때 주로 민첩 저항 판정을 한다.</indent>\n일부 능력, {g|Encyclopedia:Talent}재능{/g}, 기타 효과는 모든 저항 판정이나 특정 저항 판정에 {g|Encyclopedia:Bonus}보너스{/g}를 줄 수 있다. 캐릭터가 적의 능력에 저항 판정을 하거나 적이 캐릭터의 능력에 저항 판정을 할 때 이러한 효과가 발동하기도 한다.
-186	결의는 캐릭터가 전투에서 얼마나 효율적으로, 얼마나 오래 싸울 수 있는지에 영향을 준다. 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 또는 적을 처치한 뒤 얻는 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}의 양을 결정한다.
+185	공격, {g|Encyclopedia:Ability}능력{/g}, 환경 위험 요소에서 비롯되는 일부 효과는 캐릭터나 적에게 저항 {g|Encyclopedia:Test}판정{/g}을 요구합니다. 저항 판정은 캐릭터의 {g|Encyclopedia:Characteristic}능력치{/g} 하나를 사용하는 일반 판정입니다. 성공 여부에 따라 효과의 적용 여부나 강도가 결정됩니다.\n저항 판정에는 세 가지 종류가 있습니다.\n-<indent=5%>{g|Encyclopedia:WarhammerWillpower}의지력{/g} 저항 판정은 정신 지배, 공포 등 캐릭터의 정신과 감정에 영향을 미치는 효과에 저항할 때 사용합니다.</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerToughness}강인함{/g} 저항 판정은 독, 기절 수류탄 등 신체에 영향을 미치는 효과에 저항할 때 사용합니다.</indent>\n-<indent=5%>{g|Encyclopedia:WarhammerAgility}민첩{/g} 저항 판정은 특정 위험을 피할 때 사용합니다. 예를 들어 캐릭터의 {g|Encyclopedia:BurningEffect}화상{/g} 효과를 제거할 때 주로 민첩 저항 판정을 합니다.</indent>\n일부 능력, {g|Encyclopedia:Talent}재능{/g}, 기타 효과는 모든 저항 판정이나 특정 저항 판정에 {g|Encyclopedia:Bonus}보너스{/g}를 줍니다. 이러한 효과는 캐릭터가 적의 능력에 저항 판정을 하거나 적이 캐릭터의 능력에 저항 판정을 할 때 발동할 수 있습니다.
+186	결의는 캐릭터가 전투에서 얼마나 효율적으로, 얼마나 오래 싸울 수 있는지에 영향을 줍니다. 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 또는 적을 처치한 후 얻는 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}의 양을 결정합니다.
 187	결의
 188	도탄
-189	전투 중 모든 캐릭터의 {g|Encyclopedia:Turn}턴{/g}을 합친 단위다. 매 라운드 시작 시 모든 캐릭터의 {g|Encyclopedia:ActionPoints}행동력{/g}과 {g|Encyclopedia:MovementPoints}이동력{/g}이 회복된다.
+189	전투 중 모든 캐릭터의 {g|Encyclopedia:Turn}턴{/g}을 합친 단위입니다. 매 라운드 시작 시 모든 캐릭터의 {g|Encyclopedia:ActionPoints}행동력{/g}과 {g|Encyclopedia:MovementPoints}이동력{/g}이 회복됩니다.
 190	라운드
-191	공허선 수리에 쓰이는 자원이다. 고철로 함선을 수리하여 {g|Encyclopedia:HullIntegritySpace}선체 내구도{/g}를 회복하거나, {g|Encyclopedia:ProwSpace}함수{/g}와 선체의 수치를 개선하거나, 직책 능력을 강화할 수 있다. 고철은 항성계를 탐사하면서 발견하거나 일부 우주전이 끝난 뒤 수집할 수 있으며, 여러 세력의 상인에게서 구매할 수도 있다.
+191	공허선 수리에 사용하는 자원입니다. 고철로 함선을 수리하여 {g|Encyclopedia:HullIntegritySpace}선체 내구도{/g}를 회복하거나, {g|Encyclopedia:ProwSpace}함수{/g}와 선체의 수치를 높이거나, 보직의 능력을 강화할 수 있습니다. 고철은 항성계를 탐사하거나 특정 우주전을 마친 뒤 수집할 수 있으며, 여러 세력에 소속된 상인에게 구매할 수도 있습니다.
 192	고철
-193	공허선 보이드 실드 체계의 한 부분이다. 보호막 배열 두 개가 함선의 양현을, 하나가 함수를, 하나가 함미를 보호한다.
+193	공허선의 보이드 실드 체계를 이루는 구역입니다. 보호막 발생기 2개는 함선의 양 측면을, 나머지 2개는 각각 함수와 함미를 보호합니다.
 194	보호막 구역
-195	{g|Encyclopedia:EnergyDamage}에너지 피해{/g}의 한 종류다. 대상을 감전시키는 모든 수단으로 발생한다.
+195	{g|Encyclopedia:EnergyDamage}에너지 피해{/g}의 한 유형입니다. 대상을 감전시키는 모든 수단으로 발생합니다.
 196	감전 피해
-197	이 기술은 {g|Encyclopedia:WarhammerStrength}근력{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n무너진 갑판을 뛰어넘거나 미끄러운 바위를 기어오르는 등 험한 지형을 통과하는 능력을 나타낸다.
+197	이 기술은 {g|Encyclopedia:WarhammerStrength}근력{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n무너진 갑판을 뛰어넘거나 미끄러운 바위를 오르는 등 험한 지형을 통과하는 능력을 나타냅니다.
 198	운동
-199	이 기술은 {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n의식적으로 알아차리지 못하는 것에도 무의식적으로 반응하는 능력을 아우른다.\n인지가 높으면 함정, 교묘하게 숨겨진 물건, 비밀 통로, 주변의 특이하거나 수상한 요소를 발견할 수 있다.
+199	이 기술은 {g|Encyclopedia:WarhammerPerception}지각{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n의식적으로 알아차리지 못한 것에도 무의식적으로 반응하는 능력을 나타냅니다.\n인지를 통해 함정, 교묘하게 숨겨진 물건, 비밀 통로, 주변의 특이하거나 수상한 요소를 발견할 수 있습니다.
 200	인지
-201	이 기술은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n일부 독, 자극제, 술로 인한 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}에 저항하는 능력을 나타낸다. 새로운 대화 선택지를 열어 주기도 한다.
+201	이 기술은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n일부 독, 자극제, 술이 유발하는 {g|Encyclopedia:NegativeEffectTypesGlossary}해로운 효과{/g}에 저항하는 능력을 나타냅니다. 새로운 대화 선택지가 열릴 수 있습니다.
 202	주량
-203	이 기술은 {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n겁을 주어 타인을 움직이는 재주를 나타내며, 대화 중 협박과 압박으로 원하는 목적을 달성할 수 있게 한다.
+203	이 기술은 {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n겁을 주어 다른 사람을 움직이는 능력을 나타냅니다. 대화 중 위협과 압박으로 원하는 목표를 달성할 수 있습니다.
 204	위협
-205	이 기술은 {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n캐릭터의 사업 감각과 이익이 되는 거래를 성사시키는 능력을 나타낸다. 새로운 대화 선택지를 열어 주기도 한다.
+205	이 기술은 {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n사업 수완과 이익이 되는 거래를 성사시키는 능력을 나타냅니다. 새로운 대화 선택지가 열릴 수 있습니다.
 206	상업
-207	이 기술은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n함정을 해제하는 데 사용한다. 또한 폭발물로 보관함을 터뜨려 열거나 닫힌 문과 막힌 통로를 뚫을 수 있게 한다.
+207	이 기술은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n함정을 해제하는 데 사용합니다. 또한 폭발물로 보관함을 열거나 닫힌 문과 막힌 통로를 뚫을 수 있습니다.
 208	폭파
-209	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n캐릭터의 합리적인 주장에 설득력을 더하고, 타인의 말에서 논리적 모순을 알아차릴 수 있게 한다. 코기테이터를 더 효율적으로 다루는 데도 도움이 된다. 새로운 대화 선택지를 열어 주기도 한다.
+209	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n이성적인 주장의 설득력을 높이고 다른 사람의 말에서 논리적 모순을 찾아내는 능력입니다. 코기테이터를 더 효율적으로 다루는 데도 도움이 됩니다. 새로운 대화 선택지가 열릴 수 있습니다.
 210	논리
-211	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n제국의 교리, 역사, 구조에 대한 이해도를 나타낸다. 새로운 대화 선택지를 열어 주기도 한다.
+211	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n제국의 교리, 역사, 체계에 대한 이해를 나타냅니다. 새로운 대화 선택지가 열릴 수 있습니다.
 212	지식(제국)
-213	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n{g|Encyclopedia:Warp}워프{/g} 존재의 본질과 그 뒤틀린 물리적 현현에 관한 지식을 나타낸다. 새로운 대화 선택지를 열어 주기도 한다.
+213	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n{g|Encyclopedia:Warp}워프{/g} 존재의 본질과 뒤틀린 물리적 현현에 관한 지식을 나타냅니다. 새로운 대화 선택지가 열릴 수 있습니다.
 214	지식(워프)
-215	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n제국에 알려진 외계 종족과 그 위험성, 일반적인 외형에 관한 지식을 나타낸다. 새로운 대화 선택지를 열어 주기도 한다.\n제노스가 만든 함정을 해제하는 데도 사용할 수 있다.
+215	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n제국에 알려진 외계 종족과 그 위협, 전반적인 외형에 관한 지식을 나타냅니다. 새로운 대화 선택지가 열릴 수 있습니다.\n제노스가 만든 함정을 해제하는 데도 사용할 수 있습니다.
 216	지식(제노스)
-217	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n캐릭터가 전투에서 입은 부상을 찾아내고 치료하는 데 필수적이다. 구급상자로 회복하는 {g|Encyclopedia:HitPoints}체력{/g}을 늘리고 더 좋은 구급상자를 사용할 수 있게 한다. {g|Encyclopedia:SkillMedicae}의술{/g} 수치가 높으면 {g|Encyclopedia:Injury}오래된 부상{/g}이 {g|Encyclopedia:Traumas}중상{/g}으로 악화되기 전에 치료하는 데도 도움이 된다.
+217	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n전투 중 입은 부상을 찾아내고 치료하는 데 필수적입니다. 또한 구급상자로 회복하는 {g|Encyclopedia:HitPoints}체력{/g}을 늘리고 더 좋은 품질의 구급상자를 사용할 수 있게 합니다. {g|Encyclopedia:SkillMedicae}의술{/g} 수치가 높으면 {g|Encyclopedia:Injury}오래된 부상{/g}이 {g|Encyclopedia:Traumas}중상{/g}으로 바뀌기 전에 치료하는 데도 도움이 됩니다.
 218	의술
-219	이 기술은 {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n협상을 통해 타인을 움직이는 재주를 나타낸다. 대화에서 좋은 인상을 주고 상대가 자신의 의견에 동의하도록 평화롭게 설득하여 원하는 목적을 달성할 수 있게 한다.
+219	이 기술은 {g|Encyclopedia:WarhammerFellowship}친화력{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n협상으로 다른 사람을 움직이는 능력을 나타냅니다. 대화 중 좋은 인상을 주고 상대를 평화롭게 설득하여 원하는 목표를 달성할 수 있습니다.
 220	설득
-221	기술은 장비 다루기, 작은 단서 발견하기, 잠긴 보관함 열기, 대화의 흐름 바꾸기 등 다양한 문제를 해결하는 능력을 나타낸다. 기술 수치는 캐릭터의 숙련도를 결정하며, 높을수록 해당 기술 {g|Encyclopedia:Test}판정{/g}에 성공하기 쉬워진다.
+221	기술은 장비 관리, 사소한 단서 발견, 잠긴 보관함 열기, 대화 주도 등 다양한 문제를 해결하는 캐릭터의 능력을 나타냅니다. 기술 수치는 숙련도를 결정합니다. 수치가 높을수록 해당 기술 {g|Encyclopedia:Test}판정{/g}에 성공하기 쉽습니다.
 222	기술
-223	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받는다.\n복잡한 기계 장치를 사용하거나 수리하는 능력을 나타낸다. {g|Encyclopedia:SkillTechUse}기술 활용{/g} 수치가 높으면 정체불명의 기술 유물도 작동 원리를 파악할 수 있다.\n문이나 보관함을 열고 코기테이터를 해킹하는 데도 사용할 수 있다.
+223	이 기술은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} {g|Encyclopedia:Characteristic}능력치{/g}의 영향을 받습니다.\n복잡한 기계 장치를 사용하거나 수리하는 능력을 나타냅니다. {g|Encyclopedia:SkillTechUse}기술 활용{/g} 수치가 높으면 정체불명의 기술 유물이 작동하는 원리까지 파악할 수 있습니다.\n문이나 보관함을 열고 코기테이터를 해킹하는 데도 사용할 수 있습니다.
 224	기술 활용
-225	{g|Encyclopedia:SlowedEffect}감속{/g} 상태인 함선은 {g|Encyclopedia:SpeedSpace}속도{/g}가 절반으로 감소한다.
+225	{g|Encyclopedia:SlowedEffect}감속{/g} 상태인 함선은 {g|Encyclopedia:SpeedSpace}속도{/g}가 절반으로 감소합니다.
 226	감속 (우주전)
-227	영혼의 가장 비천하고 어두운 충동에 완전히 굴복하거나 이머티리움의 고대 신들을 끊임없이 숭배하며 워프의 타락과 오염에 헌신한다.
+227	영혼의 가장 비천하고 어두운 충동에 완전히 굴복하거나 이머티리움의 고대 신들을 끊임없이 숭배하며 워프의 부패와 오염에 헌신합니다.
 228	이단적
-229	제국의 법이 신성하고 무오류임을 믿는다. 신황제와 성스러운 선택받은 자들의 가르침을 따르며, 무지하고 불온한 대중에게 그분의 뜻을 행한다. 배신자, 이단자, 제노스, 카오스의 종복을 가리지 않고 인류의 적을 한없이 증오한다.
+229	제국의 법이 신성하고 무오류하다고 믿습니다. 신황제와 성스러운 선택받은 자들의 가르침을 따르며, 무지하고 무질서한 대중에게 황제의 뜻을 집행합니다. 반역자, 이단자, 제노스, 카오스의 하수인 등 인류의 적에게 끝없는 증오를 품습니다.
 230	교조적
-231	인간의 생명과 자유가 지닌 가치를 믿는다. 인위적인 금제 없이도 우주의 공포와 위험을 극복할 수 있는 선의의 힘을 신뢰한다. 타협 없는 파괴보다 공통점과 타협점을 찾고자 한다.
+231	인간의 생명과 자유가 지닌 가치를 믿습니다. 인위적인 금제 없이도 우주의 공포와 위험을 극복할 수 있는 선의의 힘을 신뢰합니다. 타협 없는 파괴보다 공통점과 절충안을 찾고자 합니다.
 232	인습타파
-233	함선의 속도다. 속도는 함선이 자신의 턴 시작 시 얻는 {g|Encyclopedia:MovementPointsSpace}함선 이동력{/g}을 결정한다.
+233	함선의 속도입니다. 속도는 함선이 턴 시작 시 얻는 {g|Encyclopedia:MovementPointsSpace}함선 이동력{/g}을 결정합니다.
 234	속도
-235	우현 장착 무기를 설치할 수 있는 공허선 구획이다.
+235	우현 장착 무기를 설치할 수 있는 공허선 구역입니다.
 236	우현
-237	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g} {g|Encyclopedia:Career}아키타입{/g}의 {g|Encyclopedia:Ability}능력{/g} 분류 중 하나다. 각 {g|Encyclopedia:Stratagem}<b>책략</b>{/g}은 종류에 따라 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역과 고유하게 상호작용하며, 구역 안의 아군에게 이점을 제공한다.
+237	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g} {g|Encyclopedia:Career}아키타입{/g}의 {g|Encyclopedia:Ability}능력{/g} 분류입니다. 각 {g|Encyclopedia:Stratagem}<b>책략</b>{/g} 유형은 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역과 고유한 방식으로 상호작용하며, 구역 안의 아군에게 이점을 제공합니다.
 238	책략
-239	{g|Encyclopedia:Stun}기절{/g} 상태인 캐릭터는 행동과 {g|Encyclopedia:Ability}능력{/g}이 크게 제한된다. 기절 중에는 {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 할 수 없다. 적은 기절한 대상을 명중시키는 데 {g|Encyclopedia:Bonus}보너스{/g}도 얻는다.
+239	{g|Encyclopedia:Stun}기절{/g} 상태인 캐릭터는 행동과 {g|Encyclopedia:Ability}능력{/g}이 크게 제한됩니다. 기절 중에는 {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 할 수 없습니다. 또한 적은 기절한 대상을 명중시킬 때 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 240	기절
 241	기절
-242	{g|Encyclopedia:Talent}재능{/g}은 지속적인 {g|Encyclopedia:Bonus}보너스{/g}와 강화 효과를 제공한다. 캐릭터는 레벨이 오르면 재능을 습득한다.
+242	{g|Encyclopedia:Talent}재능{/g}은 지속적으로 적용되는 {g|Encyclopedia:Bonus}보너스{/g}와 강화 효과를 제공합니다. 캐릭터는 레벨이 오르면 재능을 습득합니다.
 243	재능
-244	특정 효과와 {g|Encyclopedia:Ability}능력{/g}으로 얻는 추가 {g|Encyclopedia:HitPoints}체력{/g}이다. 전투 중 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}이 먼저 차감되고, 그다음 일반 체력이 차감된다.\n임시 체력은 보통 전투가 끝나거나 피해를 받아 소진될 때까지 유지된다.\n여러 출처에서 얻은 임시 체력은 서로 중첩되지 않는다. 가장 많은 임시 체력을 제공하는 출처의 효과만 적용된다.
-245	{g|Encyclopedia:Test}판정{/g}의 성공 여부는 100면체 주사위를 굴려 결정한다.\n각 기술 판정의 난이도는 음수를 포함하여 최대 100까지다. 성공하려면 명시된 난이도와 판정에 쓰이는 기술 수치의 합보다 낮은 값이 나와야 한다.\n예를 들어 난이도 −10의 판정을 시도한다고 가정한다.\n캐릭터의 <b>{g|Encyclopedia:SkillTechUse}기술 활용{/g} 기술</b> 수치는 40이다.\n40 − 10 = 30\n따라서 <b>기술 활용 기술</b> 판정에 성공하려면 30 이하가 나와야 한다. 30을 초과하면 실패한다.\n난이도 수치는 낮을수록 어렵다. 수치가 높을수록 판정에 성공하기 쉽다. 난이도 40 판정은 난이도 10 판정보다 성공하기 쉽다.
-246	{g|Encyclopedia:EnergyDamage}에너지 피해{/g}의 한 종류다. 에너지 광선이나 플라스마를 사용하거나 대상을 분해하는 모든 수단으로 발생한다.
+244	특정 효과와 {g|Encyclopedia:Ability}능력{/g}으로 얻는 추가 {g|Encyclopedia:HitPoints}체력{/g}입니다. 전투 중 {g|Encyclopedia:DamageGlossary}피해{/g}를 받으면 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}이 먼저 차감되고, 그다음 일반 체력이 차감됩니다.\n임시 체력은 보통 전투가 끝나거나 피해를 받아 모두 소진될 때까지 유지됩니다.\n여러 경로로 얻은 임시 체력은 서로 중첩되지 않으며, 가장 많은 임시 체력을 제공하는 효과만 적용됩니다.
+245	{g|Encyclopedia:Test}판정{/g}의 성공 여부는 100면체 주사위를 굴려 결정합니다.\n각 기술 판정에는 음수를 포함해 최대 100의 난이도가 있습니다. 성공하려면 제시된 난이도와 판정에 사용하는 기술 수치를 더한 값보다 낮은 값이 나와야 합니다.\n예를 들어 난이도 −10인 판정을 시도한다고 가정하겠습니다.\n캐릭터의 <b>{g|Encyclopedia:SkillTechUse}기술 활용{/g} 기술</b> 수치는 40입니다.\n40 − 10 = 30\n따라서 <b>기술 활용 기술</b> 판정에 성공하려면 30 이하가 나와야 합니다. 30보다 높으면 실패합니다.\n난이도 수치는 낮을수록 더 어렵습니다. 수치가 높을수록 판정에 성공하기 쉽습니다. 난이도 40인 판정이 난이도 10인 판정보다 쉽습니다.
+246	{g|Encyclopedia:EnergyDamage}에너지 피해{/g}의 한 유형입니다. 에너지 광선이나 플라스마를 사용하거나 대상을 분해하는 모든 수단으로 발생합니다.
 247	열 피해
-248	어뢰를 발사하는 공허선 무기다. 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}할 수 있으며, 빗나가서 근접 신관으로 폭발하거나 수동으로 기폭하면 범위 피해를 준다.
+248	어뢰를 발사하는 공허선 무기입니다. 어뢰는 {g|Encyclopedia:DirectHitSpace}직격{/g}하거나, 빗나가 근접 신관으로 폭발하거나 수동으로 폭파하여 범위 피해를 줄 수 있습니다.
 249	어뢰 발사관
-250	발사된 뒤 전장에서 조종할 수 있는 어뢰다.
+250	발사 후 전장에서 조종할 수 있는 어뢰입니다.
 251	어뢰 일제 발사
-252	{g|Encyclopedia:EnergyDamage}에너지 피해{/g}의 한 종류다. 독, 부식성 산 등으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 모든 수단으로 발생한다.
+252	{g|Encyclopedia:EnergyDamage}에너지 피해{/g}의 한 유형입니다. 독, 부식성 산 등으로 {g|Encyclopedia:DamageGlossary}피해{/g}를 주는 모든 수단으로 발생합니다.
 253	독성 피해
-254	매 {g|Encyclopedia:Turn}턴{/g} 시작 시, 이 효과가 적용된 대상은 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하여 효과를 제거해야 한다. 실패하면 {g|Encyclopedia:DamageGlossary}피해{/g}를 받는다.
+254	효과를 받은 대상은 매 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:WarhammerToughness}강인함{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 성공하면 효과를 제거하고, 실패하면 {g|Encyclopedia:DamageGlossary}피해{/g}를 받습니다.
 255	중독
-256	모든 아군은 {g|Encyclopedia:Trailed}추적당함{/g} 상태인 적을 상대로 {g|Encyclopedia:HitSequenceGlossary}명중률{/g} +7%를 얻는다. 적의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}가 V 이상이면 +15%를 얻는다.
+256	모든 아군은 {g|Encyclopedia:Trailed}추적당함{/g} 상태인 적을 공격할 때 {g|Encyclopedia:HitSequenceGlossary}명중률{/g} +7%를 얻습니다. 적의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}가 V 이상이면 +15%를 얻습니다.
 257	추적당함
-258	{g|Encyclopedia:Injury}부상{/g}을 3개 이상 입은 캐릭터가 제때 {g|ib:Medikit}구급상자{/g}로 치료하지 않으면 부상이 <b>중상</b>으로 악화된다. 중상을 유발하는 부상의 개수는 선택한 게임 난이도에 따라 달라질 수 있다. 중상은 캐릭터의 {g|Encyclopedia:Resolve}결의{/g}를 감소시키며, 중상 종류에 따라 추가로 해로운 효과를 부여한다. 중상은 공허선에 있는 로그 트레이더의 개인실에서만 제거하고 완치할 수 있다.
+258	{g|Encyclopedia:Injury}부상{/g}을 3개 이상 입은 캐릭터가 제때 {g|ib:Medikit}구급상자{/g}로 치료하지 않으면 부상이 <b>중상</b>으로 바뀝니다. 중상을 유발하는 부상 수는 선택한 게임 난이도에 따라 달라질 수 있습니다. 중상은 캐릭터의 {g|Encyclopedia:Resolve}결의{/g}를 감소시키며, 중상 종류에 따라 추가로 해로운 효과를 부여합니다. 중상은 공허선에 있는 로그 트레이더의 개인실에서만 제거하고 완전히 치료할 수 있습니다.
 259	중상
-260	캐릭터가 한 {g|Encyclopedia:Round}라운드{/g}에 수행하는 행동 전체를 뜻한다. 자신의 턴에는 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모하여 이동하고, {g|Encyclopedia:ActionPoints}행동력{/g}을 소모하여 공격 행동이나 {g|Encyclopedia:Ability}능력{/g}을 사용할 수 있다. 전투에서는 행동 순서가 중요하다. 캐릭터는 <b>공격 행동</b>을 하기 전에만 전장을 이동할 수 있다.\n공격하면 남은 이동력을 잃으며 다음 턴 시작 시까지 이동할 수 없다. 다만 공격 후 이동력을 얻는 수단이 있는 경우 등에는 이 제한을 우회할 수 있다.
+260	한 {g|Encyclopedia:Round}라운드{/g} 동안 캐릭터 하나가 하는 모든 행동을 합친 단위입니다. 자신의 턴에는 {g|Encyclopedia:MovementPoints}이동력{/g}을 소모해 이동하고, {g|Encyclopedia:ActionPoints}행동력{/g}을 소모해 공격 행동을 하거나 {g|Encyclopedia:Ability}능력{/g}을 사용할 수 있습니다. 전투에서는 행동 순서가 중요합니다. 캐릭터는 <b>공격 행동</b>을 하기 전에만 전장을 이동할 수 있습니다.\n공격하면 남은 이동력을 잃고 다음 턴 시작 시까지 이동할 수 없습니다. 단, 공격 후 이동력을 얻을 수 있는 수단이 있다면 이 제한을 벗어날 수 있습니다.
 261	턴
-262	지상전에서는 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}과 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}이라는 특수 능력을 사용할 수 있다. 각 캐릭터는 전투당 1회만 영웅적 행동이나 필사의 결단 중 하나를 사용할 수 있다. 필사의 결단은 파티 전체에서 {g|Encyclopedia:Round}라운드{/g}당 한 번만 사용할 수 있다. 이 능력들은 파티의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g} 수치에 따라 사용 가능해진다. 원동력이 175에 도달하면 영웅적 행동을 사용할 수 있다. 원동력이 25 이하면 필사의 결단을 사용할 수 있다.\n우주전에서는 지상전에서 사용할 수 없는 별도의 궁극기를 사용할 수 있다. 궁극기는 전투당 하나만 사용할 수 있다. 궁극기 충전 게이지는 전투 중 매 라운드, 전투 종료 시, 특정 우주 사건 중에 서서히 차오른다.
-263	{g|Encyclopedia:CareerVanguardGlossary}뱅가드{/g}는 공격받을 때마다 {g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g} 중첩을 +1 얻는다. 중첩 하나당 {g|Encyclopedia:Resolve}결의{/g}가 +1 증가하며, 최대 +15까지 증가한다. 뱅가드 주변 반경 2칸 이내의 모든 아군은 해당 {g|Encyclopedia:Bonus}보너스{/g}의 1/5을 얻는다.\n뱅가드의 {g|Encyclopedia:Turn}턴{/g} 시작 시 남은 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}이 {g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g} 중첩 수보다 적으면, 임시 체력이 중첩 수와 같아진다. 턴 시작 시 임시 체력이 전혀 없어도 적용된다.
-264	사이커가 {g|Encyclopedia:Ability}능력{/g}을 강화하려고 워프 깊숙한 곳에서 힘을 끌어올릴 때마다, 엠피리언이 현실로 스며들어 파괴적인 영향력을 발휘할 위험이 따른다.\n전투 중 아군과 적이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면 마테리움과 이머티리움, 즉 현실과 그 너머 악몽의 영역을 가르는 베일이 찢어진다. 베일이 버티는 동안에는 <b>사이킥 능력</b> 사용이 그다지 위험하지 않으며 {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}만 일으킨다. 하지만 베일 손상이 15에 도달하면 <b>사이킥 현상</b> 발생 확률이 두 배가 되고, <b>상위 사이킥 능력</b>을 사용할 때마다 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발생할 수 있다. 발생 확률은 <b><u>(10 + {g|Encyclopedia:PsyRating}사이 등급{/g} + 베일 손상)</u>%</b>다.
+262	지상전에서는 {g|Encyclopedia:HeroicAct}영웅적 행동{/g}과 {g|Encyclopedia:DesperateMeasure}필사의 결단{/g}이라는 특수 능력을 사용할 수 있습니다. 각 캐릭터는 전투당 1회, 영웅적 행동과 필사의 결단 중 하나만 사용할 수 있습니다. 필사의 결단은 일행 전체가 {g|Encyclopedia:Round}라운드{/g}당 1회만 사용할 수 있습니다. 이러한 능력은 일행의 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g} 수치에 따라 사용할 수 있게 됩니다. 원동력이 175에 도달하면 영웅적 행동을, 25 이하이면 필사의 결단을 사용할 수 있습니다.\n우주전에서는 지상전에서 사용할 수 없는 별도의 궁극기를 사용할 수 있습니다. 전투당 궁극기는 1개만 사용할 수 있습니다. 궁극기 충전 게이지는 전투 중 매 라운드, 전투 종료 시, 특정 우주 이벤트 도중에 점차 차오릅니다.
+263	{g|Encyclopedia:CareerVanguardGlossary}뱅가드{/g}는 공격받을 때마다 {g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g} 1중첩을 얻습니다. 중첩당 {g|Encyclopedia:Resolve}결의{/g}가 +1씩, 최대 +15까지 증가합니다. 뱅가드 주변 반경 2칸 이내의 모든 아군은 해당 {g|Encyclopedia:Bonus}보너스{/g}의 1/5을 얻습니다.\n뱅가드의 {g|Encyclopedia:Turn}턴{/g} 시작 시 남은 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}이 {g|f:fc83a8ac57e54db59c3bb70083dc385c}불굴의 봉화{/g} 중첩 수보다 적으면, 임시 체력이 중첩 수와 같아집니다. 턴 시작 시 임시 체력이 없어도 적용됩니다.
+264	사이커가 {g|Encyclopedia:Ability}능력{/g}에 힘을 싣기 위해 워프 깊숙이 손을 뻗을 때마다, 엠피리언이 현실로 흘러들어 파괴적인 영향력을 펼칠 위험이 따릅니다.\n전투 중 아군과 적이 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 사용하면 마테리움과 이머티리움, 즉 현실과 그 너머 악몽의 영역을 가르는 베일이 찢어집니다. 베일이 버티는 동안에는 <b>사이킥 능력</b>을 사용해도 위험이 적으며, {g|Encyclopedia:PsychicPhenomena}사이킥 현상{/g}만 발생합니다. 하지만 베일 손상이 15에 도달하면 <b>사이킥 현상</b> 발생 확률이 2배로 증가하며, <b>상위 사이킥 능력</b>을 사용할 때마다 {g|Encyclopedia:PerilsOfWarp}페릴 오브 더 워프{/g}가 발생할 수 있습니다. 발생 확률은 <b><u>(10 + {g|Encyclopedia:PsyRating}사이 등급{/g} + 베일 손상)</u>%</b>입니다.
 265	베일 손상
-266	이 캐릭터가 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 <b>+<u>(취약 중첩 수 × {unit_stat|WarhammerPerception|bonus})</u>%</b> 증가한다.
+266	이 캐릭터는 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 공격으로 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 <b>+<u>(취약 중첩 수 × {unit_stat|WarhammerPerception|bonus})</u>%</b> 증가합니다.
 267	민첩 (AGI)
 268	사격술(BS)
 269	친화력(FEL)
@@ -273,8 +273,8 @@
 273	강인함(TGH)
 274	근접술(WS)
 275	의지력 (WP)
-276	{g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}의 한 종류로, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시한다. 워프 에너지에 노출되는 모든 경우에 발생한다.
+276	{g|Encyclopedia:IrreducibleDamage}감소 불가 피해{/g}의 한 유형으로, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 무시합니다. 워프 에너지에 노출되는 모든 경우에 발생합니다.
 277	워프 피해
-278	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:Turn}턴{/g} 종료 시 목격자의 {g|Encyclopedia:LineOfSight}시야{/g}에 어새신이 없으면, 해당 목격자는 어새신이 현재 사용하는 무기의 최대 기본 {g|Encyclopedia:DamageGlossary}피해{/g}의 <b><u>({g|Encyclopedia:Lethality}치사율{/g} / 3)</u>%</b>만큼 피해를 받는다.
-279	<b>전술 단계</b>에서는 캐릭터가 {g|Encyclopedia:CantAttackEffect}공격 불가{/g} 상태이며 다른 행동도 할 수 없지만, 유리한 위치를 잡을 수 있다. 이 단계에서 파티의 각 캐릭터는 최대 {g|Encyclopedia:MovementPoints}이동력{/g}만큼 이동할 수 있으나, 적과 인접한 위치에는 설 수 없다.\n적의 기습을 받으면 전술 단계를 진행할 수 없다.
+278	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:Turn}턴{/g} 종료 시 목격자의 {g|Encyclopedia:LineOfSight}시야{/g}에 어새신이 없으면, 해당 목격자는 어새신이 현재 사용하는 무기의 최대 기본 {g|Encyclopedia:DamageGlossary}피해{/g} 중 <b><u>({g|Encyclopedia:Lethality}치사율{/g} / 3)</u>%</b>만큼 피해를 받습니다.
+279	<b>전술 단계</b>에서는 캐릭터가 {g|Encyclopedia:CantAttackEffect}공격 불가{/g} 상태이며 다른 행동도 할 수 없지만, 유리한 위치를 잡을 수 있습니다. 이 단계에서는 일행의 각 캐릭터가 최대 {g|Encyclopedia:MovementPoints}이동력{/g}만큼 이동할 수 있으나, 적과 인접한 위치에는 배치할 수 없습니다.\n적에게 기습당하면 전술 단계를 이용할 수 없습니다.
 280	전술 단계

@@ -1,523 +1,523 @@
-1	이 크리처의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +15% 증가한다.
-2	매 {g|Encyclopedia:Round}라운드{/g} 시작 시, 이 크리처는 {uip|10TOUBonus|ab78d685ff764daa8487633a8663eaee}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입는다.
-3	<u>(10 − {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>\n최솟값 1
-4	이 크리처가 주는 피해가 +15% 증가하고 받는 피해가 +5% 증가한다.
-5	사르고나 함장은 로그 트레이더를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼는다.
-6	캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 감소하고 {g|Encyclopedia:WarhammerStrength}근력{/g}이 증가한다.\n<i>일반적인 방법으로는 제거할 수 없다</i>
-7	캐릭터의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 감소한다.\n<i>일반적인 방법으로는 제거할 수 없다</i>
-8	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +10 증가한다. 전투 종료 시 사라지는 일회성 보너스다.
-9	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +10 증가한다. 전투 종료 시 사라지는 일회성 보너스다.
-10	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +10 증가한다. 전투 종료 시 사라지는 일회성 보너스다.
-11	다음 전투에서 이 사이버 이글의 {g|Encyclopedia:MovementPoints}이동력{/g}이 +3 증가한다.
-12	이 적이 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}와 그 아군을 공격할 때 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 −{uip|PERBonus|33657ab5631f4050ba28135dc4ec60ff}% 감소한다.
+1	이 생물의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +15% 증가합니다.
+2	매 {g|Encyclopedia:Round}라운드{/g} 시작 시 이 생물은 {uip|10TOUBonus|ab78d685ff764daa8487633a8663eaee}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 받습니다.
+3	<u>(10 − {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>\n최소 1입니다.
+4	이 생물이 주는 피해가 +15% 증가하고 받는 피해가 +5% 증가합니다.
+5	사르고나 함장은 로그 트레이더를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼습니다.
+6	캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 감소하지만 {g|Encyclopedia:WarhammerStrength}근력{/g}이 증가합니다.\n<i>일반적인 방법으로는 제거할 수 없습니다.</i>
+7	캐릭터의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 감소합니다.\n<i>일반적인 방법으로는 제거할 수 없습니다.</i>
+8	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +10 증가합니다. 전투 종료 시 사라지는 일회성 보너스입니다.
+9	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +10 증가합니다. 전투 종료 시 사라지는 일회성 보너스입니다.
+10	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +10 증가합니다. 전투 종료 시 사라지는 일회성 보너스입니다.
+11	다음 전투에서 이 사이버 이글의 {g|Encyclopedia:MovementPoints}이동력{/g}이 +3 증가합니다.
+12	이 적이 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}와 그 아군을 공격할 때 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 −{uip|PERBonus|33657ab5631f4050ba28135dc4ec60ff}% 감소합니다.
 13	육신을 초월한 승리
 14	<u>사역마의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스</u>
-15	적에게서 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받음{/g} 효과가 제거되면, 사이버 이글이 그 적에게 {g|f:33657ab5631f4050ba28135dc4ec60ff}육신을 초월한 승리{/g}를 부여한다.
-16	{g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받음{/g} 상태인 적에게 {g|f:718c0be20ed9483787fb910acbf738a3}육신의 승리{/g} 효과도 적용된다.
-17	이 크리처가 아군을 공격해 명중시킬 때마다 전투 종료 시까지 지속되는 {g|f:c6dfd282dab54411adb3c5fa980824fd}무너진 방어{/g} 효과를 부여한다.
+15	적에게서 {g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받음{/g} 효과가 제거되면 사이버 이글이 해당 적에게 {g|f:33657ab5631f4050ba28135dc4ec60ff}육신을 초월한 승리{/g}를 부여합니다.
+16	{g|f:1e22c265a12744cc95a03d26b6c3cef9}방해받음{/g} 상태인 적은 {g|f:718c0be20ed9483787fb910acbf738a3}육신의 승리{/g} 효과도 받습니다.
+17	이 생물이 자신의 아군을 공격해 명중시킬 때마다 전투 종료 시까지 지속되는 {g|f:c6dfd282dab54411adb3c5fa980824fd}무너진 방어{/g} 효과를 부여합니다.
 18	육신의 승리
-19	이 크리처를 공격할 때 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 {uip|AGIBonus|c6dfd282dab54411adb3c5fa980824fd}% 증가한다.
+19	이 생물을 상대로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 {uip|AGIBonus|c6dfd282dab54411adb3c5fa980824fd}% 증가합니다.
 20	무너진 방어
 21	<u>(2 × 사역마의 {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-22	사이버 마스티프의 대상에게 남은 체력이 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 50%를 초과하면 사이버 마스티프의 피해가 +{uip|WSBonusMoreHP|74e3f3003ec947e2a90bf493c9b3eb5d}% 증가한다. 대상에게 남은 체력이 최대 {g|Encyclopedia:HitPoints}체력{/g}의 50% 미만이면 사이버 마스티프의 피해가 +{uip|WSBonusLessHP|74e3f3003ec947e2a90bf493c9b3eb5d}% 증가한다.
+22	사이버 마스티프의 대상에게 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 50%를 초과하는 체력이 남아 있으면 사이버 마스티프의 피해가 +{uip|WSBonusMoreHP|74e3f3003ec947e2a90bf493c9b3eb5d}% 증가합니다. 대상에게 최대 {g|Encyclopedia:HitPoints}체력{/g}의 50% 미만이 남아 있으면 사이버 마스티프의 피해가 +{uip|WSBonusLessHP|74e3f3003ec947e2a90bf493c9b3eb5d}% 증가합니다.
 23	<u>사역마의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스</u>
 24	<u>(2 × 사역마의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스)</u>
-25	다음 전투에서 이 사이버 마스티프는 {g|Encyclopedia:Deflection}피해 감소{/g}를 +1 얻는다.
-26	사이버 마스티프가 받는 피해 1회를 무시할 확률을 {uip|TOUBonus|b7be9d494f1e4df9b1ff3c31258d0a1a}% 얻는다.
+25	다음 전투에서 이 사이버 마스티프는 {g|Encyclopedia:Deflection}피해 감소{/g} +1을 얻습니다.
+26	사이버 마스티프는 받는 피해를 무시할 확률을 {uip|TOUBonus|b7be9d494f1e4df9b1ff3c31258d0a1a}% 얻습니다.
 27	<u>사역마의 {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스</u>
-28	이 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}는 사이버 레이븐의 보호를 받는다. 오버시어가 전투 중 처음으로 치명적인 피해를 받으면 해당 피해를 무시하고, 대신 무작위 아군 하나와 사이버 레이븐이 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 된다. 사이버 레이븐은 마지막 선물로 오버시어의 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|LoreWarpWounds|b4bc75022f36428ab86485983e796a6b} 회복한다.
+28	이 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}는 사이버 레이븐의 보호를 받습니다. 전투 중 처음으로 치명적인 피해를 받으면 해당 피해를 무시하고, 대신 무작위 아군 한 명과 사이버 레이븐이 {g|Encyclopedia:UnconsciousEffect}의식 불명{/g} 상태가 됩니다. 사이버 레이븐은 마지막 선물로 오버시어의 {g|Encyclopedia:HitPoints}체력{/g}을 {uip|LoreWarpWounds|b4bc75022f36428ab86485983e796a6b} 회복시킵니다.
 29	<u>({g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SkillLoreWarp}지식(워프){/g} / 2)</u>
-30	전투 시작 시, 사이버 레이븐이 자신의 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}에게 {g|f:b4bc75022f36428ab86485983e796a6b}뒤틀린 운명{/g}을 부여해 추가로 보호한다.
-31	다음 전투에서 서보 스컬 군집은 자신의 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 +{uip|LoreImperium|c2b1ef432de5499f8190352794357341}% 증가시킨다.
+30	전투 시작 시 사이버 레이븐이 자신의 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}에게 {g|f:b4bc75022f36428ab86485983e796a6b}뒤틀린 운명{/g}을 부여해 추가로 보호합니다.
+31	다음 전투에서 서보 스컬 군집이 자신의 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 +{uip|LoreImperium|c2b1ef432de5499f8190352794357341}% 증가시킵니다.
 32	<u>({g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g} / 10)</u>
-33	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 감소한다. 전투 종료 시 사라지는 일회성 불이익이다.
-34	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 감소한다. 전투 종료 시 사라지는 일회성 불이익이다.
-35	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 증가한다. 전투 종료 시 사라지는 일회성 보너스다.
-36	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 감소한다. 전투 종료 시 사라지는 일회성 불이익이다.
-37	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 증가한다. 전투 종료 시 사라지는 일회성 보너스다.
-38	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 감소한다. 전투 종료 시 사라지는 일회성 불이익이다.
-39	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 증가한다. 전투 종료 시 사라지는 일회성 보너스다.
-40	캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 감소한다.\n<i>공허선에 방문하거나 구급상자를 사용하면 이 효과가 제거된다</i>
-41	타세라 임무 종료 시까지 캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 감소한다.
-42	캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 증가한다. 전투 종료 시 사라지는 일회성 보너스다.
-43	타세라 임무 종료 시까지 캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 증가한다.
-44	캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 감소한다. 전투 종료 시 사라지는 일회성 불이익이다.
-45	{g|Encyclopedia:WarhammerWillpower}의지력{/g}이 −10 감소한다.
-46	이 크리처의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 −10 감소하고 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −10% 감소한다.
-47	로그 트레이더 주변 반경 5칸 이내의 카오스 적은 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}에 −5 {g|Encyclopedia:Penalty}불이익{/g}을 받는다.
-48	이 가드맨은 {g|f:4dde867ee0ca4566b125c82ea16595be}어떤 대가를 치르더라도{/g} 효과를 얻지 않는다.
+33	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 감소합니다. 전투 종료 시 사라지는 일회성 불이익입니다.
+34	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 감소합니다. 전투 종료 시 사라지는 일회성 불이익입니다.
+35	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 증가합니다. 전투 종료 시 사라지는 일회성 보너스입니다.
+36	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 감소합니다. 전투 종료 시 사라지는 일회성 불이익입니다.
+37	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 증가합니다. 전투 종료 시 사라지는 일회성 보너스입니다.
+38	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 감소합니다. 전투 종료 시 사라지는 일회성 불이익입니다.
+39	다음 전투에서 캐릭터의 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}이 증가합니다. 전투 종료 시 사라지는 일회성 보너스입니다.
+40	캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}과 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 감소합니다.\n<i>공허선을 방문하거나 구급상자를 사용하면 이 효과를 제거할 수 있습니다.</i>
+41	타세라 임무 종료 시까지 캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 감소합니다.
+42	캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 증가합니다. 전투 종료 시 사라지는 일회성 보너스입니다.
+43	타세라 임무 종료 시까지 캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 증가합니다.
+44	캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 감소합니다. 전투 종료 시 사라지는 일회성 불이익입니다.
+45	{g|Encyclopedia:WarhammerWillpower}의지력{/g}이 −10 감소합니다.
+46	이 생물의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 −10 감소하고 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −10% 감소합니다.
+47	로그 트레이더 주변 반경 5칸 내 카오스 적들은 {g|Encyclopedia:WarhammerAgility}민첩{/g}과 {g|Encyclopedia:WarhammerWillpower}의지력{/g}에 −5 {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.
+48	이 가드맨은 {g|f:4dde867ee0ca4566b125c82ea16595be}어떤 대가를 치르더라도{/g} 효과를 얻지 않습니다.
 49	희망은 나약함이다
-50	발츠 대위는 로그 트레이더를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼는다.
-51	이 크리처가 받는 피해가 +15% 증가한다.
-52	이 {g|Encyclopedia:Ability}능력{/g}을 사용하면 이 캐릭터의 {g|Encyclopedia:ExperiencePoints}경험치{/g}를 즉시 재분배할 수 있다.\n한 번만 사용할 수 있으며 공허선으로 돌아오면 사라진다.
+50	발츠 대위는 로그 트레이더를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼습니다.
+51	이 생물이 받는 피해가 +15% 증가합니다.
+52	이 {g|Encyclopedia:Ability}능력{/g}을 사용하면 캐릭터의 {g|Encyclopedia:ExperiencePoints}경험치{/g}를 즉시 재분배할 수 있습니다.\n한 번만 사용할 수 있으며 공허선으로 돌아가면 사라집니다.
 53	야전 재훈련
 54	오퍼러티브
 55	<u>{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스</u>
-56	오퍼러티브가 대상의 모든 {g|Encyclopedia:Exploit}약점{/g}을 제거하고, 자신의 다음 턴 시작 시까지 대상의 {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 −<u>(15 + 제거한 약점 수 × {uip|multipliyer|fbdba5fe2a264c25bada29aecd64049a})</u>% 감소시킨다.\n이 능력으로 대상의 방어도가 0이 되면 약점을 절반만 제거한다.
+56	오퍼러티브가 대상의 {g|Encyclopedia:Exploit}약점{/g}을 모두 제거하고, 자신의 다음 턴 시작 시까지 대상의 {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}, {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 −<u>(15 + 제거한 약점 수 × {uip|multipliyer|fbdba5fe2a264c25bada29aecd64049a})</u>% 감소시킵니다.\n이 능력으로 대상의 방어도가 0이 되면 대상의 약점을 절반만 제거합니다.
 57	약점 노출
 58	<u>({g|Encyclopedia:WarhammerPerception}지각{/g} 보너스 / 3)</u>
 59	위협
 60	<u>(5 + {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스 / 2)</u>
 61	<u>(3 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-62	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:LineOfSight}시야{/g} 내의 적 하나를 지정한다. 대상에게 즉시 {g|Encyclopedia:Exploit}약점{/g}이 +{uip|Exploits|502b9195c84c42c5b180f3f63ed7955c} 부여된다.
+62	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:LineOfSight}시야{/g} 내 적 하나를 지정합니다. 대상에게 즉시 {g|Encyclopedia:Exploit}약점{/g}이 +{uip|Exploits|502b9195c84c42c5b180f3f63ed7955c} 부여됩니다.
 63	<u>(1 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
 64	약점
 65	통찰
-66	매 턴 시작 시, 오퍼러티브가 자신의 {g|Encyclopedia:LineOfSight}시야{/g} 내 모든 적에게 {g|Encyclopedia:Exploit}약점{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +1중첩 부여한다.\n오퍼러티브가 약점이 중첩된 대상에게 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 공격의 피해가 +<u>(5 × 지각 보너스)</u>% 증가한다. 대상의 약점 1중첩당 피해가 추가로 10% 증가한다. 해당 공격은 대상의 모든 약점을 제거한다.
+66	매 턴 시작 시 오퍼러티브가 자신의 {g|Encyclopedia:LineOfSight}시야{/g} 내 모든 적에게 {g|Encyclopedia:Exploit}약점{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +1중첩 부여합니다.\n오퍼러티브가 약점이 중첩된 대상을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 공격의 피해가 +<u>(5 × 지각 보너스)</u>% 증가합니다. 대상의 약점 하나당 피해가 추가로 10% 증가합니다. 공격 후 대상의 약점을 모두 제거합니다.
 67	적 분석
 68	적 분석(기이한 시야)
-69	{g|Encyclopedia:Exploit}약점{/g}이 부여된 대상을 다음에 공격할 때, 대상의 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}과 방패 막기가 −<u>(15 + ({unit_stat|WarhammerPerception|bonus} / 3) × 약점 중첩 수)</u>% 감소한다. 이 공격은 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +<u>(15 + ({unit_stat|WarhammerPerception|bonus} / 3) × 약점 중첩 수)</u>% 증가한다.
+69	다음에 {g|Encyclopedia:Exploit}약점{/g}이 부여된 대상을 공격할 때 대상의 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}과 방패 막기가 −<u>(15 + ({unit_stat|WarhammerPerception|bonus} / 3) × 약점 중첩 수)</u>% 감소합니다. 해당 공격의 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}이 +<u>(15 + ({unit_stat|WarhammerPerception|bonus} / 3) × 약점 중첩 수)</u>% 증가합니다.
 70	정확한 공격
-71	오퍼러티브가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 효율 +25%(엄폐 중일 경우), {g|Encyclopedia:WarhammerPerception}지각{/g} +15, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +15를 얻는다.\n이 효과는 오퍼러티브가 이동할 때까지 지속된다. 중첩되지 않는다.
+71	오퍼러티브가 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g} 효율 +25%(엄폐 중일 때), {g|Encyclopedia:WarhammerPerception}지각{/g} +15, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +15를 얻습니다.\n이 효과는 오퍼러티브가 이동할 때까지 지속되며 중첩되지 않습니다.
 72	최적의 위치
-73	전투 종료 시까지 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +<u>(2 × 제거한 약점 수)</u>% 증가한다.
-74	전투 종료 시까지 이 캐릭터의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 +<u>제거한 약점 수</u>% 증가한다.
-75	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}는 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}으로 적의 방어에서 {g|Encyclopedia:Exploit}약점{/g}을 찾아 공략한다. 누구도 오퍼러티브의 공격을 버텨낼 수 없다.\n핵심 역할: 정확한 단일 공격, 방어 관통, 범위 약화, 사격 위치 유지.
+73	전투 종료 시까지 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +<u>(2 × 제거한 약점 수)</u>% 증가합니다.
+74	전투 종료 시까지 이 캐릭터는 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} +<u>제거한 약점 수</u>%를 얻습니다.
+75	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}는 {g|Encyclopedia:WarhammerIntelligence}지능{/g}과 {g|Encyclopedia:WarhammerPerception}지각{/g}으로 적의 방어에서 {g|Encyclopedia:Exploit}약점{/g}을 찾아 공략합니다. 오퍼러티브의 공격을 견딜 수 있는 적은 없습니다.\n주요 특화: 정밀한 단일 공격, 방어 관통, 범위 약화 효과, 고정 사격 위치.
 76	오퍼러티브
-77	{g|f:aedb4d2a2fd049db9c3f61b6737043a4}위협{/g}으로 대상을 처치하면, {g|f:aedb4d2a2fd049db9c3f61b6737043a4}위협{/g} 범위 내 다른 모든 적의 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 −{uip|DamagePenalty|dde11f867df84e61a67c2a444fe87a68}% 감소한다.
+77	{g|f:aedb4d2a2fd049db9c3f61b6737043a4}위협{/g}으로 대상을 처치하면 {g|f:aedb4d2a2fd049db9c3f61b6737043a4}위협{/g} 범위 내 다른 모든 적의 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 −{uip|DamagePenalty|dde11f867df84e61a67c2a444fe87a68}% 감소합니다.
 78	공포스러운 존재감
 79	<u>(5 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
-80	{g|Encyclopedia:Turn}턴{/g} 시작 시, {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}는 적을 {g|Encyclopedia:LineOfSight}시야{/g}에 둔 아군 2명당 해당 적에게 {g|Encyclopedia:Exploit}약점{/g}을 +1 부여한다. 여러 적에게 발동할 수 있다.
+80	{g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 적을 {g|Encyclopedia:LineOfSight}시야{/g}에 둔 아군 2명당 해당 적에게 {g|Encyclopedia:Exploit}약점{/g}을 +1 부여합니다. 여러 적에게 발동할 수 있습니다.
 81	분석 지원
 82	<u>(15 − {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
 83	<u>(10 + {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-84	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {uip|Range|070ab229e0cb4e88b564e7428e350d03}칸 이상 떨어진 {g|Encyclopedia:Exploit}약점{/g}이 중첩된 대상을 공격하면, 해당 공격의 피해가 +{uip|Damage|070ab229e0cb4e88b564e7428e350d03}% 증가한다.
+84	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {uip|Range|070ab229e0cb4e88b564e7428e350d03}칸 이상 떨어진 {g|Encyclopedia:Exploit}약점{/g} 중첩이 있는 대상을 공격하면 해당 공격의 피해가 +{uip|Damage|070ab229e0cb4e88b564e7428e350d03}% 증가합니다.
 85	탄도 계산
 86	<u>(15 − {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-87	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스가 10 이상인 동안, {g|Encyclopedia:ActionPoints}행동력{/g}을 +1 얻고 적의 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시한다.
+87	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스가 10 이상이면 {g|Encyclopedia:ActionPoints}행동력{/g} +1을 얻고 적의 {g|Encyclopedia:Deflection}피해 감소{/g}를 무시합니다.
 88	전투 통찰
-89	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g} 중일 때, {g|f:502b9195c84c42c5b180f3f63ed7955c}적 분석{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 2에서 1로 감소한다.
+89	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g} 중이면 {g|f:502b9195c84c42c5b180f3f63ed7955c}적 분석{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 2에서 1로 감소합니다.
 90	확실한 분석
 91	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
-92	{g|f:502b9195c84c42c5b180f3f63ed7955c}적 분석{/g} 대상의 {g|Encyclopedia:Exploit}약점{/g}이 2 이상이면, 대상에게 약점을 추가로 +{uip|INTB2|014b6572e19946ae8bc74fc8cbe0f92b} 부여한다.
+92	{g|f:502b9195c84c42c5b180f3f63ed7955c}적 분석{/g} 대상에게 {g|Encyclopedia:Exploit}약점{/g}이 2개 이상 있으면 약점을 추가로 +{uip|INTB2|014b6572e19946ae8bc74fc8cbe0f92b} 부여합니다.
 93	종합 분석
 94	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
-95	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 {g|Encyclopedia:Turn}턴{/g} 시작 시, {g|Encyclopedia:Exploit}약점{/g}이 가장 많은 적에게 약점을 추가로 +{uip|INTB2|ec4f6ac63df24585843693f01dc69b1c} 부여한다. 약점이 가장 많은 적이 둘 이상이면 그중 하나를 무작위로 선택한다.
+95	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:Exploit}약점{/g}이 가장 많은 적에게 약점을 추가로 +{uip|INTB2|ec4f6ac63df24585843693f01dc69b1c} 부여합니다. 약점이 가장 많은 적이 둘 이상이면 그중 하나를 무작위로 선택합니다.
 96	지속 분석
 97	<u>(10 + 2 × {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-98	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:HitPoints}체력{/g}이 가득 찬 적을 공격할 때마다 해당 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|ed9d1434d0fd41e2a382a2efe0a2018a}% 증가한다.
+98	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:HitPoints}체력{/g}이 가득 찬 적을 공격할 때마다 해당 공격이 그 적에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|ed9d1434d0fd41e2a382a2efe0a2018a}% 증가합니다.
 99	새로운 표적
 100	<u>(10 + {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
 101	<u>(5 + 2 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-102	{g|f:2a417cde46674ae0a5da8dcfd9ec621d}전술 지식{/g}에 필요한 {g|Encyclopedia:Exploit}약점{/g}이 4에서 3으로 감소하며, 이 기준에 도달하면 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 +{uip|BonusDamage|45e2c72d4698481e9185fb922044496c}% 증가한다.
+102	{g|f:2a417cde46674ae0a5da8dcfd9ec621d}전술 지식{/g}에 필요한 {g|Encyclopedia:Exploit}약점{/g} 수가 4개에서 3개로 감소하고, 이 조건을 충족하면 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 +{uip|BonusDamage|45e2c72d4698481e9185fb922044496c}% 증가합니다.
 103	개선된 전술
 104	<u>(5 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-105	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:Exploit}약점{/g}이 {uip|MinimumStacks|5be08b3ea6fa4b82a3473de749e68488} 이상인 대상에게 {g|f:7b00b5ea0dc246e1a304619d5678ca5b}정확한 공격{/g}을 사용해 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면, 해당 명중이 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 된다.
+105	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:Exploit}약점{/g}이 {uip|MinimumStacks|5be08b3ea6fa4b82a3473de749e68488}개 이상 부여된 대상에게 {g|f:7b00b5ea0dc246e1a304619d5678ca5b}정확한 공격{/g}을 사용해 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}가 됩니다.
 106	간파한 일격
 107	<u>(10 − {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-108	{g|f:197b8a8a12b0442db7ffee1067cf3d97}약점 노출{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 0이 된다.
+108	{g|f:197b8a8a12b0442db7ffee1067cf3d97}약점 노출{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 0이 됩니다.
 109	즉각 노출
-110	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 아군이 {g|Encyclopedia:Exploit}약점{/g}이 부여된 대상을 공격할 때 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|HitChanceBonus|832dd8b02731461a881775696d937d71}% 증가한다.
+110	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 아군이 {g|Encyclopedia:Exploit}약점{/g}이 부여된 대상을 공격할 때 {g|Encyclopedia:HitSequenceGlossary}명중률{/g}과 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|HitChanceBonus|832dd8b02731461a881775696d937d71}% 증가합니다.
 111	합동 공세
 112	<u>({g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
-113	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g} 중일 때 엄폐 효율이 +15% 증가한다. 자신의 {g|Encyclopedia:Turn}턴{/g}에 이동하지 않았다면 이 {g|Encyclopedia:Bonus}보너스{/g}가 두 배가 된다.
+113	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g} 중이면 엄폐 효율이 +15% 증가합니다. 자신의 {g|Encyclopedia:Turn}턴{/g}에 이동하지 않았다면 이 {g|Encyclopedia:Bonus}보너스{/g}가 두 배가 됩니다.
 114	은폐 규약
-115	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:Turn}턴{/g} 시작 시 자신의 {g|Encyclopedia:LineOfSight}시야{/g} 밖에 있는 적에게도 {g|Encyclopedia:Exploit}약점{/g}을 부여한다.
+115	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:Turn}턴{/g} 시작 시 자신의 {g|Encyclopedia:LineOfSight}시야{/g} 밖에 있는 적에게도 {g|Encyclopedia:Exploit}약점{/g}을 부여합니다.
 116	기이한 시야
 117	<u>(10 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-118	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:Exploit}약점{/g}이 부여된 적에게 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|DamageReduction|4c56ec5c399f4c70815dd5596b0e7b83}% 감소한다.
+118	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:Exploit}약점{/g}이 부여된 적에게 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|DamageReduction|4c56ec5c399f4c70815dd5596b0e7b83}% 감소합니다.
 119	공격 양상 예측
 120	<u>(5 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-121	전투의 첫 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|f:502b9195c84c42c5b180f3f63ed7955c}적 분석{/g}을 사용할 때와 같은 수의 {g|Encyclopedia:Exploit}약점{/g}을 자신 주변 반경 10칸 이내의 모든 적에게 무작위로 분배한다. 이후 자신의 매 턴 시작 시, 기본 수량의 절반에 해당하는 약점을 자신 주변 반경 2칸 이내의 모든 적에게 분배한다.
+121	전투의 첫 {g|Encyclopedia:Turn}턴{/g}에 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|f:502b9195c84c42c5b180f3f63ed7955c}적 분석{/g} 사용 시와 같은 수의 {g|Encyclopedia:Exploit}약점{/g}을 주변 반경 10칸 내 모든 적에게 무작위로 분배합니다. 이후 자신의 매 턴 시작 시 그 절반(기본 수량의 절반)에 해당하는 약점을 주변 반경 2칸 내 모든 적에게 분배합니다.
 122	수동 학습
-123	각 적의 {g|Encyclopedia:Turn}턴{/g} 시작 시, 해당 적에게 {g|Encyclopedia:Exploit}약점{/g}이 부여되어 있으면 반경 3칸 이내에서 약점이 없는 무작위 적 하나에게 약점을 +1 부여한다.
+123	각 적의 {g|Encyclopedia:Turn}턴{/g} 시작 시 해당 적에게 {g|Encyclopedia:Exploit}약점{/g}이 부여되어 있으면 반경 3칸 내 약점이 없는 무작위 적에게 약점을 +1 부여합니다.
 124	양상 파악
 125	<u>{g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스</u>
-126	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}로부터 5칸 이내에 있는 {g|Encyclopedia:Exploit}약점{/g}이 부여된 적이 오퍼러티브나 그 아군을 공격하면, 해당 적에게 약점을 추가로 +{uip|INT|d28f54bddb8d46f3b0a3ed239d985492} 부여한다.
+126	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}로부터 5칸 이내에 있는 {g|Encyclopedia:Exploit}약점{/g}이 부여된 적이 오퍼러티브나 그 아군을 공격하면 해당 적에게 약점을 추가로 +{uip|INT|d28f54bddb8d46f3b0a3ed239d985492} 부여합니다.
 127	대응 분석
-128	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 이번 {g|Encyclopedia:Turn}턴{/g}에 이동하지 않았다면, 대상과의 거리 5칸마다 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g} 공격의 피해가 +{uip|DamageBonus|9a0e7e64902e491baa29d60469eae188} 증가하고 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}을 +{unit_stat|WarhammerPerception|bonus} 얻는다. 이 보너스는 중첩되지 않으며 오퍼러티브가 이동할 때까지 지속된다.
+128	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 이번 {g|Encyclopedia:Turn}턴{/g}에 이동하지 않았다면 자신과 대상 사이의 거리 5칸당 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g} 피해가 +{uip|DamageBonus|9a0e7e64902e491baa29d60469eae188} 증가하며, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +{unit_stat|WarhammerPerception|bonus}을 얻습니다. 이 보너스는 중첩되지 않으며 오퍼러티브가 이동할 때까지 지속됩니다.
 129	명사수
 130	<u>({g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
-131	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g} 상태로 자신의 {g|Encyclopedia:Turn}턴{/g}을 시작하면, 1라운드 동안 또는 이동할 때까지 {g|Encyclopedia:WarhammerPerception}지각{/g}을 +10 얻는다.
+131	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g} 상태로 {g|Encyclopedia:Turn}턴{/g}을 시작하면 1라운드 동안 또는 이동할 때까지 {g|Encyclopedia:WarhammerPerception}지각{/g} +10을 얻습니다.
 132	안정된 조준
-133	{g|f:d0f95ed472d542579026e8a8b8eb2bab}최적의 위치{/g}가 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}에게 7칸 이상 떨어진 적을 상대로 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}을 추가로 +{uip|ArmourPenetration|5bd4a497a8e643ad8049edbd4fab77e0}% 부여한다.
+133	{g|f:d0f95ed472d542579026e8a8b8eb2bab}최적의 위치{/g}가 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}에게 7칸 이상 떨어진 적을 상대로 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +{uip|ArmourPenetration|5bd4a497a8e643ad8049edbd4fab77e0}%를 추가로 부여합니다.
 134	저격 전문 지식
 135	<u>(5 + {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-136	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 적의 {g|Encyclopedia:Exploit}약점{/g}을 발동시킬 때마다 전투 종료 시까지 피해 +1과 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +2%를 얻는다. {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격에서는 첫 타격이나 첫 투사체에만 적용된다. 중첩된다.
+136	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}가 적의 {g|Encyclopedia:Exploit}약점{/g}을 발동시킬 때마다 전투 종료 시까지 피해 +1과 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +2%를 얻습니다. {g|Encyclopedia:BurstAttacksGlossary}연사{/g} 공격의 첫 타격 또는 첫 발사체에만 적용됩니다. 중첩됩니다.
 137	탁월함의 물결
 138	<u>(3 × {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
-139	오퍼러티브가 전투 중인 모든 적에게 즉시 {g|Encyclopedia:Exploit}약점{/g}을 +1 부여한 뒤, 대상 하나를 비용 없이 공격한다(근접 사거리에서도 원거리 무기를 사용할 수 있다). 이 공격은 반드시 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한다.\n-<indent=5%>전투 종료 시까지 이 공격의 대상은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}, {g|Encyclopedia:BlockChance}방패 막기{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}에 −30% 불이익을 받는다.</indent>\n-<indent=5%>전투 종료 시까지 오퍼러티브의 공격에 소모되는 {g|Encyclopedia:ActionPoints}행동력{/g}이 +1 증가한다.</indent>
+139	오퍼러티브가 전투 중인 모든 적에게 즉시 {g|Encyclopedia:Exploit}약점{/g}을 +1 부여한 뒤, 대상 하나를 비용 없이 공격합니다(근접 사거리에서도 원거리 무기를 사용할 수 있습니다). 이 공격은 반드시 {g|Encyclopedia:HitSequenceGlossary}명중{/g}합니다.\n-<indent=5%>전투 종료 시까지 이 공격의 대상은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}, {g|Encyclopedia:BlockChance}방패 막기{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}에 −30% 불이익을 받습니다.</indent>\n-<indent=5%>전투 종료 시까지 오퍼러티브의 공격에 드는 {g|Encyclopedia:ActionPoints}행동력{/g}이 +1 증가합니다.</indent>
 140	분쇄 공격 — 두 번째 무기
-141	오퍼러티브가 전투 중인 모든 적에게 즉시 {g|Encyclopedia:Exploit}약점{/g}을 +1 부여한 뒤, 대상 하나를 비용 없이 공격한다(근접 사거리에서도 원거리 무기를 사용할 수 있다). 이 공격은 반드시 {g|Encyclopedia:HitSequenceGlossary}명중{/g}한다.\n전투 종료 시까지 이 공격의 대상은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}, {g|Encyclopedia:BlockChance}방패 막기{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}에 −30% 불이익을 받는다.
+141	오퍼러티브가 전투 중인 모든 적에게 즉시 {g|Encyclopedia:Exploit}약점{/g}을 +1 부여한 뒤, 대상 하나를 비용 없이 공격합니다(근접 사거리에서도 원거리 무기를 사용할 수 있습니다). 이 공격은 반드시 {g|Encyclopedia:HitSequenceGlossary}명중{/g}합니다.\n전투 종료 시까지 이 공격의 대상은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}, {g|Encyclopedia:BlockChance}방패 막기{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:Parry}막기{/g}에 −30% 불이익을 받습니다.
 142	분쇄 공격
-143	대상은 {g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 다음 {g|Encyclopedia:Turn}턴{/g}까지 이동할 수 없다. 전투 종료 시까지 대상의 {g|Encyclopedia:MovementPoints}이동력{/g}이 −3 감소한다.
+143	{g|Encyclopedia:CareerAdeptGlossary}오퍼러티브{/g}의 다음 {g|Encyclopedia:Turn}턴{/g}까지 대상이 이동할 수 없습니다. 전투 종료 시까지 대상의 {g|Encyclopedia:MovementPoints}이동력{/g}이 −3 감소합니다.
 144	분쇄 공격(강화 I)
-145	{g|f:c4c25ebbdea341c5a153c073240d574d}분쇄 공격{/g}이 적을 불구로 만들어 전투 종료 시까지 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}을 −30 감소시킨다.
+145	{g|f:c4c25ebbdea341c5a153c073240d574d}분쇄 공격{/g}이 적을 무력화해 전투 종료 시까지 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}을 −30 감소시킵니다.
 146	분쇄 공격(강화 II)
-147	{g|f:c4c25ebbdea341c5a153c073240d574d}분쇄 공격{/g}이 대상 주변 반경 5칸 이내의 모든 적을 위협해 전투 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 −15% 감소시킨다.
+147	{g|f:c4c25ebbdea341c5a153c073240d574d}분쇄 공격{/g}이 대상 주변 반경 5칸 내 모든 적을 위협해 전투 종료 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 −15% 감소시킵니다.
 148	분쇄 공격(강화 III)
-149	대상이 공격할 때마다 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}도 유발한다.
+149	대상이 공격할 때마다 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}도 유발합니다.
 150	분쇄 공격(강화 IV)
-151	암울한 먼 미래에는 살아남는 것조차 쉽지 않으며, 번영을 누리기란 거의 불가능하다. 하지만 그 한계를 뛰어넘어 {g|Encyclopedia:CareerTiersGlossary}모범자{/g}가 되는 이들도 있다. 모범자는 자신의 아키타입에 관한 비범한 지식을 갖췄을 뿐만 아니라, 가능하다고 여겨지는 한계마저 넘어 숙련의 정점에 도달한 이들이다.\n핵심 역할: 이전 아키타입의 추가 {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}, 새로운 귀감 재능.
+151	암울한 먼 미래의 어둠 속에서는 살아남기조차 쉽지 않으며, 번영을 누리기란 불가능에 가깝습니다. 하지만 그 한계를 뛰어넘어 {g|Encyclopedia:CareerTiersGlossary}모범자{/g}가 되는 이들도 있습니다. 모범자는 자신의 아키타입에 관한 비범한 지식을 갖췄을 뿐 아니라, 가능하다고 여겨지는 한계를 초월해 숙련의 정점에 도달한 이들입니다.\n주요 특화: 이전 아키타입의 추가 {g|Encyclopedia:Ability}능력{/g}과 {g|Encyclopedia:Talent}재능{/g}, 새로운 귀감 재능.
 152	귀감
-153	캐릭터가 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 12 얻는다. 이 체력은 기본 체력과 마찬가지로 {g|Encyclopedia:WarhammerToughness}강인함{/g}에 따라 +<u>(10 × 강인함 {g|Encyclopedia:Bonus}보너스{/g})</u>% 증가한다.
+153	캐릭터가 {g|Encyclopedia:HitPoints}체력{/g}을 추가로 12 얻습니다. 이 체력도 기본 체력과 마찬가지로 {g|Encyclopedia:WarhammerToughness}강인함{/g}에 따라 +<u>(10 × 강인함 {g|Encyclopedia:Bonus}보너스{/g})</u>% 증가합니다.
 154	강철 같은 몸
-155	캐릭터의 {g|Encyclopedia:Turn}턴{/g} 시작 시, {g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%를 회복한다. 남은 {g|Encyclopedia:HitPoints}체력{/g}이 20% 미만이면 대신 최대 체력의 20%를 회복한다.
+155	캐릭터의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%를 회복합니다. 남은 {g|Encyclopedia:HitPoints}체력{/g}이 20% 미만이면 대신 최대 체력의 20%를 회복합니다.
 156	가벼운 상처
-157	이 캐릭터를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼은 대상이 캐릭터의 아군에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −40% 감소한다.
+157	캐릭터를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼은 대상이 캐릭터의 아군에게 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 −40% 감소합니다.
 158	이목 집중
-159	캐릭터의 근접 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 적은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 캐릭터의 다음 턴 시작 시까지 이 캐릭터를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼는다.
+159	캐릭터의 근접 공격에 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당한 적은 의지력 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 캐릭터의 다음 턴 시작 시까지 캐릭터를 {g|Encyclopedia:PriorityTarget}우선 표적{/g}으로 삼습니다.
 160	치명적인 위협
-161	캐릭터가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 비롯해 원래 회피할 수 없는 공격도 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있다.
+161	캐릭터가 {g|Encyclopedia:PsykerPowersGlossary}사이킥 능력{/g}을 포함해 일반적으로 회피할 수 없는 공격도 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 있습니다.
 162	번개 같은 반사 신경
-163	캐릭터가 {g|Encyclopedia:LightArmour}경갑{/g}을 착용한 동안, 해당 장비의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} {g|Encyclopedia:Bonus}보너스{/g} 3%당 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +1% 증가한다.
+163	캐릭터가 {g|Encyclopedia:LightArmour}경갑{/g}을 착용 중이면 해당 장비의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} {g|Encyclopedia:Bonus}보너스{/g} 3%당 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +1% 증가합니다.
 164	교묘한 방어
-165	캐릭터의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}과 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 자신의 {g|Encyclopedia:DodgeGlossary}회피{/g}의 +5%만큼 증가한다.
+165	캐릭터의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}과 치명타 {g|Encyclopedia:DamageGlossary}피해{/g}가 자신의 {g|Encyclopedia:DodgeGlossary}회피{/g}의 +5%만큼 증가합니다.
 166	치명적인 속도
-167	캐릭터가 모든 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 +{uip|ResistanceBonus|8b80a2f703bb4568875b78c473ed74ba}의 {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+167	캐릭터가 모든 {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 +{uip|ResistanceBonus|8b80a2f703bb4568875b78c473ed74ba}의 {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 168	꺾이지 않는 의지
 169	<u>(5 × {g|Encyclopedia:Deflection}피해 감소{/g})</u>
-170	캐릭터가 {g|Encyclopedia:MovementPoints}이동력{/g}을 감소시키는 모든 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}에 면역이 된다. 이동력을 +{uip|MovementPoints|e2feb6faef0d404e874f07b3ed51a888} 얻는다.
+170	캐릭터가 {g|Encyclopedia:MovementPoints}이동력{/g}을 감소시키는 모든 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}에 면역이 됩니다. 이동력 +{uip|MovementPoints|e2feb6faef0d404e874f07b3ed51a888}을 얻습니다.
 171	저지 불가
 172	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스 / 2)</u>
-173	캐릭터가 치유를 받을 때마다 회복하는 {g|Encyclopedia:HitPoints}체력{/g}이 +{uip|HealingBonus|67d48e2a1862454d97106e06b4c1ed2a}% 증가한다.
+173	캐릭터가 치유받을 때마다 회복하는 {g|Encyclopedia:HitPoints}체력{/g}이 +{uip|HealingBonus|67d48e2a1862454d97106e06b4c1ed2a}% 증가합니다.
 174	가차없는 맹공
 175	<u>(5 × 캐릭터의 {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
-176	캐릭터가 적에게 공격받을 때마다 공격한 크리처의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻는다.
+176	캐릭터가 적에게 공격받을 때마다 공격한 생물의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}만큼 {g|Encyclopedia:MomentumWithDetailsGlossary}원동력{/g}을 얻습니다.
 177	순교
-178	단일 대상 공격을 받을 때 캐릭터의 {g|Encyclopedia:Deflection}피해 감소{/g}가 두 배가 된다.
+178	단일 대상 공격을 상대로 캐릭터의 {g|Encyclopedia:Deflection}피해 감소{/g}가 두 배가 됩니다.
 179	강철 껍질
-180	모든 독성, 정신, {g|Encyclopedia:ShockDamage}감전 피해{/g}와 {g|Encyclopedia:BleedingEffect}출혈{/g}로 받는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|DamageReduction|e0bad88dd53b4a748b7f43156bf2f85c}% 감소한다.
+180	모든 독성 피해, 정신 피해, {g|Encyclopedia:ShockDamage}감전 피해{/g}와 {g|Encyclopedia:BleedingEffect}출혈{/g}로 받는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 −{uip|DamageReduction|e0bad88dd53b4a748b7f43156bf2f85c}% 감소합니다.
 181	불굴
 182	<u>(캐릭터의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} / 2)</u>
-183	캐릭터가 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 20%만큼 {g|Encyclopedia:WarhammerStrength}근력{/g} {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+183	캐릭터가 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 20%만큼 {g|Encyclopedia:WarhammerStrength}근력{/g} {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 184	최상의 몸 상태
-185	캐릭터가 {g|Encyclopedia:HitPoints}체력{/g}을 잃을 때마다 잃은 체력 2당 다음 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1 증가한다. 중첩된다.
+185	캐릭터가 {g|Encyclopedia:HitPoints}체력{/g}을 잃을 때마다 잃은 체력 2당 다음 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +1 증가합니다. 중첩됩니다.
 186	복수
-187	{g|f:4955b43454f6488f82892e166c76c995}돌진{/g}이 +{uip|DamageBonus|b766411fa14d4f238d62c90ec50cfe2a}%의 {g|Encyclopedia:DamageGlossary}피해{/g} {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+187	{g|f:4955b43454f6488f82892e166c76c995}돌진{/g}이 +{uip|DamageBonus|b766411fa14d4f238d62c90ec50cfe2a}%의 {g|Encyclopedia:DamageGlossary}피해{/g} {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 188	분쇄하는 돌진
 189	<u>(캐릭터의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g} / 2)</u>
-190	전투의 첫 {g|Encyclopedia:Turn}턴{/g}에 캐릭터가 {g|Encyclopedia:ActionPoints}행동력{/g}을 추가로 +2 얻는다.
+190	전투의 첫 {g|Encyclopedia:Turn}턴{/g} 동안 캐릭터가 {g|Encyclopedia:ActionPoints}행동력{/g}을 추가로 +2 얻습니다.
 191	전투를 향한 열망
-192	캐릭터가 매 {g|Encyclopedia:Round}라운드{/g}에 첫 적을 처치하면, 가능할 경우 같은 무기로 공격할 수 있는 가장 가까운 적에게 즉시 추가 공격을 가한다. {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 가장 적은 공격을 사용한다. 이 공격은 기본 {g|Encyclopedia:DamageGlossary}피해{/g}의 30%에 첫 번째로 처치한 적의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}당 +10% 보너스를 더한 피해를 준다. 예를 들어 처치한 적의 난이도 단계가 I이면 총 40%의 피해를 준다.
+192	캐릭터가 매 {g|Encyclopedia:Round}라운드{/g}에 처음으로 적을 처치하면, 가능할 경우 같은 무기로 공격할 수 있는 가장 가까운 적에게 즉시 추가 공격을 합니다. 이때 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 가장 적은 공격을 사용합니다. 이 공격은 기본 {g|Encyclopedia:DamageGlossary}피해{/g}의 30%를 주며, 처음 처치한 적의 {g|Encyclopedia:DifficultyTier}난이도 단계{/g}당 +10%의 보너스를 얻습니다. 즉, 난이도 단계 I인 적이었다면 총 40%의 피해를 줍니다.
 193	죽음의 사자
-194	캐릭터가 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 가할 때마다 일정 확률로 치명타 피해 보너스가 절반만큼 증가한다. 이 확률은 <u>(캐릭터의 치명타 확률 − 50)</u>%이며, 최솟값은 0%다.
+194	캐릭터가 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 명중시킬 때마다 일정 확률로 치명타 피해 보너스가 절반만큼 증가합니다. 이 확률은 <u>(캐릭터의 치명타 확률 − 50)</u>%이며 최소 0%입니다.
 195	급소
-196	캐릭터의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 자신의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}의 +10%만큼 증가한다.
+196	캐릭터의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}와 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 자신의 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}의 +10%만큼 증가합니다.
 197	임계점
-198	캐릭터가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 전투 종료 시까지 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −{unit_stat|WarhammerStrength|bonus}% 감소한다. 이 감소는 {g|Encyclopedia:DamageGlossary}피해{/g} 계산 전에 적용된다. 중첩된다.
+198	캐릭터가 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}을 할 때마다 전투 종료 시까지 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 −{unit_stat|WarhammerStrength|bonus}% 감소합니다. 이 감소 효과는 {g|Encyclopedia:DamageGlossary}피해{/g}를 계산하기 전에 적용됩니다. 중첩됩니다.
 199	파괴자
-200	캐릭터의 공격에 대한 {g|Encyclopedia:Deflection}피해 감소{/g}가 0이거나 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 0%인 적은 캐릭터에게 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 +10% 증가한다.\n적의 피해 감소가 0이고 방어도도 0%이면 이 피해 보너스가 중첩된다.
+200	캐릭터의 공격을 상대로 {g|Encyclopedia:Deflection}피해 감소{/g}가 0이거나 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}가 0%인 적은 캐릭터에게 받는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +10% 증가합니다.\n적의 피해 감소가 0이고 방어도도 0%라면 두 피해 보너스가 중첩됩니다.
 201	극심한 상처
-202	캐릭터가 적의 {g|Encyclopedia:Deflection}피해 감소{/g}를 {uip|DeflectionReduction|f80d633400694ea0b4c73e69ebd03b2c}만큼 무시한다(소수점 이하 버림).
+202	캐릭터가 적의 {g|Encyclopedia:Deflection}피해 감소{/g}를 {uip|DeflectionReduction|f80d633400694ea0b4c73e69ebd03b2c}(소수점 이하 버림)만큼 무시합니다.
 203	정밀한 명중
 204	<u>({g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} 보너스 / 2)</u>
-205	캐릭터의 {g|Encyclopedia:RateOfFire}발사 수{/g}와 무기의 최대 장탄 수가 +30% 증가한다(소수점 이하 올림).
+205	캐릭터의 {g|Encyclopedia:RateOfFire}발사 수{/g}와 무기의 최대 탄약 수가 +30% 증가합니다(소수점 이하 올림).
 206	대용량 장전
-207	캐릭터가 이번 전투에서 공격한 횟수당 주는 모든 피해가 +1 증가한다. {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g} 등의 지속 피해 효과에는 적용되지 않는다.
+207	이번 전투에서 캐릭터가 공격한 횟수당 주는 모든 피해가 +1 증가합니다. 지속 피해 효과인 {g|Encyclopedia:BleedingEffect}출혈{/g}, {g|Encyclopedia:BurningEffect}화상{/g}, {g|Encyclopedia:ToxinEffect}중독{/g}에는 적용되지 않습니다.
 208	섬멸
-209	캐릭터가 이번 전투에서 새로운 적에게 피해를 줄 때마다 전투 종료 시까지 캐릭터가 주는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 +3% 증가한다.
+209	이번 전투에서 캐릭터가 새로운 적에게 피해를 줄 때마다 전투 종료 시까지 주는 모든 {g|Encyclopedia:DamageGlossary}피해{/g}가 +3% 증가합니다.
 210	대재앙
-211	캐릭터가 더 이상 인접한 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기를 든 적 하나가 추가될 때마다 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}에 −10 {g|Encyclopedia:Penalty}불이익{/g}을 받지 않는다. 대신 모든 공격에서 인접한 적 하나당 근접술을 +10 얻는다.
+211	캐릭터에게 인접한 {g|Encyclopedia:MeleeAttacksGlossary}근접{/g} 무기 장비 적이 추가될 때마다 받던 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} −10 {g|Encyclopedia:Penalty}불이익{/g}이 사라집니다. 대신 모든 공격에서 인접한 적 하나당 근접술 +10을 얻습니다.
 212	압도적인 우세
-213	아군이 캐릭터에게 받은 {g|Encyclopedia:ExtraTurn}추가 턴{/g}에 행동할 때 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +15% 증가한다.
+213	캐릭터가 부여한 {g|Encyclopedia:ExtraTurn}추가 턴{/g}에 행동하는 아군이 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +15% 증가합니다.
 214	열성적인 부하
-215	캐릭터에게 받은 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 마친 아군은 전투 종료 시까지 방어도 +7%, {g|Encyclopedia:DodgeGlossary}회피{/g} +7%, {g|Encyclopedia:MovementPoints}이동력{/g} +3을 얻는다. 중첩되지 않는다.
+215	아군이 캐릭터가 부여한 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 마치면 전투 종료 시까지 방어도 +7%, {g|Encyclopedia:DodgeGlossary}회피{/g} +7%, {g|Encyclopedia:MovementPoints}이동력{/g} +3을 얻습니다. 중첩되지 않습니다.
 216	차렷!
-217	캐릭터의 능력이나 재능으로 부여하는 {g|Encyclopedia:ExtraTurn}추가 턴{/g}이 {g|Encyclopedia:MovementPoints}이동력{/g}을 제공하면 대상이 이동력을 추가로 +4 얻고, {g|Encyclopedia:ActionPoints}행동력{/g}을 제공하면 행동력을 추가로 +1 얻는다.
+217	캐릭터의 능력이나 재능이 부여하는 {g|Encyclopedia:ExtraTurn}추가 턴{/g}에 {g|Encyclopedia:MovementPoints}이동력{/g}이 주어지면 대상이 이동력을 추가로 +4 얻습니다. {g|Encyclopedia:ActionPoints}행동력{/g}이 주어지면 행동력을 추가로 +1 얻습니다.
 218	선동가
-219	캐릭터 주변 2칸 이내의 아군이 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|c67b58acea374a82a9b6b1d971f15581}% 증가하고 받는 피해가 −{uip|DamageReduction|c67b58acea374a82a9b6b1d971f15581}% 감소한다. 여러 캐릭터가 이 {g|Encyclopedia:Talent}재능{/g}을 보유해도 효과는 중첩되지 않는다.
+219	캐릭터 주변 2칸 이내의 아군이 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|c67b58acea374a82a9b6b1d971f15581}% 증가하고 받는 피해가 −{uip|DamageReduction|c67b58acea374a82a9b6b1d971f15581}% 감소합니다. 여러 캐릭터가 이 {g|Encyclopedia:Talent}재능{/g}을 보유해도 효과는 중첩되지 않습니다.
 220	기수
 221	<u>(3 + 캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
 222	<u>(3 + 캐릭터의 {g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스)</u>
-223	캐릭터가 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 피해 6당 방어 약화 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +1중첩 부여한다. 캐릭터의 아군이 해당 적을 공격할 때마다 방어 약화 1중첩당 주는 피해가 추가로 +1% 증가한다.
+223	캐릭터가 적에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 줄 때마다 준 피해 6당 대상에게 방어 약화 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +1중첩 부여합니다. 캐릭터의 아군이 해당 적을 공격할 때마다 방어 약화 중첩당 주는 피해가 추가로 +1% 증가합니다.
 224	방어 약화
-225	캐릭터의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}보다 높으면, 그 차이 5%당 해당 적에 대한 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +2% 증가한다.
+225	캐릭터의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}보다 높으면 둘의 차이 5%당 해당 적을 상대로 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +2% 증가합니다.
 226	꿰뚫기
-227	캐릭터의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 중갑(0.75)이나 중형 방어구(0.5)의 불이익 계수를 적용하기 전 적의 {g|Encyclopedia:DodgeGlossary}회피{/g}보다 높으면, 그 차이 5%당 해당 적에게 주는 피해가 +1% 증가한다.
+227	캐릭터의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 적의 {g|Encyclopedia:DodgeGlossary}회피{/g}보다 높으면(중갑(0.75) 또는 중형 방어구(0.5)의 불이익 계수 적용 전) 둘의 차이 5%당 해당 적에게 주는 피해가 +1% 증가합니다.
 228	치명적인 조준
-229	{g|Encyclopedia:DeadeyeShot}정밀 사격{/g}의 피해가 추가로 +{uip|DamageBonus|0b113627def5404cb1d94310c85edfb8}% 증가한다.\n다음 원거리 공격 능력이 정밀 사격의 혜택을 얻는다(사거리 × 1.5 및 재능 자체의 추가 피해).\n-<indent=5%>{g|Encyclopedia:CareerHunterGlossary}현상금 사냥꾼{/g}의 {g|f:8930d6ba62ca4bc3a30a9900e741d87c}현상금 수령{/g} </indent>\n-<indent=5%>{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 {g|f:e627e3fb653840dab9661093828432c5}마무리{/g}</indent>\n-<indent=5%>어새신의 {g|f:33214b7215b442519f4303bcd4a8ab34}죽음의 속삭임{/g}</indent>\n-<indent=5%>어새신의 {g|f:c9dba0331212410dabe7dd2e19c52cd3}살육의 칼날{/g}</indent>\n-<indent=5%>어새신의 {g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g}</indent>\n-<indent=5%>오퍼러티브의 {g|f:c4c25ebbdea341c5a153c073240d574d}분쇄 공격{/g}</indent>\n-<indent=5%>현상금 사냥꾼의 {g|f:39809f7335f542c587678086db6ce338}야생 사냥{/g}</indent>
+229	{g|Encyclopedia:DeadeyeShot}정밀 사격{/g}의 피해가 추가로 +{uip|DamageBonus|0b113627def5404cb1d94310c85edfb8}% 증가합니다.\n다음 원거리 공격 능력에도 정밀 사격의 혜택이 적용됩니다(사거리 × 1.5 및 이 재능의 추가 피해).\n-<indent=5%>{g|Encyclopedia:CareerHunterGlossary}현상금 사냥꾼{/g}의 {g|f:8930d6ba62ca4bc3a30a9900e741d87c}현상금 수령{/g} </indent>\n-<indent=5%>{g|Encyclopedia:CareerTacticianGlossary}마스터 택티션{/g}의 {g|f:e627e3fb653840dab9661093828432c5}마무리{/g}</indent>\n-<indent=5%>어새신의 {g|f:33214b7215b442519f4303bcd4a8ab34}죽음의 속삭임{/g}</indent>\n-<indent=5%>어새신의 {g|f:c9dba0331212410dabe7dd2e19c52cd3}살육의 칼날{/g}</indent>\n-<indent=5%>어새신의 {g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g}</indent>\n-<indent=5%>오퍼러티브의 {g|f:c4c25ebbdea341c5a153c073240d574d}분쇄 공격{/g}</indent>\n-<indent=5%>현상금 사냥꾼의 {g|f:39809f7335f542c587678086db6ce338}야생 사냥{/g}</indent>
 230	거장의 정밀함
 231	<u>(2 × {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스)</u>
-232	매 {g|Encyclopedia:Round}라운드{/g} 캐릭터의 첫 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}은 현재 위치와 턴을 시작한 위치 사이의 거리 1칸당 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 +2 증가한다. 거리는 모든 지형을 무시한 직선거리로 측정하며, 대각선 이동은 두 번째 칸마다 2칸으로 계산한다.
+232	캐릭터가 매 {g|Encyclopedia:Round}라운드{/g}에 처음으로 하는 {g|Encyclopedia:MeleeAttacksGlossary}근접 공격{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 현재 위치와 턴 시작 위치 사이의 거리 1칸당 추가로 +2 증가합니다. 거리는 모든 지형을 무시한 직선으로 측정하며, 대각선 이동은 두 번째 칸마다 2칸으로 계산합니다.
 233	분쇄하는 돌격
-234	캐릭터가 적에게 {g|Encyclopedia:PushGlossary}밀치기{/g}를 할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 +4 얻는다. 이 이동력은 공격 후 추가되며 캐릭터가 계속 이동할 수 있게 한다.\n밀치기로 인한 충돌 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{unit_stat|WarhammerStrength|stat}% 증가한다.
+234	캐릭터가 적을 {g|Encyclopedia:PushGlossary}밀치기{/g}할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g} +4를 얻습니다. 이 이동력은 공격 후에 추가되며, 캐릭터는 계속 이동할 수 있습니다.\n밀치기로 인한 충돌 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{unit_stat|WarhammerStrength|stat}% 증가합니다.
 235	길을 비켜라
-236	캐릭터가 {g|Encyclopedia:Range}원거리{/g} 무기를 장비하지 않은 동안 {g|Encyclopedia:WarhammerWillpower}의지력{/g}을 +15 얻는다(지팡이는 원거리 무기로 취급하지 않는다).
+236	캐릭터가 {g|Encyclopedia:Range}원거리{/g} 무기를 장비하지 않은 동안 {g|Encyclopedia:WarhammerWillpower}의지력{/g} +15를 얻습니다(지팡이는 원거리 무기로 간주하지 않습니다).
 237	전투 명상
-238	적이 캐릭터에 대한 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 때마다 {uip|Damage|ffe7cf0f14ff411a981b63bdc228842f}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 입는다. 판정에 성공하면 피해가 두 배가 된다.
+238	적이 캐릭터를 상대로 {g|Encyclopedia:WarhammerWillpower}의지력{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패할 때마다 {uip|Damage|ffe7cf0f14ff411a981b63bdc228842f}의 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 받습니다. 판정에 성공하면 피해가 두 배가 됩니다.
 239	악의적인 영향력
 240	<u>(3 + 캐릭터의 {g|Encyclopedia:WarhammerWillpower}의지력{/g} 보너스)</u>
-241	캐릭터가 {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:FatiguedEffect}피로{/g}, {g|Encyclopedia:PerplexedEffect}당혹{/g}, {g|Encyclopedia:DisturbedEffect}동요{/g} 효과를 부여할 때마다 대상의 5칸 이내에 있는 무작위 적 하나에게도 같은 효과를 1라운드 동안 부여한다. {g|Encyclopedia:Stun}기절{/g}이나 {g|Encyclopedia:ProneEffect}넘어짐{/g}을 부여할 때도 같은 효과가 적용되지만, 무작위 대상은 {g|Encyclopedia:ResistanceTest}저항 판정{/g}으로 효과를 피할 수 있다.
+241	캐릭터가 {g|Encyclopedia:BlindedEffect}실명{/g}, {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:FatiguedEffect}피로{/g}, {g|Encyclopedia:PerplexedEffect}당혹{/g}, {g|Encyclopedia:DisturbedEffect}동요{/g} 효과를 부여할 때마다 대상의 5칸 이내 무작위 적 하나도 1라운드 동안 같은 효과를 받습니다. {g|Encyclopedia:Stun}기절{/g}이나 {g|Encyclopedia:ProneEffect}넘어짐{/g}을 부여할 때도 동일하게 적용되지만, 무작위 대상은 {g|Encyclopedia:ResistanceTest}저항 판정{/g}으로 효과를 피할 수 있습니다.
 242	전염
-243	캐릭터의 현재 무기 세트에 권총이 하나 이상 있으면 전투 시작 시 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻는다. 이 추가 {g|Encyclopedia:Turn}턴{/g}에는 현재 무기 세트의 권총마다 한 번씩만 공격할 수 있다(해당 권총으로 가능한 모든 공격을 사용할 수 있다).
+243	캐릭터의 현재 무기 세트에 피스톨이 하나 이상 있으면 전투 시작 시 {g|Encyclopedia:ExtraTurn}추가 턴{/g}을 얻습니다. 이 추가 {g|Encyclopedia:Turn}턴{/g} 동안에는 현재 무기 세트의 각 피스톨로 한 번씩만 공격할 수 있습니다(피스톨이 제공하는 모든 공격 사용 가능).
 244	신속한 발도
-245	캐릭터가 비인가 사이커가 되고 {g|Encyclopedia:PsyRating}사이 등급{/g}을 +1 얻는다.
+245	캐릭터가 비인가 사이커가 되며 {g|Encyclopedia:PsyRating}사이 등급{/g} +1을 얻습니다.
 246	사이킥 각성
-247	캐릭터의 모든 {g|Encyclopedia:Characteristic}능력치{/g}가 +5 증가한다. 남은 {g|Encyclopedia:HitPoints}체력{/g}이 25% 이하이면 이 {g|Encyclopedia:Bonus}보너스{/g}가 두 배가 된다.
+247	캐릭터가 모든 {g|Encyclopedia:Characteristic}능력치{/g}에 +5를 얻습니다. {g|Encyclopedia:HitPoints}체력{/g}이 25% 이하이면 이 {g|Encyclopedia:Bonus}보너스{/g}가 두 배가 됩니다.
 248	포화 속의 완벽함
-249	캐릭터의 공격이 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}을 추가로 +{uip|Overpenetration|df6c348d0bbc490a8d6483ddaf99740b}% 얻는다. 캐릭터의 관통 사격 공격은 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 없다.
+249	캐릭터의 공격이 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g}을 추가로 +{uip|Overpenetration|df6c348d0bbc490a8d6483ddaf99740b}% 얻습니다. 캐릭터의 관통 사격 공격은 {g|Encyclopedia:DodgeGlossary}회피{/g}할 수 없습니다.
 250	관통탄
 251	<u>({g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} / 2)</u>
-252	캐릭터가 방어도, 방어 관통, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:DodgeReduction}회피 감소{/g}, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}, 치명타 피해, 막기 확률에 +{uip|Bonus|8d29b109e6c64a59b58cf1830271911e}% 보너스를 얻는다.
+252	캐릭터가 방어도, 방어 관통, {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:DodgeReduction}회피 감소{/g}, {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}, 치명타 피해, 막기 확률에 +{uip|Bonus|8d29b109e6c64a59b58cf1830271911e}% 보너스를 얻습니다.
 253	박학다식
 254	<u>(2 + {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 / 2)</u>
-255	캐릭터의 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 공격은 {g|Encyclopedia:DamageGlossary}피해{/g}가 감소하지 않는다.
+255	캐릭터의 {g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 공격은 {g|Encyclopedia:DamageGlossary}피해{/g}가 감소하지 않습니다.
 256	대학살
-257	캐릭터에게 {g|Encyclopedia:PushGlossary}밀려난{/g} 대상이 적이나 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물과 충돌하면, 대상과 충돌한 물체 모두 추가로 +{uip|Damage|f09d24a1a5ee47f5b5d2826d3e32856c}의 {g|Encyclopedia:DamageGlossary}피해{/g}를 입는다.
+257	캐릭터에게 {g|Encyclopedia:PushGlossary}밀려난{/g} 대상이 적이나 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물에 충돌하면 대상과 충돌한 물체 모두 {g|Encyclopedia:DamageGlossary}피해{/g}를 추가로 +{uip|Damage|f09d24a1a5ee47f5b5d2826d3e32856c} 받습니다.
 258	파멸적인 충돌
 259	<u>(2 × 캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
-260	캐릭터의 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g}이 주 대상 외의 대상에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주면, 전투 종료 시까지 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}을 +5 얻는다.
+260	캐릭터의 {g|Encyclopedia:SingleRangedAttacksGlossary}단발 사격{/g}이 주 대상 외의 대상에게 {g|Encyclopedia:DamageGlossary}피해{/g}를 주면 전투 종료 시까지 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +5를 얻습니다.
 261	거장의 솜씨
-262	사역마의 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +{uip|Wounds|f0351bf380f0498c9d68f546eac08ec3}% 증가한다.
+262	사역마의 {g|Encyclopedia:MaxWounds}최대 체력{/g}이 +{uip|Wounds|f0351bf380f0498c9d68f546eac08ec3}% 증가합니다.
 263	아다만티움 합금
 264	<u>(30 + {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SkillTechUse}기술 활용{/g} / 2)</u>
-265	사역마가 받는 모든 피해를 무시할 확률을 {uip|Ignore|8932d22d911745a8817f9fc7c284d5dd}% 얻는다.
-266	옴니시아의 자비
+265	사역마가 받는 모든 피해를 무시할 확률을 {uip|Ignore|8932d22d911745a8817f9fc7c284d5dd}% 얻습니다.
+266	옴니시아의 머시
 267	<u>(5 + {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 캐릭터 레벨 / 5)</u>
-268	사역마가 근접 피해를 받으면 공격자는 준 피해의 {uip|Reflec|9a3485e7900f43939a4e0afe883fb7d5}%에 해당하는 {g|Encyclopedia:ToxicDamage}독성 피해{/g}를 입는다(100%를 초과할 수 없다).
+268	사역마가 근접 피해를 받으면 공격자는 준 피해의 {uip|Reflec|9a3485e7900f43939a4e0afe883fb7d5}%에 해당하는 {g|Encyclopedia:ToxicDamage}독성 피해{/g}를 받습니다(최대 100%).
 269	독성 살포 장치
 270	<u>({g|Encyclopedia:CareerOverseerGlossary}오버시어{/g}의 {g|Encyclopedia:SkillMedicae}의술{/g} / 4)</u>
-271	매 {g|Encyclopedia:Round}라운드{/g}에 처음으로 사역마의 {g|Encyclopedia:HitPoints}체력{/g}이 20% 미만으로 떨어지면, 오버시어의 다음 능력의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 0으로 감소한다.
+271	매 {g|Encyclopedia:Round}라운드{/g}에 사역마의 {g|Encyclopedia:HitPoints}체력{/g}이 처음으로 20% 미만으로 떨어지면 오버시어의 다음 능력에 드는 {g|Encyclopedia:ActionPoints}행동력{/g}이 0으로 감소합니다.
 272	비상 알고리즘
-273	전투 중 사역마와 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g} 사이의 거리 1칸당 사역마가 {g|Encyclopedia:Deflection}피해 감소{/g}를 +1 얻는다. 최대 {unit_stat|WarhammerFellowship|bonus}까지 얻을 수 있다.
+273	전투 중 사역마는 자신과 {g|Encyclopedia:CareerOverseerGlossary}오버시어{/g} 사이의 거리 1칸당 {g|Encyclopedia:Deflection}피해 감소{/g} +1을 얻습니다. 최대 {unit_stat|WarhammerFellowship|bonus}까지 얻을 수 있습니다.
 274	자율 보호 알고리즘
 275	어새신
 276	<u>({g|Encyclopedia:Lethality}치사율{/g} / 10)</u>
 277	죽음의 속삭임 — 두 번째 무기
-278	대상의 매 턴 시작 시 방어도와 피해 감소를 무시하는 <u>({g|Encyclopedia:Lethality}치사율{/g} / 10)</u>의 {g|Encyclopedia:RendingDamage}절단 피해{/g}를 준다.
+278	대상의 매 턴 시작 시 방어도와 피해 감소를 무시하는 {g|Encyclopedia:RendingDamage}절단 피해{/g}를 <u>({g|Encyclopedia:Lethality}치사율{/g} / 10)</u> 줍니다.
 279	대출혈
-280	어새신이 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수{/g} 제한에 포함되지 않고 이동도 막지 않는 공격을 한다. 단, 평소 피해의 25%만 준다. 공격이 명중하면 대상에게 {g|f:372208cc0f434c17abfb5140e8806ebc}대출혈{/g} 효과를 부여한다.
+280	어새신이 {g|Encyclopedia:AttacksPerTurn}턴당 공격 횟수{/g} 제한에 포함되지 않고 이동도 막지 않는 공격을 합니다. 단, 평소 피해의 25%만 줍니다. 공격에 성공하면 대상에게 {g|f:372208cc0f434c17abfb5140e8806ebc}대출혈{/g} 효과를 부여합니다.
 281	죽음의 속삭임
-282	어새신이 적을 통과해 이동할 수 있고 {g|Encyclopedia:DodgeGlossary}회피{/g} +{unit_stat|WarhammerAgility|bonus}%와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +{unit_stat|WarhammerPerception|bonus}%를 얻는다. 공격 피해가 +10% 증가한다. {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g}가 어새신에게 50%의 엄폐 효율을 제공한다.
+282	어새신이 적을 통과해 이동할 수 있으며 {g|Encyclopedia:DodgeGlossary}회피{/g} +{unit_stat|WarhammerAgility|bonus}%와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +{unit_stat|WarhammerPerception|bonus}%를 얻습니다. 공격 피해가 +10% 증가합니다. {g|Encyclopedia:DetailsOfTheCoverGlossary}부분 엄폐{/g} 시 엄폐 효율이 50%가 됩니다.
 283	신출귀몰
-284	1라운드 동안 어새신은 적 공격의 {g|Encyclopedia:PriorityTarget}우선 표적{/g} 순위가 가장 낮아지고, 자신이 공격할 때까지 지속되는 {g|f:670419fc312d4ee2b2298d03af22e0c2}신출귀몰{/g} 효과를 얻는다.
+284	1라운드 동안 적의 공격에서 어새신의 {g|Encyclopedia:PriorityTarget}우선 표적{/g} 순위가 가장 낮아집니다. 또한 어새신이 공격할 때까지 지속되는 {g|f:670419fc312d4ee2b2298d03af22e0c2}신출귀몰{/g} 효과를 얻습니다.
 285	신출귀몰한 그림자
-286	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:LineOfSight}시야{/g} 내의 적 하나를 선택하고 자신과 가장 가까운 쪽에 추가 {g|Encyclopedia:Opening}빈틈{/g}을 표시한다. 어새신의 턴 종료 시까지 이 추가 빈틈에 공격이 {g|Encyclopedia:HitSequenceGlossary}명중{/g}하지 않으면 빈틈은 사라진다.
+286	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:LineOfSight}시야{/g} 내 적 하나를 선택하고, 자신과 가장 가까운 쪽에 {g|Encyclopedia:Opening}빈틈{/g}을 추가로 표시합니다. 어새신의 턴 종료 시까지 이 추가 빈틈을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키지 않으면 사라집니다.
 287	빈틈 조준
-288	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}은 각 적의 한쪽 면에서 {g|Encyclopedia:Opening}빈틈{/g} 하나를 발견한다.\n<i>빈틈</i>: 어새신이 빈틈에 공격을 명중시킬 때마다({g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 제외) <u>대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%</u>만큼 추가 피해를 준다.\n공격 후 빈틈은 적의 반대편으로 이동한다. 어새신의 턴 동안 공격을 명중시키지 않은 각 적의 빈틈은 어새신의 다음 턴 시작 시 해당 적의 무작위 면으로 이동한다.
+288	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}은 각 적의 한쪽 면에서 {g|Encyclopedia:Opening}빈틈{/g} 하나를 발견합니다.\n<i>빈틈</i>: 어새신이 빈틈을 명중시킬 때마다({g|Encyclopedia:OverpenetrationFullGlossary}관통 사격{/g} 제외) 대상의 <u>{g|Encyclopedia:MaxWounds}최대 체력{/g}의 10%</u>만큼 추가 피해를 줍니다.\n공격 후 빈틈은 적의 반대쪽으로 이동합니다. 어새신의 턴 동안 명중시키지 않은 각 적의 빈틈은 어새신의 다음 턴 시작 시 해당 적의 무작위 방향으로 이동합니다.
 289	빈틈 탐색
-290	이 수치는 적의 {g|Encyclopedia:Characteristic}능력치{/g}, 보너스, 불이익으로 보정되기 전 어새신의 현재 기본 {g|Encyclopedia:Lethality}치사율{/g}을 나타낸다.\n어새신의 기본 치사율은 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} 중 더 높은 값과 같다.
+290	적의 {g|Encyclopedia:Characteristic}능력치{/g}, 보너스, 불이익이 반영되기 전 어새신의 현재 기본 {g|Encyclopedia:Lethality}치사율{/g}입니다.\n어새신의 기본 치사율은 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} 중 높은 값과 같습니다.
 291	기본 치사율
 292	<u>({g|Encyclopedia:Lethality}치사율{/g} / 5)</u>
 293	<u>치사율</u>
 294	살육의 칼날 — 두 번째 무기
-295	어새신이 공격하며, 해당 공격의 대상에게 {g|Encyclopedia:DodgeGlossary}회피{/g}를 +40% 부여한다. 공격이 명중하면 +{uip|Damage|c9dba0331212410dabe7dd2e19c52cd3}(소수점 이하 버림)의 추가 피해를 주며, 이 추가 피해는 대상의 잃은 체력 비율의 두 배만큼 증가한다.
+295	어새신이 대상을 공격하며, 해당 공격에 대해 대상에게 {g|Encyclopedia:DodgeGlossary}회피{/g} +40%를 부여합니다. 명중하면 추가로 {uip|Damage|c9dba0331212410dabe7dd2e19c52cd3}(소수점 이하 버림)의 피해를 줍니다. 이 추가 피해는 대상이 잃은 체력 비율의 두 배만큼 증가합니다.
 296	살육의 칼날
-297	어새신의 다음 단일 대상 공격은 방어 관통에 −50% 불이익을 받고 {g|Encyclopedia:Lethality}치사율{/g}을 +10 얻는다. 방어 관통은 0% 미만으로 떨어지지 않는다.\n-<indent=5%>근접 공격이면 대상이 180도 회전한다. 해당 적의 턴 시작 시까지 어새신의 공격에 대한 적의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 0%가 된다.</indent>\n-<indent=5%>원거리 공격이면 대상이 3칸 범위 내에서 어새신을 향한 인접 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물이 없는 가장 가까운 칸으로 강제로 이동한다. 이 이동은 기회 공격을 유발한다.</indent>
+297	어새신의 다음 단일 대상 공격은 방어 관통에 −50% 불이익을 받으며(최소 방어 관통 0%), {g|Encyclopedia:Lethality}치사율{/g} +10을 얻습니다.\n-<indent=5%>근접 공격이면 대상이 180도 회전합니다. 해당 적의 턴 시작 시까지 어새신의 공격을 상대로 해당 적의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:Parry}막기{/g}가 0%가 됩니다.</indent>\n-<indent=5%>원거리 공격이면 대상이 3칸 범위 내에서 어새신 방향으로 인접한 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}물이 없는 가장 가까운 칸으로 강제 이동합니다. 이 이동은 기회 공격을 유발합니다.</indent>
 298	기만 공격
-299	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:Lethality}치사율{/g} 수치다.
+299	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:Lethality}치사율{/g} 수치입니다.
 300	치사율
 301	<u>(1 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 2)</u>
 302	<u>{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스</u>
 303	<u>(2 × {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-304	<u>(2 × ({g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스와 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 중 더 높은 값))</u>
-305	어새신이 직선으로 최대 {uip|Range|af4b536f77d14e12907337ff0efb7f76}칸까지 질주한다. {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 받는 피해가 −{uip|AOODamageReduction|af4b536f77d14e12907337ff0efb7f76} 감소하며, 자신의 다음 턴까지 질주로 통과한 적을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g}를 +{uip|DodgeBonus|af4b536f77d14e12907337ff0efb7f76}% 얻는다.\n질주 중 적을 하나도 통과하지 않았다면 턴 종료 시 자신의 엄폐에 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}을 +{uip|CoverBonus|af4b536f77d14e12907337ff0efb7f76}% 얻으며, 이동할 때까지 지속된다.\n자체 중첩되지 않는다.\n처음 사용한 후에는 이 {g|Encyclopedia:Ability}능력{/g}을 한 번 더 비용 없이 사용할 수 있다.
-306	어새신이 직선으로 최대 <u>(1 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 2)</u>칸까지 질주한다. {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 받는 피해가 −<u>어새신의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스</u>만큼 감소하며, 자신의 다음 턴까지 질주로 통과한 적을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g}를 +<u>어새신의 근접술 보너스</u>% 얻는다.\n질주 중 적을 하나도 통과하지 않았다면 턴 종료 시 자신의 엄폐에 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}을 +<u>(2 × 어새신의 민첩 보너스)</u>% 얻으며, 이동할 때까지 지속된다.\n자체 중첩되지 않는다.\n처음 사용한 후에는 이 {g|Encyclopedia:Ability}능력{/g}을 한 번 더 비용 없이 사용할 수 있다.
+304	<u>(2 × ({g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스와 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 중 높은 값))</u>
+305	어새신이 직선으로 최대 {uip|Range|af4b536f77d14e12907337ff0efb7f76}칸 질주합니다. {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 받는 피해가 −{uip|AOODamageReduction|af4b536f77d14e12907337ff0efb7f76} 감소하며, 자신의 다음 턴까지 질주하며 통과한 적을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g} +{uip|DodgeBonus|af4b536f77d14e12907337ff0efb7f76}%를 얻습니다.\n질주하며 적을 하나도 통과하지 않았다면 턴 종료 시 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g} +{uip|CoverBonus|af4b536f77d14e12907337ff0efb7f76}%를 얻으며, 이동할 때까지 지속됩니다.\n동일한 효과끼리는 중첩되지 않습니다.\n첫 사용 후 이 {g|Encyclopedia:Ability}능력{/g}을 비용 없이 한 번 더 사용할 수 있습니다.
+306	어새신이 직선으로 최대 <u>(1 + {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 2)</u>칸 질주합니다. {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}으로 받는 피해가 −<u>어새신의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} 보너스</u>만큼 감소하며, 자신의 다음 턴까지 질주하며 통과한 적을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g} +<u>어새신의 근접술 보너스</u>%를 얻습니다.\n질주하며 적을 하나도 통과하지 않았다면 턴 종료 시 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g} +<u>(2 × 어새신의 민첩 보너스)</u>%를 얻으며, 이동할 때까지 지속됩니다.\n동일한 효과끼리는 중첩되지 않습니다.\n첫 사용 후 이 {g|Encyclopedia:Ability}능력{/g}을 비용 없이 한 번 더 사용할 수 있습니다.
 307	죽음의 무도
 308	<u>(2 × {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-309	<u>(({g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스와 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 중 더 높은 값) − 1)</u>
+309	<u>(({g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerPerception}지각{/g} 보너스와 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 중 높은 값) − 1)</u>
 310	<u>(2 × {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-311	<u>(2 × ({g|Encyclopedia:WarhammerPerception}지각{/g} 보너스와 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 중 더 높은 값))</u>
-312	어새신이 자신의 턴 종료 시까지 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 −{uip|ArmourReduction|d8dd5aa174fb49a4b493ba266dece9af}%, {g|Encyclopedia:Deflection}피해 감소{/g}를 −{uip|DeflectionReduction|d8dd5aa174fb49a4b493ba266dece9af} 감소시킨다.\n-<indent=5%>어새신에게 인접한 적이 1명뿐이면 자신의 다음 턴까지 {g|Encyclopedia:DodgeGlossary}회피{/g}도 +{uip|DodgePenetrationBonus|d8dd5aa174fb49a4b493ba266dece9af}% 얻는다.</indent>\n-<indent=5%>어새신에게 인접한 적이 없으면 자신의 다음 턴까지 {g|Encyclopedia:DodgeReduction}회피 감소{/g}를 +{uip|DodgeBonus|d8dd5aa174fb49a4b493ba266dece9af}% 얻는다.</indent>
+311	<u>(2 × ({g|Encyclopedia:WarhammerPerception}지각{/g} 보너스와 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 중 높은 값))</u>
+312	어새신이 자신의 턴 종료 시까지 적의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}를 −{uip|ArmourReduction|d8dd5aa174fb49a4b493ba266dece9af}%, {g|Encyclopedia:Deflection}피해 감소{/g}를 −{uip|DeflectionReduction|d8dd5aa174fb49a4b493ba266dece9af} 감소시킵니다.\n-<indent=5%>인접한 적이 1명뿐이면 어새신은 자신의 다음 턴까지 {g|Encyclopedia:DodgeGlossary}회피{/g} +{uip|DodgePenetrationBonus|d8dd5aa174fb49a4b493ba266dece9af}%도 얻습니다.</indent>\n-<indent=5%>인접한 적이 없으면 어새신은 자신의 다음 턴까지 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +{uip|DodgeBonus|d8dd5aa174fb49a4b493ba266dece9af}%를 얻습니다.</indent>
 313	타격 태세
-314	{g|Encyclopedia:CareerAssassinGlossary}어쌔신{/g}은 주요 표적의 미세한 취약점까지 찾아내고 수단과 방법을 가리지 않고 처단하는 데 통달한 이들이다.\n핵심 역할: 높은 {g|Encyclopedia:DamageGlossary}피해{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g}, 위협 제거, 치고 빠지기.
+314	{g|Encyclopedia:CareerAssassinGlossary}어쌔신{/g}은 주요 대상의 미세한 약점까지 찾아내 수단과 방법을 가리지 않고 처단하는 달인입니다.\n주요 특화: 높은 {g|Encyclopedia:DamageGlossary}피해{/g}, {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g}, 위협 제거, 치고 빠지기.
 315	어새신
-316	이 크리처가 어새신에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당할 확률과 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 받을 확률이 +7% 증가한다.
+316	이 생물이 어새신에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}당하거나 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 맞을 확률이 +7% 증가합니다.
 317	방심
-318	어새신의 턴 시작 시, 어새신을 {g|Encyclopedia:LineOfSight}시야{/g}에 두지 않은 모든 적에게 어새신의 턴 종료 시까지 {g|f:9872e38c87be4e4eb15dbc9fd5c53649}방심{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 부여한다.
+318	어새신의 턴 시작 시 어새신을 {g|Encyclopedia:LineOfSight}시야{/g}에 두지 않은 모든 적에게 어새신의 턴 종료 시까지 {g|f:9872e38c87be4e4eb15dbc9fd5c53649}방심{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 부여합니다.
 319	매복
-320	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적에게 단일 대상 공격을 할 때마다 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}를 −10% 감소시킨다. 중첩되지 않는다.
+320	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적에게 단일 대상 공격을 할 때마다 해당 공격이 어새신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 대상의 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:DodgeGlossary}회피{/g}를 −10% 감소시킵니다. 중첩되지 않습니다.
 321	파멸의 전령
-322	{g|f:33214b7215b442519f4303bcd4a8ab34}죽음의 속삭임{/g}으로 부여한 {g|f:372208cc0f434c17abfb5140e8806ebc}대출혈{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 +10 증가한다.
+322	{g|f:33214b7215b442519f4303bcd4a8ab34}죽음의 속삭임{/g}이 부여하는 {g|f:372208cc0f434c17abfb5140e8806ebc}대출혈{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 추가로 +10 증가합니다.
 323	진홍빛 속삭임
-324	적이 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 아군에게 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 받으면, 어새신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 해당 적의 어새신과 가장 가까운 쪽에 새로운 {g|Encyclopedia:Opening}빈틈{/g}이 생긴다.
+324	적이 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 아군에게 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타{/g}를 맞으면, 어새신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 해당 적의 어새신과 가장 가까운 쪽에 새로운 {g|Encyclopedia:Opening}빈틈{/g}이 생깁니다.
 325	빈틈 만들기
-326	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 공격이 주는 {g|Encyclopedia:DamageGlossary}피해{/g} 10당 해당 공격이 같은 대상에게 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 추가로 +1 준다.
+326	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 공격이 주는 {g|Encyclopedia:DamageGlossary}피해{/g} 10당 같은 대상에게 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 추가로 +1 줍니다.
 327	치명적인 계산
-328	어새신이 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 줄 때마다 대상은 −{uip|ResistancePenalty|fadb11b4b0e548ce889983f77d3a7fff} 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 자신의 다음 턴 종료 시까지 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된다.
+328	어새신이 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 줄 때마다 대상은 −{uip|ResistancePenalty|fadb11b4b0e548ce889983f77d3a7fff} 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 자신의 다음 턴 종료 시까지 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 됩니다.
 329	혼란
 330	<u>(2 × {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-331	{g|Encyclopedia:DodgeGlossary}회피{/g}에 성공할 때마다 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}의 다음 명중하는 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Lethality|daa322267afb45a9852f295a758c75c0}% 증가한다.
+331	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:DodgeGlossary}회피{/g}에 성공할 때마다 다음으로 성공하는 공격의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|Lethality|daa322267afb45a9852f295a758c75c0}% 증가합니다.
 332	몸 피하기
 333	<u>({g|Encyclopedia:Lethality}치사율{/g} / 15)</u>
-334	{g|f:d8dd5aa174fb49a4b493ba266dece9af}타격 태세{/g}가 대상의 {g|Encyclopedia:DodgeGlossary}회피{/g}도 −{uip|DodgeReduction|7a62adafb0dd4af4895608cfee6dc971}% 감소시킨다.
+334	{g|f:d8dd5aa174fb49a4b493ba266dece9af}타격 태세{/g}가 대상의 {g|Encyclopedia:DodgeGlossary}회피{/g}도 −{uip|DodgeReduction|7a62adafb0dd4af4895608cfee6dc971}% 감소시킵니다.
 335	빈틈없는 찌르기
 336	<u>(2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-337	{g|f:f2c2674d408d4cc08a9a50ca33a50a7a}기만 공격{/g}의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {g|Encyclopedia:Penalty}불이익{/g}이 −20%로 줄어든다.
+337	{g|f:f2c2674d408d4cc08a9a50ca33a50a7a}기만 공격{/g}의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} {g|Encyclopedia:Penalty}불이익{/g}이 −20%로 줄어듭니다.
 338	참혹한 돌풍
 339	취약
-340	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적에게 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 줄 때마다 해당 적에게 {g|Encyclopedia:Vulnerable}취약{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +1중첩 부여한다.
+340	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적에게 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 줄 때마다 해당 적에게 {g|Encyclopedia:Vulnerable}취약{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +1중첩 부여합니다.
 341	임박한 최후
-342	같은 대상에게 {g|f:e2af8c0124f94ca5b9a8b3f91982908a}빈틈 조준{/g}을 사용할 때마다 대상의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 −10% 감소한다. 중첩된다.
+342	같은 대상에게 {g|f:e2af8c0124f94ca5b9a8b3f91982908a}빈틈 조준{/g}을 사용할 때마다 대상의 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 −10% 감소합니다. 중첩됩니다.
 343	피할 수 없는 쇠약
-344	어새신에게 인접한 적이 1명 이하일 때, 어새신에게 인접한 칸으로 이동하는 적은 −{uip|ResistancePenalty|39a30ee0e035405ea0823dd98dafea7c} 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}을 한다. 실패하면 가능한 경우 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되고, 자신의 다음 턴 시작 시까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 된다.
+344	어새신에게 인접한 적이 1명 이하일 때 어새신에게 인접한 칸으로 이동하는 적은 −{uip|ResistancePenalty|39a30ee0e035405ea0823dd98dafea7c} 불이익을 받는 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면, 가능한 경우 {g|Encyclopedia:ProneEffect}넘어짐{/g} 상태가 되며 자신의 다음 턴 시작 시까지 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 상태가 됩니다.
 345	거리 유지
 346	<u>(2 × {g|Encyclopedia:WarhammerStrength}근력{/g} 보너스)</u>
-347	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Opening}빈틈{/g}에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 전투 종료 시까지 어새신의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|abb1af6ec9944442b4d815aadfa61db8}% 증가한다. 중첩된다.
+347	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Opening}빈틈{/g}을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 전투 종료 시까지 {g|Encyclopedia:DamageGlossary}피해{/g}가 +{uip|DamageBonus|abb1af6ec9944442b4d815aadfa61db8}% 증가합니다. 중첩됩니다.
 348	연쇄 살육
 349	<u>({g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스 / 2)</u>
-350	어새신의 턴 종료 시 이 크리처의 {g|Encyclopedia:LineOfSight}시야{/g} 내에 어새신이 없으면, 어새신이 현재 장비한 무기의 최대 기본 피해의 {uip|WeaponDamagePercent|7bec62f15dc440748fb6d510e9b13f85}%만큼 피해를 입는다.
+350	어새신의 턴 종료 시 이 생물의 {g|Encyclopedia:LineOfSight}시야{/g}에 어새신이 없으면 어새신이 현재 사용하는 무기의 최대 기본 피해의 {uip|WeaponDamagePercent|7bec62f15dc440748fb6d510e9b13f85}%만큼 피해를 받습니다.
 351	목격자
-352	어새신에게 마지막으로 {g|Encyclopedia:DamageGlossary}피해를 입은{/g} 적에게 {g|f:8755496ae7954506a454cd2f03cc98ff}목격자{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 부여한다.
+352	어새신에게 마지막으로 {g|Encyclopedia:DamageGlossary}피해를 입은{/g} 적에게 {g|f:8755496ae7954506a454cd2f03cc98ff}목격자{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 부여합니다.
 353	목격자를 남기지 마라
 354	<u>({g|Encyclopedia:Lethality}치사율{/g} / 3)</u>
-355	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적을 공격할 때마다 +<u>((어새신의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}) − (대상의 {g|Encyclopedia:DodgeGlossary}회피{/g})) / 2</u>의 {g|Encyclopedia:Lethality}치사율{/g}을 얻는다. 이 치사율 보너스는 0 미만이 될 수 없다.
+355	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적을 공격할 때마다 {g|Encyclopedia:Lethality}치사율{/g}을 +<u>((어새신의 {g|Encyclopedia:DodgeReduction}회피 감소{/g}) − (대상의 {g|Encyclopedia:DodgeGlossary}회피{/g})) / 2</u> 얻습니다. 이 치사율 보너스는 0 미만이 될 수 없습니다.
 356	치명적인 집중
-357	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 한 번의 공격으로 적에게 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 5 이상 주면, 전투 종료 시까지 {g|Encyclopedia:Lethality}치사율{/g}을 +10 얻는다. 중첩된다.
+357	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 한 번의 공격으로 적에게 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 5 이상 줄 때마다 전투 종료 시까지 {g|Encyclopedia:Lethality}치사율{/g} +10을 얻습니다. 중첩됩니다.
 358	치사율 상승
-359	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g} 주변 반경 5칸 이내에 아군이 없으면 {g|Encyclopedia:DodgeGlossary}회피{/g} +10%와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +10%를 얻는다.
+359	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g} 주변 반경 5칸 내에 아군이 없으면 {g|Encyclopedia:DodgeGlossary}회피{/g} +10%와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +10%를 얻습니다.
 360	고독한 살인자
-361	{g|f:7daf9f9d4c3d44ccaeebb0b9a7725b54}죽음의 무도{/g}가 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 추가로 +{unit_stat|WarhammerAgility|bonus} 준다.
+361	{g|f:7daf9f9d4c3d44ccaeebb0b9a7725b54}죽음의 무도{/g}가 {g|Encyclopedia:DirectDamage}직접 피해{/g}를 추가로 +{unit_stat|WarhammerAgility|bonus} 줍니다.
 362	죽음의 회전무
-363	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 매 라운드에 처음으로 {g|Encyclopedia:Lethality}치사율{/g}이 100 이상인 공격을 대상에게 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면, 해당 공격에 소모한 {g|Encyclopedia:ActionPoints}행동력{/g}을 즉시 회복한다.
+363	매 라운드에 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Lethality}치사율{/g} 100 이상인 공격으로 대상을 처음 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 해당 공격에 소모한 {g|Encyclopedia:ActionPoints}행동력{/g}을 즉시 돌려받습니다.
 364	치명적인 효율
-365	어새신이 {g|Encyclopedia:Opening}빈틈{/g}에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때, +{g|Encyclopedia:Lethality}<u>치사율</u>{/g}% 확률로 <u>대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 5%</u>만큼 추가 피해를 준다.
+365	어새신이 {g|Encyclopedia:Opening}빈틈{/g}을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시키면 +{g|Encyclopedia:Lethality}<u>치사율</u>{/g}% 확률로 <u>대상의 {g|Encyclopedia:MaxWounds}최대 체력{/g}의 5%</u>만큼 추가 피해를 줍니다.
 366	완벽한 빈틈
-367	매 {g|Encyclopedia:Turn}턴{/g}에 처음 사용하는 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 0이 된다.
+367	매 {g|Encyclopedia:Turn}턴{/g}에 처음 사용하는 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g} {g|Encyclopedia:Ability}능력{/g}의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 0이 됩니다.
 368	전문가의 안목
-369	어새신은 {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|f:372208cc0f434c17abfb5140e8806ebc}대출혈{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g} 중 하나라도 적용된 적을 상대로 {g|Encyclopedia:Lethality}치사율{/g}을 +15 얻는다. 각 효과마다 보너스를 얻지만, 치사율 보너스는 +45를 초과할 수 없다.
+369	어새신이 {g|Encyclopedia:SlowedEffect}감속{/g}, {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}, {g|f:372208cc0f434c17abfb5140e8806ebc}대출혈{/g} 중 하나라도 {g|Encyclopedia:CommonStatusesGlossary}효과{/g}가 부여된 적을 상대로 {g|Encyclopedia:Lethality}치사율{/g} +15를 얻습니다. 각 효과마다 보너스를 얻지만 최대 치사율 +45를 넘을 수 없습니다.
 370	우위 선점
-371	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|f:670419fc312d4ee2b2298d03af22e0c2}신출귀몰{/g} 상태이면, 자신의 턴 종료 시까지 {g|Encyclopedia:MovementPoints}이동력{/g} +4와 {g|Encyclopedia:Lethality}치사율{/g} +10을 얻는다.
+371	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 자신의 {g|Encyclopedia:Turn}턴{/g} 시작 시 {g|f:670419fc312d4ee2b2298d03af22e0c2}신출귀몰{/g} 상태이면 턴 종료 시까지 {g|Encyclopedia:MovementPoints}이동력{/g} +4와 {g|Encyclopedia:Lethality}치사율{/g} +10을 얻습니다.
 372	신출귀몰한 속도
-373	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:HitPoints}체력{/g}이 가득 찬 적을 공격할 때마다 자신의 다음 턴 종료 시까지 해당 적을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g}를 +20% 얻는다.
+373	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:HitPoints}체력{/g}이 가득 찬 적을 공격할 때마다 자신의 다음 턴 종료 시까지 해당 적을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g}와 {g|Encyclopedia:DodgeReduction}회피 감소{/g} +20%를 얻습니다.
 374	온전한 자를 노리는 눈
-375	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적의 {g|Encyclopedia:Opening}빈틈{/g}을 맞히지 않고 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다, 자신의 다음 턴 시작 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g}를 +{uip|DodgeBonus|6835d43cba1d460f8b2ab0cb2bf31730}% 얻는다.
+375	{g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 적의 {g|Encyclopedia:Opening}빈틈{/g}을 맞히지 않고 적을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 자신의 다음 턴 시작 시까지 {g|Encyclopedia:DodgeGlossary}회피{/g} +{uip|DodgeBonus|6835d43cba1d460f8b2ab0cb2bf31730}%를 얻습니다.
 376	한 수 앞서기
 377	<u>(2 × {g|Encyclopedia:WarhammerAgility}민첩{/g} 보너스)</u>
-378	어새신이 현재 무기로 적 하나를 공격한다. 이 공격은 빗나가지 않으며 피해가 +50% 증가한다. 또한 대상의 잃은 {g|Encyclopedia:HitPoints}체력{/g}의 25%만큼 추가 피해를 준다.\n이 공격에는 어새신의 {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:DodgeReduction}회피 감소{/g}, 방어 관통, {g|Encyclopedia:ParryReduction}막기 감소{/g}가 두 배로 적용된다.\n전투 종료 시까지 어새신이 받는 피해가 +100% 증가한다.
+378	어새신이 현재 무기로 적을 공격합니다. 이 공격은 빗나가지 않으며 피해가 +50% 증가합니다. 또한 대상이 잃은 {g|Encyclopedia:HitPoints}체력{/g}의 25%만큼 추가 피해를 줍니다.\n이 공격에서는 어새신의 {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:DodgeReduction}회피 감소{/g}, 방어 관통, {g|Encyclopedia:ParryReduction}막기 감소{/g}가 두 배가 됩니다.\n전투 종료 시까지 어새신이 받는 피해가 +100% 증가합니다.
 379	- 두 번째 무기
-380	어새신이 현재 무기로 적 하나를 공격한다. 이 공격은 빗나가지 않으며 피해가 +50% 증가한다. 또한 대상의 잃은 {g|Encyclopedia:HitPoints}체력{/g}의 25%만큼 추가 피해를 준다.\n이 공격에는 어새신의 {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:DodgeReduction}회피 감소{/g}, 방어 관통, {g|Encyclopedia:ParryReduction}막기 감소{/g}가 두 배로 적용된다.
+380	어새신이 현재 무기로 적을 공격합니다. 이 공격은 빗나가지 않으며 피해가 +50% 증가합니다. 또한 대상이 잃은 {g|Encyclopedia:HitPoints}체력{/g}의 25%만큼 추가 피해를 줍니다.\n이 공격에서는 어새신의 {g|Encyclopedia:DodgeGlossary}회피{/g}, {g|Encyclopedia:DodgeReduction}회피 감소{/g}, 방어 관통, {g|Encyclopedia:ParryReduction}막기 감소{/g}가 두 배가 됩니다.
 381	처단
-382	전투 종료 시까지 {g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g} 대상의 현재 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:Deflection}피해 감소{/g}가 절반으로 감소한다.
+382	전투 종료 시까지 {g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g} 대상의 현재 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}와 {g|Encyclopedia:Deflection}피해 감소{/g}가 절반으로 감소합니다.
 383	처단(강화 I)
-384	{g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g}이 대상의 잃은 {g|Encyclopedia:HitPoints}체력{/g}의 25% 대신 45%만큼 추가 {g|Encyclopedia:DamageGlossary}피해{/g}를 준다.
+384	{g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g}의 추가 {g|Encyclopedia:DamageGlossary}피해{/g}가 대상이 잃은 {g|Encyclopedia:HitPoints}체력{/g}의 25%에서 45%로 증가합니다.
 385	처단(강화 II)
-386	전투 종료 시까지 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Opening}빈틈{/g}에 공격을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 {g|Encyclopedia:TemporaryWounds}임시 체력{/g}을 +{uip|Lethality|fbe8ea3f3a2e4ce2b7ea337bda40bbd2} 얻는다(소수점 이하 버림).
+386	전투 종료 시까지 {g|Encyclopedia:CareerAssassinGlossary}어새신{/g}이 {g|Encyclopedia:Opening}빈틈{/g}을 {g|Encyclopedia:HitSequenceGlossary}명중{/g}시킬 때마다 {g|Encyclopedia:TemporaryWounds}임시 체력{/g} +{uip|Lethality|fbe8ea3f3a2e4ce2b7ea337bda40bbd2}(소수점 이하 버림)을 얻습니다.
 387	처단(강화 III)
 388	<u>({g|Encyclopedia:Lethality}치사율{/g} / 15)</u>
-389	{g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g} 공격으로 대상을 처치하면, 대상 주변 반경 3칸 이내의 모든 적에게 {g|Encyclopedia:DisturbedEffect}동요{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +2중첩 부여한다. 해당 적들은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 된다.
+389	{g|f:fca9f7a27d664ca2834d91822ca34663}처단{/g} 공격으로 대상을 처치하면 대상 주변 반경 3칸 내 모든 적에게 {g|Encyclopedia:DisturbedEffect}동요{/g} {g|Encyclopedia:CommonStatusesGlossary}효과{/g}를 +2중첩 부여합니다. 해당 적들은 {g|Encyclopedia:WarhammerAgility}민첩{/g} {g|Encyclopedia:ResistanceTest}저항 판정{/g}에 실패하면 1라운드 동안 {g|Encyclopedia:StaggeredEffect}비틀거림{/g} 상태가 됩니다.
 390	처단(강화 IV)
 391	전쟁 찬가
-392	귀감 10등급과 20등급에 {g|Encyclopedia:ActionPoints}행동력{/g}을 추가로 +1씩 얻는다.
+392	귀감 10등급과 20등급에서 {g|Encyclopedia:ActionPoints}행동력{/g}을 추가로 +1 얻습니다.
 393	행동력 증가
-394	{g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} 20에 {g|Encyclopedia:ActionPoints}행동력{/g}을 추가로 +1 얻는다.
+394	{g|Encyclopedia:CharacterLevel}캐릭터 레벨{/g} 20에서 {g|Encyclopedia:ActionPoints}행동력{/g}을 추가로 +1 얻습니다.
 395	기본 결의
-396	볼트 무기 공격의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +10% 증가한다.
+396	볼트 무기 공격이 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +10%를 얻습니다.
 397	볼트 무기 전문가
-398	체인 무기 공격의 최대 {g|Encyclopedia:DamageGlossary}피해{/g}가 +4 증가한다.
+398	체인 무기 공격의 최대 {g|Encyclopedia:DamageGlossary}피해{/g}가 +4 증가합니다.
 399	체인 무기 전문가
-400	적이 이 캐릭터를 상대로 {g|Encyclopedia:MeleeSuperiority}근접 우세{/g} {g|Encyclopedia:Bonus}보너스{/g}를 얻지 못한다.
+400	적이 이 캐릭터를 상대로 {g|Encyclopedia:MeleeSuperiority}근접 우세{/g} {g|Encyclopedia:Bonus}보너스{/g}를 얻지 못합니다.
 401	전투의 달인
-402	캐릭터의 {g|Encyclopedia:SkillAthletics}운동{/g}이 +7 증가한다.
+402	캐릭터가 {g|Encyclopedia:SkillAthletics}운동{/g} +7을 얻습니다.
 403	기초 기술: 운동
-404	캐릭터의 {g|Encyclopedia:SkillAwareness}인지{/g}가 +7 증가한다.
+404	캐릭터가 {g|Encyclopedia:SkillAwareness}인지{/g} +7을 얻습니다.
 405	기초 기술: 인지
-406	캐릭터의 {g|Encyclopedia:SkillCarouse}주량{/g}이 +7 증가한다.
+406	캐릭터가 {g|Encyclopedia:SkillCarouse}주량{/g} +7을 얻습니다.
 407	기초 기술: 주량
-408	캐릭터의 {g|Encyclopedia:Career}아키타입{/g}이나 오리진에서 허용하지 않아도 이 {g|Encyclopedia:Skills}기술{/g}을 향상시킬 수 있다.
-409	캐릭터의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +7 증가한다.
+408	캐릭터의 {g|Encyclopedia:Career}아키타입{/g}이나 기원에서 허용하지 않더라도 이 {g|Encyclopedia:Skills}기량{/g}을 향상시킬 수 있습니다.
+409	캐릭터가 {g|Encyclopedia:SkillCoercion}위협{/g} +7을 얻습니다.
 410	기초 기술: 위협
-411	캐릭터의 {g|Encyclopedia:SkillCommerce}상업{/g}이 +7 증가한다.
+411	캐릭터가 {g|Encyclopedia:SkillCommerce}상업{/g} +7을 얻습니다.
 412	기초 기술: 상업
-413	캐릭터의 {g|Encyclopedia:SkillDemolition}폭파{/g}가 +7 증가한다.
+413	캐릭터가 {g|Encyclopedia:SkillDemolition}폭파{/g} +7을 얻습니다.
 414	기초 기술: 폭파
-415	캐릭터가 실패한 {g|Encyclopedia:Skills}기술{/g} {g|Encyclopedia:Test}판정{/g}을 다시 굴릴 수 있다(판정마다 시도 횟수 +1).
-416	캐릭터의 {g|Encyclopedia:SkillAthletics}운동{/g}이 +13 증가한다.
+415	캐릭터가 실패한 {g|Encyclopedia:Skills}기량{/g} {g|Encyclopedia:Test}판정{/g}을 다시 굴릴 수도 있습니다(판정당 시도 횟수 +1).
+416	캐릭터가 {g|Encyclopedia:SkillAthletics}운동{/g} +13을 얻습니다.
 417	고급 기술: 운동
-418	캐릭터의 {g|Encyclopedia:SkillAwareness}인지{/g}가 +13 증가한다.
+418	캐릭터가 {g|Encyclopedia:SkillAwareness}인지{/g} +13을 얻습니다.
 419	고급 기술: 인지
-420	캐릭터의 {g|Encyclopedia:SkillCarouse}주량{/g}이 +13 증가한다.
+420	캐릭터가 {g|Encyclopedia:SkillCarouse}주량{/g} +13을 얻습니다.
 421	고급 기술: 주량
-422	캐릭터의 {g|Encyclopedia:SkillCoercion}위협{/g}이 +13 증가한다.
+422	캐릭터가 {g|Encyclopedia:SkillCoercion}위협{/g} +13을 얻습니다.
 423	고급 기술: 위협
-424	캐릭터의 {g|Encyclopedia:SkillCommerce}상업{/g}이 +13 증가한다.
+424	캐릭터가 {g|Encyclopedia:SkillCommerce}상업{/g} +13을 얻습니다.
 425	고급 기술: 상업
-426	캐릭터의 {g|Encyclopedia:SkillDemolition}폭파{/g}가 +13 증가한다.
+426	캐릭터가 {g|Encyclopedia:SkillDemolition}폭파{/g} +13을 얻습니다.
 427	고급 기술: 폭파
-428	캐릭터의 {g|Encyclopedia:SkillLogic}논리{/g}가 +13 증가한다.
+428	캐릭터가 {g|Encyclopedia:SkillLogic}논리{/g} +13을 얻습니다.
 429	고급 기술: 논리
-430	캐릭터의 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g}이 +13 증가한다.
+430	캐릭터가 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g} +13을 얻습니다.
 431	고급 기술: 지식(제국)
-432	캐릭터의 {g|Encyclopedia:SkillLoreWarp}지식(워프){/g}가 +13 증가한다.
+432	캐릭터가 {g|Encyclopedia:SkillLoreWarp}지식(워프){/g} +13을 얻습니다.
 433	고급 기술: 지식(워프)
-434	캐릭터의 {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g}가 +13 증가한다.
+434	캐릭터가 {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g} +13을 얻습니다.
 435	고급 기술: 지식(제노스)
 436	고급 기술: 의술
-437	캐릭터의 {g|Encyclopedia:SkillMedicae}의술{/g}이 +13 증가한다.
-438	캐릭터의 {g|Encyclopedia:SkillPersuasion}설득{/g}이 +13 증가한다.
+437	캐릭터가 {g|Encyclopedia:SkillMedicae}의술{/g} +13을 얻습니다.
+438	캐릭터가 {g|Encyclopedia:SkillPersuasion}설득{/g} +13을 얻습니다.
 439	고급 기술: 설득
-440	캐릭터의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}이 +13 증가한다.
+440	캐릭터가 {g|Encyclopedia:SkillTechUse}기술 활용{/g} +13을 얻습니다.
 441	고급 기술: 기술 활용
-442	캐릭터의 {g|Encyclopedia:SkillLogic}논리{/g}가 +7 증가한다.
+442	캐릭터가 {g|Encyclopedia:SkillLogic}논리{/g} +7을 얻습니다.
 443	기초 기술: 논리
-444	캐릭터의 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g}이 +7 증가한다.
+444	캐릭터가 {g|Encyclopedia:SkillLoreImperium}지식(제국){/g} +7을 얻습니다.
 445	기초 기술: 지식(제국)
-446	캐릭터의 {g|Encyclopedia:SkillLoreWarp}지식(워프){/g}가 +7 증가한다.
+446	캐릭터가 {g|Encyclopedia:SkillLoreWarp}지식(워프){/g} +7을 얻습니다.
 447	기초 기술: 지식(워프)
-448	캐릭터의 {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g}가 +7 증가한다.
+448	캐릭터가 {g|Encyclopedia:SkillLoreXenos}지식(제노스){/g} +7을 얻습니다.
 449	기초 기술: 지식(제노스)
-450	캐릭터의 {g|Encyclopedia:SkillMedicae}의술{/g}이 +7 증가한다.
+450	캐릭터가 {g|Encyclopedia:SkillMedicae}의술{/g} +7을 얻습니다.
 451	기초 기술: 의술
-452	캐릭터의 {g|Encyclopedia:SkillPersuasion}설득{/g}이 +7 증가한다.
+452	캐릭터가 {g|Encyclopedia:SkillPersuasion}설득{/g} +7을 얻습니다.
 453	기초 기술: 설득
-454	캐릭터의 {g|Encyclopedia:SkillTechUse}기술 활용{/g}이 +7 증가한다.
+454	캐릭터가 {g|Encyclopedia:SkillTechUse}기술 활용{/g} +7을 얻습니다.
 455	기초 기술: 기술 활용
-456	캐릭터의 {g|Encyclopedia:Career}아키타입{/g}이나 오리진에서 허용하지 않아도 훈련한 모든 {g|Encyclopedia:Characteristic}능력치{/g}를 향상시킬 수 있다.
-457	캐릭터의 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +5 증가한다.
+456	캐릭터의 {g|Encyclopedia:Career}아키타입{/g}이나 기원에서 허용하지 않더라도 훈련받은 모든 {g|Encyclopedia:Characteristic}능력치{/g}를 향상시킬 수 있습니다.
+457	캐릭터가 {g|Encyclopedia:WarhammerAgility}민첩{/g} +5를 얻습니다.
 458	능력치 훈련: 민첩
-459	캐릭터의 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +5 증가한다.
+459	캐릭터가 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +5를 얻습니다.
 460	능력치 훈련: 사격술
-461	캐릭터의 {g|Encyclopedia:WarhammerFellowship}친화력{/g}이 +5 증가한다.
+461	캐릭터가 {g|Encyclopedia:WarhammerFellowship}친화력{/g} +5를 얻습니다.
 462	능력치 훈련: 친화력
-463	캐릭터의 {g|Encyclopedia:WarhammerIntelligence}지능{/g}이 +5 증가한다.
+463	캐릭터가 {g|Encyclopedia:WarhammerIntelligence}지능{/g} +5를 얻습니다.
 464	능력치 훈련: 지능
-465	캐릭터의 {g|Encyclopedia:WarhammerPerception}지각{/g}이 +5 증가한다.
+465	캐릭터가 {g|Encyclopedia:WarhammerPerception}지각{/g} +5를 얻습니다.
 466	능력치 훈련: 지각
-467	캐릭터의 {g|Encyclopedia:WarhammerStrength}근력{/g}이 +5 증가한다.
+467	캐릭터가 {g|Encyclopedia:WarhammerStrength}근력{/g} +5를 얻습니다.
 468	능력치 훈련: 근력
-469	캐릭터의 {g|Encyclopedia:WarhammerToughness}강인함{/g}이 +5 증가한다.
+469	캐릭터가 {g|Encyclopedia:WarhammerToughness}강인함{/g} +5를 얻습니다.
 470	능력치 훈련: 강인함
-471	캐릭터의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}이 +5 증가한다.
+471	캐릭터가 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g} +5를 얻습니다.
 472	능력치 훈련: 근접술
-473	캐릭터의 {g|Encyclopedia:WarhammerWillpower}의지력{/g}이 +5 증가한다.
+473	캐릭터가 {g|Encyclopedia:WarhammerWillpower}의지력{/g} +5를 얻습니다.
 474	능력치 훈련: 의지력
-475	이 크리처의 턴 동안 반경 1칸 이내의 각 적이 처음으로 이 크리처를 공격한 후, 해당 적에게 반격으로 타격을 가한다.
+475	이 생물의 턴 동안 반경 1칸 내 각 적에게 처음 공격받은 후 해당 적에게 타격으로 응수합니다.
 476	반격
-477	첫 공격이 도끼의 {g|f:a270dbb75ea44128b951b5d18d0b6bed}휩쓸기{/g}나 해머 또는 메이스의 {g|f:bd5f109c46684a09b07fb13743d2a6d7}거친 밀치기{/g} 능력이었다면, 두 번째 무기로 하는 추가 공격에는 불이익이나 비용 증가가 적용되지 않는다.
+477	첫 공격이 도끼의 {g|f:a270dbb75ea44128b951b5d18d0b6bed}휩쓸기{/g} 또는 해머나 메이스의 {g|f:bd5f109c46684a09b07fb13743d2a6d7}거친 밀치기{/g} 능력이었다면 두 번째 무기로 하는 추가 공격은 불이익을 받지 않고 비용도 증가하지 않습니다.
 478	쌍수 무기 전문가
-479	{g|Encyclopedia:MovementPoints}이동력{/g}을 +2 얻는다.
+479	{g|Encyclopedia:MovementPoints}이동력{/g} +2를 얻습니다.
 480	신속한 움직임
-481	{g|Encyclopedia:Parry}막기{/g}에 +15% {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+481	{g|Encyclopedia:Parry}막기{/g}에 +15% {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 482	결투 숙련
-483	화염 무기 공격의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 −1 감소한다(최소 행동력 1).
+483	화염 무기 공격의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 −1 감소합니다(최소 행동력 1).
 484	화염 무기 전문가
-485	{g|Encyclopedia:HeavyArmour}중갑{/g}을 착용할 수 있게 된다.
+485	{g|Encyclopedia:HeavyArmour}중갑{/g}을 착용할 수 있습니다.
 486	중갑 숙련
-487	이 캐릭터의 웨버로 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g}나 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된 적은 해당 효과가 지속되는 동안 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −{uip|Debuff|ea3131acef5645c3a8eaba942fe404a9} 감소한다.
+487	이 캐릭터의 웨버로 {g|Encyclopedia:ImmobilisedEffect}이동 불가{/g} 또는 {g|Encyclopedia:SlowedEffect}감속{/g} 상태가 된 적은 해당 효과가 지속되는 동안 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}, {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}, {g|Encyclopedia:WarhammerAgility}민첩{/g}이 −{uip|Debuff|ea3131acef5645c3a8eaba942fe404a9} 감소합니다.
 488	견고한 매듭
-489	적이 라스 무기 공격에 대한 {g|Encyclopedia:DodgeGlossary}회피{/g}에 −20% {g|Encyclopedia:Penalty}불이익{/g}을 받는다.
+489	적이 라스 무기 공격을 상대로 {g|Encyclopedia:DodgeGlossary}회피{/g}에 −20% {g|Encyclopedia:Penalty}불이익{/g}을 받습니다.
 490	라스 무기 전문가
-491	도끼의 {g|f:a270dbb75ea44128b951b5d18d0b6bed}휩쓸기{/g}와 해머 또는 메이스의 {g|f:bd5f109c46684a09b07fb13743d2a6d7}거친 밀치기{/g} 능력의 행동력 소모량이 −1 감소한다(최소 1).
+491	도끼의 {g|f:a270dbb75ea44128b951b5d18d0b6bed}휩쓸기{/g}와 해머나 메이스의 {g|f:bd5f109c46684a09b07fb13743d2a6d7}거친 밀치기{/g} 능력의 행동력 소모량이 −1 감소합니다(최소 1).
 492	근접 무기 전문가
-493	멜타 무기 공격의 최대 {g|Encyclopedia:DamageGlossary}피해{/g}가 +4 증가한다.
+493	멜타 무기 공격의 최대 {g|Encyclopedia:DamageGlossary}피해{/g}가 +4 증가합니다.
 494	멜타 무기 전문가
-495	{g|Encyclopedia:DodgeGlossary}회피{/g}에 +10% {g|Encyclopedia:Bonus}보너스{/g}를 얻는다.
+495	{g|Encyclopedia:DodgeGlossary}회피{/g}에 +10% {g|Encyclopedia:Bonus}보너스{/g}를 얻습니다.
 496	날렵함
 497	응급 처치
 498	의술 훈련
-499	플라스마 무기 공격의 최대 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가한다.
+499	플라스마 무기 공격의 최대 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가합니다.
 500	플라스마 무기 전문가
-501	파워 {g|Encyclopedia:WarhammerArmourGlossary}아머{/g}를 착용할 수 있게 된다.
+501	파워 {g|Encyclopedia:WarhammerArmourGlossary}아머{/g}를 착용할 수 있습니다.
 502	파워 아머 숙련
-503	파워 무기 공격의 {g|Encyclopedia:ArmourPenetration}방어 관통{/g}이 +10% 증가한다.
+503	파워 무기 공격이 {g|Encyclopedia:ArmourPenetration}방어 관통{/g} +10%를 얻습니다.
 504	파워 무기 전문가
 505	재장전
-506	착용자가 {g|Encyclopedia:BlockChance}방패 막기{/g}를 +5% 얻고, {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}의 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가한다.
+506	착용자가 {g|Encyclopedia:BlockChance}방패 막기{/g} +5%를 얻고 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}로 주는 {g|Encyclopedia:DamageGlossary}피해{/g}가 +50% 증가합니다.
 507	강한 손
-508	착용자가 공격을 성공적으로 {g|Encyclopedia:BlockChance}방어{/g}할 때마다, 가능할 경우 즉시 공격자에게 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}를 사용한다.\n{g|f:f6a60b4556214528b0ce295c4f69306e}굳건한 방어{/g}로 착용자가 반격하면, 반격 이후에 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}를 사용한다.
+508	착용자가 공격을 {g|Encyclopedia:BlockChance}방어{/g}하는 데 성공할 때마다 가능할 경우 즉시 공격자에게 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}를 사용합니다.\n착용자가 {g|f:f6a60b4556214528b0ce295c4f69306e}굳건한 방어{/g}로 발동한 반격을 하면 반격 이후에 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}를 사용합니다.
 509	즉각적인 응징
-510	착용자가 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}를 성공적으로 사용할 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 +2 회복한다. 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 이동해도 대상의 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않는다.
+510	착용자가 {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}방패 강타{/g}를 성공시킬 때마다 {g|Encyclopedia:MovementPoints}이동력{/g}을 +2 회복합니다. 자신의 {g|Encyclopedia:Turn}턴{/g} 종료 시까지 이동해도 대상의 {g|Encyclopedia:AttackOfOpportunityFullGlossary}기회 공격{/g}을 유발하지 않습니다.
 511	방어 기동
-512	착용자의 현재 무기 세트에 방패가 있으면 {g|Encyclopedia:Deflection}피해 감소{/g}를 +{uip|Damage|b090c98714c84716a2c6b586c6228f26} 얻는다.
+512	착용자의 현재 무기 세트에 방패가 있으면 {g|Encyclopedia:Deflection}피해 감소{/g} +{uip|Damage|b090c98714c84716a2c6b586c6228f26}을 얻습니다.
 513	무적
 514	<u>({g|Encyclopedia:WarhammerToughness}강인함{/g} 보너스 / 3)</u>
-515	착용자의 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g}이 +{uip|Damage|d77cb4ca64674dcba20f225998828e78} 증가한다.
+515	착용자가 {g|Encyclopedia:WarhammerWeaponSkill}근접술{/g}과 {g|Encyclopedia:WarhammerBallisticSkill}사격술{/g} +{uip|Damage|d77cb4ca64674dcba20f225998828e78}을 얻습니다.
 516	전문가의 요령
 517	<u>(방패의 {g|Encyclopedia:BlockChance}방패 막기{/g} / 3)</u>
-518	방패가 한 무기 세트의 슬롯만 차지한다.
+518	방패가 한 무기 세트의 슬롯만 차지합니다.
 519	방패 숙련
-520	실탄 무기 공격의 최소 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가한다.
+520	실탄 무기 공격의 최소 {g|Encyclopedia:DamageGlossary}피해{/g}가 +2 증가합니다.
 521	실탄 무기 전문가
-522	{g|Encyclopedia:HitPoints}체력{/g}이 캐릭터 레벨의 절반만큼 증가한다(소수점 이하 올림).
+522	{g|Encyclopedia:HitPoints}체력{/g}이 캐릭터 레벨의 절반만큼 증가합니다(소수점 이하 올림).
 523	불사
