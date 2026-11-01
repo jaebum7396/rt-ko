@@ -13,3 +13,5 @@ build/
 # 아스트라 실행 로그
 .astra/
 __pycache__/
+# 아스트라 실행 폴더 (로그·입력)
+work/glossary_run/
