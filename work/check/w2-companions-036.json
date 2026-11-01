@@ -1,0 +1,7 @@
+{"errors": [],
+"warnings": [
+ {"n": 81, "code": "glossary", "detail": "Brother Ulfar -> 울파르 형제 not found"},
+ {"n": 121, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 161, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 220, "code": "length", "detail": "ratio 0.22 (ko 5 / en 23 chars, allowed 0.25-1.60)"}
+]}

@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 31, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 54, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 229, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"}
+]}

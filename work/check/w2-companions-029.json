@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 15, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
+ {"n": 33, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
+ {"n": 34, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
+ {"n": 35, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
+ {"n": 52, "code": "glossary", "detail": "Absolute Loyalty -> 절대 충성 not found"},
+ {"n": 56, "code": "glossary", "detail": "Into Pieces -> 갈기갈기 not found"},
+ {"n": 129, "code": "glossary", "detail": "Cut to the Chase -> 곧바로 추격 not found"}
+]}

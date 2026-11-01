@@ -1,0 +1,5 @@
+{"errors": [],
+"warnings": [
+ {"n": 123, "code": "glossary", "detail": "Disgusting! -> 역겨워! not found"},
+ {"n": 123, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+]}

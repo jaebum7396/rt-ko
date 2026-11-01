@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 15, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 80, "code": "glossary", "detail": "Wounded Beast -> 상처 입은 야수 not found"},
+ {"n": 162, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 166, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 166, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 210, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 213, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 215, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"}
+]}

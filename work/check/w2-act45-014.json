@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 13, "code": "glossary", "detail": "Expanse -> 공역 not found"},
+ {"n": 99, "code": "glossary", "detail": "The Children of Asuryan -> 아수리안의 자손 not found"},
+ {"n": 105, "code": "glossary", "detail": "Black Heart -> 블랙 하트 not found"},
+ {"n": 123, "code": "glossary", "detail": "Heavily Damaged -> 심각한 손상 not found"},
+ {"n": 132, "code": "glossary", "detail": "Bloody Mass -> 피의 미사 not found"}
+]}

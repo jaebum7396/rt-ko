@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 10, "code": "glossary", "detail": "Janris Danrok -> 잔리스 단로크 not found"},
+ {"n": 11, "code": "glossary", "detail": "High Factotum -> 하이 팩토텀 not found"},
+ {"n": 16, "code": "glossary", "detail": "Bounty Hunters -> 바운티 헌터 not found"},
+ {"n": 25, "code": "glossary", "detail": "Against All Odds -> 역경을 딛고 not found"},
+ {"n": 51, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 77, "code": "glossary", "detail": "Spirit Stones -> 영혼석 not found"}
+]}

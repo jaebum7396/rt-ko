@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 8, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 10, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
+ {"n": 20, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 55, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 140, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 152, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 160, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+]}

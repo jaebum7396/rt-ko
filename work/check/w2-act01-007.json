@@ -1,0 +1,7 @@
+{"errors": [],
+"warnings": [
+ {"n": 45, "code": "glossary", "detail": "Winded -> 숨 가쁨 not found"},
+ {"n": 51, "code": "glossary", "detail": "Lord Evayne -> 에베인 경 not found"},
+ {"n": 120, "code": "glossary", "detail": "Under the Dome -> 돔 내부 not found"},
+ {"n": 142, "code": "glossary", "detail": "Old Man -> 노인 not found"}
+]}

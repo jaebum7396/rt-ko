@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 47, "code": "glossary", "detail": "Forsaken World -> 버림받은 행성 not found"},
+ {"n": 50, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 103, "code": "glossary", "detail": "Crushing Blow -> 분쇄의 일격 not found"},
+ {"n": 140, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 175, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 204, "code": "glossary", "detail": "Open the door -> 문 열기 not found"}
+]}

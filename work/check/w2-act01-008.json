@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 79, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
+ {"n": 94, "code": "glossary", "detail": "Keeper of Eurac -> 유라크의 수호자 not found"},
+ {"n": 120, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 121, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 165, "code": "glossary", "detail": "Lady Navigator -> 내비게이터 아가씨 not found"},
+ {"n": 181, "code": "glossary", "detail": "Keeper of Eurac -> 유라크의 수호자 not found"},
+ {"n": 212, "code": "glossary", "detail": "Old Man -> 노인 not found"}
+]}

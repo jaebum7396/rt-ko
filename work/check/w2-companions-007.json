@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 4, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 58, "code": "glossary", "detail": "Spirit Stones -> 영혼석 not found"},
+ {"n": 69, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 152, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 158, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},
+ {"n": 172, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"}
+]}

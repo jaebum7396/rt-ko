@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 132, "code": "glossary", "detail": "Emperor Himself -> 황제 폐하 친히 not found"},
+ {"n": 143, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 173, "code": "glossary", "detail": "A Favour -> 부탁 not found"}
+]}

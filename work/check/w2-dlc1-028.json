@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 60, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 81, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 86, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
+ {"n": 100, "code": "glossary", "detail": "Sacred Flame -> 성스러운 화염 not found"},
+ {"n": 102, "code": "glossary", "detail": "Astropathic Choir -> 아스트로패스 성가대 not found"},
+ {"n": 183, "code": "glossary", "detail": "Go down -> 내려가기 not found"}
+]}

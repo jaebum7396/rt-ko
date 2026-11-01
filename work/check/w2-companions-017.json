@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 12, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 16, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 83, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 104, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 142, "code": "glossary", "detail": "Lady Theodora -> 테오도라 님 not found"},
+ {"n": 144, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
+ {"n": 149, "code": "length", "detail": "ratio 0.14 (ko 4 / en 28 chars, allowed 0.25-1.60)"},
+ {"n": 150, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"}
+]}

@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 20, "code": "glossary", "detail": "Personal Involvement -> 직접 참전 not found"},
+ {"n": 35, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 62, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 85, "code": "length", "detail": "ratio 0.23 (ko 5 / en 22 chars, allowed 0.25-1.60)"},
+ {"n": 138, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 141, "code": "length", "detail": "ratio 0.24 (ko 5 / en 21 chars, allowed 0.25-1.60)"},
+ {"n": 185, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+]}

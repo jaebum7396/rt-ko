@@ -64,6 +64,12 @@ def main():
             rank = (SRC_RANK.get(src.split(':')[0], 5), CONF_RANK.get(conf, 3))
             if key not in got or rank < got[key][-1]:
                 got[key] = (e, k, cat, src, conf, rank)
+    tov = os.path.join(GL, 'terms.override.tsv')  # hand decisions win over Astra (e.g. Warrant of Trade = 무역 영장)
+    if os.path.exists(tov):
+        for r in rows(tov):
+            if len(r) >= 2 and r[0].strip() and r[0].strip().lower() in got:
+                e, _, cat, _, _, rank = got[r[0].strip().lower()]
+                got[r[0].strip().lower()] = (e, r[1].strip(), cat, 'style', 'high', rank)
     missing = [want[k][0] for k in want if k not in got]
     os.makedirs(GL, exist_ok=True)
     # Single words: keep for dialogue only when the dialogue uses them as proper nouns (capitalised mid-sentence);

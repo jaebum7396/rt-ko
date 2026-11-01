@@ -1,0 +1,13 @@
+{"errors": [],
+"warnings": [
+ {"n": 15, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 63, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 63, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
+ {"n": 148, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 149, "code": "glossary", "detail": "Good Hunting -> 성공적인 사냥 not found"},
+ {"n": 165, "code": "glossary", "detail": "Side by Side -> 나란히 not found"},
+ {"n": 197, "code": "glossary", "detail": "Spirit Stones -> 영혼석 not found"},
+ {"n": 203, "code": "length", "detail": "ratio 0.24 (ko 7 / en 29 chars, allowed 0.25-1.60)"},
+ {"n": 204, "code": "length", "detail": "ratio 0.17 (ko 4 / en 23 chars, allowed 0.25-1.60)"},
+ {"n": 227, "code": "glossary", "detail": "Imperial -> 제국의 not found"}
+]}

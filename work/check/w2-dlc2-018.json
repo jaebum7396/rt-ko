@@ -1,0 +1,14 @@
+{"errors": [],
+"warnings": [
+ {"n": 1, "code": "glossary", "detail": "Proctor -> 프록터 not found"},
+ {"n": 3, "code": "glossary", "detail": "Proctor -> 프록터 not found"},
+ {"n": 11, "code": "glossary", "detail": "Proctor -> 프록터 not found"},
+ {"n": 49, "code": "glossary", "detail": "Proctor -> 프록터 not found"},
+ {"n": 84, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 110, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 184, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 184, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 198, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 210, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 263, "code": "glossary", "detail": "Proctor -> 프록터 not found"}
+]}

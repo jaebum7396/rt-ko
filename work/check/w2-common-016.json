@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 132, "code": "glossary", "detail": "Unfinished Business -> 미완의 과업 not found"},
+ {"n": 137, "code": "glossary", "detail": "On the Hunt -> 사냥 중 not found"},
+ {"n": 157, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 208, "code": "glossary", "detail": "Awaiting Orders -> 명령 대기 not found"},
+ {"n": 245, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 257, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 272, "code": "glossary", "detail": "Go down -> 내려가기 not found"}
+]}

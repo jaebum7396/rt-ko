@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 37, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 125, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 139, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 140, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 142, "code": "glossary", "detail": "Thasserian -> 타세리안 not found"},
+ {"n": 154, "code": "glossary", "detail": "Thasserian -> 타세리안 not found"},
+ {"n": 199, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 232, "code": "glossary", "detail": "Fire Within -> 내면의 불꽃 not found"}
+]}

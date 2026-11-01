@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 7, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
+ {"n": 36, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
+ {"n": 61, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"},
+ {"n": 105, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 254, "code": "glossary", "detail": "Sit down -> 앉기 not found"}
+]}

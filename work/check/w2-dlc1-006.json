@@ -1,0 +1,13 @@
+{"errors": [],
+"warnings": [
+ {"n": 3, "code": "length", "detail": "ratio 0.18 (ko 4 / en 22 chars, allowed 0.25-1.60)"},
+ {"n": 4, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 5, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 21, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 53, "code": "glossary", "detail": "Final Joke -> 최후의 농담 not found"},
+ {"n": 85, "code": "glossary", "detail": "The Infinite -> 무한자 not found"},
+ {"n": 107, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 139, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 158, "code": "glossary", "detail": "Horrors of the Warp -> 워프의 공포 not found"},
+ {"n": 238, "code": "glossary", "detail": "The Infinite -> 무한자 not found"}
+]}

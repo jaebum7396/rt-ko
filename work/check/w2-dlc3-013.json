@@ -1,0 +1,12 @@
+{"errors": [],
+"warnings": [
+ {"n": 21, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 34, "code": "glossary", "detail": "Drill Sergeant Dankosh -> 단코시 훈련교관 not found"},
+ {"n": 58, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 63, "code": "glossary", "detail": "The Final Order -> 최후의 명령 not found"},
+ {"n": 124, "code": "glossary", "detail": "The Final Order -> 최후의 명령 not found"},
+ {"n": 145, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 160, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
+ {"n": 174, "code": "glossary", "detail": "The Final Order -> 최후의 명령 not found"},
+ {"n": 193, "code": "glossary", "detail": "Under Pressure -> 압박 not found"}
+]}

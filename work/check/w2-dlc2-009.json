@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 42, "code": "length", "detail": "ratio 0.24 (ko 4 / en 17 chars, allowed 0.25-1.60)"},
+ {"n": 95, "code": "glossary", "detail": "The Path -> 길 not found"},
+ {"n": 98, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 202, "code": "glossary", "detail": "Thasserian -> 타세리안 not found"},
+ {"n": 203, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 221, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 237, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 297, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+]}

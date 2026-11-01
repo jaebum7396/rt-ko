@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 15, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 47, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 55, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+]}

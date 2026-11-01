@@ -1,0 +1,12 @@
+{"errors": [],
+"warnings": [
+ {"n": 12, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 17, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 33, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 106, "code": "glossary", "detail": "Into Pieces -> 갈기갈기 not found"},
+ {"n": 127, "code": "glossary", "detail": "In My Sights -> 조준선 안에 not found"},
+ {"n": 157, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 158, "code": "glossary", "detail": "Black Heart -> 블랙 하트 not found"},
+ {"n": 187, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 198, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
+]}

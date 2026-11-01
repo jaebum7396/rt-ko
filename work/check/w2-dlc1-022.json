@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 13, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 33, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 99, "code": "glossary", "detail": "The Rack -> 고문대 not found"},
+ {"n": 116, "code": "glossary", "detail": "The Rack -> 고문대 not found"},
+ {"n": 216, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 218, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}

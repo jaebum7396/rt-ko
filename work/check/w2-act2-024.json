@@ -1,0 +1,14 @@
+{"errors": [],
+"warnings": [
+ {"n": 77, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
+ {"n": 81, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 88, "code": "glossary", "detail": "Survive! -> 살아남아라! not found"},
+ {"n": 125, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 128, "code": "glossary", "detail": "Bloodstained -> 피투성이 not found"},
+ {"n": 144, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 193, "code": "glossary", "detail": "Climb up -> 올라가기 not found"},
+ {"n": 295, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 335, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 339, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 343, "code": "glossary", "detail": "Examine the corpse -> 시체 조사 not found"}
+]}

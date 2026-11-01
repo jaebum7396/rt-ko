@@ -1,0 +1,7 @@
+{"errors": [],
+"warnings": [
+ {"n": 18, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 75, "code": "glossary", "detail": "Nothing to Lose -> 잃을 것이 없다 not found"},
+ {"n": 97, "code": "glossary", "detail": "Kasballican -> 카스발리카의 not found"},
+ {"n": 194, "code": "glossary", "detail": "Spread the Disease -> 질병 전파 not found"}
+]}

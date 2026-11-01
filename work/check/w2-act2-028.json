@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 89, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
+ {"n": 123, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 182, "code": "glossary", "detail": "Light of the Emperor -> 황제의 빛 not found"}
+]}

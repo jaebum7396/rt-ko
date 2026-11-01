@@ -1,0 +1,7 @@
+{"errors": [],
+"warnings": [
+ {"n": 132, "code": "glossary", "detail": "The Rings -> 고리 not found"},
+ {"n": 173, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 277, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 295, "code": "length", "detail": "ratio 0.24 (ko 9 / en 37 chars, allowed 0.25-1.60)"}
+]}

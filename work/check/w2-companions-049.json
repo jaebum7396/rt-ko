@@ -1,0 +1,13 @@
+{"errors": [],
+"warnings": [
+ {"n": 97, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
+ {"n": 103, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
+ {"n": 103, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 127, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 135, "code": "glossary", "detail": "Served Cold -> 차가운 복수 not found"},
+ {"n": 144, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 146, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 150, "code": "glossary", "detail": "Into the Shadows -> 그림자 속으로 not found"},
+ {"n": 162, "code": "no_hangul", "detail": "no Hangul in the output"},
+ {"n": 162, "code": "bracket", "detail": "prefix [ktc] not translated"}
+]}

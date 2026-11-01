@@ -1,0 +1,7 @@
+{"errors": [],
+"warnings": [
+ {"n": 48, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 126, "code": "glossary", "detail": "All Out -> 전력 투구 not found"},
+ {"n": 197, "code": "glossary", "detail": "Climb up -> 올라가기 not found"},
+ {"n": 218, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+]}

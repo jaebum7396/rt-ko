@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 21, "code": "glossary", "detail": "Death Sentence -> 사형 선고 not found"},
+ {"n": 51, "code": "glossary", "detail": "Master Anthar -> 안타르 경 not found"},
+ {"n": 55, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 123, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 200, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"}
+]}

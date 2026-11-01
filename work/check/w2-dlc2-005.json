@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 100, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 181, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 197, "code": "glossary", "detail": "Second Wind -> 재기 not found"},
+ {"n": 208, "code": "glossary", "detail": "No Respite -> 쉴 틈 없이 not found"},
+ {"n": 209, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 221, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
+ {"n": 221, "code": "glossary", "detail": "Go down -> 내려가기 not found"}
+]}

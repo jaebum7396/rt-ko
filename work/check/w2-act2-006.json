@@ -1,0 +1,15 @@
+{"errors": [],
+"warnings": [
+ {"n": 16, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 21, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 21, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 29, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 46, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
+ {"n": 117, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 118, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
+ {"n": 179, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 192, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 203, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 206, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 217, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+]}

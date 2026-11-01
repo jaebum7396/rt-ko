@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 30, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 38, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 55, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 79, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 82, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 97, "code": "glossary", "detail": "Filth of the Expanse -> 공역의 오물 not found"},
+ {"n": 148, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 160, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}

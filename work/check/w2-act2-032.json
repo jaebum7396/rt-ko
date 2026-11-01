@@ -1,0 +1,15 @@
+{"errors": [],
+"warnings": [
+ {"n": 4, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 48, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 49, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 65, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 86, "code": "glossary", "detail": "Warden of Light -> 빛의 파수꾼 not found"},
+ {"n": 94, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 103, "code": "glossary", "detail": "At Any Cost -> 어떤 대가를 치르더라도 not found"},
+ {"n": 103, "code": "glossary", "detail": "Survive! -> 살아남아라! not found"},
+ {"n": 207, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 215, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 216, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 224, "code": "length", "detail": "ratio 0.24 (ko 13 / en 55 chars, allowed 0.25-1.60)"}
+]}

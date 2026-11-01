@@ -306,6 +306,14 @@ def cmd_enGB(a):
         warn('원본을 다시 찍은 결과가 원본과 바이트가 다르다 (처음 다른 곳 %d바이트). 원본 형식이 바뀐 듯 — 출력 형식을 확인할 것' % at)
 
     tr, st, notes, skipped = load_translations(work, statuses)
+    if a.overlay:  # option variant (e.g. 해병문학체판): GUID TAB escaped text replaces our line
+        n_ov = 0
+        for ln in Path(a.overlay).read_text(encoding='utf-8').splitlines():
+            p = ln.split('\t', 1)
+            if len(p) == 2 and p[0] in strings:
+                tr[p[0]] = unescape(p[1])
+                n_ov += 1
+        print('  덮어쓰기 %s줄 (%s)' % (format(n_ov, ','), a.overlay))
     orphans = [g for g in tr if g not in strings]
     patch = None
     if a.fallback == 'patch':
@@ -368,7 +376,7 @@ def cmd_enGB(a):
 
 # ---------------------------------------------------------------- zip
 
-def install_text(date, meta):
+def install_text(date, meta, font=True):
     ver = (meta or {}).get('game_version')
     head = '빌드: %s' % date + (' · 게임 버전: %s' % ver if ver else '')
     lines = ['로그 트레이더 한글패치 (rt-ko) 설치 방법', '=' * 40, head]
@@ -399,10 +407,16 @@ def install_text(date, meta):
         '',
         '4. 파일을 복사합니다.',
         '   (가) 이 압축 파일의 enGB.json  ->  위 Localization 폴더',
+    ] + ([
         '   (나) 이 압축 파일의 UnityModManager\\FontKorean 폴더  ->',
         '        %s\\' % UMM_DIR,
         '        이미 있으면 덮어씁니다. 한글 글꼴을 보충하는 Unity Mod Manager 모드이며,',
         '        기존 한글패치를 쓰던 PC에는 이미 설치돼 있습니다.',
+    ] if font else [
+        '   (나) 한글 글꼴 모드가 필요합니다. 기존 한글패치를 쓰던 PC에는 이미 설치돼 있습니다.',
+        '        없다면 https://github.com/geungogma/RogueTrader-KoreanPatch/releases 의 FontKorean.zip 을 받아',
+        '        %s\\ 안에 FontKorean 폴더째 넣습니다.' % UMM_DIR,
+    ]) + [
         '',
         '5. 게임을 켭니다. 언어 설정은 English(영어) 그대로 둡니다.',
         '   이 번역은 영어 칸(enGB)을 한국어로 바꿔치기한 것이라서, 다른 언어를 고르면 적용되지 않습니다.',
@@ -456,9 +470,9 @@ def cmd_zip(a):
     out.parent.mkdir(parents=True, exist_ok=True)
     stamp = time.localtime()[:6]
     # 설치방법.txt 는 BOM + CRLF — 메모장이 한글을 바로 알아본다 (enGB.json 은 BOM 없음)
-    guide = codecs.BOM_UTF8 + install_text(today.isoformat(), meta).encode('utf-8')
+    guide = codecs.BOM_UTF8 + install_text(today.isoformat(), meta, font=not a.no_font).encode('utf-8')
     members = [('설치방법.txt', guide), ('enGB.json', data)]
-    for p in font_files:
+    for p in ([] if a.no_font else font_files):
         members.append(('UnityModManager/FontKorean/' + p.relative_to(font).as_posix(), p.read_bytes()))
     tmp = out.with_name(out.name + '.tmp')
     with zipfile.ZipFile(str(tmp), 'w') as z:
@@ -519,6 +533,7 @@ def main(argv=None):
                    help='번역 없는 줄: patch = 한글패치 문장(한글 있을 때) 아니면 영어 (기본) / english = 영어')
     p.add_argument('--root', help='work/ 가 든 폴더 (기본: 저장소 루트)')
     p.add_argument('--out', help='출력 파일 (기본: <root>/build/enGB.json)')
+    p.add_argument('--overlay', help='옵션판 덮어쓰기 파일 (GUID TAB 이스케이프한 글), 예: work/variants/haebyeong/overlay.tsv')
     p.add_argument('--orig', help='원본 enGB.json (기본: src/game/.../enGB.json)')
     p.add_argument('--patch', help='한글패치 enGB.json (기본: src/ref/korean-patch/enGB.json)')
     p.add_argument('--status', help='쓸 청크의 manifest 상태 (쉼표로 여러 개, 예: checked). any = 전부. '
@@ -529,6 +544,7 @@ def main(argv=None):
     p.add_argument('--root', help='work/ 가 든 폴더 (기본: 저장소 루트)')
     p.add_argument('--engb', help='넣을 enGB.json (기본: <root>/build/enGB.json)')
     p.add_argument('--out', help='출력 zip (기본: <root>/build/rt-ko-YYYYMMDD.zip)')
+    p.add_argument('--no-font', action='store_true', help='글꼴 모드를 넣지 않는다 (공개 배포용 — 원 배포처로 안내)')
     p.set_defaults(func=cmd_zip)
 
     p = sub.add_parser('diff', help='게임 업데이트 비교')

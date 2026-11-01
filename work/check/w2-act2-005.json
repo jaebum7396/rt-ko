@@ -1,0 +1,19 @@
+{"errors": [],
+"warnings": [
+ {"n": 4, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 6, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 8, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 9, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 34, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 37, "code": "glossary", "detail": "House Vyatt -> 비아트 가문 not found"},
+ {"n": 37, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 52, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 72, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 91, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 134, "code": "glossary", "detail": "Janus -> 야누스 not found"},
+ {"n": 144, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 162, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 182, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 191, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 222, "code": "glossary", "detail": "Commanding Voice -> 우렁찬 지휘 not found"}
+]}

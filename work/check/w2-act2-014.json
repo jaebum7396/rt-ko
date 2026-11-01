@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 64, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
+ {"n": 152, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 167, "code": "glossary", "detail": "Force Strike -> 포스 타격 not found"}
+]}

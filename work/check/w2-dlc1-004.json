@@ -1,0 +1,16 @@
+{"errors": [],
+"warnings": [
+ {"n": 2, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 3, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 4, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 5, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 9, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 10, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 13, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 14, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 16, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 17, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 37, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
+ {"n": 172, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 226, "code": "glossary", "detail": "A Favour -> 부탁 not found"}
+]}

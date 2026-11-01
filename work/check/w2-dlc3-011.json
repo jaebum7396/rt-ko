@@ -1,0 +1,14 @@
+{"errors": [],
+"warnings": [
+ {"n": 34, "code": "glossary", "detail": "The Final Order -> 최후의 명령 not found"},
+ {"n": 43, "code": "glossary", "detail": "Merov Penal Regiment -> 메로브 형벌 연대 not found"},
+ {"n": 50, "code": "glossary", "detail": "The Final Order -> 최후의 명령 not found"},
+ {"n": 53, "code": "glossary", "detail": "The Final Order -> 최후의 명령 not found"},
+ {"n": 55, "code": "glossary", "detail": "The Final Order -> 최후의 명령 not found"},
+ {"n": 72, "code": "glossary", "detail": "Iron Grip -> 강철 손아귀 not found"},
+ {"n": 82, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 97, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 194, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 237, "code": "glossary", "detail": "The Final Order -> 최후의 명령 not found"},
+ {"n": 253, "code": "glossary", "detail": "speaker -> voice not found"}
+]}

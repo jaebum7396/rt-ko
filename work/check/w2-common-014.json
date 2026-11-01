@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 1, "code": "glossary", "detail": "Regent Aaronto -> 섭정 아론토 not found"},
+ {"n": 1, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 14, "code": "glossary", "detail": "Lady Navigator -> 내비게이터 아가씨 not found"},
+ {"n": 17, "code": "glossary", "detail": "Lady Elina -> 엘리나 님 not found"},
+ {"n": 56, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 150, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
+ {"n": 196, "code": "glossary", "detail": "Into Pieces -> 갈기갈기 not found"},
+ {"n": 205, "code": "glossary", "detail": "Liege of Footfall -> 풋폴의 영주 not found"}
+]}

@@ -1,0 +1,14 @@
+{"errors": [],
+"warnings": [
+ {"n": 5, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 43, "code": "glossary", "detail": "Broken Ribs -> 갈비뼈 골절 not found"},
+ {"n": 87, "code": "glossary", "detail": "The Roar -> 포효 not found"},
+ {"n": 125, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"},
+ {"n": 127, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 130, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 131, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 137, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 172, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
+ {"n": 219, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 220, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}

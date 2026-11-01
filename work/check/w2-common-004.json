@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 2, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 8, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 67, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 76, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 160, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 203, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 214, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 216, "code": "glossary", "detail": "Old Man -> 노인 not found"}
+]}

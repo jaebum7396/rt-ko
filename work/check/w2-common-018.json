@@ -1,0 +1,21 @@
+{"errors": [],
+"warnings": [
+ {"n": 5, "code": "glossary", "detail": "Awaiting Orders -> 명령 대기 not found"},
+ {"n": 35, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 65, "code": "length", "detail": "ratio 0.24 (ko 7 / en 29 chars, allowed 0.25-1.60)"},
+ {"n": 124, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 132, "code": "length", "detail": "ratio 0.24 (ko 9 / en 38 chars, allowed 0.25-1.60)"},
+ {"n": 165, "code": "glossary", "detail": "Kasballican -> 카스발리카의 not found"},
+ {"n": 175, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
+ {"n": 175, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 188, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 196, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 208, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 213, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 214, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 215, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
+ {"n": 239, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 239, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 307, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 307, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"}
+]}

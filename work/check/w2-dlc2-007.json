@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 9, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 13, "code": "glossary", "detail": "Righteous Anger -> 정의로운 노여움 not found"},
+ {"n": 36, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 40, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 48, "code": "glossary", "detail": "Breaking Point -> 한계점 not found"},
+ {"n": 138, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 207, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
+]}

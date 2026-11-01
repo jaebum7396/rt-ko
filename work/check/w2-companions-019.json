@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 31, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 32, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 94, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 95, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 110, "code": "glossary", "detail": "Falling Apart -> 붕괴 not found"},
+ {"n": 113, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 129, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 161, "code": "glossary", "detail": "Climb up -> 올라가기 not found"}
+]}

@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 48, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 57, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 79, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 87, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 100, "code": "glossary", "detail": "Short of Breath -> 숨 가쁨 not found"},
+ {"n": 135, "code": "glossary", "detail": "Medicae Officer Marius -> 의무관 마리우스 not found"},
+ {"n": 138, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 157, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+]}

@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 13, "code": "glossary", "detail": "Good Tidings -> 복음 not found"},
+ {"n": 17, "code": "glossary", "detail": "Good Tidings -> 복음 not found"},
+ {"n": 91, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+]}

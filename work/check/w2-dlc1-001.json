@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 1, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"},
+ {"n": 3, "code": "glossary", "detail": "Ready to Serve -> 봉사할 준비 not found"},
+ {"n": 68, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 72, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 88, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 155, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 167, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 175, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}

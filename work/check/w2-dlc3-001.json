@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 31, "code": "glossary", "detail": "positive effect -> 이로운 효과 not found"},
+ {"n": 43, "code": "glossary", "detail": "Winded -> 숨 가쁨 not found"},
+ {"n": 54, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 59, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 75, "code": "glossary", "detail": "Falling Apart -> 붕괴 not found"},
+ {"n": 76, "code": "glossary", "detail": "Capable Hands -> 유능한 일손 not found"},
+ {"n": 94, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"}
+]}

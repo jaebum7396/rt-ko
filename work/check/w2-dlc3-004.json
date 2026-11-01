@@ -1,0 +1,12 @@
+{"errors": [],
+"warnings": [
+ {"n": 9, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 20, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 27, "code": "glossary", "detail": "For the Fallen! -> 전사자들을 위하여! not found"},
+ {"n": 48, "code": "glossary", "detail": "Merovians -> 메로브인 not found"},
+ {"n": 57, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
+ {"n": 82, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 107, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 114, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 115, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"}
+]}

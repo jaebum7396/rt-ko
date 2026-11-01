@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 18, "code": "glossary", "detail": "critical damage -> 치명타 피해 not found"},
+ {"n": 82, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 96, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 131, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 188, "code": "glossary", "detail": "Imperial -> 제국의 not found"}
+]}

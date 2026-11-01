@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 4, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"},
+ {"n": 55, "code": "glossary", "detail": "Explorators -> 탐험가들 not found"},
+ {"n": 79, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 86, "code": "glossary", "detail": "Catechism of Maintenance -> 정비 교리문답 not found"},
+ {"n": 180, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 239, "code": "glossary", "detail": "Discontinuing the Cycle -> 순환의 단절 not found"}
+]}

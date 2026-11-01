@@ -1,0 +1,15 @@
+{"errors": [],
+"warnings": [
+ {"n": 98, "code": "glossary", "detail": "Merov Penal Regiment -> 메로브 형벌 연대 not found"},
+ {"n": 104, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 107, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 110, "code": "glossary", "detail": "Sergeant Janur -> 자누르 병장 not found"},
+ {"n": 115, "code": "glossary", "detail": "Drill Sergeant Dankosh -> 단코시 훈련교관 not found"},
+ {"n": 125, "code": "glossary", "detail": "Drill Sergeant Dankosh -> 단코시 훈련교관 not found"},
+ {"n": 137, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 152, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 162, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
+ {"n": 187, "code": "glossary", "detail": "Clenched Teeth -> 악문 이 not found"},
+ {"n": 189, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 201, "code": "glossary", "detail": "Break Through -> 돌파 not found"}
+]}

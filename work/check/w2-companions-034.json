@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 34, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 51, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 124, "code": "glossary", "detail": "Worlds of the Expanse -> 공역의 행성들 not found"}
+]}

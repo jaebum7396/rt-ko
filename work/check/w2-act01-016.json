@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 120, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 226, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 246, "code": "glossary", "detail": "Attention! -> 차렷! not found"},
+ {"n": 265, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 281, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 287, "code": "glossary", "detail": "Attention! -> 차렷! not found"}
+]}

@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 44, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 112, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 126, "code": "glossary", "detail": "Unfinished Business -> 미완의 과업 not found"},
+ {"n": 170, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 177, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 208, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 210, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"}
+]}

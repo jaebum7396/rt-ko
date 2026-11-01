@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 12, "code": "glossary", "detail": "Under My Protection -> 나의 보호 아래 not found"},
+ {"n": 13, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 103, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 103, "code": "glossary", "detail": "Heel! -> 이리 와! not found"},
+ {"n": 122, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 145, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 183, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 188, "code": "glossary", "detail": "Righteous Anger -> 정의로운 노여움 not found"}
+]}

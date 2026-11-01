@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 121, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 140, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 153, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
+ {"n": 160, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 177, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 183, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 190, "code": "glossary", "detail": "Kasballican -> 카스발리카의 not found"}
+]}

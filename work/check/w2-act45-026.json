@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 29, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 41, "code": "glossary", "detail": "Mysterious Xenos -> 수수께끼의 제노스 not found"},
+ {"n": 52, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 56, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 74, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 105, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}

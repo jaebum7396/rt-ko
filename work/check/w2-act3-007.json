@@ -1,0 +1,13 @@
+{"errors": [],
+"warnings": [
+ {"n": 4, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 11, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 16, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 33, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"},
+ {"n": 39, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 90, "code": "glossary", "detail": "The Path -> 길 not found"},
+ {"n": 143, "code": "glossary", "detail": "Bloodstained -> 피투성이 not found"},
+ {"n": 174, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 186, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 237, "code": "glossary", "detail": "Into the Shadows -> 그림자 속으로 not found"}
+]}

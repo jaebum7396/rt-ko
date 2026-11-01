@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 34, "code": "glossary", "detail": "No Voice -> 음성 없음 not found"},
+ {"n": 155, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"},
+ {"n": 164, "code": "glossary", "detail": "Into Pieces -> 갈기갈기 not found"},
+ {"n": 170, "code": "glossary", "detail": "Force Field -> 역장 not found"},
+ {"n": 213, "code": "glossary", "detail": "Guttural Howl -> 목울림 울부짖음 not found"},
+ {"n": 229, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 237, "code": "glossary", "detail": "Sit down -> 앉기 not found"},
+ {"n": 240, "code": "glossary", "detail": "Wrack -> 랙 not found"}
+]}

@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 22, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 40, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 66, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"},
+ {"n": 133, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 140, "code": "glossary", "detail": "Set course -> 진로 설정 not found"},
+ {"n": 146, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 156, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 174, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"}
+]}

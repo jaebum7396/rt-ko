@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 177, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 183, "code": "length", "detail": "ratio 0.25 (ko 24 / en 97 chars, allowed 0.25-1.60)"},
+ {"n": 267, "code": "length", "detail": "ratio 0.16 (ko 3 / en 19 chars, allowed 0.25-1.60)"},
+ {"n": 323, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
+ {"n": 332, "code": "length", "detail": "ratio 0.24 (ko 5 / en 21 chars, allowed 0.25-1.60)"},
+ {"n": 363, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"},
+ {"n": 372, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"}
+]}

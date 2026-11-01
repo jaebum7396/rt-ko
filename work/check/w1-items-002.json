@@ -5,7 +5,6 @@
  {"n": 45, "code": "glossary", "detail": "effect -> 효과 not found"},
  {"n": 47, "code": "glossary", "detail": "effect -> 효과 not found"},
  {"n": 51, "code": "glossary", "detail": "effect -> 효과 not found"},
- {"n": 55, "code": "glossary", "detail": "Up -> 위로 not found"},
  {"n": 63, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 76, "code": "glossary", "detail": "critical hit chance -> 치명타 확률 not found"},
  {"n": 94, "code": "glossary", "detail": "Skill -> 기량 not found"},
@@ -20,7 +19,6 @@
  {"n": 184, "code": "glossary", "detail": "PER -> 지각 not found"},
  {"n": 204, "code": "glossary", "detail": "PER -> 지각 not found"},
  {"n": 208, "code": "glossary", "detail": "Servant -> 하인 not found"},
- {"n": 208, "code": "glossary", "detail": "His -> 그분의 not found"},
  {"n": 237, "code": "glossary", "detail": "Strike -> 타격 not found"},
  {"n": 256, "code": "glossary", "detail": "Power -> 역장 not found"},
  {"n": 312, "code": "glossary", "detail": "Body -> 시체 not found"},
@@ -53,6 +51,5 @@
  {"n": 469, "code": "glossary", "detail": "hit -> 명중 not found"},
  {"n": 470, "code": "glossary", "detail": "Power -> 역장 not found"},
  {"n": 477, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 478, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 482, "code": "glossary", "detail": "Up -> 위로 not found"}
+ {"n": 478, "code": "glossary", "detail": "PER -> 지각 not found"}
 ]}

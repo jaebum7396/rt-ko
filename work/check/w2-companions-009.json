@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 1, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 40, "code": "glossary", "detail": "Kasballican -> 카스발리카의 not found"},
+ {"n": 44, "code": "glossary", "detail": "Kasballican -> 카스발리카의 not found"},
+ {"n": 56, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 77, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+]}

@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 96, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 97, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 104, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 113, "code": "length", "detail": "ratio 0.19 (ko 5 / en 27 chars, allowed 0.25-1.60)"},
+ {"n": 147, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 174, "code": "glossary", "detail": "Genetor -> 제네토르 not found"}
+]}

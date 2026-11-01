@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 47, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 54, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 94, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 143, "code": "glossary", "detail": "Moment to Strike -> 공격의 기회 not found"},
+ {"n": 187, "code": "glossary", "detail": "Attention! -> 차렷! not found"},
+ {"n": 225, "code": "glossary", "detail": "Into the Shadows -> 그림자 속으로 not found"}
+]}

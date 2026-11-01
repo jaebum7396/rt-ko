@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 19, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 51, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 75, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 105, "code": "glossary", "detail": "On the Hunt -> 사냥 중 not found"},
+ {"n": 107, "code": "glossary", "detail": "Out of My Way -> 길을 비켜라 not found"},
+ {"n": 117, "code": "glossary", "detail": "Sergeant Janur -> 자누르 병장 not found"},
+ {"n": 239, "code": "glossary", "detail": "Against All Odds -> 역경을 딛고 not found"},
+ {"n": 300, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"}
+]}

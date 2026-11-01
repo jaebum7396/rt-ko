@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 40, "code": "glossary", "detail": "Kill them! -> 놈들을 죽여라! not found"},
+ {"n": 151, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 195, "code": "glossary", "detail": "Attention! -> 차렷! not found"}
+]}

@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 39, "code": "glossary", "detail": "positive effect -> 이로운 효과 not found"},
+ {"n": 62, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 96, "code": "glossary", "detail": "All Out -> 전력 투구 not found"},
+ {"n": 181, "code": "glossary", "detail": "Accusation of Heresy -> 이단 고발 not found"},
+ {"n": 189, "code": "glossary", "detail": "Tech-Priest's -> 테크 프리스트의 not found"}
+]}

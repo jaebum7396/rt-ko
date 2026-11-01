@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 74, "code": "glossary", "detail": "Good Hunting -> 성공적인 사냥 not found"},
+ {"n": 134, "code": "glossary", "detail": "Emperor's Angels -> 황제의 천사들 not found"},
+ {"n": 200, "code": "glossary", "detail": "On the Hunt -> 사냥 중 not found"},
+ {"n": 202, "code": "glossary", "detail": "Curse of the Wulfen -> 울펜의 저주 not found"},
+ {"n": 248, "code": "glossary", "detail": "Avenge the Fallen -> 전사자의 복수 not found"}
+]}

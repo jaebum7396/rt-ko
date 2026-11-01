@@ -18,15 +18,9 @@
  {"n": 113, "code": "glossary", "detail": "damaged -> 피해를 입음 not found"},
  {"n": 114, "code": "glossary", "detail": "damaged -> 피해를 입음 not found"},
  {"n": 137, "code": "glossary", "detail": "blocks -> 방어 not found"},
- {"n": 138, "code": "glossary", "detail": "Up -> 위로 not found"},
  {"n": 140, "code": "glossary", "detail": "Body -> 시체 not found"},
- {"n": 140, "code": "glossary", "detail": "His -> 그분의 not found"},
- {"n": 142, "code": "glossary", "detail": "His -> 그분의 not found"},
- {"n": 142, "code": "glossary", "detail": "Up -> 위로 not found"},
  {"n": 144, "code": "glossary", "detail": "damaged -> 피해를 입음 not found"},
  {"n": 144, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 144, "code": "glossary", "detail": "His -> 그분의 not found"},
- {"n": 146, "code": "glossary", "detail": "His -> 그분의 not found"},
  {"n": 254, "code": "glossary", "detail": "Destroyer -> 파괴자 not found"},
  {"n": 335, "code": "length", "detail": "ratio 0.21 (ko 6 / en 29 chars, allowed 0.25-1.60)"},
  {"n": 344, "code": "glossary", "detail": "Grotesque -> 그로테스크 not found"},
@@ -68,6 +62,5 @@
  {"n": 1136, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 1139, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 1143, "code": "glossary", "detail": "hit chance -> 명중률 not found"},
- {"n": 1156, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 1168, "code": "glossary", "detail": "His -> 그분의 not found"}
+ {"n": 1156, "code": "glossary", "detail": "PER -> 지각 not found"}
 ]}

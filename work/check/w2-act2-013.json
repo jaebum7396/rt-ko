@@ -1,0 +1,7 @@
+{"errors": [],
+"warnings": [
+ {"n": 9, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 30, "code": "glossary", "detail": "Broken Ribs -> 갈비뼈 골절 not found"},
+ {"n": 78, "code": "glossary", "detail": "Protect! -> 지켜라! not found"},
+ {"n": 93, "code": "glossary", "detail": "Sacred Warrant -> 신성한 무역의 영장 not found"}
+]}

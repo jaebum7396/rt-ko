@@ -1,0 +1,13 @@
+{"errors": [],
+"warnings": [
+ {"n": 4, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 18, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 29, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 33, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
+ {"n": 98, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 107, "code": "glossary", "detail": "The Roar -> 포효 not found"},
+ {"n": 121, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 185, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 197, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 202, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}

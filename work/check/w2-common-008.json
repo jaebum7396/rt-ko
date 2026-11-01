@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 2, "code": "glossary", "detail": "The Maw -> 대아귀 not found"},
+ {"n": 109, "code": "glossary", "detail": "Run! -> 달려! not found"},
+ {"n": 131, "code": "glossary", "detail": "Open the door -> 문 열기 not found"},
+ {"n": 148, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 151, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 182, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
+ {"n": 215, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 215, "code": "glossary", "detail": "Emperor Protects! -> 황제께서 지켜주신다! not found"}
+]}

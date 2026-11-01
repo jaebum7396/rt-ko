@@ -1,0 +1,7 @@
+{"errors": [],
+"warnings": [
+ {"n": 132, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 144, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 154, "code": "glossary", "detail": "Old Man -> 노인 not found"},
+ {"n": 216, "code": "glossary", "detail": "Open the door -> 문 열기 not found"}
+]}

@@ -1,0 +1,10 @@
+{"errors": [],
+"warnings": [
+ {"n": 25, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 88, "code": "glossary", "detail": "Under My Protection -> 나의 보호 아래 not found"},
+ {"n": 127, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 142, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 144, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
+ {"n": 208, "code": "glossary", "detail": "Go up -> 올라가기 not found"},
+ {"n": 225, "code": "glossary", "detail": "Get out -> 나가기 not found"}
+]}

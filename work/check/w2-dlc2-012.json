@@ -1,0 +1,7 @@
+{"errors": [],
+"warnings": [
+ {"n": 42, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 143, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 201, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 232, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"}
+]}

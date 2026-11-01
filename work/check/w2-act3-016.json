@@ -1,0 +1,15 @@
+{"errors": [],
+"warnings": [
+ {"n": 9, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 14, "code": "glossary", "detail": "Something Is Wrong -> 뭔가 이상하다 not found"},
+ {"n": 50, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 53, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 65, "code": "glossary", "detail": "God-Emperor Himself -> 신황제 폐하 친히 not found"},
+ {"n": 78, "code": "glossary", "detail": "God-Emperor Himself -> 신황제 폐하 친히 not found"},
+ {"n": 98, "code": "glossary", "detail": "Clenched Teeth -> 악문 이 not found"},
+ {"n": 128, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 156, "code": "glossary", "detail": "speaker -> voice not found"},
+ {"n": 185, "code": "length", "detail": "ratio 0.20 (ko 5 / en 25 chars, allowed 0.25-1.60)"},
+ {"n": 199, "code": "glossary", "detail": "Go down -> 내려가기 not found"},
+ {"n": 216, "code": "length", "detail": "ratio 0.24 (ko 5 / en 21 chars, allowed 0.25-1.60)"}
+]}

@@ -1,0 +1,6 @@
+{"errors": [],
+"warnings": [
+ {"n": 111, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 119, "code": "glossary", "detail": "At Gunpoint -> 총구 앞에서 not found"},
+ {"n": 149, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}

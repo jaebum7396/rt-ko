@@ -1,0 +1,4 @@
+{"errors": [],
+"warnings": [
+ {"n": 218, "code": "length", "detail": "ratio 0.23 (ko 11 / en 48 chars, allowed 0.25-1.60)"}
+]}

@@ -13,6 +13,7 @@
 - 듣는 사람에 따라 높임을 바꾼다. 적·괴물·하인에게 하는 말은 낮춘다 ("불타라, 이단자여!").
 - 전투 중 짧은 외침(bark)은 대부분 적에게 하는 말이다. 평소 존댓말을 쓰는 인물도 적에게는 낮춘다.
 - **아스타르테스(스페이스 마린·카오스 스페이스 마린)는 필멸자에게 존댓말을 쓰지 않는다.** 인정하는 필멸자(로그 트레이더 등)에게는 하게체("자네"), 낮잡거나 화날 때는 해라체("필멸자여"), 형제 아스타르테스에게는 반말. 원문이 특별한 존중(필멸자에게 고개를 숙이는 장면 등)을 분명히 보일 때만 그 줄에서 높인다.
+- **제국 의전:** 아뎁타 소로리타스(시스터)에게는 누구든 하십시오체로 존대하고 "시스터"라 부른다. 이단심문관, 내비게이터 가문 귀족, 테크 프리스트처럼 제국 기관에 속한 인물에게도 필멸자 신하·가신은 존대한다.
 
 | 화자 | 말투 |
 |---|---|
@@ -51,7 +52,7 @@
 - ✓ = 나무위키 로그 트레이더 문서에서 확인한 표기. ✓ 없는 것은 잠정이고, 원본을 받으면 게임 백과사전 용어를 전부 뽑아 커뮤니티 표기로 한 번에 맞춘다.
 
 ### 세계관
-Emperor 황제 · God-Emperor 신황제 · Imperium 제국 · warp 워프 · immaterium 이머티리움 · xenos 제노스✓ · heretic 이단자 · Chaos 카오스✓ · daemon 데몬✓ · psyker 사이커✓ · Inquisitor 이단심문관✓ · Rogue Trader 로그 트레이더✓ · Lord Captain 로드 캡틴 · Warrant of Trade 무역의 영장✓ · Navigator 내비게이터✓ · Navis Nobilite 나비스 노빌리테✓ · Novator 노베이터✓ · Seneschal 집사장✓ · Astropath 아스트로패스✓ · Tech-Priest 테크 프리스트✓ · Sister of Battle 전투 수녀✓ · Adepta Sororitas 아뎁타 소로리타스 · Ecclesiarchy 에클레시아키 · Ministorum 미니스토룸✓ · Imperial Creed 제국교✓ · Adeptus Mechanicus 아뎁투스 메카니쿠스✓ · Arbites 아르비테스✓ · Space Marine 스페이스 마린✓ · Space Wolves 스페이스 울프✓ · Aeldari 엘다리✓ · Drukhari 드루카리✓ · Koronus Expanse 코로누스 공역✓ · Footfall 풋폴✓ · Dargonus 다르고누스✓ · Rykad 리카드✓ · Geller field 겔러 필드 · voidship 공허선✓ · void 공허 · void shield 보이드 실드 · machine spirit 기계령 · Fabricator 파브리케이터 · archeotech 아키오테크 · aquila 아퀼라 · High Gothic 하이 고딕 · Low Gothic 로우 고딕 · servitor 서비터 · cogitator 코기테이터 · recaff 레카프 · promethium 프로메튬 · Profit Factor 수익 지수 · colony 식민지
+Emperor 황제 · God-Emperor 신황제 · Imperium 제국 · warp 워프 · immaterium 이머티리움 · xenos 제노스✓ · heretic 이단자 · Chaos 카오스✓ · daemon 데몬✓ · psyker 사이커✓ · Inquisitor 이단심문관✓ · Rogue Trader 로그 트레이더✓ · Lord Captain 로드 캡틴 · Warrant of Trade 무역 영장 · Navigator 내비게이터✓ · Navis Nobilite 나비스 노빌리테✓ · Novator 노베이터✓ · Seneschal 집사장✓ · Astropath 아스트로패스✓ · Tech-Priest 테크 프리스트✓ · Sister of Battle 전투 수녀✓ · Adepta Sororitas 아뎁타 소로리타스 · Ecclesiarchy 에클레시아키 · Ministorum 미니스토룸✓ · Imperial Creed 제국교✓ · Adeptus Mechanicus 아뎁투스 메카니쿠스✓ · Arbites 아르비테스✓ · Space Marine 스페이스 마린✓ · Space Wolves 스페이스 울프✓ · Aeldari 엘다리✓ · Drukhari 드루카리✓ · Koronus Expanse 코로누스 공역✓ · Footfall 풋폴✓ · Dargonus 다르고누스✓ · Rykad 리카드✓ · Geller field 겔러 필드 · voidship 공허선✓ · void 공허 · void shield 보이드 실드 · machine spirit 기계령 · Fabricator 파브리케이터 · archeotech 아키오테크 · aquila 아퀼라 · High Gothic 하이 고딕 · Low Gothic 로우 고딕 · servitor 서비터 · cogitator 코기테이터 · recaff 레카프 · promethium 프로메튬 · Profit Factor 수익 지수 · colony 식민지
 
 ### 동료 이름 ✓
 Abelard Werserian 아벨라드 버세리안 · Argenta 아젠타 (호칭 포함: 시스터 아젠타) · Cassia Orsellio 카시아 오셀리오 · Heinrix van Calox 헤인릭스 반 칼록스 · Idira Tlass 이디라 틀라스 · Jae Heydari 자이 헤이다리 · Pasqal Haneumann 파스칼 하네이만 · Marazhai 마라자이 · Yrliet 이를리엣 · Ulfar 울파르 · Kibellah 키벨라

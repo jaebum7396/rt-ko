@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 103, "code": "glossary", "detail": "Moment to Strike -> 공격의 기회 not found"},
+ {"n": 247, "code": "glossary", "detail": "Attention! -> 차렷! not found"},
+ {"n": 279, "code": "glossary", "detail": "Personal Involvement -> 직접 참전 not found"},
+ {"n": 290, "code": "glossary", "detail": "Imperial -> 제국의 not found"},
+ {"n": 298, "code": "glossary", "detail": "All Out -> 전력 투구 not found"}
+]}

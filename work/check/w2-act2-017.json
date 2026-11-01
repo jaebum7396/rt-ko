@@ -1,0 +1,9 @@
+{"errors": [],
+"warnings": [
+ {"n": 1, "code": "glossary", "detail": "Emperor's Will -> 황제의 의지 not found"},
+ {"n": 31, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 73, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 148, "code": "glossary", "detail": "Slice Through -> 돌파 베기 not found"},
+ {"n": 163, "code": "length", "detail": "ratio 0.16 (ko 3 / en 19 chars, allowed 0.25-1.60)"},
+ {"n": 258, "code": "glossary", "detail": "Break Through -> 돌파 not found"}
+]}

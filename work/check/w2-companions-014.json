@@ -1,0 +1,8 @@
+{"errors": [],
+"warnings": [
+ {"n": 22, "code": "glossary", "detail": "Keep Your Distance -> 거리 유지 not found"},
+ {"n": 60, "code": "glossary", "detail": "The Roar -> 포효 not found"},
+ {"n": 70, "code": "glossary", "detail": "Look around -> 주변 살펴보기 not found"},
+ {"n": 77, "code": "glossary", "detail": "The Lost -> 길 잃은 자들 not found"},
+ {"n": 106, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}

@@ -1,0 +1,18 @@
+{"errors": [],
+"warnings": [
+ {"n": 9, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 28, "code": "glossary", "detail": "The Heartless -> 무정호 not found"},
+ {"n": 28, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 32, "code": "glossary", "detail": "The Heartless -> 무정호 not found"},
+ {"n": 36, "code": "glossary", "detail": "The Heartless -> 무정호 not found"},
+ {"n": 36, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 37, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 40, "code": "glossary", "detail": "The Heartless -> 무정호 not found"},
+ {"n": 43, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 46, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 76, "code": "glossary", "detail": "The Heartless -> 무정호 not found"},
+ {"n": 105, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 177, "code": "glossary", "detail": "Into the Shadows -> 그림자 속으로 not found"},
+ {"n": 210, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 219, "code": "glossary", "detail": "Devoted Servant -> 헌신적인 하인 not found"}
+]}

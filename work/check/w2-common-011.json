@@ -1,0 +1,13 @@
+{"errors": [],
+"warnings": [
+ {"n": 14, "code": "glossary", "detail": "Break Through -> 돌파 not found"},
+ {"n": 16, "code": "glossary", "detail": "The Emperor Protects -> 황제께서 보우하신다 not found"},
+ {"n": 74, "code": "glossary", "detail": "Lower Decks -> 하층 갑판 not found"},
+ {"n": 94, "code": "glossary", "detail": "Into Pieces -> 갈기갈기 not found"},
+ {"n": 101, "code": "glossary", "detail": "To the Imperium -> 제국으로 not found"},
+ {"n": 102, "code": "glossary", "detail": "A Favour -> 부탁 not found"},
+ {"n": 128, "code": "glossary", "detail": "INT -> 지능 not found"},
+ {"n": 165, "code": "glossary", "detail": "Single Shot -> 단발 사격 not found"},
+ {"n": 167, "code": "glossary", "detail": "Astropathic -> 아스트로패스의 not found"},
+ {"n": 186, "code": "glossary", "detail": "Slip Away -> 유유한 이탈 not found"}
+]}

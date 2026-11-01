@@ -1,0 +1,15 @@
+{"errors": [],
+"warnings": [
+ {"n": 7, "code": "glossary", "detail": "Examine the body -> 시신 조사 not found"},
+ {"n": 11, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 66, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 67, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 113, "code": "glossary", "detail": "To Me! -> 내게로! not found"},
+ {"n": 142, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 157, "code": "glossary", "detail": "Warrant -> 무역의 영장 not found"},
+ {"n": 160, "code": "glossary", "detail": "Made to Fight -> 전투를 위한 탄생 not found"},
+ {"n": 175, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 198, "code": "glossary", "detail": "Enemies of Humanity -> 인류의 적들 not found"},
+ {"n": 199, "code": "glossary", "detail": "Emperor Protects! -> 황제께서 지켜주신다! not found"},
+ {"n": 200, "code": "glossary", "detail": "Emperor Protects! -> 황제께서 지켜주신다! not found"}
+]}

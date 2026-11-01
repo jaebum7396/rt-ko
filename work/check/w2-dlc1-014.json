@@ -1,0 +1,11 @@
+{"errors": [],
+"warnings": [
+ {"n": 33, "code": "glossary", "detail": "Get out -> 나가기 not found"},
+ {"n": 61, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 65, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 95, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 163, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 171, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 186, "code": "glossary", "detail": "The Undying -> 불사 not found"},
+ {"n": 192, "code": "glossary", "detail": "The Undying -> 불사 not found"}
+]}
