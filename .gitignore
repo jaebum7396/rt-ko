@@ -1,6 +1,8 @@
 # 게임 원본·참고 패치 (src → /data2/rt-ko, 저장소에 넣지 않음)
 src
-work/chunks/
+# 청크 원문·용어는 다시 만들 수 있다 (keys.tsv는 번역 결과의 GUID 대응이라 커밋)
+work/chunks/**/*.src.tsv
+work/chunks/**/*.terms.tsv
 work/run/
 build/
 *.zip
