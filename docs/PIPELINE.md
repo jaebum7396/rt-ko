@@ -41,6 +41,18 @@
 ## 청크 용어 — `<청크>.terms.tsv`
 `english<TAB>korean<TAB>메모` — glossary/*.tsv 중 영어 용어가 청크 원문에 나오는 것만 (대소문자 무시, 단어 경계). 2차(대화) 청크는 `names.tsv`(1차 결과의 이름)도 넣는다.
 
+## 청크 목록 — `work/manifest.json`
+```json
+{"version": 1, "source_build": "1.6.1.514",
+ "chunks": [{"id": "w2-act01-004", "group": "w2-act01", "words": 5980, "strings": 210, "scenes": 7,
+             "hash": "<src.tsv의 sha1>", "status": "new"}]}
+```
+- status: `new` → `running` → `done` | `failed` | `limit`(한도 걸림) → `checked`(검사 통과)
+- extract.py는 내용(hash)이 같은 청크의 status를 그대로 둔다. status를 바꾸는 것은 run_astra.py와 check.py뿐이다 (한 번에 한 프로세스).
+
+## 사용량 기록 — `work/usage.tsv`
+`chunk<TAB>words<TAB>input<TAB>cached<TAB>output<TAB>reasoning<TAB>seconds<TAB>weekly_pct<TAB>finished_at`
+
 ## 청크 출력 — `work/out/<묶음>/<청크>.tsv`
 `n<TAB>한국어` — 입력의 모든 n이 정확히 한 번, 같은 순서, 같은 이스케이프. 머리줄·설명 금지.
 

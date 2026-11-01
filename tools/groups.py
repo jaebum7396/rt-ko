@@ -13,11 +13,11 @@ GROUPS = [
     ('w2-act3',      'RTKO-26', '3막',                    ['World/Dialogs/Ch3', 'World/Dialogs/Chapter_3']),
     ('w2-act45',     'RTKO-27', '4~5막·에필로그',         ['World/Dialogs/Ch4', 'World/Dialogs/Chapter_4', 'World/Dialogs/Ch5', 'World/Dialogs/Chapter_5',
                                                           'World/Dialogs/Epilogues', 'World/Dialogs/TinyEpilogue']),
-    ('w2-companions', None,     '동료 대화·개인 퀘스트·로맨스', ['World/Dialogs/Companions']),
-    ('w2-common',     None,     '공통 대화·여행·탐사·퀘스트', ['World/Dialogs/', 'World/Quests', 'World/Areas', 'World/Etudes', 'World/Cutscenes', 'World/Encounters']),
-    ('w2-dlc1',       None,     'DLC1',                   ['DLC/DLC1']),
-    ('w2-dlc2',       None,     'DLC2',                   ['DLC/DLC2']),
-    ('w2-dlc3',       None,     'DLC3',                   ['DLC/DLC3']),
+    ('w2-companions', 'RTKO-34',     '동료 대화·개인 퀘스트·로맨스', ['World/Dialogs/Companions']),
+    ('w2-common',     'RTKO-35',     '공통 대화·여행·탐사·퀘스트', ['World/Dialogs/', 'World/Quests', 'World/Areas', 'World/Etudes', 'World/Cutscenes', 'World/Encounters']),
+    ('w2-dlc1',       'RTKO-28',     'DLC1',                   ['DLC/DLC1']),
+    ('w2-dlc2',       'RTKO-36',     'DLC2',                   ['DLC/DLC2']),
+    ('w2-dlc3',       'RTKO-37',     'DLC3',                   ['DLC/DLC3']),
 ]
 SKIP_PREFIXES = ['World/Test', 'World/Dialogs/Test_Areas', 'Credits/', 'Test/']
 
