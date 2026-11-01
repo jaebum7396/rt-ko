@@ -2,7 +2,6 @@
 "warnings": [
  {"n": 3, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 4, "code": "glossary", "detail": "bonus -> 보너스 not found"},
- {"n": 10, "code": "glossary", "detail": "Carouse -> 주량 not found"},
  {"n": 42, "code": "glossary", "detail": "bonus -> 보너스 not found"},
  {"n": 48, "code": "glossary", "detail": "bonus -> 보너스 not found"},
  {"n": 59, "code": "glossary", "detail": "bonus -> 보너스 not found"},

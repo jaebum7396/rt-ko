@@ -1,7 +1,7 @@
 {"errors": [],
 "warnings": [
- {"n": 8, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 8, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
+ {"n": 8, "code": "glossary", "detail": "People -> 사람들/인구 not found"},
  {"n": 8, "code": "glossary", "detail": "Power -> 파워/위력 not found"},
  {"n": 10, "code": "glossary", "detail": "Master -> 주인/마스터 not found"},
  {"n": 41, "code": "glossary", "detail": "Body -> 몸/시체 not found"},

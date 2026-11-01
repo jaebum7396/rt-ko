@@ -2,8 +2,8 @@
 "warnings": [
  {"n": 1, "code": "glossary", "detail": "pushed -> 밀려남 not found"},
  {"n": 5, "code": "glossary", "detail": "ability -> 능력 not found"},
- {"n": 5, "code": "glossary", "detail": "Range -> 사거리 not found"},
  {"n": 5, "code": "glossary", "detail": "block -> 방패 막기 not found"},
+ {"n": 5, "code": "glossary", "detail": "Range -> 사거리 not found"},
  {"n": 18, "code": "glossary", "detail": "Inspect -> 조사 not found"},
  {"n": 25, "code": "glossary", "detail": "Discipline -> 군율 not found"},
  {"n": 29, "code": "glossary", "detail": "Discipline -> 군율 not found"},

@@ -146,7 +146,7 @@
 | Merov Regiment | 메로브 연대 | setting | translit | mid | 24 |
 | Nihel | 니헬 | setting | translit | mid | 23 |
 | Path of the Outcast | 추방자의 길 | setting | community | mid | 23 |
-| Carouse | 주량 | system | translated | mid | 23 |
+| Carouse | 해독력 | system | translated | mid | 23 |
 | Shadow Field | 섀도 필드 | item | community | mid | 23 |
 | Electrodynamic Cenobium | 전기역학 수도원 | setting | translated | mid | 23 |
 | Ferrum Sanctum | 페룸 상툼 | system | translit | mid | 23 |

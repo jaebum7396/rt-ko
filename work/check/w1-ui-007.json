@@ -41,15 +41,14 @@
  {"n": 340, "code": "glossary", "detail": "Shield -> 방패 not found"},
  {"n": 341, "code": "glossary", "detail": "Shield -> 방패 not found"},
  {"n": 360, "code": "glossary", "detail": "Body -> 몸/시체/몸/시체 not found"},
- {"n": 366, "code": "glossary", "detail": "Soldiers -> 솔져 not found"},
  {"n": 366, "code": "glossary", "detail": "Warriors -> 워리어 not found"},
+ {"n": 366, "code": "glossary", "detail": "Soldiers -> 솔져 not found"},
  {"n": 370, "code": "glossary", "detail": "Port -> 좌현 not found"},
  {"n": 373, "code": "glossary", "detail": "followers -> 추종자 not found"},
  {"n": 381, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
  {"n": 382, "code": "glossary", "detail": "Imperial World -> 임페리얼 월드 not found"},
  {"n": 396, "code": "glossary", "detail": "ability -> 능력 not found"},
  {"n": 396, "code": "glossary", "detail": "Skill -> 기량 not found"},
- {"n": 398, "code": "glossary", "detail": "Carouse -> 주량 not found"},
  {"n": 408, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 408, "code": "length", "detail": "ratio 0.20 (ko 3 / en 15 chars, allowed 0.25-1.60)"},
  {"n": 414, "code": "glossary", "detail": "Skill -> 기량 not found"},
@@ -62,7 +61,6 @@
  {"n": 469, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 470, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 471, "code": "glossary", "detail": "Skill -> 기량 not found"},
- {"n": 472, "code": "glossary", "detail": "Carouse -> 주량 not found"},
  {"n": 472, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 472, "code": "glossary", "detail": "bonus -> 보너스 not found"},
  {"n": 473, "code": "glossary", "detail": "Skill -> 기량 not found"},
@@ -103,6 +101,5 @@
  {"n": 630, "code": "glossary", "detail": "blocked -> 차단 not found"},
  {"n": 664, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 666, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 688, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 690, "code": "glossary", "detail": "Carouse -> 주량 not found"}
+ {"n": 688, "code": "glossary", "detail": "PER -> 지각 not found"}
 ]}
