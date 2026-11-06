@@ -215,7 +215,7 @@ To Me!	내게로!	ability|translated|high
 attack per turn	턴당 공격 횟수	system|translated|high
 single shots	단발 사격	system|translated|high
 internal fires	함내 화재	system|translated|high
-Backline	후방	ability|translated|high
+Backline	후열	ability|translated|high
 Duelling Tactics	결투 전술	ability|translated|high
 Rapid Fire	속사	ability|translated|high
 Syphon Life	생명력 흡수	ability|translated|high
@@ -438,7 +438,7 @@ skill test	기술 판정	system|translated|high
 warp engine	워프 엔진	item|community|high
 anomalous zone	이상 지대	system|translated|high
 melee combat	근접 전투	system|translated|high
-Grand Strategists	그랜드 스트래티지스트	ability|namu:Warhammer 40,000: Rogue Trader|high
+Grand Strategists	대전략가	ability|namu:Warhammer 40,000: Rogue Trader|high
 Tarot	타로	item|community|high
 asteroid field	소행성 지대	system|translated|high
 proximity fuse	근접 신관	item|translated|high

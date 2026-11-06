@@ -5,8 +5,8 @@
  {"n": 13, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 17, "code": "glossary", "detail": "fire -> 사격/불/화염/사격/불/화염 not found"},
  {"n": 24, "code": "glossary", "detail": "Master -> 주인/마스터/주인/마스터 not found"},
- {"n": 24, "code": "glossary", "detail": "Focus -> 집중 not found"},
  {"n": 24, "code": "glossary", "detail": "Range -> 사거리 not found"},
+ {"n": 24, "code": "glossary", "detail": "Focus -> 집중 not found"},
  {"n": 24, "code": "glossary", "detail": "fire -> 사격/불/화염/사격/불/화염 not found"},
  {"n": 28, "code": "glossary", "detail": "Weapons -> 무기 not found"},
  {"n": 36, "code": "glossary", "detail": "Weapons -> 무기 not found"},
@@ -42,11 +42,7 @@
  {"n": 315, "code": "length", "detail": "ratio 0.23 (ko 5 / en 22 chars, allowed 0.25-1.60)"},
  {"n": 318, "code": "glossary", "detail": "hit -> 명중 not found"},
  {"n": 318, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 338, "code": "glossary", "detail": "Ferrum Sanctum -> 페룸 상툼 not found"},
- {"n": 341, "code": "glossary", "detail": "Ferrum Sanctum -> 페룸 상툼 not found"},
- {"n": 345, "code": "glossary", "detail": "Ferrum Sanctum -> 페룸 상툼 not found"},
  {"n": 345, "code": "glossary", "detail": "PER -> 지각 not found"},
- {"n": 354, "code": "glossary", "detail": "Ferrum Sanctum -> 페룸 상툼 not found"},
  {"n": 358, "code": "glossary", "detail": "Skill -> 기량 not found"},
  {"n": 366, "code": "glossary", "detail": "Maximum stacks -> <u>최대 중첩</u> not found"}
 ]}

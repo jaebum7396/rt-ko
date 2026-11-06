@@ -151,11 +151,11 @@
 151	참호선 책략
 152	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}는 자신과 아군의 전장 배치에 능숙하며, 전장의 주요 지점을 지정하고 강화하여 파티의 전투 효율을 높입니다.\n핵심 분야: 전장 통제, 아군 강화, 고유한 지원 기능, 적 약화.
 153	대전략가
-154	대전략가가 전장에 5×2칸 크기의 후방 구역을 지정합니다. 후방 구역의 모든 아군은 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}과 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|CoverDodgeBonus|bc99e6ba256f45368bc6bc529e59effd}%, {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 +{uip|DodgePenetrationBonus|bc99e6ba256f45368bc6bc529e59effd}% 증가합니다.\n이 {g|Encyclopedia:Ability}능력{/g}을 다시 사용하면 후방을 이동할 수 있습니다.
-155	후방
+154	대전략가가 전장에 5×2칸 크기의 후열 구역을 지정합니다. 후열 구역의 모든 아군은 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐 효율{/g}과 {g|Encyclopedia:DodgeGlossary}회피{/g}가 +{uip|CoverDodgeBonus|bc99e6ba256f45368bc6bc529e59effd}%, {g|Encyclopedia:DodgeReduction}회피 감소{/g}가 +{uip|DodgePenetrationBonus|bc99e6ba256f45368bc6bc529e59effd}% 증가합니다.\n이 {g|Encyclopedia:Ability}능력{/g}을 다시 사용하면 후열을 이동할 수 있습니다.
+155	후열
 156	<u>(5 + 2 × {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스)</u>
 157	<u>(10 + 2 × {g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스)</u>
-158	대전략가는 전장을 분석하여 자신을 포함한 모든 아군에게 {g|Encyclopedia:Bonus}보너스{/g}를 부여하는 {g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g}, {g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역을 생성할 수 있습니다. 전투 첫 라운드에는 한 턴에 세 구역을 모두 생성할 수 있습니다. 이후 라운드에는 턴당 하나만 생성할 수 있습니다. 각 구역은 해당 {g|Encyclopedia:Ability}능력{/g}으로 이동할 수 있으며(턴당 하나), 서로 겹칠 수 없습니다.\n파티에 그랜드 스트래티지스트가 둘 이상이면 모든 그랜드 스트래티지스트가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역을 공유하며, 그중 가장 높은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스와 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스를 사용합니다. 전장에는 {g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g}, {g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g}을 각각 하나씩만 생성할 수 있습니다.\n사용한 능력과 관계없이 대전략가는 전투에서 항상 가장 먼저 행동합니다.
+158	대전략가는 전장을 분석하여 자신을 포함한 모든 아군에게 {g|Encyclopedia:Bonus}보너스{/g}를 부여하는 {g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}후열{/g}, {g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역을 생성할 수 있습니다. 전투 첫 라운드에는 한 턴에 세 구역을 모두 생성할 수 있습니다. 이후 라운드에는 턴당 하나만 생성할 수 있습니다. 각 구역은 해당 {g|Encyclopedia:Ability}능력{/g}으로 이동할 수 있으며(턴당 하나), 서로 겹칠 수 없습니다.\n파티에 대전략가가 둘 이상이면 모든 대전략가가 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역을 공유하며, 그중 가장 높은 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스와 {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스를 사용합니다. 전장에는 {g|f:7cdf3a1dd3b5477096e008492e738587}전방{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}후열{/g}, {g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g}을 각각 하나씩만 생성할 수 있습니다.\n사용한 능력과 관계없이 대전략가는 전투에서 항상 가장 먼저 행동합니다.
 159	전투 전술
 160	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}가 전장에 4×4칸 크기의 전방 구역을 지정합니다. 전방 내 모든 아군은 {g|Encyclopedia:WarhammerArmourGlossary}방어도{/g}에 +{uip|ArmourBonus|7cdf3a1dd3b5477096e008492e738587}% {g|Encyclopedia:Bonus}보너스{/g}를 얻고, 모든 적은 모든 피해를 +{uip|DamageBonus|7cdf3a1dd3b5477096e008492e738587}% 더 받습니다.\n이 {g|Encyclopedia:Ability}능력{/g}을 다시 사용하면 전방을 이동할 수 있습니다.
 161	전방
@@ -175,7 +175,7 @@
 175	개인 전투 구역
 176	한 {g|Encyclopedia:Turn}턴{/g}에 처음 사용한 {g|Encyclopedia:Stratagem}책략{/g}을 {g|Encyclopedia:ActionPoints}행동력{/g} 0으로 한 번 더 사용할 수 있습니다.
 177	개전 전략
-178	{g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 구역 내 아군이 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 방어하고 있는 적을 공격할 때 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceBonus|e76b4151d3554a369e3801ba27a6a9b6}% 증가합니다.
+178	{g|f:bc99e6ba256f45368bc6bc529e59effd}후열{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 구역 내 아군이 {g|Encyclopedia:DetailsOfTheCoverGlossary}엄폐{/g}로 방어하고 있는 적을 공격할 때 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|CritChanceBonus|e76b4151d3554a369e3801ba27a6a9b6}% 증가합니다.
 179	치명타 구역
 180	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
 181	{g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역에 {g|Encyclopedia:Stratagem}책략{/g}을 사용하면 구역 내 아군은 1{g|Encyclopedia:Round}라운드{/g} 동안 적에게 가장 낮은 순위의 {g|Encyclopedia:PriorityTarget}우선 표적{/g}이 됩니다.
@@ -202,7 +202,7 @@
 202	{g|f:b1e24d15bb6841d89b9873829f7b3ba5}후방{/g} 구역 내 각 아군은 자신을 중심으로 반경 5칸 이내에 적이 없으면 {g|Encyclopedia:CritChancesAndCritDamageGlossary}치명타 확률{/g}이 +{uip|BonusCritChance|ec81fa9d154544bcb9f5bc3c1a8feb91}% 증가합니다.
 203	저격 구역
 204	<u>(3 + ({g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}의 {g|Encyclopedia:WarhammerIntelligence}지능{/g} 보너스 + {g|Encyclopedia:WarhammerFellowship}친화력{/g} 보너스) / 2)</u>
-205	{g|f:bc99e6ba256f45368bc6bc529e59effd}후방{/g} 구역에 적이 없으면 구역 내 각 아군이 해당 {g|Encyclopedia:Turn}턴{/g}에 처음 가하는 공격의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 −1 감소합니다.
+205	{g|f:bc99e6ba256f45368bc6bc529e59effd}후열{/g} 구역에 적이 없으면 구역 내 각 아군이 해당 {g|Encyclopedia:Turn}턴{/g}에 처음 가하는 공격의 {g|Encyclopedia:ActionPoints}행동력{/g} 소모량이 −1 감소합니다.
 206	자유 사격
 207	{g|Encyclopedia:CareerStrategistGlossary}대전략가{/g}를 포함하여 대전략가와 같은 {g|f:e4e45f74936c4740b7bc03013f6991ba}전투 전술{/g} 구역에 있는 아군은 {g|Encyclopedia:WarhammerPerception}지각{/g}과 {g|Encyclopedia:WarhammerAgility}민첩{/g}이 +{uip|StatBonus|0baaa1db7cf44a52ac7cf9beee62f230} 증가합니다.
 208	개인 구역
